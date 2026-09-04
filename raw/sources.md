@@ -10,5 +10,4 @@ When adding a source, append one row to the table below and record the result of
 
 | Source ID | Path | Type | Date | Attribution | Hash | Ingested | Wiki Status |
 |---|---|---|---|---|---|---|---|
-
-No sources registered.
+| `SRC-2026-09-04-longing-concept-brainstorm` | [raw/conversations/2026-09-04-longing-concept-brainstorm.md](conversations/2026-09-04-longing-concept-brainstorm.md) | conversation | 2026-09-04 | jointly-developed | `d387cd37602638d884491cbea9291b3ef63ee7f2` | 2026-09-04 | promoted |

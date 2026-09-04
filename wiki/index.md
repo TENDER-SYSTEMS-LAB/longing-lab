@@ -25,20 +25,26 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Core
 
-- [[overview]] — Definition, identity, and central question of the project; not yet established · `unknown` (2026-09-04)
-- [[current-state]] — Snapshot of what is confirmed, in progress, and unknown; currently empty · `unknown` (2026-09-04)
+- [[overview]] — LONGING as a fictional research house tracking the conditions of human experience modernization is removing · `working` (2026-09-04)
+- [[current-state]] — Snapshot of what is confirmed, working, and unknown after the first concept conversation · `working` (2026-09-04)
 
 ## Concepts
 
-No pages yet.
+- [[index-architecture]] — LNGI and six condition-based sub-indices, contrast indicators, and how securities are listed across them · `working` (2026-09-04)
+- [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-04)
+- [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
+- [[prior-art]] — Comparable works from Benayoun onward and the two rules that keep LONGING distinct · `working` (2026-09-04)
 
 ## Decisions
 
-No pages yet.
+- [[DEC-001-project-name-longing]] — The work is titled LONGING with no suffix; rejected name candidates and the outstanding collision check · `confirmed` (2026-09-04)
+- [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-04)
 
 ## Open Questions
 
-No pages yet.
+- [[Q-001-price-formation]] — Where every price and index value comes from: mechanism, data basis, unit · `unknown` (2026-09-04)
+- [[Q-002-listing-lifecycle]] — Who lists a romance, whether scarcity raises or lowers price, and what delisting and relisting mean · `unknown` (2026-09-04)
+- [[Q-003-calibrating-the-bias]] — How far the tilt toward the human can go before the work stops asking and starts arguing · `working` (2026-09-04)
 
 ## Activity
 
@@ -54,5 +60,6 @@ No pages yet.
 
 ## Page Creation Gates
 
-- Do not create concept, decision, or question pages until real source material exists to support them.
+- Create a concept, decision, or question page only when registered source material supports it.
 - Do not duplicate a per-source raw catalog here. Use the [Raw Source Index](../raw/sources.md) as the single registry.
+- Every page currently in this catalog rests on a single source. Watch for that dependency when new material arrives.
