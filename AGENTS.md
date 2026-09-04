@@ -81,6 +81,96 @@ When ingesting a new conversation or document, follow this sequence:
 
 Create a page only when a meaningful unit has emerged that cannot be captured by one line in `current-state.md` and is likely to develop independently over time.
 
+## Git Identity and Push Policy
+
+All Git commits created for this repository must use the institutional TENDER SYSTEMS identity rather than the personal identity of the operator.
+
+### Commit identity
+
+Before creating any commit, verify the repository-local Git identity.
+
+Required identity:
+
+- `user.name`: `TENDER SYSTEMS`
+- `user.email`: the verified email address assigned to the dedicated TENDER SYSTEMS GitHub identity
+
+Use repository-local configuration:
+
+```bash
+git config --local user.name "TENDER SYSTEMS"
+git config --local user.email "<VERIFIED_TENDER_SYSTEMS_EMAIL>"
+```
+
+Do not modify the operator's global Git identity unless explicitly requested. Never fall back to the operator's personal name or personal email address.
+
+If the TENDER SYSTEMS email address cannot be verified from the existing environment or GitHub configuration, do not invent one and do not use a personal email address. In particular, do not guess a Gmail address, a `tendersystems` domain address, or a `noreply` address. Stop before committing and report that the institutional email must be configured.
+
+Before every commit, verify:
+
+```bash
+git var GIT_AUTHOR_IDENT
+git var GIT_COMMITTER_IDENT
+```
+
+Both identities must resolve to the TENDER SYSTEMS institutional identity.
+
+After creating a commit, verify with:
+
+```bash
+git log -1 --format=fuller
+```
+
+The author and committer must not contain the operator's personal identity.
+
+### Push authentication
+
+Commit identity and GitHub push authentication are separate concerns. Setting `git config user.name` or `user.email` does not determine which GitHub account performs the push.
+
+Before pushing, identify which GitHub account or automation identity will authenticate the operation. A dedicated institutional identity remains preferred. Acceptable institutional mechanisms include:
+
+- a dedicated TENDER SYSTEMS GitHub user or machine account with its own SSH key;
+- a dedicated TENDER SYSTEMS GitHub credential or token;
+- a GitHub App or another explicitly configured institutional automation identity.
+
+Do not assume that membership in the `TENDER-SYSTEMS-LAB` GitHub Organization makes the Organization itself a Git authentication identity.
+
+The public commit history derives author and committer attribution from the commit object, not from the account that authenticated a later push. When the user explicitly authorizes personal push authentication on that basis, the agent may use it only after confirming that the public commit record contains the institutional author and committer identity. Do not describe personal authentication as institutional authentication, and do not promise that the push actor is anonymous: GitHub organization audit logs or other non-commit activity surfaces may retain the authenticating account.
+
+If a dedicated TENDER SYSTEMS push identity is required for the task, do not fall back to the operator's personal credentials.
+
+Where SSH is used, prefer a dedicated SSH host alias and key configuration that isolates TENDER SYSTEMS authentication from the operator's personal GitHub identity. Where HTTPS is used, keep TENDER SYSTEMS credentials isolated from personal GitHub credentials.
+
+Never expose, print, commit, or document secrets such as:
+
+- personal access tokens;
+- OAuth tokens;
+- private SSH keys;
+- credential-helper secrets.
+
+### Pre-commit and pre-push safety rule
+
+Before any `git commit`, the agent must verify:
+
+1. The repository is a TENDER SYSTEMS repository.
+2. `user.name` resolves to `TENDER SYSTEMS`.
+3. `user.email` resolves to the verified TENDER SYSTEMS email.
+4. The author and committer identities do not contain the operator's personal identity.
+
+Before any `git push`, the agent must additionally verify the actual authentication identity. Use a dedicated TENDER SYSTEMS identity unless the user has explicitly authorized personal push authentication after being informed that the actor may remain available in audit logs or other non-commit activity surfaces. In either case, verify that the commits being pushed retain the institutional author and committer identity.
+
+If the applicable conditions cannot be verified, do not commit or push. Report the unresolved configuration instead.
+
+### Existing history
+
+Do not rewrite existing Git history merely because older commits contain a personal identity. Unless explicitly instructed otherwise, do not use:
+
+- `git filter-repo`;
+- history-rewriting rebase operations;
+- force push;
+- author rewriting of existing commits.
+
+This policy applies to new commits from this point forward.
+
 ## Verification
 
 At the beginning and end of a task, verify that source originals have not changed since registration:

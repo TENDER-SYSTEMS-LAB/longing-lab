@@ -47,7 +47,7 @@ No pages yet.
 ## Repository Control
 
 - [README](../README.md) — Entry point describing the project and the repository (2026-09-04)
-- [AGENTS](../AGENTS.md) — Reading, language, ingestion, and verification rules for agents (2026-09-04)
+- [AGENTS](../AGENTS.md) — Reading, language, ingestion, verification, and institutional Git identity rules for agents (2026-09-04)
 - [Schema](../schema.md) — Page taxonomy, status, attribution, provenance, language, and maintenance rules (2026-09-04)
 - [Raw README](../raw/README.md) — How to add and preserve original source material (2026-09-04)
 - [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-04)
