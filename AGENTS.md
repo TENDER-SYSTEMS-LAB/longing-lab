@@ -136,6 +136,8 @@ Do not assume that membership in the `TENDER-SYSTEMS-LAB` GitHub Organization ma
 
 The public commit history derives author and committer attribution from the commit object, not from the account that authenticated a later push. When the user explicitly authorizes personal push authentication on that basis, the agent may use it only after confirming that the public commit record contains the institutional author and committer identity. Do not describe personal authentication as institutional authentication, and do not promise that the push actor is anonymous: GitHub organization audit logs or other non-commit activity surfaces may retain the authenticating account.
 
+Standing user authorization (2026-09-05): The user permits the operator's personal GitHub account to authenticate pushes for this repository and accepts that the authenticating account may remain visible in GitHub audit logs or other non-commit activity surfaces. Do not request this permission again unless the user revokes it or the task explicitly requires a dedicated institutional push identity. This authorization does not change the commit identity requirement: every new commit must retain TENDER SYSTEMS as both author and committer, using the verified institutional email. Verify the actual authentication account and the identities of all outgoing commits before each push.
+
 If a dedicated TENDER SYSTEMS push identity is required for the task, do not fall back to the operator's personal credentials.
 
 Where SSH is used, prefer a dedicated SSH host alias and key configuration that isolates TENDER SYSTEMS authentication from the operator's personal GitHub identity. Where HTTPS is used, keep TENDER SYSTEMS credentials isolated from personal GitHub credentials.
