@@ -20,6 +20,7 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
+  - SRC-2026-09-06-attribution-resolution-and-universe-scaling
 ---
 
 # Q-001 — How is a price determined?
@@ -64,6 +65,8 @@ Also settled here by the user, and recorded as decisions rather than answers to 
 
 **Second round (2026-09-05).** Sub-question 1, Mechanism, is the one that moves again. It stood "answered in architecture, open in specification," where the open part was which of seven reduced V1 specifications to build. The second round changes the shape of that opening rather than closing it. A working framework rejected minimal factor count as the design goal and proposed instead that complexity may return through a hierarchy: observable indicators feed latent structural factors, factors act through security-specific exposures, and price separates structural change from practice fundamentals, narrative, positioning, and event surprise. Six hash-verified reviews — Claude, DeepSeek, Gemini, GLM, Grok, and Qwen — support that reframing, with Qwen dissenting toward reduction: it collapses the candidate pool to five core factors on parsimony grounds rather than adopting classification as the remedy. See [[factor-architecture-review-consensus]]. The specification question is therefore no longer "which reduced V1"; it is which factors are priced and which stay research indicators, how many constituents the exposure matrix needs before a given factor count is identifiable at all, and which exact-attribution method carries interactions and correlations. This is `llm-proposed` and `llm-synthesis` throughout — the framework is a working proposal and the reviews are review material, not a decision.
 
+**Third-round era (2026-09-06).** While the third review round was being collected, a separate working session addressed the specification question from the display side rather than the model side: what the weekly attribution ledger actually prints, and how many lines it should carry. The user settled one part of that question as a rule — start near nine displayed factors, and let the number of ledger lines grow as the security universe grows, so factor count is a function of universe size rather than a constant. See [[DEC-005-ledger-resolution-scales-with-universe]] and [[attribution-ledger]]. This narrows "which specification to build" without closing it: display *resolution* now has a settled growth rule, but factor *membership* — which candidates fill the starting nine, and which is promoted next as the universe grows — remains open, and the promotion criterion offered to decide that (a per-factor separability test, replacing the earlier one-factor-per-three-securities ratio) is `llm-proposed`, not confirmed. The same session also recorded the user's position that unattributable events should not occur and that factors should be abstract but numerous with the security count growing to match, and an intent to deliberately provoke `Unexplained` during design in order to find factors worth promoting — stated directions rather than specified mechanisms, recorded as `user-originated` and `working`.
+
 ## What is still unanswered
 
 - Which V1 specification to adopt — the factor set, whether Fundamental Value is displayed or latent, and whether the consensus mechanism is a dual anchor or a crowding-limited reversion. The second round reframes rather than settles this: see [[factor-architecture-review-consensus]].
@@ -81,9 +84,11 @@ Also settled here by the user, and recorded as decisions rather than answers to 
 - [[analyst-system]]
 - [[DEC-003-weekly-market-monthly-research]]
 - [[DEC-004-secular-decline-with-rallies]]
+- [[DEC-005-ledger-resolution-scales-with-universe]]
 - [[Q-002-listing-lifecycle]]
 - [[Q-004-unit-of-account]]
 - [[factor-architecture-review-consensus]]
+- [[attribution-ledger]]
 
 ## Sources
 
@@ -104,3 +109,4 @@ Also settled here by the user, and recorded as decisions rather than answers to 
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
+- [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md

@@ -18,6 +18,7 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
+  - SRC-2026-09-06-attribution-resolution-and-universe-scaling
 ---
 
 # Pricing Model
@@ -158,6 +159,8 @@ LTR   W/W  +31.3%
 
 If the terms sum exactly, double counting becomes structurally impossible and the interface gains its strongest institutional artifact. If there are eight loosely-defined additive terms and seven collinear factors, there will be weeks where the true explanation is "several correlated things partially cancelled," the attribution panel starts lying, and the work loses the one thing it was buying with all this machinery.
 
+The ledger itself — what it displays, its layers, and what an unrouted event means — is now developed on its own page, [[attribution-ledger]]. The display-resolution question raised here (how many lines to print) has been decided as a rule: start near nine displayed factors and let the count grow with the security universe. See [[DEC-005-ledger-resolution-scales-with-universe]]. What the rule does not settle is which factors those nine are, or which specific candidate gets promoted next — set membership stays exactly as open as the rest of this page describes.
+
 ## Randomness
 
 The conversation's position was to add no noise at all: every price move should have a traceable cause. The reviews consider full determinism a mistake, but agree with the instinct behind it. The recommended placement is **randomness in the world, not in the price** — stochastic innovations on the macro factors, stochastic timing and magnitude of events, stochastic surprise in the quarterly print. Given the realized world state, pricing stays deterministic and fully attributable. Where noise is added at the price level (GLM, Kimi, Qwen), it is liquidity-scaled and seeded, so any week can be replayed exactly: `seed = hash(seed_file ∥ security_id ∥ ISO_week ∥ model_version)`.
@@ -203,11 +206,13 @@ Not settled: the factor set and its names, which candidates are priced versus di
 
 - [[model-review-consensus]]
 - [[factor-architecture-review-consensus]]
+- [[attribution-ledger]]
 - [[data-sources]]
 - [[index-architecture]]
 - [[analyst-system]]
 - [[DEC-003-weekly-market-monthly-research]]
 - [[DEC-004-secular-decline-with-rallies]]
+- [[DEC-005-ledger-resolution-scales-with-universe]]
 - [[Q-001-price-formation]]
 - [[Q-004-unit-of-account]]
 
@@ -228,3 +233,4 @@ Not settled: the factor set and its names, which candidates are priced versus di
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
+- [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md

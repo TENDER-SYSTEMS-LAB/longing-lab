@@ -20,13 +20,14 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
+  - SRC-2026-09-06-attribution-resolution-and-universe-scaling
 ---
 
 # Current State
 
-Seventeen sources are registered. The first nine established the concept, built the initial market model, and subjected that model to seven independent reviews. Eight newer files comprise a working factor-framework conversation, its registered review prompt, and six second-round model responses. All six responses are verified and promoted into the Wiki. Qwen's response required a re-capture on 2026-09-06: its first registration was a defective capture that ended mid-expression partway through the response, and the user replaced it with the complete response — a capture correction rather than a change to the evidence, recorded in `raw/sources.md` and in `wiki/log.md`.
+Eighteen sources are registered (excluding the two third-round prompt versions and the ChatGPT third-round response, which remain `raw-only`). The first nine established the concept, built the initial market model, and subjected that model to seven independent reviews. Eight further files comprise a working factor-framework conversation, its registered review prompt, and six second-round model responses; all six are verified and promoted into the Wiki. One further 2026-09-06 conversation record works on the published weekly attribution ledger itself rather than on model output, and settles how many lines it carries as the universe grows. Qwen's second-round response required a re-capture on 2026-09-06: its first registration was a defective capture that ended mid-expression partway through the response, and the user replaced it with the complete response — a capture correction rather than a change to the evidence, recorded in `raw/sources.md` and in `wiki/log.md`.
 
-The project has moved from *how does the market inside it run* to *how can its factor architecture become rich without becoming causally redundant or theatrically precise*.
+The project has moved from *how does the market inside it run* to *how can its factor architecture become rich without becoming causally redundant or theatrically precise*, and now also has a settled rule for how the audience-facing ledger's resolution grows alongside that architecture.
 
 ## Confirmed
 
@@ -38,6 +39,7 @@ The project has moved from *how does the market inside it run* to *how can its f
 - **An event detector is required.** If prices move weekly and research lands monthly, something has to supply information in between. Stated by the user as a requirement.
 - **LONGING is a secular bear market with inverted rallies.** The user's own position — romance is genuinely disappearing — so the market trends down, and where a real market has crashes this one has melt-ups. See [[DEC-004-secular-decline-with-rallies]].
 - **The decline must not be hard-coded.** It has to fall out of structural forces the model publishes, so the work says *"calculated against the world's current direction, it keeps falling"* rather than *"romance must die."*
+- **Ledger resolution scales with the security universe.** The weekly attribution ledger starts near nine displayed factors, and the number of displayed lines grows as the security universe grows — a rule governing how the factor count behaves, not a selection of which factors those are. See [[DEC-005-ledger-resolution-scales-with-universe]].
 
 ## Working
 
@@ -50,10 +52,13 @@ The project has moved from *how does the market inside it run* to *how can its f
 - **Series grammar** shared with OTHER GOODS: *Unownable → Goods* there, *Unquantifiable → Price* here. See [[system-grammar]].
 - **A quiet bias toward the human, expressed structurally.** Now with checkable tests attached: publish the drift parameter, keep structural winners in the universe, publish a neutral-drift companion index, and ensure the model can disagree with its author. See [[Q-003-calibrating-the-bias]].
 - **Securities are behaviors and situations, never abstract emotions** — the deliberate break from *Emotional Stock Exchange*. See [[prior-art]].
+- **The attribution ledger as its own object.** The audience-facing weekly decomposition — factor lines, security fundamentals, positioning, and what an unrouted event means — is now developed independently of the factor architecture that feeds it. See [[attribution-ledger]].
+- **Factors abstract but numerous, with the universe grown to match.** The user's stated position is that events the factor vocabulary cannot carry should not occur at all, and that the way to achieve this is abstract factors in larger number, with the security count raised to support them. This bears directly on the deferred universe-expansion question and on [[Q-002-listing-lifecycle]], since it makes which practices get listed a precondition for which factors can exist rather than a consequence of them. Recorded as `user-originated` and `working`: a stated direction, not a specified mechanism, and the assistant's qualifications to it — that raising the count need not raise the diversity of exposure the model needs — are `llm-proposed`. See [[attribution-ledger]].
+- **Deliberately provoking `Unexplained` during design.** The user's stated intent is to find as many unattributable events as possible while the work is still being designed, in order to discover which of them are factors worth promoting — a design-stage instrument, not (yet) a display decision. Recorded as `user-originated` and `working`, since the mechanism for doing this is still `llm-proposed`. See [[attribution-ledger]].
 
 ## Unknown
 
-- **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. See [[model-review-consensus]] and [[factor-architecture-review-consensus]].
+- **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. Ledger *resolution* is no longer open in this list — it is settled as a rule, factor count as a function of universe size, see [[DEC-005-ledger-resolution-scales-with-universe]] — but ledger *membership*, which specific factors fill the starting nine and which candidate is promoted next, remains exactly as open as the rest of this bullet. See [[model-review-consensus]] and [[factor-architecture-review-consensus]].
 - **What one unit of a security is.** Blocks index weighting, the market-capitalization analogue, float, and short interest. The sharpest disagreement in the review set: refuse the unit and weight equally, or define practice units and accept the fiction. See [[Q-004-unit-of-account]].
 - **Whether there is a periodic observable.** Nothing in the current design can surprise anyone, and two reviews call this the largest remaining gap: without something scheduled to be wrong about, monthly analyst opinion is commentary rather than information.
 - **Whether the work ships on real data at all.** Both paths remain open, and the architecture was built so either works. See [[data-sources]].
@@ -104,3 +109,4 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
+- [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md

@@ -34,6 +34,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[pricing-model]] — How a price is produced, including the evolution from a reduced macro layer toward hierarchical, identified complexity · `working` (2026-09-06)
 - [[model-review-consensus]] — What the first seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
 - [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, and where Qwen dissents toward reduction · `working` (2026-09-06)
+- [[attribution-ledger]] — The weekly published decomposition itself: the worked ledger, its three layers, and what an unrouted event means · `working` (2026-09-06)
 - [[data-sources]] — Behavior, attention, and discourse kept apart; candidate real-world sources and the honesty rules that govern them · `working` (2026-09-05)
 - [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-05)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
@@ -45,6 +46,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-04)
 - [[DEC-003-weekly-market-monthly-research]] — Prices strike weekly, formal research publishes monthly and sets the anchor; real-time pricing rejected · `confirmed` (2026-09-05)
 - [[DEC-004-secular-decline-with-rallies]] — The market trends down and rallies where a real market crashes; the decline must emerge, never be hard-coded · `confirmed` (2026-09-05)
+- [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection · `confirmed` (2026-09-06)
 
 ## Open Questions
 

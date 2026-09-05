@@ -30,6 +30,7 @@ When adding a source, append one row to the table below and record the result of
 | `SRC-2026-09-06-factor-set-failure-profile-prompt-v1` | [raw/documents/2026-09-06-factor-set-failure-profile-prompt-v1.md](documents/2026-09-06-factor-set-failure-profile-prompt-v1.md) | document | 2026-09-06 | jointly-developed | `0adf9d64511716c3095d588673f3fedc4ce06e52` | — | raw-only |
 | `SRC-2026-09-06-factor-set-failure-profile-prompt-v2` | [raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md](documents/2026-09-06-factor-set-failure-profile-prompt-v2.md) | document | 2026-09-06 | jointly-developed | `b9a7304cac60d123eaa79df6244e0068216aacbe` | — | raw-only |
 | `SRC-2026-09-06-factor-set-failure-profile-chatgpt` | [raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md](surveys/2026-09-06-factor-set-failure-profile-chatgpt.md) | survey | 2026-09-06 | llm-proposed | `3eb4ac736a4528499eaf7fbfed705436d864177c` | — | raw-only |
+| `SRC-2026-09-06-attribution-resolution-and-universe-scaling` | [raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md](conversations/2026-09-06-attribution-resolution-and-universe-scaling.md) | conversation | 2026-09-06 | jointly-developed | `f369932d9135eeb1a15d22e256bc34748fd9cc28` | 2026-09-06 | promoted |
 
 ## Note on the survey sources
 
@@ -46,3 +47,7 @@ The third round asks a different question from the first two. It does not ask fo
 The prompt exists in two registered versions. Version 1 is what the ChatGPT response was produced against. Its SET B heading read `12 priced factors` while a note stated that two of those twelve run unpriced initially, and the ChatGPT response records its own resolution of that tension in its Refusals section. Version 2 clarifies the heading and states the execution rule explicitly. The remaining reviews of this round are being collected against version 2, so the round spans two prompt versions and the difference is registered rather than hidden.
 
 The ChatGPT original was captured from the response as pasted into the working conversation rather than from a direct export. If a direct export becomes available and differs, treat the current file as a defective capture under the rule in `raw/README.md` and correct it in place under the same source ID.
+
+## Note on the 2026-09-06 working-session record
+
+`SRC-2026-09-06-attribution-resolution-and-universe-scaling` is a compiled record of a working session, not a byte-exact conversation export. Repository mechanics from the same session were omitted; the substantive exchange was written up afterwards. The user's own statements are reproduced verbatim in Korean and marked as such, and the record closes with an explicit split between what the user decided and what the assistant proposed without confirmation. Treat the assistant's reasoning in it as paraphrase and the quoted Korean as primary.
