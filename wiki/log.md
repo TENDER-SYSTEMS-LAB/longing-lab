@@ -81,3 +81,17 @@ Which unanimity claims changed: Time Compression and Uncertainty Compression are
 Pages updated: [[factor-architecture-review-consensus]], [[pricing-model]], [[current-state]], [[index-architecture]], [[Q-001-price-formation]], and the index.
 
 Attribution unchanged: all six reviews remain `llm-proposed`, the framework remains a working proposal, and nothing was promoted to a user decision.
+
+## [2026-09-06] lint | Factor attribution errors corrected against the raw surveys
+
+The 2026-09-05 promotion entry recorded that two attribution errors had been found and corrected, crediting GLM with retaining Coordination Compression and Scarcity Revaluation and crediting Claude and Grok jointly with the 40–60 universe proposal. Those corrections were themselves wrong. Verification against the raw surveys shows Grok retains Coordination Formalization as F6 and Scarcity Revaluation as F8, GLM demotes both — Coordination to an indicator cluster inside its Encounter Erosion factor and Scarcity to a security-level Rarity Elasticity of Value — and the 40–60 expansion is proposed by Claude alone, with Grok saying nothing about universe size at all.
+
+Root cause, stated plainly: the earlier corrections rested on a model-generated extraction of the surveys that had transposed GLM and Grok throughout, and that extraction was accepted without checking the claims against the source files. The draft text it replaced had been correct.
+
+A further error found in the same pass, present in the original draft too: Coordination Compression is not deleted by Claude. Claude retains it as F4 but declares it unpriced until the security universe expands, because its support in the eleven-security set is essentially two constituents.
+
+What was done: every model-attributed claim on the affected pages was re-verified directly against the raw surveys and corrected. A `## Correction history` section was added to [[factor-architecture-review-consensus]] so the error is visible on the page itself rather than only in this log.
+
+The standing lesson, phrased as a rule for future work: when an extraction contradicts text already in the Wiki, the source file settles it, not the extraction. Do not overwrite existing content on the strength of a summary that has not been checked against the original.
+
+The earlier log entries stand unedited, as this log is append-only, and this entry supersedes them on these points.

@@ -65,7 +65,7 @@ The project has moved from *how does the market inside it run* to *how can its f
 
 ## Next steps proposed in the sources
 
-The 2026-09-05 conversation opened by proposing this order: price formation → listing lifecycle → complete `LETTER` as a single reference security → index methodology → the first home and security screens → expand the universe. Price formation has since been worked through in architecture. The first review round recommended removing before building; the second says complexity may be restored after causal identification, and two reviews argue that the security universe must expand before a large factor model can be identified.
+The 2026-09-05 conversation opened by proposing this order: price formation → listing lifecycle → complete `LETTER` as a single reference security → index methodology → the first home and security screens → expand the universe. Price formation has since been worked through in architecture. The first review round recommended removing before building; the second says complexity may be restored after causal identification, and one review (Claude) argues that the security universe must expand before a large factor model can be identified.
 
 Building one security completely — rather than sketching thirty — remains the standing proposal for what comes next. It is `llm-proposed`; the user has not confirmed an order.
 
