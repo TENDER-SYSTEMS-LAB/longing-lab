@@ -26,13 +26,14 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — LONGING as a fictional research house tracking the conditions of human experience modernization is removing · `working` (2026-09-04)
-- [[current-state]] — Snapshot of what is confirmed, working, and unknown after the market-model conversation and its seven reviews · `working` (2026-09-05)
+- [[current-state]] — Snapshot of confirmed, working, and unresolved project state after two pricing-model review rounds · `working` (2026-09-05)
 
 ## Concepts
 
 - [[index-architecture]] — LNGI and six condition-based sub-indices, the contrast indicators now promoted to macro variables, and how securities are listed across them · `working` (2026-09-05)
-- [[pricing-model]] — How a price is produced: value against price, weekly market on a monthly anchor, macro rate, consensus, positioning, events · `working` (2026-09-05)
-- [[model-review-consensus]] — What seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
+- [[pricing-model]] — How a price is produced, including the evolution from a reduced macro layer toward hierarchical, identified complexity · `working` (2026-09-05)
+- [[model-review-consensus]] — What the first seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
+- [[factor-architecture-review-consensus]] — What the verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable · `working` (2026-09-05)
 - [[data-sources]] — Behavior, attention, and discourse kept apart; candidate real-world sources and the honesty rules that govern them · `working` (2026-09-05)
 - [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-05)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
@@ -69,4 +70,4 @@ Before creating a page, check this catalog to see whether an existing page can b
 - Create a concept, decision, or question page only when registered source material supports it.
 - Do not duplicate a per-source raw catalog here. Use the [Raw Source Index](../raw/sources.md) as the single registry.
 - Several pages still rest on a single source. [[overview]], [[system-grammar]], [[prior-art]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] depend entirely on the 2026-09-04 concept conversation.
-- The seven `critic-of-model` surveys are `llm-proposed` throughout. Their agreement is evidence about the model, never a user decision — do not promote a converged recommendation to `confirmed` without the user.
+- The seven `critic-of-model` surveys are `llm-proposed` throughout. Their agreement is evidence about the model, never a user decision — do not promote a converged recommendation to `confirmed` without the user. The six second-round Pricing Model v2 factor reviews are `llm-proposed` on the same terms; five (Claude, DeepSeek, Gemini, GLM, Grok) are hash-verified and synthesized in [[factor-architecture-review-consensus]]. The sixth, Qwen, is excluded from the Wiki because its file hash no longer matches its registered hash in `raw/sources.md`.

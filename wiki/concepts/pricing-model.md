@@ -11,6 +11,12 @@ sources:
   - SRC-2026-09-05-grok-critic-of-model
   - SRC-2026-09-05-kimi-critic-of-model
   - SRC-2026-09-05-qwen-critic-of-model
+  - SRC-2026-09-05-pricing-model-v2-factor-framework
+  - SRC-2026-09-05-pricing-model-v2-factor-review-claude
+  - SRC-2026-09-05-pricing-model-v2-factor-review-deepseek
+  - SRC-2026-09-05-pricing-model-v2-factor-review-gemini
+  - SRC-2026-09-05-pricing-model-v2-factor-review-glm
+  - SRC-2026-09-05-pricing-model-v2-factor-review-grok
 ---
 
 # Pricing Model
@@ -176,15 +182,26 @@ The viewer is meant to ask who decided Scarcity was 83 — and the answer is tha
 
 The reviews mostly push past this list: they consider the seven security-level factors as redundant as the seven macro ones, and would collapse them to expected future practice and its decay rate. GLM goes further — the true condition should be **latent**, never displayed, with the house `F` demoted from ground truth to one contested estimate of it, because a market whose fair value is publicly known is not a market having an argument.
 
+## Evolution — from reduction to identified complexity
+
+**Previous state.** The first review round unanimously rejected the original seven near-collinear modernization factors and recommended a reduced first version with one to three macro factors. That remains the finding of [[model-review-consensus]].
+
+**Transition.** The subsequent Pricing Model v2 framework accepts the collinearity diagnosis and rejects factor count as the design objective. It proposes a large candidate pool and a hierarchy in which visible indicators feed latent factors, factors act through security-specific exposures, and price separates structural change from fundamentals, narrative, positioning, and surprise. A factor survives only when it buys a distinct causal story, cross-sectional loading pattern, event class, time behavior, and attribution line.
+
+Five hash-verified second-round reviews support that direction and add two constraints. First, the candidate pool still mixes structural pressures, valuation regimes, and security-level responses; those layers must be separated before selecting names. Second, the pool is too technology-centric and needs demand-side causes such as available time and attention, spatial and relational conditions, practice infrastructure, cohort transmission, patience, and status. See [[factor-architecture-review-consensus]].
+
+**Current state.** Complexity is allowed as a working direction, not yet adopted as a specification. Time Compression, Human Substitution, Uncertainty Compression, and some form of Physicality Displacement survive all five verified reviews. Mediation remains contested; Coordination is usually merged, demoted, or delayed; Scarcity is usually treated as a nonlinear security-level response rather than a macro factor. Exact attribution, pre-registered exposures, and falsification are requirements, but the mathematical method and initial factor count remain open.
+
 ## What is settled, what is not
 
 Settled by the user: the weekly/monthly cadence, the need for an event detector, the requirement that consensus be able to override fundamentals, and the secular-decline shape (see [[DEC-004-secular-decline-with-rallies]]).
 
-Not settled: the factor set and its names, whether `F` is observable or latent, whether the consensus mechanism is a dual anchor or a crowding-limited reversion, whether there is a quarterly print, what a unit of a security is ([[Q-004-unit-of-account]]), and which reviewer's V1 to build. The seven V1 specifications agree on architecture and differ on nearly every parameter — see [[model-review-consensus]] for what converged and what did not.
+Not settled: the factor set and its names, which candidates are priced versus displayed only as indicators, how large the security universe must be to support the model, whether `F` is observable or latent, whether the consensus mechanism is a dual anchor or a crowding-limited reversion, whether there is a quarterly print, what a unit of a security is ([[Q-004-unit-of-account]]), and which attribution method to build. See [[model-review-consensus]] and [[factor-architecture-review-consensus]] for the two successive review rounds.
 
 ## Related
 
 - [[model-review-consensus]]
+- [[factor-architecture-review-consensus]]
 - [[data-sources]]
 - [[index-architecture]]
 - [[analyst-system]]
@@ -203,3 +220,9 @@ Not settled: the factor set and its names, whether `F` is observable or latent, 
 - [[SRC-2026-09-05-grok-critic-of-model]] — raw/surveys/2026-09-05-grok-critic-of-model.md
 - [[SRC-2026-09-05-kimi-critic-of-model]] — raw/surveys/2026-09-05-kimi-critic-of-model.md
 - [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-claude]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-deepseek]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md

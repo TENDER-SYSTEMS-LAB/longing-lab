@@ -45,3 +45,25 @@ Attribution care: the entire review corpus is `llm-proposed`, and the surveys co
 Provenance limit: the shared review prompt `LONGING_market_pricing_model_review_prompt.md` is not registered in this repository. Every statement about what the reviews were asked reaches the Wiki only through the surveys themselves and is noted as a secondary citation in `raw/sources.md`, on [[model-review-consensus]], and here. The platform capabilities and public statistics described on [[data-sources]] are likewise secondary: they were cited from web search inside the source conversation and have not been independently verified.
 
 Single-source dependency: eased for the market layer, unchanged elsewhere. [[overview]], [[system-grammar]], [[prior-art]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] still rest entirely on the 2026-09-04 conversation.
+
+## [2026-09-05] ingest | Pricing Model v2 Factor Architecture Review survey originals
+
+Preserved six independent review responses under `raw/surveys/2026-09-05-pricing-model-v2-factor-review-<model>.md`: Claude, DeepSeek, Gemini, GLM, Grok, and Qwen. Claude's downloaded Markdown was copied byte-for-byte; the other five responses were saved verbatim from each site's response-copy control as UTF-8 Markdown. Registered all six with Git object hashes and `raw-only` status. No review proposal was promoted to a user decision or synthesized into the concept pages.
+
+Capture notes: Qwen's source ends mid-expression (`P_s(t) = P_s(t`); GLM's architecture diagram stops at the valuation-and-belief block but its response continues afterward. These source limitations were preserved without completion or correction. Existing registered source hashes were verified before and after capture.
+
+## [2026-09-05] ingest | Pricing Model v2 factor architecture promoted to the Wiki
+
+Promoted the factor-framework conversation, its registered review prompt, and five hash-verified second-round model reviews — Claude, DeepSeek, Gemini, GLM, and Grok — into the Wiki. Created [[factor-architecture-review-consensus]] to synthesize where the five verified reviews agree and split. Updated [[pricing-model]], [[model-review-consensus]], [[index-architecture]], [[current-state]], [[Q-001-price-formation]], and the index to reflect the new material.
+
+Source verification: all seventeen registered sources were rehashed with `git hash-object` at the start and end of the task and compared against `raw/sources.md`. Sixteen match. `SRC-2026-09-05-pricing-model-v2-factor-review-qwen` does not: registered `59291ecd3ffdb1d45bbcc2ccc3d2403230242f15`, current `07c1fb597b79ee4cdb4dc3fce9d65e201d6911c3`. The change is substantive, not a line-ending artifact — the registered capture ended truncated mid-expression, and the current file ends with a complete closing sentence, so the truncated original was replaced with a finished response after registration. The Qwen review is excluded from all Wiki synthesis. Resolution is left to the user: registering the current file as a separate revision source is the schema's own remedy for this situation, but the originally registered bytes no longer exist on disk, so this needs an explicit decision rather than an automatic fix.
+
+CORRECTION to the preceding entry of the same date: it recorded all six second-round surveys as registered with `raw-only` status. That is no longer accurate. Five were subsequently promoted into the Wiki, and the Qwen row in `raw/sources.md` now reads `REVIEW_REQUIRED — hash mismatch`. The earlier entry stands unedited, since this log is append-only; this entry supersedes it on that point.
+
+Attribution care: the framework is recorded explicitly as a working proposal and the reviews as `llm-proposed`. Nothing was promoted to `user-confirmed`. The final factor set remains open.
+
+Provenance note: unlike the first review round, the second round's review prompt is itself registered (`SRC-2026-09-05-pricing-model-v2-factor-review-prompt`), so the framing of what reviewers were asked is a primary citation here rather than a secondary one. The corollary is recorded on [[factor-architecture-review-consensus]]: because that prompt directed reviewers to hunt for missing causal dimensions and named several by example, the reviews' convergence on a missing demand side is partly prompt-induced rather than fully independent.
+
+Lint performed: wikilinks resolve, no orphan pages besides the index itself, frontmatter complete on all pages, and `git diff --check` clean. One structural repair: a blank line inside the `raw/sources.md` registry table was splitting it into two Markdown tables; removed so all seventeen rows render as one table.
+
+Two attribution errors were found during verification and corrected before promotion. The draft [[factor-architecture-review-consensus]] credited Grok with retaining Coordination Compression and Scarcity Revaluation as factors; GLM retains both and Grok demotes both. It also recorded the 40–60 constituent-expansion proposal as a single-review proposal from Claude, when Grok independently proposes the same target and treats it as equally blocking.

@@ -9,6 +9,12 @@ sources:
   - SRC-2026-09-05-glm-critic-of-model
   - SRC-2026-09-05-qwen-critic-of-model
   - SRC-2026-09-05-kimi-critic-of-model
+  - SRC-2026-09-05-pricing-model-v2-factor-framework
+  - SRC-2026-09-05-pricing-model-v2-factor-review-claude
+  - SRC-2026-09-05-pricing-model-v2-factor-review-deepseek
+  - SRC-2026-09-05-pricing-model-v2-factor-review-gemini
+  - SRC-2026-09-05-pricing-model-v2-factor-review-glm
+  - SRC-2026-09-05-pricing-model-v2-factor-review-grok
 ---
 
 # Index Architecture
@@ -96,7 +102,7 @@ Four of the six sub-indices — Latency, Serendipity, Human Friction, Unstructur
 
 **Transition.** The user asked for the market equivalent of interest rates and exchange rates — forces that move a security when nothing about the security has changed. The contrast indicators were promoted from display to mechanism: each becomes a system-wide variable, each security carries a signed exposure to it, and a week of rising Immediacy pushes `LETTER` down with no letter-specific news.
 
-**Current state.** The promotion is accepted in principle and the *set* is not. All seven reviews of the market model reject seven near-collinear factors and would collapse them to between one and three, with a discount-rate role at the centre. See [[pricing-model]] for the proposed sets and [[model-review-consensus]] for the split.
+**Current state.** The promotion is accepted in principle and the *set* is not. The first seven reviews rejected seven near-collinear factors and would collapse them to between one and three, with a discount-rate role at the centre. A subsequent working framework accepts the diagnosis but proposes restoring complexity through a hierarchy of observables, identified latent factors, security exposures, valuation regimes, and positioning. Five verified second-round reviews support that reframing while leaving factor membership open. See [[pricing-model]], [[model-review-consensus]], and [[factor-architecture-review-consensus]].
 
 This changes the indices too. Three families now exist rather than one: the **asset indices** on this page, the **system indicators** acting as macro variables, and **market indicators** describing the market's own state — consensus strength, dispersion, long/short breadth, discount to fundamental, realized volatility.
 
@@ -139,6 +145,7 @@ What is agreed across all reviews: build securities first and aggregate upward, 
 - [[DEC-002-research-house-form]]
 - [[pricing-model]]
 - [[model-review-consensus]]
+- [[factor-architecture-review-consensus]]
 - [[analyst-system]]
 - [[Q-004-unit-of-account]]
 
@@ -150,3 +157,9 @@ What is agreed across all reviews: build securities first and aggregate upward, 
 - [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
 - [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md
 - [[SRC-2026-09-05-kimi-critic-of-model]] — raw/surveys/2026-09-05-kimi-critic-of-model.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-claude]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-deepseek]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md

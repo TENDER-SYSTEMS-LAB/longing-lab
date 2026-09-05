@@ -12,13 +12,20 @@ sources:
   - SRC-2026-09-05-grok-critic-of-model
   - SRC-2026-09-05-kimi-critic-of-model
   - SRC-2026-09-05-qwen-critic-of-model
+  - SRC-2026-09-05-pricing-model-v2-factor-framework
+  - SRC-2026-09-05-pricing-model-v2-factor-review-prompt
+  - SRC-2026-09-05-pricing-model-v2-factor-review-claude
+  - SRC-2026-09-05-pricing-model-v2-factor-review-deepseek
+  - SRC-2026-09-05-pricing-model-v2-factor-review-gemini
+  - SRC-2026-09-05-pricing-model-v2-factor-review-glm
+  - SRC-2026-09-05-pricing-model-v2-factor-review-grok
 ---
 
 # Current State
 
-Nine sources are registered. Two are conversations — the 2026-09-04 concept brainstorm that established the work, and the 2026-09-05 session that built its market model. Seven are independent critical reviews of that model, produced by seven language models on 2026-09-05 in response to one shared prompt.
+Seventeen sources are registered. The first nine established the concept, built the initial market model, and subjected that model to seven independent reviews. Eight newer files comprise a working factor-framework conversation, its registered review prompt, and six second-round model responses. Five of those responses passed source verification and entered the Wiki; the Qwen response did not because its current file hash differs from its registered hash.
 
-The project has moved from *what is this work* to *how does the market inside it actually run*.
+The project has moved from *how does the market inside it run* to *how can its factor architecture become rich without becoming causally redundant or theatrically precise*.
 
 ## Confirmed
 
@@ -34,7 +41,8 @@ The project has moved from *what is this work* to *how does the market inside it
 ## Working
 
 - **The market architecture.** Fundamental Value and Market Price as two displayed numbers whose gap is the system's most informative output; monthly research setting an anchor; weekly events moving price around it; macro-like structural factors moving whole groups of securities with no security-specific news; consensus and positioning as separate variables, so a crowded bearish market can rally violently on a small positive shock. See [[pricing-model]].
-- **The seven-model review.** Where seven independent reviews converged, and where they split. Their unanimous verdict is that the path to a credible V1 is *reduction*: collapse the macro factors, delete the consensus composite, remove momentum, fund flow, leverage, forced selling, seasonality, and reflexivity from the first version. See [[model-review-consensus]].
+- **The first seven-model review.** Where seven independent reviews converged, and where they split. Their unanimous verdict was that the path to a credible V1 is *reduction*: collapse the original macro factors, delete the consensus composite, and remove excess market machinery from the first version. See [[model-review-consensus]].
+- **The factor architecture has entered a second working phase.** The new framework accepts the first review's collinearity diagnosis but rejects minimal factor count as the goal. Complexity may return only through a hierarchy of observables, structurally identified factors, security-specific fundamentals, valuation regimes, and positioning. Five verified second-round reviews support the reframing while disagreeing on the final factor set. See [[factor-architecture-review-consensus]].
 - **Data layering.** Behavior, attention, and discourse kept strictly apart rather than blended into one score — the separation is what produces the work's central paradox, that people talk about letters more and write fewer of them. No source has been secured. See [[data-sources]].
 - **Index architecture**, with the contrast indicators now promoted from display elements to macro variables carrying signed exposures. The promotion is accepted in principle; the seven-factor set is rejected by every review. See [[index-architecture]].
 - **Analyst system**, now mechanically load-bearing: targets, conviction-weighted consensus, credibility scored on the record. See [[analyst-system]].
@@ -44,7 +52,7 @@ The project has moved from *what is this work* to *how does the market inside it
 
 ## Unknown
 
-- **Which V1 specification to build.** The seven reviews agree on architecture and differ on nearly every parameter: one, two, or three macro factors; Fundamental Value displayed or latent; consensus as a dual anchor or as crowding-limited mean reversion; noise in the world state or at the price level. See [[model-review-consensus]].
+- **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. See [[model-review-consensus]] and [[factor-architecture-review-consensus]].
 - **What one unit of a security is.** Blocks index weighting, the market-capitalization analogue, float, and short interest. The sharpest disagreement in the review set: refuse the unit and weight equally, or define practice units and accept the fiction. See [[Q-004-unit-of-account]].
 - **Whether there is a periodic observable.** Nothing in the current design can surprise anyone, and two reviews call this the largest remaining gap: without something scheduled to be wrong about, monthly analyst opinion is commentary rather than information.
 - **Whether the work ships on real data at all.** Both paths remain open, and the architecture was built so either works. See [[data-sources]].
@@ -56,7 +64,7 @@ The project has moved from *what is this work* to *how does the market inside it
 
 ## Next steps proposed in the sources
 
-The 2026-09-05 conversation opened by proposing this order: price formation → listing lifecycle → complete `LETTER` as a single reference security → index methodology → the first home and security screens → expand the universe. Price formation has since been worked through in architecture, and the reviews add a strong recommendation to resolve the specification by *removing* before building anything.
+The 2026-09-05 conversation opened by proposing this order: price formation → listing lifecycle → complete `LETTER` as a single reference security → index methodology → the first home and security screens → expand the universe. Price formation has since been worked through in architecture. The first review round recommended removing before building; the second says complexity may be restored after causal identification, and two reviews argue that the security universe must expand before a large factor model can be identified.
 
 Building one security completely — rather than sketching thirty — remains the standing proposal for what comes next. It is `llm-proposed`; the user has not confirmed an order.
 
@@ -74,6 +82,8 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 
 **Seven agreeing models are not a decision.** The review material is `llm-proposed` throughout. Convergence across seven independent reviews is strong evidence about the model's defects and no evidence at all about what the user wants.
 
+**The second-round Qwen source failed verification.** Its current hash is `07c1fb597b79ee4cdb4dc3fce9d65e201d6911c3`, while `raw/sources.md` registers `59291ecd3ffdb1d45bbcc2ccc3d2403230242f15`. It remains outside the Wiki until the changed file is registered as a separate revision or explicitly resolved.
+
 ## Sources
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
@@ -85,3 +95,10 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 - [[SRC-2026-09-05-grok-critic-of-model]] — raw/surveys/2026-09-05-grok-critic-of-model.md
 - [[SRC-2026-09-05-kimi-critic-of-model]] — raw/surveys/2026-09-05-kimi-critic-of-model.md
 - [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-claude]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-deepseek]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md

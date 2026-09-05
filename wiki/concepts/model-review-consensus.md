@@ -16,6 +16,8 @@ sources:
 
 On 2026-09-05 the drafted market model was sent to seven language models — Claude, DeepSeek, Gemini, GLM, Grok, Kimi, and Qwen — under one shared review prompt asking for a hostile professional critique in fifteen sections. This page records where the seven independently agreed, where they split, and how much weight their agreement should carry.
 
+This page records the **first** review round. A later working framework accepted its collinearity diagnosis but challenged reduction as the end goal; the verified second-round results are synthesized separately in [[factor-architecture-review-consensus]].
+
 **None of this is a user decision.** Everything below is `llm-proposed`. Its value is that seven models working separately from the same brief converged on the same short list of defects, which is stronger evidence than any single review, and weaker than one confirmation from the user.
 
 ## Unanimous: keep
@@ -87,6 +89,7 @@ Treat the unanimous findings as strong evidence and the splits as an open decisi
 ## Related
 
 - [[pricing-model]]
+- [[factor-architecture-review-consensus]]
 - [[index-architecture]]
 - [[analyst-system]]
 - [[Q-004-unit-of-account]]
