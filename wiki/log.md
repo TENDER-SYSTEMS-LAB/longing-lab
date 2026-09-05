@@ -95,3 +95,13 @@ What was done: every model-attributed claim on the affected pages was re-verifie
 The standing lesson, phrased as a rule for future work: when an extraction contradicts text already in the Wiki, the source file settles it, not the extraction. Do not overwrite existing content on the strength of a summary that has not been checked against the original.
 
 The earlier log entries stand unedited, as this log is append-only, and this entry supersedes them on these points.
+
+## [2026-09-06] ingest | Third review round opened — failure-profile prompt and first response
+
+Registered three sources and promoted none. The third round changes the question rather than repeating it: instead of asking for a factor set, it presents the six sets from the second round blind, labelled SET A through SET F with model identity removed, and asks only what each set misprices, cannot attribute, cannot identify at eleven securities, double counts, or structurally cannot say. The prompt forbids recommendation, ranking, and new proposals, and puts security-universe expansion explicitly out of scope so that the set question and the universe question stay separable.
+
+The prompt is registered in two versions because the round spans both. Version 1 headed SET B `12 priced factors` while noting that two of the twelve run unpriced initially. Version 2 rewrites the heading and states the execution rule. The ChatGPT response was produced against version 1 and documents its own resolution of that tension in its Refusals section; the remaining five reviews are being collected against version 2. Registering both keeps each response traceable to the exact stimulus that produced it.
+
+Capture note: the ChatGPT original was captured from the response as pasted into the working conversation, not from a direct export. That is a weaker capture path than the second round used, and it is recorded in `raw/sources.md` so a later direct export can be compared against it.
+
+Nothing from this response has entered the Wiki. Its most consequential claims — that few factors produce semantic compression while many produce collinearity, these being two forms of one information limit at eleven securities; that an exactly summing ledger does not imply exact causality; and that statistical cost and artistic cost diverge, so a statistically better simplification can be an artistically worse resolution — are `llm-proposed` from a single model and will be synthesized only after the round completes and the responses can be compared.

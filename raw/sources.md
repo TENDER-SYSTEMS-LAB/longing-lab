@@ -27,6 +27,9 @@ When adding a source, append one row to the table below and record the result of
 | `SRC-2026-09-05-pricing-model-v2-factor-review-glm` | [raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md](surveys/2026-09-05-pricing-model-v2-factor-review-glm.md) | survey | 2026-09-05 | llm-proposed | `d7d5ed60ece2a72def25bf98357ab0e8f6e64e23` | 2026-09-05 | promoted |
 | `SRC-2026-09-05-pricing-model-v2-factor-review-grok` | [raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md](surveys/2026-09-05-pricing-model-v2-factor-review-grok.md) | survey | 2026-09-05 | llm-proposed | `98d25c865098b5844c2969f5b276a5416596d823` | 2026-09-05 | promoted |
 | `SRC-2026-09-05-pricing-model-v2-factor-review-qwen` | [raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md](surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md) | survey | 2026-09-05 | llm-proposed | `07c1fb597b79ee4cdb4dc3fce9d65e201d6911c3` | 2026-09-06 | promoted (re-captured; supersedes `59291ecd3ffdb1d45bbcc2ccc3d2403230242f15`) |
+| `SRC-2026-09-06-factor-set-failure-profile-prompt-v1` | [raw/documents/2026-09-06-factor-set-failure-profile-prompt-v1.md](documents/2026-09-06-factor-set-failure-profile-prompt-v1.md) | document | 2026-09-06 | jointly-developed | `0adf9d64511716c3095d588673f3fedc4ce06e52` | — | raw-only |
+| `SRC-2026-09-06-factor-set-failure-profile-prompt-v2` | [raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md](documents/2026-09-06-factor-set-failure-profile-prompt-v2.md) | document | 2026-09-06 | jointly-developed | `b9a7304cac60d123eaa79df6244e0068216aacbe` | — | raw-only |
+| `SRC-2026-09-06-factor-set-failure-profile-chatgpt` | [raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md](surveys/2026-09-06-factor-set-failure-profile-chatgpt.md) | survey | 2026-09-06 | llm-proposed | `3eb4ac736a4528499eaf7fbfed705436d864177c` | — | raw-only |
 
 ## Note on the survey sources
 
@@ -35,3 +38,11 @@ The seven `critic-of-model` surveys are independent reviews produced by seven di
 The Pricing Model v2 factor-review prompt is registered as `SRC-2026-09-05-pricing-model-v2-factor-review-prompt`, so the second review round's framing is directly available and statements about what the second round was asked are primary citations. All six review originals are now registered and promoted.
 
 The Qwen original was re-captured. Its first registration on 2026-09-05 recorded hash `59291ecd3ffdb1d45bbcc2ccc3d2403230242f15`, which described an incomplete capture: the file ended mid-expression partway through the response. On 2026-09-06 the user replaced it with the complete response, giving the current hash `07c1fb597b79ee4cdb4dc3fce9d65e201d6911c3`. This is a capture correction rather than a change to the evidence, and no Wiki material had been promoted from the incomplete file. The superseded hash is retained in the table row and the correction is recorded in `wiki/log.md`.
+
+## Note on the third review round
+
+The third round asks a different question from the first two. It does not ask for a factor set. It presents the six sets proposed in the second round, stripped of model identity and labelled SET A through SET F, and asks only what each set fails to price, fails to attribute, or cannot express. Advocacy, ranking, and new proposals are prohibited by the prompt.
+
+The prompt exists in two registered versions. Version 1 is what the ChatGPT response was produced against. Its SET B heading read `12 priced factors` while a note stated that two of those twelve run unpriced initially, and the ChatGPT response records its own resolution of that tension in its Refusals section. Version 2 clarifies the heading and states the execution rule explicitly. The remaining reviews of this round are being collected against version 2, so the round spans two prompt versions and the difference is registered rather than hidden.
+
+The ChatGPT original was captured from the response as pasted into the working conversation rather than from a direct export. If a direct export becomes available and differs, treat the current file as a defective capture under the rule in `raw/README.md` and correct it in place under the same source ID.
