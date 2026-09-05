@@ -1,9 +1,14 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-04
+updated: 2026-09-05
 sources:
   - SRC-2026-09-04-longing-concept-brainstorm
+  - SRC-2026-09-05-price-formation-market-model
+  - SRC-2026-09-05-claude-critic-of-model
+  - SRC-2026-09-05-glm-critic-of-model
+  - SRC-2026-09-05-qwen-critic-of-model
+  - SRC-2026-09-05-kimi-critic-of-model
 ---
 
 # Index Architecture
@@ -85,18 +90,63 @@ Prices are shown across long horizons rather than as a single day's quote: curre
 
 Four of the six sub-indices — Latency, Serendipity, Human Friction, Unstructured Time — were judged the likeliest core vocabulary of the work.
 
+## Evolution — the contrast indicators became the macro layer (2026-09-05)
+
+**Previous state.** Efficiency, Optimization, Automation, Predictability, and Mediation were display elements: neutral series shown beside their counterparts so the viewer could feel the discomfort of a world that is genuinely improving.
+
+**Transition.** The user asked for the market equivalent of interest rates and exchange rates — forces that move a security when nothing about the security has changed. The contrast indicators were promoted from display to mechanism: each becomes a system-wide variable, each security carries a signed exposure to it, and a week of rising Immediacy pushes `LETTER` down with no letter-specific news.
+
+**Current state.** The promotion is accepted in principle and the *set* is not. All seven reviews of the market model reject seven near-collinear factors and would collapse them to between one and three, with a discount-rate role at the centre. See [[pricing-model]] for the proposed sets and [[model-review-consensus]] for the split.
+
+This changes the indices too. Three families now exist rather than one: the **asset indices** on this page, the **system indicators** acting as macro variables, and **market indicators** describing the market's own state — consensus strength, dispersion, long/short breadth, discount to fundamental, realized volatility.
+
+```text
+LONGING MARKET OVERVIEW
+
+LNGI                    38.42   -1.82%
+
+SYSTEM INDICATORS
+AUTOMATION              94.18   +2.4%
+IMMEDIACY               96.82   +1.7%
+MEDIATION               91.34   +3.1%
+
+MARKET
+LONG BREADTH             32.8%
+SHORT BREADTH            51.4%
+CONSENSUS STRENGTH       78.2
+FUNDAMENTAL DISCOUNT    -18.4%
+```
+
+One caution carried over from review: a constructed indicator must be published as an index level with a base date and a construction rule, never as a measurement of the world. `Immediacy 138.4` is defensible as the former and indefensible as the latter.
+
+## Weighting — unresolved, and now the blocking question
+
+Index composition cannot be published until the work says what one unit of a security is. That has become its own question — see [[Q-004-unit-of-account]] — and the reviews divide sharply: equal weighting with a stated institutional position (*a research house that declines to rank human experiences by importance*), against practice-capitalization or footprint weighting that gives the indices a real size measure at the cost of inventing one.
+
+What is agreed across all reviews: build securities first and aggregate upward, use divisor continuity across every constituent change, borrow the published-methodology and rebalance-calendar discipline of real index providers, and reject free-float adjustment, liquidity screens, and investability rules, which exist only because real money tracks real indices.
+
 ## Open
 
-- The methodology and formula behind every number: see [[Q-001-price-formation]].
-- Listing, delisting, and relisting rules: see [[Q-002-listing-lifecycle]].
+- The methodology and formula behind every number: see [[Q-001-price-formation]] and [[pricing-model]].
+- Index weighting and the unit of account: see [[Q-004-unit-of-account]].
+- Which macro factor set replaces the seven contrast indicators.
+- Listing, delisting, and relisting rules: see [[Q-002-listing-lifecycle]]. Reviews add that delisting needs defining now even if it never fires, and that an index which continually removes its worst constituents understates the decline — so a survivorship-adjusted companion index may be the most eloquent number the system can print.
 - The flagship index ticker (`LNGI` / `LX` / `LCI`) and the security-code scheme.
 - The unit of price. A draft screen shows `27.43 KRW(?)` — the currency question is unanswered in the source.
 
 ## Related
 
 - [[DEC-002-research-house-form]]
+- [[pricing-model]]
+- [[model-review-consensus]]
 - [[analyst-system]]
+- [[Q-004-unit-of-account]]
 
 ## Sources
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
+- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
+- [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
+- [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
+- [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md
+- [[SRC-2026-09-05-kimi-critic-of-model]] — raw/surveys/2026-09-05-kimi-critic-of-model.md

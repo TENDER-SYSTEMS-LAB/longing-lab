@@ -1,9 +1,14 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-04
+updated: 2026-09-05
 sources:
   - SRC-2026-09-04-longing-concept-brainstorm
+  - SRC-2026-09-05-price-formation-market-model
+  - SRC-2026-09-05-claude-critic-of-model
+  - SRC-2026-09-05-glm-critic-of-model
+  - SRC-2026-09-05-kimi-critic-of-model
+  - SRC-2026-09-05-qwen-critic-of-model
 ---
 
 # Analyst System
@@ -83,12 +88,51 @@ SERENDIPITY         LONG
 
 The research desk publishes on a schedule, like a real one: a weekly Morning Brief listing LONG and SHORT calls, initiating-coverage notes, and an annual report ("The State of Longing 2026"). Reports carry ratings, targets, risk sections, and investment theses; a LONG note may close on a single line that turns the report into the work — *Some things become valuable precisely because they take time.* SHORT notes stay dry to the last word.
 
+## The analysts became part of the pricing machinery (2026-09-05)
+
+Until 2026-09-05 the analysts were a device for staging disagreement. With the market model they acquire a mechanical role: **monthly research sets the anchor the weekly price moves toward.** See [[DEC-003-weekly-market-monthly-research]] and [[pricing-model]].
+
+Each monthly report now carries a rating, a **target price**, and a **conviction**, and consensus is formed by weighting targets by conviction rather than counting votes — which preserves the existing rule that conviction size moves price and headcount does not:
+
+```text
+ELEANOR VALE     LONG    Target 41.00   Conviction 82%
+ADRIAN KESSLER   SHORT   Target 18.50   Conviction 94%
+MINA SEO         HOLD    Target 28.00   Conviction 61%
+JULIAN HART      SHORT   Target 23.80   Conviction 76%
+```
+
+Between monthly reports the desk publishes flash notes rather than research — `No rating change. Target unchanged.` or a revised estimate in four lines. That is what a real desk does between coverage updates, and it keeps the weekly cadence affordable.
+
+### A target price is not a valuation
+
+The distinction the reviews insisted on, and the one that most enriches these four characters: a target price is a **forecast of where the market price will be**, not a claim about what something is worth. Kessler can hold that a handwritten letter is fundamentally worth 34.80 and still target 18.50, because he is forecasting that nobody will pay for it. Vale can share his fundamental estimate and target 41.00 because she thinks the market is wrong. Same value, opposite trades — and it stops the analysts from being reducible to optimist and pessimist.
+
+One review assigns each analyst a distinct channel of the model, so that their edge is structural rather than temperamental: Vale trades the valuation multiple, Kessler trades the discount and the factor drift, Seo trades the periodic behavioral print, Hart trades anchor dynamics and positioning squeezes. Their published scorecards then rise and fall as their channel's predictive power waxes and wanes — the regime becomes visible in the analyst league table, which is irony emerging from structure rather than from writing.
+
+### Three warnings from review
+
+- **Circularity.** If analysts set the fundamental, and analyst consensus overrides the fundamental, and analyst track records are scored against price, the system is one opinion split in half fighting itself. The fix is to generate the fundamental by a process the analysts do not control, and let them *estimate* it on the record — which also makes credibility earned rather than stipulated, and turns Kessler being right into something the record shows rather than something the work asserts.
+- **Caricature.** If Vale is always LONG and Kessler always SHORT, they become costumes. Recommendations should be functions of price, fundamentals, and the macro state — Kessler should occasionally go LONG when price falls far below even his pessimistic estimate. This is consistent with what the source conversation already established: Vale shorts NOSTALGIA, Kessler goes long SOLITUDE.
+- **Operational load.** Four analysts across a large universe every month is roughly two thousand reports a year, and the failure mode is visible: stale, templated research that destroys exactly the credibility the work runs on. The realistic fix is also a realism gain — real sell-side coverage is sparse and uneven. Most securities carry one or two analysts, some carry `NO COVERAGE` with correspondingly wider valuation uncertainty and thinner liquidity, and coverage initiation or a coverage drop becomes an event in itself.
+
+### The viewer's positions
+
+Unchanged in principle — participant votes are displayed, never priced. One review notes the option of treating the aggregate as genuine **retail positioning** if the audience votes, which would be real rather than invented data and would make the audience part of the market's crowding. Recorded as an option, not adopted: it would give viewer behavior an indirect route into price, which the existing rule was written to prevent.
+
 ## Related
 
 - [[index-architecture]]
+- [[pricing-model]]
+- [[model-review-consensus]]
 - [[system-grammar]]
 - [[DEC-002-research-house-form]]
+- [[DEC-003-weekly-market-monthly-research]]
 
 ## Sources
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
+- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
+- [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
+- [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
+- [[SRC-2026-09-05-kimi-critic-of-model]] — raw/surveys/2026-09-05-kimi-critic-of-model.md
+- [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md

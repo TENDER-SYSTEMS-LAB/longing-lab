@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-04
+updated: 2026-09-05
 sources: []
 ---
 
@@ -26,12 +26,15 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — LONGING as a fictional research house tracking the conditions of human experience modernization is removing · `working` (2026-09-04)
-- [[current-state]] — Snapshot of what is confirmed, working, and unknown after the first concept conversation · `working` (2026-09-04)
+- [[current-state]] — Snapshot of what is confirmed, working, and unknown after the market-model conversation and its seven reviews · `working` (2026-09-05)
 
 ## Concepts
 
-- [[index-architecture]] — LNGI and six condition-based sub-indices, contrast indicators, and how securities are listed across them · `working` (2026-09-04)
-- [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-04)
+- [[index-architecture]] — LNGI and six condition-based sub-indices, the contrast indicators now promoted to macro variables, and how securities are listed across them · `working` (2026-09-05)
+- [[pricing-model]] — How a price is produced: value against price, weekly market on a monthly anchor, macro rate, consensus, positioning, events · `working` (2026-09-05)
+- [[model-review-consensus]] — What seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
+- [[data-sources]] — Behavior, attention, and discourse kept apart; candidate real-world sources and the honesty rules that govern them · `working` (2026-09-05)
+- [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-05)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
 - [[prior-art]] — Comparable works from Benayoun onward and the two rules that keep LONGING distinct · `working` (2026-09-04)
 
@@ -39,16 +42,19 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[DEC-001-project-name-longing]] — The work is titled LONGING with no suffix; rejected name candidates and the outstanding collision check · `confirmed` (2026-09-04)
 - [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-04)
+- [[DEC-003-weekly-market-monthly-research]] — Prices strike weekly, formal research publishes monthly and sets the anchor; real-time pricing rejected · `confirmed` (2026-09-05)
+- [[DEC-004-secular-decline-with-rallies]] — The market trends down and rallies where a real market crashes; the decline must emerge, never be hard-coded · `confirmed` (2026-09-05)
 
 ## Open Questions
 
-- [[Q-001-price-formation]] — Where every price and index value comes from: mechanism, data basis, unit · `unknown` (2026-09-04)
+- [[Q-001-price-formation]] — Where every price and index value comes from: mechanism now answered in architecture, specification and unit still open · `working` (2026-09-05)
 - [[Q-002-listing-lifecycle]] — Who lists a romance, whether scarcity raises or lowers price, and what delisting and relisting mean · `unknown` (2026-09-04)
-- [[Q-003-calibrating-the-bias]] — How far the tilt toward the human can go before the work stops asking and starts arguing · `working` (2026-09-04)
+- [[Q-003-calibrating-the-bias]] — How far the tilt toward the human can go before the work stops asking and starts arguing · `working` (2026-09-05)
+- [[Q-004-unit-of-account]] — What one unit of a security is a claim on, and what replaces market capitalization · `unknown` (2026-09-05)
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-04)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-05)
 
 ## Repository Control
 
@@ -56,10 +62,11 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [AGENTS](../AGENTS.md) — Reading, language, ingestion, verification, and institutional Git identity rules for agents (2026-09-04)
 - [Schema](../schema.md) — Page taxonomy, status, attribution, provenance, language, and maintenance rules (2026-09-04)
 - [Raw README](../raw/README.md) — How to add and preserve original source material (2026-09-04)
-- [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-04)
+- [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-05)
 
 ## Page Creation Gates
 
 - Create a concept, decision, or question page only when registered source material supports it.
 - Do not duplicate a per-source raw catalog here. Use the [Raw Source Index](../raw/sources.md) as the single registry.
-- Every page currently in this catalog rests on a single source. Watch for that dependency when new material arrives.
+- Several pages still rest on a single source. [[overview]], [[system-grammar]], [[prior-art]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] depend entirely on the 2026-09-04 concept conversation.
+- The seven `critic-of-model` surveys are `llm-proposed` throughout. Their agreement is evidence about the model, never a user decision — do not promote a converged recommendation to `confirmed` without the user.
