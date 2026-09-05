@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-06
 sources:
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -17,6 +17,7 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-gemini
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
+  - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
 ---
 
 # Pricing Model
@@ -188,9 +189,9 @@ The reviews mostly push past this list: they consider the seven security-level f
 
 **Transition.** The subsequent Pricing Model v2 framework accepts the collinearity diagnosis and rejects factor count as the design objective. It proposes a large candidate pool and a hierarchy in which visible indicators feed latent factors, factors act through security-specific exposures, and price separates structural change from fundamentals, narrative, positioning, and surprise. A factor survives only when it buys a distinct causal story, cross-sectional loading pattern, event class, time behavior, and attribution line.
 
-Five hash-verified second-round reviews support that direction and add two constraints. First, the candidate pool still mixes structural pressures, valuation regimes, and security-level responses; those layers must be separated before selecting names. Second, the pool is too technology-centric and needs demand-side causes such as available time and attention, spatial and relational conditions, practice infrastructure, cohort transmission, patience, and status. See [[factor-architecture-review-consensus]].
+Six hash-verified second-round reviews — Claude, DeepSeek, Gemini, GLM, Grok, and Qwen — support that direction and add two constraints, with Qwen dissenting toward reduction rather than classification (see [[factor-architecture-review-consensus]]). First, the candidate pool still mixes structural pressures, valuation regimes, and security-level responses; those layers must be separated before selecting names. Second, the pool is too technology-centric and needs demand-side causes such as available time and attention, spatial and relational conditions, practice infrastructure, cohort transmission, patience, and status.
 
-**Current state.** Complexity is allowed as a working direction, not yet adopted as a specification. Time Compression, Human Substitution, Uncertainty Compression, and some form of Physicality Displacement survive all five verified reviews. Mediation remains contested; Coordination is usually merged, demoted, or delayed; Scarcity is usually treated as a nonlinear security-level response rather than a macro factor. Exact attribution, pre-registered exposures, and falsification are requirements, but the mathematical method and initial factor count remain open.
+**Current state.** Complexity is allowed as a working direction, not yet adopted as a specification. Human Substitution and some form of Physicality Displacement survive all six verified reviews, under Qwen's renamings Agency Displacement and Material Decoupling. Time Compression and Uncertainty Compression survive as distinct factors in five of six; Qwen merges both into a single Friction Elimination factor along with Coordination Compression. Mediation remains contested across four positions, including Qwen's, which dissolves it entirely. Coordination is merged, demoted, or delayed by five of six, with only GLM retaining it as a factor. Scarcity is treated as a nonlinear security-level response or absorbed elsewhere by five of six, with only GLM retaining it as a market-wide factor. Exact attribution, pre-registered exposures, and falsification are requirements, but the mathematical method and initial factor count remain open.
 
 ## What is settled, what is not
 
@@ -226,3 +227,4 @@ Not settled: the factor set and its names, which candidates are priced versus di
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md

@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-06
 sources:
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
@@ -19,11 +19,12 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-gemini
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
+  - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
 ---
 
 # Current State
 
-Seventeen sources are registered. The first nine established the concept, built the initial market model, and subjected that model to seven independent reviews. Eight newer files comprise a working factor-framework conversation, its registered review prompt, and six second-round model responses. Five of those responses passed source verification and entered the Wiki; the Qwen response did not because its current file hash differs from its registered hash.
+Seventeen sources are registered. The first nine established the concept, built the initial market model, and subjected that model to seven independent reviews. Eight newer files comprise a working factor-framework conversation, its registered review prompt, and six second-round model responses. All six responses are verified and promoted into the Wiki. Qwen's response required a re-capture on 2026-09-06: its first registration was a defective capture that ended mid-expression partway through the response, and the user replaced it with the complete response — a capture correction rather than a change to the evidence, recorded in `raw/sources.md` and in `wiki/log.md`.
 
 The project has moved from *how does the market inside it run* to *how can its factor architecture become rich without becoming causally redundant or theatrically precise*.
 
@@ -42,7 +43,7 @@ The project has moved from *how does the market inside it run* to *how can its f
 
 - **The market architecture.** Fundamental Value and Market Price as two displayed numbers whose gap is the system's most informative output; monthly research setting an anchor; weekly events moving price around it; macro-like structural factors moving whole groups of securities with no security-specific news; consensus and positioning as separate variables, so a crowded bearish market can rally violently on a small positive shock. See [[pricing-model]].
 - **The first seven-model review.** Where seven independent reviews converged, and where they split. Their unanimous verdict was that the path to a credible V1 is *reduction*: collapse the original macro factors, delete the consensus composite, and remove excess market machinery from the first version. See [[model-review-consensus]].
-- **The factor architecture has entered a second working phase.** The new framework accepts the first review's collinearity diagnosis but rejects minimal factor count as the goal. Complexity may return only through a hierarchy of observables, structurally identified factors, security-specific fundamentals, valuation regimes, and positioning. Five verified second-round reviews support the reframing while disagreeing on the final factor set. See [[factor-architecture-review-consensus]].
+- **The factor architecture has entered a second working phase.** The new framework accepts the first review's collinearity diagnosis but rejects minimal factor count as the goal. Complexity may return only through a hierarchy of observables, structurally identified factors, security-specific fundamentals, valuation regimes, and positioning. Six verified second-round reviews support the reframing while disagreeing on the final factor set; Qwen dissents toward reduction, collapsing the candidate pool to five core factors on parsimony grounds. See [[factor-architecture-review-consensus]].
 - **Data layering.** Behavior, attention, and discourse kept strictly apart rather than blended into one score — the separation is what produces the work's central paradox, that people talk about letters more and write fewer of them. No source has been secured. See [[data-sources]].
 - **Index architecture**, with the contrast indicators now promoted from display elements to macro variables carrying signed exposures. The promotion is accepted in principle; the seven-factor set is rejected by every review. See [[index-architecture]].
 - **Analyst system**, now mechanically load-bearing: targets, conviction-weighted consensus, credibility scored on the record. See [[analyst-system]].
@@ -82,7 +83,7 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 
 **Seven agreeing models are not a decision.** The review material is `llm-proposed` throughout. Convergence across seven independent reviews is strong evidence about the model's defects and no evidence at all about what the user wants.
 
-**The second-round Qwen source failed verification.** Its current hash is `07c1fb597b79ee4cdb4dc3fce9d65e201d6911c3`, while `raw/sources.md` registers `59291ecd3ffdb1d45bbcc2ccc3d2403230242f15`. It remains outside the Wiki until the changed file is registered as a separate revision or explicitly resolved.
+**The second-round Qwen source was re-captured, not revised.** Its first registration ended mid-expression; the current file is the complete response, registered under the same source ID with the superseded hash retained in `raw/sources.md` and the correction recorded in `wiki/log.md`.
 
 ## Sources
 
@@ -102,3 +103,4 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md

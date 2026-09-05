@@ -67,3 +67,17 @@ Provenance note: unlike the first review round, the second round's review prompt
 Lint performed: wikilinks resolve, no orphan pages besides the index itself, frontmatter complete on all pages, and `git diff --check` clean. One structural repair: a blank line inside the `raw/sources.md` registry table was splitting it into two Markdown tables; removed so all seventeen rows render as one table.
 
 Two attribution errors were found during verification and corrected before promotion. The draft [[factor-architecture-review-consensus]] credited Grok with retaining Coordination Compression and Scarcity Revaluation as factors; GLM retains both and Grok demotes both. It also recorded the 40–60 constituent-expansion proposal as a single-review proposal from Claude, when Grok independently proposes the same target and treats it as equally blocking.
+
+## [2026-09-06] maintenance | Qwen second-round review re-captured and promoted
+
+The Qwen second-round source failed hash verification on 2026-09-05 and was excluded from the Wiki pending review. The user has confirmed the current file is the correct original — the first capture was defective, ending mid-expression partway through the response, and was deleted and re-pasted in full. This is a capture failure, not a change to the evidence.
+
+The Qwen row in `raw/sources.md` now carries hash `07c1fb597b79ee4cdb4dc3fce9d65e201d6911c3` with the superseded hash `59291ecd3ffdb1d45bbcc2ccc3d2403230242f15` retained in the row and explained in the note section. It was registered under the same source ID rather than as a separate revision, because no Wiki material had been promoted from the defective capture, and a second row would imply two Qwen reviews exist when there is one. A corresponding rule was added to `raw/README.md` so this case does not need re-deciding.
+
+The substantive consequence: the second review round now has six verified reviews rather than five, and Qwen is the round's clearest dissenter. The framework rejected minimal factor count as a design goal and five reviews support that; Qwen reduces the nine candidates to five core factors — Friction Elimination, Agency Displacement, Material Decoupling, Social Revaluation, Attention Scarcity — and cites parsimony. It is recorded as a minority position, not as a correction of the majority and not smoothed away.
+
+Which unanimity claims changed: Time Compression and Uncertainty Compression are no longer retained by every review, since Qwen merges both into Friction Elimination along with Coordination Compression. Friction / Inconvenience Premium is no longer uniformly preserved as a valuation regime, since Qwen demotes it to a security-level fundamental. Coordination Compression and Scarcity Revaluation move to five of six against retention, with GLM alone retaining each. The demand-side territory list is now recorded as a union across reviews rather than a unanimous set, because Qwen adds only attention scarcity and explicitly rejects institutional trust and demographic shift.
+
+Pages updated: [[factor-architecture-review-consensus]], [[pricing-model]], [[current-state]], [[index-architecture]], [[Q-001-price-formation]], and the index.
+
+Attribution unchanged: all six reviews remain `llm-proposed`, the framework remains a working proposal, and nothing was promoted to a user decision.

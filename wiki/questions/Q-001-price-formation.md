@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-06
 sources:
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
@@ -19,6 +19,7 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-gemini
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
+  - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
 ---
 
 # Q-001 — How is a price determined?
@@ -61,13 +62,13 @@ It also gates the index methodology: [[index-architecture]] cannot publish a com
 
 Also settled here by the user, and recorded as decisions rather than answers to this question: the weekly/monthly cadence ([[DEC-003-weekly-market-monthly-research]]) and the secular decline with inverted rallies ([[DEC-004-secular-decline-with-rallies]]).
 
-**Second round (2026-09-05).** Sub-question 1, Mechanism, is the one that moves again. It stood "answered in architecture, open in specification," where the open part was which of seven reduced V1 specifications to build. The second round changes the shape of that opening rather than closing it. A working framework rejected minimal factor count as the design goal and proposed instead that complexity may return through a hierarchy: observable indicators feed latent structural factors, factors act through security-specific exposures, and price separates structural change from practice fundamentals, narrative, positioning, and event surprise. Five hash-verified reviews — Claude, DeepSeek, Gemini, GLM, and Grok — support that reframing. See [[factor-architecture-review-consensus]]. The specification question is therefore no longer "which reduced V1"; it is which factors are priced and which stay research indicators, how many constituents the exposure matrix needs before a given factor count is identifiable at all, and which exact-attribution method carries interactions and correlations. This is `llm-proposed` and `llm-synthesis` throughout — the framework is a working proposal and the reviews are review material, not a decision.
+**Second round (2026-09-05).** Sub-question 1, Mechanism, is the one that moves again. It stood "answered in architecture, open in specification," where the open part was which of seven reduced V1 specifications to build. The second round changes the shape of that opening rather than closing it. A working framework rejected minimal factor count as the design goal and proposed instead that complexity may return through a hierarchy: observable indicators feed latent structural factors, factors act through security-specific exposures, and price separates structural change from practice fundamentals, narrative, positioning, and event surprise. Six hash-verified reviews — Claude, DeepSeek, Gemini, GLM, Grok, and Qwen — support that reframing, with Qwen dissenting toward reduction: it collapses the candidate pool to five core factors on parsimony grounds rather than adopting classification as the remedy. See [[factor-architecture-review-consensus]]. The specification question is therefore no longer "which reduced V1"; it is which factors are priced and which stay research indicators, how many constituents the exposure matrix needs before a given factor count is identifiable at all, and which exact-attribution method carries interactions and correlations. This is `llm-proposed` and `llm-synthesis` throughout — the framework is a working proposal and the reviews are review material, not a decision.
 
 ## What is still unanswered
 
 - Which V1 specification to adopt — the factor set, whether Fundamental Value is displayed or latent, and whether the consensus mechanism is a dual anchor or a crowding-limited reversion. The second round reframes rather than settles this: see [[factor-architecture-review-consensus]].
 - Whether there is a quarterly observable for analysts to be wrong about. Two reviews call its absence the largest remaining gap in the design: with nothing scheduled to be surprised by, monthly analyst opinion is commentary rather than information.
-- The constituent-count constraint on specification. Two of five verified second-round reviews (Claude and Grok) argue that the eleven-security reference set cannot identify a large factor model and propose expanding the universe to roughly 40–60 practices — including practices in genuine secular expansion — before pricing the full set. This bears on [[Q-002-listing-lifecycle]], since it is a claim about which practices get listed, not only about how many factors can be priced.
+- The constituent-count constraint on specification. Two of six verified second-round reviews (Claude and Grok) argue that the eleven-security reference set cannot identify a large factor model and propose expanding the universe to roughly 40–60 practices — including practices in genuine secular expansion — before pricing the full set. This bears on [[Q-002-listing-lifecycle]], since it is a claim about which practices get listed, not only about how many factors can be priced.
 - The unit and the currency.
 - The flagship index formula, which still waits on [[Q-004-unit-of-account]] rather than on this page.
 
@@ -102,3 +103,4 @@ Also settled here by the user, and recorded as decisions rather than answers to 
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
