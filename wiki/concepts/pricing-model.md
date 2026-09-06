@@ -19,6 +19,7 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
+  - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
 ---
 
 # Pricing Model
@@ -117,7 +118,7 @@ price reverts toward the Market Anchor, not toward Fair Value
 
 where `w` is a credibility weight. GLM makes `w` earned rather than set: it updates on the *lagged* forecast errors of the house model against the narrative, clipped so the market never fully abandons either. Then "the market believes the fundamental estimate is wrong" is literally `w → 0.05`, with the institution on a recorded losing streak. DeepSeek derives `w` more simply, from analyst target dispersion — converging analysts mean a dominant narrative, disagreeing analysts mean the research anchor holds.
 
-**Limits to arbitrage** (Claude): mispricings persist because nobody is left to take the other side, not because belief is intense.
+**Limits to arbitrage** (Claude): mispricings persist because nobody is left to take the other side, not because belief is intense. The mechanism is purely negative — it describes the absence of an arbitrageur without depicting one. The user has since asked that arbitrage itself be represented in the world; see [[arbitrage]].
 
 ```text
 κ = κ₀ × (1 − |crowding|) × evidence_arrival
@@ -132,6 +133,8 @@ The Event Desk classifies **relevance only**: which conditions and which securit
 - **One event writes to exactly one layer.** It moves a factor, or it moves a security's idiosyncratic fundamental — never both, or the same news is counted twice through the betas. If it genuinely does both, it is two events. GLM's variant is a budget rule: an event's total impact is allocated across channels, never summed.
 - **Only the surprise moves price.** The anticipated part is already in the fundamental and already in the price. This requires something to be surprised by, which the draft does not have — see below.
 - Magnitude belongs in standard deviations of the target factor, never in points. Confidence should scale **the speed at which an event is priced in, not the size of the move**: high confidence prices in within the week, low confidence bleeds in over several weeks and can reverse if unconfirmed.
+
+This layer models events, not reports about events. On 2026-09-06 the user directed that news quality itself be modelled — misreporting, over- and under-reporting, and rumour circulating ahead of formal disclosure. Two of those four behaviours have no representation anywhere in the corpus. See [[information-quality]].
 
 ## The missing mechanism the reviews agree on
 
@@ -205,6 +208,8 @@ Not settled: the factor set and its names, which candidates are priced versus di
 ## Related
 
 - [[model-review-consensus]]
+- [[arbitrage]]
+- [[information-quality]]
 - [[factor-architecture-review-consensus]]
 - [[attribution-ledger]]
 - [[data-sources]]
@@ -218,6 +223,7 @@ Not settled: the factor set and its names, which candidates are priced versus di
 
 ## Sources
 
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
 - [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
 - [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
 - [[SRC-2026-09-05-deepseek-critic-of-model]] — raw/surveys/2026-09-05-deepseek-critic-of-model.md

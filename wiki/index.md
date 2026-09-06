@@ -35,10 +35,12 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[model-review-consensus]] — What the first seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
 - [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, and where Qwen dissents toward reduction · `working` (2026-09-06)
 - [[attribution-ledger]] — The weekly published decomposition itself: the worked ledger, its three layers, and what an unrouted event means · `working` (2026-09-06)
+- [[arbitrage]] — Arbitrage as a world-building question: the corpus has limits to arbitrage but no arbitrageur, no counterparty, and nothing finite to hold · `working` (2026-09-06)
+- [[information-quality]] — News as reports about events rather than events: misreporting, over- and under-reporting, and rumour ahead of disclosure · `working` (2026-09-06)
 - [[data-sources]] — Behavior, attention, and discourse kept apart; candidate real-world sources and the honesty rules that govern them · `working` (2026-09-05)
 - [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-05)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
-- [[prior-art]] — Comparable works from Benayoun onward and the two rules that keep LONGING distinct · `working` (2026-09-04)
+- [[prior-art]] — Comparable works from Benayoun onward, the two rules that keep LONGING distinct, and an unsurveyed academic literature · `working` (2026-09-06)
 
 ## Decisions
 
@@ -46,14 +48,14 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-04)
 - [[DEC-003-weekly-market-monthly-research]] — Prices strike weekly, formal research publishes monthly and sets the anchor; real-time pricing rejected · `confirmed` (2026-09-05)
 - [[DEC-004-secular-decline-with-rallies]] — The market trends down and rallies where a real market crashes; the decline must emerge, never be hard-coded · `confirmed` (2026-09-05)
-- [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection · `confirmed` (2026-09-06)
+- [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection, now carrying the user's later position that factors may outnumber securities · `confirmed` (2026-09-06)
 
 ## Open Questions
 
 - [[Q-001-price-formation]] — Where every price and index value comes from: mechanism now answered in architecture, specification and unit still open · `working` (2026-09-06)
 - [[Q-002-listing-lifecycle]] — Who lists a romance, whether scarcity raises or lowers price, and what delisting and relisting mean · `unknown` (2026-09-04)
 - [[Q-003-calibrating-the-bias]] — How far the tilt toward the human can go before the work stops asking and starts arguing · `working` (2026-09-05)
-- [[Q-004-unit-of-account]] — What one unit of a security is a claim on, and what replaces market capitalization · `unknown` (2026-09-05)
+- [[Q-004-unit-of-account]] — What one unit of a security is a claim on, what replaces market capitalization, and the user's direction to put it to the review models · `unknown` (2026-09-06)
 
 ## Activity
 

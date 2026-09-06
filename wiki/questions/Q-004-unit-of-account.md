@@ -1,8 +1,9 @@
 ---
 status: unknown
 attribution: llm-proposed
-updated: 2026-09-05
+updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
   - SRC-2026-09-05-qwen-critic-of-model
   - SRC-2026-09-05-claude-critic-of-model
   - SRC-2026-09-05-glm-critic-of-model
@@ -54,6 +55,16 @@ The spread between the two then becomes the interesting output rather than a met
 
 Positioning needs supply too. Several reviews note that "78% short interest" is meaningless without a float, and propose defining a notional supply per security so that positioning is a fraction in `[−1, +1]` and covering flow has something to exhaust. Whether that float should be the same quantity as the index weight, or a deliberately separate fiction, is unresolved.
 
+## The user's instruction on how to resolve it
+
+On 2026-09-06 the user directed that this question be put to the review models as its own round, in the way the pricing model and the factor architecture were:
+
+> "1주가 대체 무엇이냐."에 대해서는 LLM들에게 의견을 구해봐도 좋을 것 같아.
+
+This is an instruction about method, not about content. The user stated no position on the question itself, and none of the answers below has gained standing. What changes is that the question moves from a blocker being carried to a work item with a defined next action.
+
+Two constraints the round should be built to respect, both already in the repository. First, the review set has already split cleanly on this question — define the unit, refuse the unit, or run both indices side by side — so a round that simply re-collects those three positions adds nothing; the useful question is what each choice makes impossible downstream. Second, the question has since acquired a second dependant: [[arbitrage]] needs a finite thing to hold before a position can exist at all, which is an argument for the unit that did not exist when the reviews split.
+
 ## Why it matters
 
 This is the question that decides whether LONGING's indices are *constructed* or merely *asserted*. It also decides how much fiction the work has to manufacture: a practice-unit universe requires inventing a plausible number for every security, and every one of those numbers is a place where the artist's hand can be found.
@@ -62,6 +73,7 @@ This is the question that decides whether LONGING's indices are *constructed* or
 
 - [[index-architecture]]
 - [[pricing-model]]
+- [[arbitrage]]
 - [[model-review-consensus]]
 - [[data-sources]]
 - [[Q-001-price-formation]]
@@ -69,6 +81,7 @@ This is the question that decides whether LONGING's indices are *constructed* or
 
 ## Sources
 
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
 - [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md
 - [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
 - [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
