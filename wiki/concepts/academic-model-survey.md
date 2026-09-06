@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
   - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-06-cross-domain-model-survey
@@ -93,6 +94,10 @@ The requested application clarifications yielded two unconfirmed proposals:
 
 The difference is between how waiting feels and whether a meaningful participation network persists. Valuable-but-hard and feasible-but-not-chosen remain distinct. See [[pricing-model]] for the pending design questions and [[data-sources]] for synthetic-data status.
 
+## Evolution — a concrete LETTER application draft
+
+The subsequent user request moves from model explanation to world and practice specification. [[letter-practice-dynamics]] supplies an original accounting and causal trial: first starts, ongoing episodes, interruptions, resumptions, dispatch frequency, and candidate feedback. It does not adopt any of the six surveyed models or borrow their coefficients. Its numerical examples are author-assumed arithmetic, with behavioral measurement and valuation still separate. The survey remains available when a named gap requires a particular mechanism; discovery breadth is not a reason to combine models.
+
 ## Related
 
 - [[prior-art]] — artistic precedents and the original academic-survey question
@@ -102,6 +107,8 @@ The difference is between how waiting feels and whether a meaningful participati
 - [[Q-004-unit-of-account]] — the unresolved quotation bridge
 
 ## Sources
+
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request; application choices and tests remain LLM proposals
 
 - [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
 

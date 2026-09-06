@@ -53,6 +53,14 @@ When adding a source, append one row to the table below and record the result of
 | `SRC-2026-09-06-academic-model-dialogue` | [raw/conversations/2026-09-06-academic-model-dialogue.md](conversations/2026-09-06-academic-model-dialogue.md) | conversation | 2026-09-06 | jointly-developed | `3209450b18ab30c63bb238798d506ce4163ed051` | 2026-09-06 | promoted (partial retrieval / compiled provenance disclosed) |
 | `SRC-2026-09-06-academic-model-continuation` | [raw/conversations/2026-09-06-academic-model-continuation.md](conversations/2026-09-06-academic-model-continuation.md) | conversation | 2026-09-06 | jointly-developed | `cef6ff121d4aca4cdd563c2bc5299585c6c0e99d` | 2026-09-06 | promoted (partial retrieval / compiled provenance disclosed) |
 | `SRC-2026-09-06-academic-model-recovered-excerpts` | [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](conversations/2026-09-06-academic-model-recovered-excerpts.md) | conversation | 2026-09-06 | jointly-developed | `faf7f71dd333cad4e58e472f862dd704c2a348b0` | 2026-09-06 | promoted (selected original message recovery) |
+| `SRC-2026-09-06-worldbuilding-roadmap-request` | [raw/documents/2026-09-06-worldbuilding-roadmap-request.md](documents/2026-09-06-worldbuilding-roadmap-request.md) | document | 2026-09-06 | user-originated | `c2f36030c87896f2773fd34e75cba21ad867c366` | 2026-09-06 | promoted (request only; design depth and roadmap remain LLM proposals) |
+
+| `SRC-2026-09-06-world-rules-letter-spec-request` | [raw/documents/2026-09-06-world-rules-letter-spec-request.md](documents/2026-09-06-world-rules-letter-spec-request.md) | document | 2026-09-06 | user-originated | `caafdfeb20586b467654a119ab9d5a55725bc371` | 2026-09-06 | promoted (exact request; world and LETTER design choices remain LLM proposals unless separately accepted) |
+| `SRC-2026-09-06-worldbuilding-roadmap-and-handoff` | [raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md](conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md) | conversation | 2026-09-06 | jointly-developed | `6a22a48044d40a7452563cd7448a29bbae6ad1c6` | 2026-09-06 | promoted (selected original messages; assistant-authored handoff distinct from later user-issued task request) |
+
+## Hash convention for the Korean CSV export
+
+The registered Korean CSV reader export uses `git hash-object --no-filters`, as already recorded in the earlier query and roadmap log entries. Its preserved bytes match `cb969b28567cc6c01c94e71629d2563459b5a3c8`; default Git line-ending normalization yields `ccb350ed9eb8377147a755ab2d5f7ad7e2795062`. Check this source using its registered unfiltered convention. The original and its registered hash are unchanged.
 
 ## Note on the survey sources
 

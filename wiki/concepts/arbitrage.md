@@ -3,6 +3,7 @@ status: working
 attribution: user-originated
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
   - SRC-2026-09-05-claude-critic-of-model
   - SRC-2026-09-05-price-formation-market-model
@@ -54,6 +55,12 @@ These are questions raised in the Wiki from registered material, not proposals f
 
 **Does an arbitrageur belong to this work's politics?** [[system-grammar]] holds that the system never understands emotion and that neither LONG nor SHORT is virtue. A participant who buys handwritten letters because they are cheap relative to model — not because they are loved — is the purest available expression of that rule. It is also the point at which the work's quiet bias could tip either way, which makes it material for [[Q-003-calibrating-the-bias]].
 
+## Evolution — concrete unit-dependent branches
+
+The world-rules/LETTER task now proposes specific holdings in [[Q-004-unit-of-account]] and separates market participants from research staff and viewers in [[world-rules]]. A funded future-practice claim can have finite collateral, an opposite claimant, a dated payoff, and a budget cost. A publication-only quotation has none of these holdings. Support certificates instead require a real in-world service promise and an explicit support-to-practice channel. These are alternatives, not adopted mechanisms.
+
+For the proposed funded branch, the gap between house estimate and market quote is a risky convergence thesis: the house may be wrong and has no authority to make its estimate true. A strict arbitrage example needs executable inconsistent prices for identical or complementary payouts, with fees, collateral, settlement and timing specified. Merely printing `F > P` does not establish that opportunity. The earlier text records the gap in the original corpus; the new candidates make it reviewable without claiming an implemented market.
+
 ## Related
 
 - [[pricing-model]]
@@ -65,6 +72,8 @@ These are questions raised in the Wiki from registered material, not proposals f
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request; application choices and tests remain LLM proposals
 
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
 - [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md

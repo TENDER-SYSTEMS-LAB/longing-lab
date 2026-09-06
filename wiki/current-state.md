@@ -3,6 +3,9 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-worldbuilding-roadmap-and-handoff
+  - SRC-2026-09-06-world-rules-letter-spec-request
+  - SRC-2026-09-06-worldbuilding-roadmap-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
   - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-06-cross-domain-model-survey
@@ -72,11 +75,17 @@ The project has moved from *how does the market inside it run* to *how can its f
 
 - **Cross-domain model discovery.** The later academic pass collected 120 works/projects: 117 substantive systems, one bibliographic lead, and two adjacent data mappings. It covers social behavior, designed institutions, natural systems, engineering, music, and art, with one-sentence targets and source links. It is not a full-text review, validation exercise, or adopted LONGING architecture. See [[academic-model-survey]].
 
-## Resume point — model application discussion
+## Resume point — world rules and LETTER specification
 
 The user endorses separating new starts and discontinuation and explicitly requires feedback. Particular loops, an n-item competition extension, synthetic-data generation and the price bridge remain unselected. The current scenario assumes real data may be unavailable, without permanently rejecting real data. Loewenstein and Rohlfs application clarifications are recorded as assistant proposals in [[academic-model-survey]].
 
-Continue with the user's three unanswered questions: **what should the equation compute; what increases or decreases it; how should strengths be set without real data?** The user wanted application clarification before answering. Preserve that order; do not treat illustrative teaching numbers as calibration. The partial API dialogue, compiled continuation, and subsequently recovered original recent messages are separately registered. The recovery supplies primary user-position evidence without rewriting the earlier records.
+The 2026-09-06 request now explicitly takes up roadmap stages 1 and 2 together. The user specifies the design target: numbers, reports, actions, and historical records encountered by the audience must arise from the same world rules. This selects the present work's scope; it does not confirm any proposed geography, instrument, coefficient, feedback loop, or delivery platform.
+
+Two reviewable drafts answer the previously unanswered application questions in order. [[world-rules]] specifies a proposed jurisdiction, institutional authority, actor knowledge, viewer persistence, and a first/return encounter; [[Q-004-unit-of-account]] compares concrete quotation, future-practice claim, and support-certificate branches. [[letter-practice-dynamics]] defines qualifying sends, ongoing episodes, first starts, interruptions, resumptions, causal inputs, candidate delayed feedback, and assumed parameter ranges. All new design choices remain **working / llm-proposed**. The fictional city and 10,000-adult closed cohort are a shared test assumption, not measured geography or an approved population.
+
+The LETTER arithmetic separates participation from weekly volume and demonstrates decline despite greater attention, followed by a response to improved conditions under the same rules. These are deterministic consistency examples, not fitted coefficients, a natural-data generator, an implemented market, or validation of the full factor architecture. [[Q-002-listing-lifecycle]] now separates practice status, observation availability, research coverage, and quotation/listing status. A missing observation does not establish disappearance.
+
+Next decisions are the represented population, the security unit/payoff, the practice/measurement boundary, the trial feedback path, and the observation-release and correction contract. Only then can stage 3 specify valuation, forecasts, weekly price formation, finite positions, settlement, and index rolls. The unit-review alternatives are prepared; no external review round has been dispatched. Practice feedback and viewer influence on price remain separate choices. Earlier partial and recovered dialogue records remain preserved with their provenance limits.
 
 ## Unknown
 
@@ -90,11 +99,19 @@ Continue with the user's three unanswered questions: **what should the equation 
 - **Trademark, domain, and existing-work collision check on the name LONGING** — planned in the first conversation, never carried out.
 - **Medium and delivery**: mobile-first was the starting assumption; no platform, technology, or exhibition context has been decided.
 
+## Proposed world-building scope and roadmap
+
+The originating assessment and assistant-authored handoff prompt are now preserved in [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]]. They document how the later user-issued world-rules/LETTER task was prepared, not a new adoption of mechanisms or a return to the earlier resume point. The current drafts and next-decision gates above remain the latest checkpoint.
+
+The user has asked to assess design progress and set the depth of the world before making a work roadmap. [[worldbuilding-roadmap]] provides that assessment and a proposed boundary: specify the operating rules behind the first release's visible claims and actions, then demonstrate a connected publication cycle and its exceptions. The premise and market architecture are developed; the unit, actor roles, practice dynamics, information failures, lifecycle, and executable specification still need to be connected.
+
+The proposed order is world scope and security meaning → practice dynamics → information/institution/price rules → factor and universe trials → a connected publication sample → audience experience and sustained operation. The original depth, sequence, and sample scope were `llm-proposed`; the new request now uses the consistency target and first two stages as the present task, producing [[world-rules]] and [[letter-practice-dynamics]]. The remaining sequence and twelve-week sample are still proposals. No review services were contacted or market model implemented in preparing these drafts.
+
 ## Next steps proposed in the sources
 
 The 2026-09-05 conversation opened by proposing this order: price formation → listing lifecycle → complete `LETTER` as a single reference security → index methodology → the first home and security screens → expand the universe. Price formation has since been worked through in architecture. The first review round recommended removing before building; the second says complexity may be restored after causal identification, and one review (Claude) argues that the security universe must expand before a large factor model can be identified.
 
-Building one security completely — rather than sketching thirty — remains the standing proposal for what comes next. It is `llm-proposed`; the user has not confirmed an order.
+The earlier proposal was to complete one reference security before sketching a large universe. The new request now authorizes world rules and LETTER practice dynamics together, while explicitly stating that LETTER does not validate the full factor structure. Pricing, factor/universe trials, and publication implementation remain subsequent work.
 
 Three work items set by the user on 2026-09-06, `user-originated`; the initial academic survey is now recorded, with remaining gaps below. This completed failure-profile collection uses the previously registered prompts; it does not cover the separate unit review or academic survey, and those prompts do not explicitly carry the later factor-count positions:
 
@@ -123,6 +140,12 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 **The second-round Qwen source was re-captured, not revised.** Its first registration ended mid-expression; the current file is the complete response, registered under the same source ID with the superseded hash retained in `raw/sources.md` and the correction recorded in `wiki/log.md`.
 
 ## Sources
+
+- [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]] — raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md; original roadmap assessment and handoff exchange; retrospective provenance, not a replacement for the later world/LETTER checkpoint
+
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact request selecting the present design scope and constraints; proposed mechanisms remain unconfirmed
+
+- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — raw/documents/2026-09-06-worldbuilding-roadmap-request.md; exact request for an assessment, target world-building depth, and roadmap; proposed answers remain unconfirmed
 
 - [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
 

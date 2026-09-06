@@ -15,6 +15,9 @@ This is the Wiki's working content catalog. Excluding the index itself, every Wi
 |---|---|
 | Overall definition and central principles of the project | [[overview]] |
 | Latest snapshot of decisions, current scope, and priorities | [[current-state]] |
+| Design readiness, target world-building depth, and proposed work sequence | [[worldbuilding-roadmap]] |
+| Provisional jurisdiction, institutional powers, actors, audience memory, and unit branches | [[world-rules]] |
+| LETTER practice boundary, starts/stops, feedback, and no-data effect assumptions | [[letter-practice-dynamics]] |
 | An idea that develops across several areas | Relevant `wiki/concepts/` page |
 | A choice explicitly decided by the user and its rationale | Relevant `wiki/decisions/` page |
 | An unanswered question that remains under review | Relevant `wiki/questions/` page |
@@ -26,23 +29,27 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — LONGING as a fictional research house tracking the conditions of human experience modernization is removing · `working` (2026-09-04)
-- [[current-state]] — Snapshot of reviews and research, user-required participation flows and feedback, and the unanswered resume questions · `working` (2026-09-06)
+- [[current-state]] — Snapshot of decisions, the world/LETTER drafts, unselected assumptions, and gates before information and price design · `working` (2026-09-06)
 
 ## Concepts
 
+- [[worldbuilding-roadmap]] — Design-readiness assessment, handoff provenance, stage 1–2 draft checkpoint, and proposed later dependencies and release gates · `working` (2026-09-06)
+- [[world-rules]] — Proposed city/cohort, institutional authority, unit branches, actor knowledge, publication memory, and audience encounter · `working` (2026-09-06)
+- [[letter-practice-dynamics]] — Proposed LETTER boundary, episode stocks and send flows, causal conditions, feedback, assumed strengths, and scenario checks · `working` (2026-09-06)
+
 - [[dataset-backtesting-survey]] — 23 dataset families and Kaggle routes mapped to behavior, observation and mechanism tests, with access limits and unconfirmed priorities · `working` (2026-09-06)
 
-- [[academic-model-survey]] — Six model cards, 120-entry discovery map and subsequent user directions versus proposed applications · `working` (2026-09-06)
+- [[academic-model-survey]] — Six model cards, 120-entry discovery map, user directions, and the separate unadopted LETTER application draft · `working` (2026-09-06)
 
 - [[index-architecture]] — LNGI and six condition-based sub-indices, the contrast indicators now promoted to macro variables, and how securities are listed across them · `working` (2026-09-06)
-- [[pricing-model]] — Price architecture, failure reviews, and the new participation/feedback directions with unresolved design questions · `working` (2026-09-06)
+- [[pricing-model]] — Price architecture and failure reviews, now connected to the proposed LETTER state specification and unit-dependent price bridge · `working` (2026-09-06)
 - [[model-review-consensus]] — What the first seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
 - [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, where Qwen dissents toward reduction, and the transition to fixed-set failure review · `working` (2026-09-06)
 - [[factor-set-failure-profile-review]] — Eight third-round reviews of six fixed sets: conditional failure costs, disagreements, source limitations, and tests proposed but not run · `working` (2026-09-06)
 - [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, and the distinction between exact accounting and causal recovery · `working` (2026-09-06)
-- [[arbitrage]] — Arbitrage as a world-building question: the corpus has limits to arbitrage but no arbitrageur, no counterparty, and nothing finite to hold · `working` (2026-09-06)
+- [[arbitrage]] — Arbitrage as a world-building question, with proposed unit-dependent holdings and the distinction between risky convergence and executable payout discrepancies · `working` (2026-09-06)
 - [[information-quality]] — News as reports about events rather than events: misreporting, over- and under-reporting, and rumour ahead of disclosure · `working` (2026-09-06)
-- [[data-sources]] — Behavior/attention/discourse separation, candidate sources and the current no-real-data design scenario · `working` (2026-09-06)
+- [[data-sources]] — Behavior/attention/discourse separation, candidate sources, and modeled-versus-observed boundaries in the world/LETTER trial · `working` (2026-09-06)
 - [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-05)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
 - [[prior-art]] — Artistic precedents, three official-page refreshes, and evolution through two academic surveys · `working` (2026-09-06)
@@ -57,10 +64,10 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Open Questions
 
-- [[Q-001-price-formation]] — Where every price and index value comes from: mechanism now answered in architecture, specification and unit still open after the fixed-set failure review · `working` (2026-09-06)
-- [[Q-002-listing-lifecycle]] — Who lists a romance, whether scarcity raises or lowers price, and what delisting and relisting mean · `unknown` (2026-09-04)
+- [[Q-001-price-formation]] — Price architecture with unresolved unit, observation, valuation, and market rules after the world/LETTER draft · `working` (2026-09-06)
+- [[Q-002-listing-lifecycle]] — Proposed independent practice, observation, coverage, and listing states, including absence, delisting, and return · `working` (2026-09-06)
 - [[Q-003-calibrating-the-bias]] — How far the tilt toward the human can go before the work stops asking and starts arguing · `working` (2026-09-05)
-- [[Q-004-unit-of-account]] — What one unit of a security is a claim on, what replaces market capitalization, and the user's direction to put it to the review models · `unknown` (2026-09-06)
+- [[Q-004-unit-of-account]] — Concrete quotation, forecast-claim, and support-entitlement alternatives with price, index, positioning, arbitrage, and artistic consequences · `working` (2026-09-06)
 
 ## Activity
 

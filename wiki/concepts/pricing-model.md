@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
   - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-05-price-formation-market-model
@@ -222,6 +223,12 @@ The user considers the exclusive two-option competition model difficult to apply
 
 The next conversation must answer three questions, still unanswered: **what outcome does the equation compute; what increases or decreases it; and how are strengths set without real data?** The user intends to answer after application clarifications, now recorded in [[academic-model-survey]]. No security unit, price bridge, factor set or implementation has been approved.
 
+## Evolution — practice specification before valuation
+
+The next user request takes up world rules and LETTER practice dynamics explicitly. [[letter-practice-dynamics]] now supplies proposed answers to the three application questions: episode stocks and dispatch flows, causal conditions and delayed feedback, and bounded assumptions without real-data calibration. The preceding "still unanswered" description records the earlier discussion state; the present task has produced candidate answers, not user adoption.
+
+[[world-rules]] and [[Q-004-unit-of-account]] distinguish a published quotation from funded fictional future-practice claims and support certificates. The actor/unit choice constrains what this page can call price, positioning, covering, and convergence. None of these alternatives licenses a fixed negative drift or an automatic audience-vote effect. The next price specification must consume an observation/estimate of practice, not access author-only state or turn an attention series into behavior.
+
 ## Related
 
 - [[factor-set-failure-profile-review]]
@@ -241,6 +248,8 @@ The next conversation must answer three questions, still unanswered: **what outc
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request; application choices and tests remain LLM proposals
 
 - [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
 

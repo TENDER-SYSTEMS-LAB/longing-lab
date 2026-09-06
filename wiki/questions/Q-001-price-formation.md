@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -83,6 +84,10 @@ Also settled here by the user, and recorded as decisions rather than answers to 
 
 Eight complete responses now compare the fixed sets in [[factor-set-failure-profile-review]]. They provide conditional failure profiles and proposed experiments, not a selected specification. Exact accounting does not establish causal identification, and the absence of a named common factor does not eliminate allowed fundamentals or positioning. No factor-count cap or measured test verdict follows from this collection. The user's later position that factors may outnumber securities remains current; the registered round-3 prompts did not explicitly include it. The separate unit-of-account review remains outstanding.
 
+## Evolution — world and practice draft before the price bridge
+
+The current task supplies [[world-rules]], concrete unit alternatives in [[Q-004-unit-of-account]], and [[letter-practice-dynamics]]. The causal trial stops at practice and the institutional observation/estimate boundary. No weekly pricing formula or adopted unit follows. Stage 3 must choose the count or persistence quantity being valued, observation timing and revision treatment, payoff/quote meaning, analyst influence, finite market resources, and index/expiry continuity before this question can close. The illustrative practice arithmetic establishes neither a price history nor an identified factor architecture.
+
 ## Related
 
 - [[factor-set-failure-profile-review]]
@@ -101,6 +106,8 @@ Eight complete responses now compare the fixed sets in [[factor-set-failure-prof
 - [[attribution-ledger]]
 
 ## Sources
+
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request; application choices and tests remain LLM proposals
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
 - [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
@@ -123,4 +130,4 @@ Eight complete responses now compare the fixed sets in [[factor-set-failure-prof
 - [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
 - [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
 - [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/surveys/2026-09-06-arbitrage-news-quality-and-next-work-items.md
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md

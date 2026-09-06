@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
   - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-06-dataset-backtesting-research
@@ -84,6 +85,10 @@ The latest user discussion explicitly designs for the case where real data canno
 
 The assistant proposes generating conditions, then starts and stops, participation, and only subsequently valuation/price. This is `llm-proposed`. Pedagogical numbers in the model explanations are illustrative and must not become empirical calibration. Synthetic results must retain the existing modeled/editorial provenance distinction. The questions of computed outcome, causal direction and effect strength remain open in [[pricing-model]].
 
+## Evolution — source status in the world/LETTER trial
+
+[[world-rules]] proposes a fictional contemporary city and bounded cohort for the current no-real-data scenario. [[letter-practice-dynamics]] distinguishes authored underlying state, depicted reports, institutional estimates, and actual viewer responses. Fictional observations remain `MODELED` to the audience even when a fictional desk describes them as reported counts. No new external dataset or natural-data generator is adopted. The draft's physical dispatch count is narrower than postal volume; its latent ongoing-episode count also requires a separate measurement rule. Actual viewer participation remains a separate layer and cannot establish practice prevalence.
+
 ## Related
 
 - [[dataset-backtesting-survey]] — 23 dataset families, Kaggle routes, access limitations and proposed component-level backtests; no data fitted
@@ -93,6 +98,8 @@ The assistant proposes generating conditions, then starts and stops, participati
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request; application choices and tests remain LLM proposals
 
 - [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
 
