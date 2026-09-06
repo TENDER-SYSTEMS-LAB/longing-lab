@@ -23,6 +23,8 @@ This directory is the Source of Truth. It preserves originals unchanged: convers
 ## Rules
 
 - Never edit or delete a registered source. If a correction is needed, register the corrected version as a separate source.
-- A registered file that turns out to be an incomplete or corrupted capture of its original is a capture failure, not a revision of the evidence. Replace the file with a correct capture under the same source ID, update the hash, and record the superseded hash and the reason in `wiki/log.md`. This exception applies only when no Wiki material has been promoted from the defective capture. If any has, register the corrected capture as a separate revision source instead so the earlier basis stays traceable.
+- An incomplete or corrupted capture also requires a separately registered correction; preserve the earlier source and explain the relationship in its registry note.
 - Registered sources keep their original language. The repository's English-default policy applies to the Wiki, not to evidence.
 - Registration is not promotion. A source enters the Wiki only when the promotion rules in [`../schema.md`](../schema.md) are satisfied.
+
+For routine work, follow [AGENTS — Verification](../AGENTS.md#verification). Hash only the new source being registered; do not load the full source table or recheck unchanged originals.

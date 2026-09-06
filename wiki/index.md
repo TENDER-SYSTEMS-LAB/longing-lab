@@ -76,10 +76,10 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Repository Control
 
 - [README](../README.md) — Entry point describing the project and the repository (2026-09-04)
-- [AGENTS](../AGENTS.md) — Reading, language, ingestion, verification, and institutional Git identity rules for agents (2026-09-04)
-- [Schema](../schema.md) — Page taxonomy, status, attribution, provenance, language, and maintenance rules (2026-09-07)
-- [Raw README](../raw/README.md) — How to add and preserve original source material (2026-09-06)
-- [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-06)
+- [AGENTS](../AGENTS.md) — Task-sized reading, scoped verification, source preservation, institutional Git identity, and standing push authorization (2026-09-07)
+- [Schema](../schema.md) — On-demand page structure, attribution, provenance, catalog, and maintenance reference (2026-09-07)
+- [Raw README](../raw/README.md) — New-source registration, immutable originals, and targeted lookup guidance (2026-09-07)
+- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-07)
 
 ## Page Creation Gates
 

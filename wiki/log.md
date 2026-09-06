@@ -243,3 +243,13 @@ Reviewed the pending source-link maintenance for handoff. The preceding lint ent
 Updated the 28 edited pages' dates and synchronized their catalog entries, the schema entry, and the activity date. All 29 non-index Wiki pages remain cataloged exactly once with their existing summaries and statuses. No project claim, attribution, or decision changed.
 
 Checked maintained-document local links, Wiki links and registered source identifiers, the unchanged existing log prefix, and the whitespace diff. `git status --porcelain raw/` was empty; no registered original was modified and no full hash audit was repeated.
+
+## [2026-09-07] maintenance | Reduce routine context and verification work
+
+Replaced mandatory full-file startup with targeted catalog/page reading and on-demand schema, source, and history lookup. Shortened agent instructions while retaining institutional commit identity and each repository's standing push authorization. Removed the schema's conflicting periodic hash-audit rule: register a new source's hash once, inspect changed raw paths for routine edits, and reserve a complete provenance audit for an explicit request.
+
+Scoped lint and catalog updates to affected material and limited logging to durable results. Kept raw guides procedural and source-registry rows unchanged; registered originals and previous log entries are preserved. Updated only the affected repository-control catalog entries. Git-only work can reuse an unchanged completed review.
+
+Removed the raw guide's conflicting in-place replacement exception for defective captures; a correction is a separate registered source.
+
+Aligned the ChatGPT capture note in `raw/sources.md` with that correction policy; its source row, hash, and original file are unchanged.

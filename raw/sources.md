@@ -4,7 +4,9 @@ This document is the registry for every raw source. It tracks each source's ID, 
 
 ## Registration
 
-When adding a source, append one row to the table below and record the result of `git hash-object <path>` in the `Hash` column. If a later hash differs from the registered value, the original has changed. Do not update the Wiki automatically. Mark the pages that rely on the source `REVIEW_REQUIRED` so that a person can review them again.
+When adding a source, append its row and record `git hash-object <path>` once in the `Hash` column. Preserve that hash as provenance.
+
+For a lookup or suspected mismatch, search only the source ID/path and its capture note. Do not load this entire table or compare all hashes for routine tasks. Follow [AGENTS — Verification](../AGENTS.md#verification): inspect changed raw paths with Git; an explicitly requested provenance audit is a separate task.
 
 ## Source List
 
@@ -60,7 +62,7 @@ When adding a source, append one row to the table below and record the result of
 
 ## Hash convention
 
-Every hash in the table above is the source's Git blob hash, and `.gitattributes` keeps the working copy byte-identical to it: Markdown originals are stored and checked out with LF, and `*.csv` is marked `-text` so the Korean reader export keeps the CRLF bytes it was delivered with. Plain `git hash-object <path>` therefore reproduces all 44 registered hashes.
+Every hash in the table above is the source's Git blob hash, and `.gitattributes` keeps the working copy byte-identical to it: Markdown originals are stored and checked out with LF, and `*.csv` is marked `-text` so the Korean reader export keeps the CRLF bytes it was delivered with. Use plain `git hash-object <path>` for a newly registered source; the registry is the authority for the current source set.
 
 The `--no-filters` exception recorded here previously is no longer needed. It existed because the working copies of the LF-stored Markdown originals carried CRLF while the CSV was stored as delivered, so the two required different commands. `ccb350ed9eb8377147a755ab2d5f7ad7e2795062` is the value line-ending normalization would produce for that CSV; it is kept here only so the earlier query and roadmap log entries stay readable. No original and no registered hash changed.
 
@@ -78,7 +80,7 @@ The third round asks a different question from the first two. It does not ask fo
 
 The prompt exists in two registered versions. Version 1 is what the ChatGPT response was produced against. Its SET B heading read `12 priced factors` while a note stated that two of those twelve run unpriced initially, and the ChatGPT response records its own resolution of that tension in its Refusals section. Version 2 clarifies the heading and states the execution rule explicitly. The other seven completed reviews were collected against version 2, so the round spans two prompt versions and the difference is registered rather than hidden. All eight accepted reviews and the prompt/follow-up provenance are now promoted into `wiki/concepts/factor-set-failure-profile-review.md`; no factor set or repair has been adopted.
 
-The ChatGPT original was captured from the response as pasted into the working conversation rather than from a direct export. If a direct export becomes available and differs, treat the current file as a defective capture under the rule in `raw/README.md` and correct it in place under the same source ID.
+The ChatGPT original was captured from the response as pasted into the working conversation rather than from a direct export. If a direct export becomes available and differs, register it as a separate revision source under the rule in `raw/README.md`. Preserve this capture and its registered hash, and document the relationship between the two sources.
 
 ### Third-round collection provenance
 
