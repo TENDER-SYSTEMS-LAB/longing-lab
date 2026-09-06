@@ -3,6 +3,9 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-cross-domain-model-survey
+  - SRC-2026-09-06-dataset-backtesting-research
+  - SRC-2026-09-06-academic-model-research-notes
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -22,11 +25,16 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
+  - SRC-2026-09-06-factor-set-failure-profile-prompt-v2
+  - SRC-2026-09-06-factor-set-failure-profile-chatgpt
+  - SRC-2026-09-06-factor-set-failure-profile-glm
 ---
 
 # Current State
 
-Nineteen sources are registered (excluding the two third-round prompt versions and the ChatGPT third-round response, which remain `raw-only`). The first nine established the concept, built the initial market model, and subjected that model to seven independent reviews. Eight further files comprise a working factor-framework conversation, its registered review prompt, and six second-round model responses; all six are verified and promoted into the Wiki. Two further 2026-09-06 conversation records sit outside the review sequence: the first works on the published weekly attribution ledger itself rather than on model output and settles how many lines it carries as the universe grows; the second opens two new mechanisms — arbitrage and news quality — and sets three work items. Qwen's second-round response required a re-capture on 2026-09-06: its first registration was a defective capture that ended mid-expression partway through the response, and the user replaced it with the complete response — a capture correction rather than a change to the evidence, recorded in `raw/sources.md` and in `wiki/log.md`.
+The source registry is maintained in `raw/sources.md`. Two additional sources preserve the exact broad-survey request and a 120-entry cross-domain discovery catalog; they add research coverage, not a model decision. The dataset research source records the initial dataset-backtesting survey: 23 dataset families, six Kaggle routes, access limits and proposed component tests; no dataset was downloaded or fitted. Two added sources record the initial academic-model survey and its compiled task brief. The promoted corpus includes the first two review rounds and their working conversations, two separate 2026-09-06 user-position records, and the completed third round: eight accepted reviews, two prompt versions, and a collection follow-up record. Gemini's first third-round response remains raw-only because it omitted required event coverage; its separately preserved complete replacement is used in the synthesis. The earlier second-round Qwen capture correction remains documented in `raw/sources.md` and `wiki/log.md`.
+
+The third round maps the costs of six fixed factor sets without choosing one. It adds conditional event and attribution hypotheses, disputed artistic costs, and proposed tests; no simulation or exposure-matrix result has been established. See [[factor-set-failure-profile-review]].
 
 The project has moved from *how does the market inside it run* to *how can its factor architecture become rich without becoming causally redundant or theatrically precise*, and now also has a settled rule for how the audience-facing ledger's resolution grows alongside that architecture.
 
@@ -47,6 +55,7 @@ The project has moved from *how does the market inside it run* to *how can its f
 - **The market architecture.** Fundamental Value and Market Price as two displayed numbers whose gap is the system's most informative output; monthly research setting an anchor; weekly events moving price around it; macro-like structural factors moving whole groups of securities with no security-specific news; consensus and positioning as separate variables, so a crowded bearish market can rally violently on a small positive shock. See [[pricing-model]].
 - **The first seven-model review.** Where seven independent reviews converged, and where they split. Their unanimous verdict was that the path to a credible V1 is *reduction*: collapse the original macro factors, delete the consensus composite, and remove excess market machinery from the first version. See [[model-review-consensus]].
 - **The factor architecture has entered a second working phase.** The new framework accepts the first review's collinearity diagnosis but rejects minimal factor count as the goal. Complexity may return only through a hierarchy of observables, structurally identified factors, security-specific fundamentals, valuation regimes, and positioning. Six verified second-round reviews support the reframing while disagreeing on the final factor set; Qwen dissents toward reduction, collapsing the candidate pool to five core factors on parsimony grounds. See [[factor-architecture-review-consensus]].
+- **The third failure-profile round is collected and ingested.** Eight complete reviews compare A–F on the fixed eleven-security exercise. The synthesis distinguishes accounting from identification, retains conflicting mispricing directions, and qualifies claims that overlook fundamentals or positioning. No preferred architecture, repair, or new confirmed decision results. See [[factor-set-failure-profile-review]].
 - **Data layering.** Behavior, attention, and discourse kept strictly apart rather than blended into one score — the separation is what produces the work's central paradox, that people talk about letters more and write fewer of them. No source has been secured. See [[data-sources]].
 - **Index architecture**, with the contrast indicators now promoted from display elements to macro variables carrying signed exposures. The promotion is accepted in principle; the seven-factor set is rejected by every review. See [[index-architecture]].
 - **Analyst system**, now mechanically load-bearing: targets, conviction-weighted consensus, credibility scored on the record. See [[analyst-system]].
@@ -58,6 +67,8 @@ The project has moved from *how does the market inside it run* to *how can its f
 - **Arbitrage as a world-building element.** The user's stated interest is both in arbitrage as a market mechanism and in what it turns out to *be* inside a market whose securities are human practices. The corpus already holds limits to arbitrage — Claude's crowding-scaled `κ` — but nothing that depicts an arbitrageur, names a counterparty, or says what holding a position costs. Recorded as `user-originated` and `working`; no mechanism was proposed by either party. It gives [[Q-004-unit-of-account]] a second dependant, since a position needs something finite to hold. See [[arbitrage]].
 - **News quality as a modelled layer.** The user's position is that the event layer models facts arriving while real news also misreports, over- and under-reports, and leaks ahead of disclosure. Misreporting and pre-circulating rumour have no representation anywhere in the corpus; the existing confidence rule models uncertainty about an event that is nonetheless true. Recorded as `user-originated` and `working`; no mechanism was proposed. See [[information-quality]].
 - **Deliberately provoking `Unexplained` during design.** The user's stated intent is to find as many unattributable events as possible while the work is still being designed, in order to discover which of them are factors worth promoting — a design-stage instrument, not (yet) a display decision. Recorded as `user-originated` and `working`, since the mechanism for doing this is still `llm-proposed`. See [[attribution-ledger]].
+
+- **Cross-domain model discovery.** The later academic pass collected 120 works/projects: 117 substantive systems, one bibliographic lead, and two adjacent data mappings. It covers social behavior, designed institutions, natural systems, engineering, music, and art, with one-sentence targets and source links. It is not a full-text review, validation exercise, or adopted LONGING architecture. See [[academic-model-survey]].
 
 ## Unknown
 
@@ -77,11 +88,13 @@ The 2026-09-05 conversation opened by proposing this order: price formation → 
 
 Building one security completely — rather than sketching thirty — remains the standing proposal for what comes next. It is `llm-proposed`; the user has not confirmed an order.
 
-Three work items set by the user on 2026-09-06, `user-originated` and none yet started:
+Three work items set by the user on 2026-09-06, `user-originated`; the initial academic survey is now recorded, with remaining gaps below. This completed failure-profile collection uses the previously registered prompts; it does not cover the separate unit review or academic survey, and those prompts do not explicitly carry the later factor-count positions:
 
 1. **Put [[Q-004-unit-of-account]] to the review models** as its own round, in the way the pricing model and the factor architecture were.
 2. **Carry two positions into the next modelling round as stated context** — that factors may outnumber securities, and that listing choice determines which factors can exist. See [[DEC-005-ledger-resolution-scales-with-universe]].
-3. **Survey academic prior art.** Determine whether what the work is modelling already has a name, a literature, and known failure modes. Nothing in the repository has looked; [[prior-art]] covers comparable artworks only. See the `Academic prior art` section there.
+3. **Survey academic prior art.** A first pass is complete in [[academic-model-survey]]: six explicit models and a mechanism-identification critique, with primary references and estimated versus assumed values. All applications remain LLM proposals. Cultural transmission, infrastructure retirement, chance encounters, contested value, and index measurement remain literature gaps; no factor set or price bridge is adopted.
+
+An initial dataset investigation requested by the user is now recorded in [[dataset-backtesting-survey]]. Collection priorities and experimental designs remain LLM proposals. The survey distinguishes behavior validation, observation-layer checks and external mechanism benchmarks from an empirical LONGING price backtest; the price unit and valuation bridge remain unresolved.
 
 ## Deferred
 
@@ -91,7 +104,9 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 
 ## Provenance warnings
 
-**Single-source dependency has partly eased, and not everywhere.** [[overview]], [[system-grammar]], [[prior-art]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] still rest entirely on the first conversation. All claims about OTHER GOODS and every comparable work in [[prior-art]] reach this repository only through it and remain unverified here.
+**The third round has capture and framing differences.** ChatGPT uses v1; the other seven use v2. Gemini's incomplete-coverage original is superseded for synthesis by a separate complete response. Qwen and Kimi were rewritten after truncation, and Kimi displayed an automatic K2.6 Instant fallback despite an unchanged selected mode. Detailed provenance is in `raw/sources.md`. Review agreement remains a hypothesis, not measured validation or a user decision.
+
+**Single-source dependency has partly eased, and not everywhere.** [[overview]], [[system-grammar]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] still depend on the first conversation. Claims about OTHER GOODS remain conversation-derived. [[prior-art]] now also draws on both academic surveys: official descriptions of three market artworks were checked in the broad pass, while the remaining historic details and comparative interpretations retain their stated provenance limits.
 
 **The review prompt is not registered.** The seven surveys respond to `LONGING_market_pricing_model_review_prompt.md`, which is not in `raw/`. Everything the surveys say about what was asked is a secondary citation.
 
@@ -100,6 +115,12 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 **The second-round Qwen source was re-captured, not revised.** Its first registration ended mid-expression; the current file is the complete response, registered under the same source ID with the superseded hash retained in `raw/sources.md` and the correction recorded in `wiki/log.md`.
 
 ## Sources
+
+- [[SRC-2026-09-06-cross-domain-model-survey]] — raw/surveys/2026-09-06-cross-domain-model-survey.md; original discovery catalog based on linked external sources
+
+- [[SRC-2026-09-06-dataset-backtesting-research]] — raw/surveys/2026-09-06-dataset-backtesting-research.md
+
+- [[SRC-2026-09-06-academic-model-research-notes]] — raw/surveys/2026-09-06-academic-model-research-notes.md
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
 - [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
@@ -120,3 +141,6 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
 - [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md

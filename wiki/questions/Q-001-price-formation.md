@@ -21,6 +21,10 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
+  - SRC-2026-09-06-factor-set-failure-profile-prompt-v2
+  - SRC-2026-09-06-factor-set-failure-profile-chatgpt
+  - SRC-2026-09-06-factor-set-failure-profile-glm
+  - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
 ---
 
 # Q-001 — How is a price determined?
@@ -75,7 +79,13 @@ Also settled here by the user, and recorded as decisions rather than answers to 
 - The unit and the currency.
 - The flagship index formula, which still waits on [[Q-004-unit-of-account]] rather than on this page.
 
+## Evolution — third-round collection completed
+
+Eight complete responses now compare the fixed sets in [[factor-set-failure-profile-review]]. They provide conditional failure profiles and proposed experiments, not a selected specification. Exact accounting does not establish causal identification, and the absence of a named common factor does not eliminate allowed fundamentals or positioning. No factor-count cap or measured test verdict follows from this collection. The user's later position that factors may outnumber securities remains current; the registered round-3 prompts did not explicitly include it. The separate unit-of-account review remains outstanding.
+
 ## Related
+
+- [[factor-set-failure-profile-review]]
 
 - [[pricing-model]]
 - [[model-review-consensus]]
@@ -110,3 +120,7 @@ Also settled here by the user, and recorded as decisions rather than answers to 
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
 - [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/surveys/2026-09-06-arbitrage-news-quality-and-next-work-items.md

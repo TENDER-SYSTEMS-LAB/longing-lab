@@ -26,21 +26,26 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — LONGING as a fictional research house tracking the conditions of human experience modernization is removing · `working` (2026-09-04)
-- [[current-state]] — Snapshot of confirmed, working, and unresolved project state after two pricing-model review rounds · `working` (2026-09-06)
+- [[current-state]] — Snapshot after three pricing-model review rounds and the initial academic-model and dataset surveys · `working` (2026-09-06)
 
 ## Concepts
 
+- [[dataset-backtesting-survey]] — 23 dataset families and Kaggle routes mapped to behavior, observation and mechanism tests, with access limits and unconfirmed priorities · `working` (2026-09-06)
+
+- [[academic-model-survey]] — Six detailed model cards plus a 120-entry cross-domain discovery map with explicit evidence limits · `working` (2026-09-06)
+
 - [[index-architecture]] — LNGI and six condition-based sub-indices, the contrast indicators now promoted to macro variables, and how securities are listed across them · `working` (2026-09-06)
-- [[pricing-model]] — How a price is produced, including the evolution from a reduced macro layer toward hierarchical, identified complexity · `working` (2026-09-06)
+- [[pricing-model]] — How a price is produced, from reduction to hierarchical complexity and conditional failure profiles · `working` (2026-09-06)
 - [[model-review-consensus]] — What the first seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
-- [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, and where Qwen dissents toward reduction · `working` (2026-09-06)
-- [[attribution-ledger]] — The weekly published decomposition itself: the worked ledger, its three layers, and what an unrouted event means · `working` (2026-09-06)
+- [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, where Qwen dissents toward reduction, and the transition to fixed-set failure review · `working` (2026-09-06)
+- [[factor-set-failure-profile-review]] — Eight third-round reviews of six fixed sets: conditional failure costs, disagreements, source limitations, and tests proposed but not run · `working` (2026-09-06)
+- [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, and the distinction between exact accounting and causal recovery · `working` (2026-09-06)
 - [[arbitrage]] — Arbitrage as a world-building question: the corpus has limits to arbitrage but no arbitrageur, no counterparty, and nothing finite to hold · `working` (2026-09-06)
 - [[information-quality]] — News as reports about events rather than events: misreporting, over- and under-reporting, and rumour ahead of disclosure · `working` (2026-09-06)
-- [[data-sources]] — Behavior, attention, and discourse kept apart; candidate real-world sources and the honesty rules that govern them · `working` (2026-09-05)
+- [[data-sources]] — Behavior, attention, and discourse kept apart; candidate real-world sources, honesty rules and the dataset-backtesting survey · `working` (2026-09-06)
 - [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-05)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
-- [[prior-art]] — Comparable works from Benayoun onward, the two rules that keep LONGING distinct, and an unsurveyed academic literature · `working` (2026-09-06)
+- [[prior-art]] — Artistic precedents, three official-page refreshes, and evolution through two academic surveys · `working` (2026-09-06)
 
 ## Decisions
 
@@ -52,7 +57,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Open Questions
 
-- [[Q-001-price-formation]] — Where every price and index value comes from: mechanism now answered in architecture, specification and unit still open · `working` (2026-09-06)
+- [[Q-001-price-formation]] — Where every price and index value comes from: mechanism now answered in architecture, specification and unit still open after the fixed-set failure review · `working` (2026-09-06)
 - [[Q-002-listing-lifecycle]] — Who lists a romance, whether scarcity raises or lowers price, and what delisting and relisting mean · `unknown` (2026-09-04)
 - [[Q-003-calibrating-the-bias]] — How far the tilt toward the human can go before the work stops asking and starts arguing · `working` (2026-09-05)
 - [[Q-004-unit-of-account]] — What one unit of a security is a claim on, what replaces market capitalization, and the user's direction to put it to the review models · `unknown` (2026-09-06)
@@ -75,3 +80,5 @@ Before creating a page, check this catalog to see whether an existing page can b
 - Do not duplicate a per-source raw catalog here. Use the [Raw Source Index](../raw/sources.md) as the single registry.
 - Several pages still rest on a single source. [[overview]], [[system-grammar]], [[prior-art]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] depend entirely on the 2026-09-04 concept conversation.
 - The seven `critic-of-model` surveys are `llm-proposed` throughout. Their agreement is evidence about the model, never a user decision — do not promote a converged recommendation to `confirmed` without the user. The six second-round Pricing Model v2 factor reviews are `llm-proposed` on the same terms; all six (Claude, DeepSeek, Gemini, GLM, Grok, Qwen) are hash-verified and synthesized in [[factor-architecture-review-consensus]]. Qwen's source was re-registered on 2026-09-06 after its first capture was found defective — it ended mid-expression partway through the response — and is now verified under the same source ID.
+
+The eight accepted third-round reviews are synthesized in [[factor-set-failure-profile-review]] with the same `llm-proposed` boundary. No factor set or repair has been selected; initial Gemini coverage was superseded by a separate complete response, and all capture differences are recorded in the raw registry.

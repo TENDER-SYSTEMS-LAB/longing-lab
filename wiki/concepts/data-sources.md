@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-dataset-backtesting-research
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
   - SRC-2026-09-05-glm-critic-of-model
@@ -77,11 +78,15 @@ Presence = Postal Data 60% + Survey 20% + Editorial Model 20%
 
 ## Related
 
+- [[dataset-backtesting-survey]] — 23 dataset families, Kaggle routes, access limitations and proposed component-level backtests; no data fitted
+
 - [[pricing-model]]
 - [[Q-001-price-formation]]
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-06-dataset-backtesting-research]] — raw/surveys/2026-09-06-dataset-backtesting-research.md
 
 - [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
 - [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md

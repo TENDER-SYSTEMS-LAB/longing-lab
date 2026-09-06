@@ -13,6 +13,9 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
+  - SRC-2026-09-06-factor-set-failure-profile-prompt-v2
+  - SRC-2026-09-06-factor-set-failure-profile-chatgpt
+  - SRC-2026-09-06-factor-set-failure-profile-glm
 ---
 
 # Attribution Ledger
@@ -81,7 +84,15 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 - Whether a per-factor separability test — a factor earns a ledger line when at least one security in the universe responds to it differently from every other factor — replaces the earlier working ratio of roughly one factor per three securities. Proposed by the assistant; not confirmed. See [[DEC-005-ledger-resolution-scales-with-universe]].
 - Which nine (or so) factors form the starting ledger, which is not yet decided.
 
+## Evolution — round 3 tests the ledger's causal language
+
+The eight-response [[factor-set-failure-profile-review]] makes the existing arithmetic-versus-evidence distinction concrete. A fixed generator can sum more factor contributions than there are securities; uniquely recovering unrestricted unknown shocks from one cross-section is a different problem. Reviewer claims that twelve factors on eleven securities make exact accounting impossible are not adopted. The user's position that factors may outnumber securities remains current.
+
+The useful review output is a set of contrasting events and stability tests: trust without proximity, scheduling without attention loss, supply without taste change, and crowding without changed belief. A missing common-factor name does not erase the existing fundamentals or positioning layers. Multiple legitimate effects of one event are not automatically double counting. Routing, interaction treatment, visibility of uncertainty, and line stability remain untested proposals, not confirmed mechanisms. The earlier lab-closure example's treatment in security fundamentals is preserved.
+
 ## Related
+
+- [[factor-set-failure-profile-review]]
 
 - [[pricing-model]]
 - [[information-quality]]
@@ -104,3 +115,6 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md

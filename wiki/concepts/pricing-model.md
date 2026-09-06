@@ -20,6 +20,9 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
+  - SRC-2026-09-06-factor-set-failure-profile-prompt-v2
+  - SRC-2026-09-06-factor-set-failure-profile-chatgpt
+  - SRC-2026-09-06-factor-set-failure-profile-glm
 ---
 
 # Pricing Model
@@ -205,7 +208,13 @@ Settled by the user: the weekly/monthly cadence, the need for an event detector,
 
 Not settled: the factor set and its names, which candidates are priced versus displayed only as indicators, how large the security universe must be to support the model, whether `F` is observable or latent, whether the consensus mechanism is a dual anchor or a crowding-limited reversion, whether there is a quarterly print, what a unit of a security is ([[Q-004-unit-of-account]]), and which attribution method to build. See [[model-review-consensus]] and [[factor-architecture-review-consensus]] for the two successive review rounds.
 
+## Evolution — from candidate sets to conditional failure profiles
+
+Round 3 now adds eight complete reviews of the six fixed architectures; see [[factor-set-failure-profile-review]]. The synthesis preserves disputes over mispricing direction and artistic cost, separates exact arithmetic from causal identification, and filters claims that ignore the prompt's security-fundamentals and positioning channels. No architecture is selected, no proposed repair is adopted, and no simulation result is claimed. The next evidence proposed by the reviews is event routing, attribution stability, and several distinct revival scenarios rather than another round of advocacy. The user's later factor-count direction remains intact.
+
 ## Related
+
+- [[factor-set-failure-profile-review]]
 
 - [[model-review-consensus]]
 - [[arbitrage]]
@@ -240,3 +249,6 @@ Not settled: the factor set and its names, which candidates are priced versus di
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
 - [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md

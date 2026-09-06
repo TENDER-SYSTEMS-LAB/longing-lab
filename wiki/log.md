@@ -139,3 +139,45 @@ Updated [[Q-004-unit-of-account]] with the user's instruction that it be put to 
 Added an `Academic prior art — not yet surveyed` section to [[prior-art]], which until now covered comparable artworks only. Nothing in this repository has surveyed scholarship, and the model has been built by proposing mechanisms and reviewing them across thirteen language models — good for finding internal contradictions, poor for discovering that a mechanism already has a name and known failure modes. Two cautions are recorded with it: borrowed terminology must not import borrowed authority, and the useful finding would be a failure mode the model has walked into, not a citation that makes it sound established.
 
 Updated [[pricing-model]], [[attribution-ledger]], [[current-state]], and the index to cross-link the two new pages and carry the new source. Source hashes for all previously registered originals were verified unchanged at the start of the task.
+
+## [2026-09-06] ingest | Third-round failure profiles collected and compared
+
+Completed the seven-service Chrome collection against registered prompt v2: Claude, DeepSeek, Gemini, GLM, Grok, Kimi, and Qwen. Together with the previously registered ChatGPT response to v1, the round now has eight accepted complete reviews. The earlier collection entry's “remaining five” wording did not describe the final scope; seven additional services were collected. All originals were saved and registered before Wiki promotion began.
+
+Qwen and Kimi returned terminal fragments and supplied whole-response replacements in the same conversations with selected modes unchanged. Gemini's first response reached its ending but omitted required second event examples; it remains immutable and raw-only, with a separate complete replacement promoted. Registered the exact collection follow-ups as provenance. Kimi displayed an automatic K2.6 Instant fallback notice; exact backend-model continuity is not verified. The source registry records selected modes, conversation URLs, and capture methods: Claude's downloaded Markdown artifact, rendered answer text for the other six services, and ChatGPT's earlier pasted capture. No raw source was rewritten to normalize formatting or repair reasoning.
+
+Created [[factor-set-failure-profile-review]] as the independent comparison of six fixed architectures. It retains conditional failures, conflicting mispricing directions, differing artistic costs, incompatible minimal repairs, and proposed discriminating tests. It qualifies claims that confuse exact forward accounting with inverse identification, treat missing common-factor names as absent fundamentals or positioning, assume unprovided exposure signs, or equate multiple effects with duplication. No simulation was run, no architecture was ranked or selected, and no review recommendation became a user decision.
+
+Updated [[factor-architecture-review-consensus]], [[attribution-ledger]], [[pricing-model]], [[Q-001-price-formation]], [[current-state]], and the index. The user's factor-count direction remains intact. The separate unit-of-account review, explicit transmission of the later user positions in a subsequent modelling round, and academic prior-art survey remain outstanding. Source registry totals are thirty-one originals, thirty promoted and one raw-only.
+
+At the user's request, closed the review Chrome tabs and the duplicate reading tabs after capture. Existing conversation records remain available at the registered URLs.
+
+## [2026-09-06] lint | Third-round ingestion verification
+
+Verified all thirty-one registered raw hashes, full registration coverage, and the absence of changes to previously tracked raw originals. Checked all twenty-five Wiki pages for broken links, catalog membership, and registered provenance. Found one pre-existing omission: [[DEC-005-ledger-resolution-scales-with-universe]] listed the arbitrage/news-quality source in frontmatter but omitted it from its Sources section. Added that existing citation without changing the decision or its catalog summary. The prior log remains byte-for-byte intact; new entries are appended only.
+
+## [2026-09-06] query | Initial academic mathematical-model survey
+
+Registered the compiled research brief and original research notes; added [[academic-model-survey]] and updated [[prior-art]], [[current-state]], and the index. The six primary-model cards distinguish states, parameters, units, estimates, illustrative values, validation limits, and possible applications. Frank supplies an identification counterexample. No factor set, security unit, or pricing engine was selected. Existing source hashes were checked before and after packaging; all 31 registered originals matched. The patch was prepared against the latest saved project to preserve the completed third review round.
+
+## [2026-09-06] query | Dataset survey for component backtesting
+
+Registered an original research synthesis covering 23 dataset families and six Kaggle routes, with mirrors distinguished from independent evidence. Created [[dataset-backtesting-survey]], linked it from [[data-sources]], and synchronized current state and the index. The notes map behavioral, attention, reporting and external market datasets to proposed tests for missing quantities and unnecessary complexity. Collection priorities remain LLM proposals; no factor set or security unit was selected, and no dataset was downloaded or fitted. Publisher metadata was inspected where accessible; failed page/API retrieval and unresolved access conditions are documented. All 33 existing registered hashes matched at the beginning.
+
+## [2026-09-06] lint | Dataset survey verification
+
+Verified all 36 source hashes present at the final check, including sources added concurrently by other work; preserved the 33 originals present at this task start and the pre-existing log prefix. Checked 27 Wiki pages for valid local/Wiki links and exactly one catalog entry per page; `git diff --check` passed. The initial catalog-check expression also counted routing references; restricting it to catalog bullet entries removed those false positives. Replaced this task's source-count sentence in current state with a registry pointer to avoid a stale count during concurrent ingestion.
+
+## [2026-09-06] query | Broad cross-domain mathematical-model discovery
+
+Registered the exact new user task message and an original 120-entry research catalog, then extended [[academic-model-survey]] rather than creating a duplicate concept. The catalog covers fourteen areas with short modeling targets, author/team and date metadata, source types, and links. It separates 117 substantive model/system entries, one bibliographic lead (Leontief), and two adjacent data-mapping artworks. Accessible primary abstracts, indexed primary excerpts, author/publisher previews, and official project descriptions support a discovery survey, not a full-text systematic review. Five previously surveyed papers recur for navigation. No factor set, parameter, or implementation was adopted.
+
+Refreshed the evidence scope of Black Shoals, The Environmentalist Stock Exchange, and Emotional Stock Exchange in [[prior-art]], and synchronized [[current-state]] and the index. Preserved all earlier Wiki interpretation as historical material with qualifications. Supplied a Korean Markdown catalog and CSV outside the canonical repository documentation. The authoritative source count remains in the registry because another survey is being ingested concurrently. The 33 previously registered hashes matched at task start; completion checks are recorded below after execution.
+
+## [2026-09-06] lint | Cross-domain discovery catalog verification
+
+Verified all 36 currently registered source hashes, including the concurrently added dataset-survey record, and confirmed that all 33 originals present at this task's start are unchanged. Raw registration coverage is complete. Checked 27 Wiki pages for valid local/Wiki links and unique catalog membership, verified the pre-task log prefix byte-for-byte, and passed `git diff --check`. The English raw catalog and Korean delivery contain the same 120 unique entry IDs and source URLs across 14 categories; the CSV contains 120 data records. These are document-integrity checks, not validation of the external models or a claim to have read every linked paper in full. No commit or push was made.
+
+## [2026-09-06] maintenance | Preserve portable research delivery
+
+Preserved the previously delivered Korean 120-entry catalog and CSV unchanged as registered raw-only derivative exports, and linked them from [[academic-model-survey]]. Prepared the pending third-round review, academic surveys, and dataset survey together for the requested cross-computer handoff. Existing raw sources remain unchanged.

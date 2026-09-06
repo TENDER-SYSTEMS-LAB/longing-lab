@@ -11,6 +11,9 @@ sources:
   - SRC-2026-09-05-pricing-model-v2-factor-review-glm
   - SRC-2026-09-05-pricing-model-v2-factor-review-grok
   - SRC-2026-09-05-pricing-model-v2-factor-review-qwen
+  - SRC-2026-09-06-factor-set-failure-profile-prompt-v2
+  - SRC-2026-09-06-factor-set-failure-profile-chatgpt
+  - SRC-2026-09-06-factor-set-failure-profile-glm
 ---
 
 # Factor Architecture Review Consensus
@@ -114,7 +117,13 @@ This is an **evolution of the working proposal**, not a reversal of any confirme
 - Whether exact attribution uses Shapley values, an orthogonalized reporting basis, bounded residuals, or a documented combination.
 - Whether the factor set lands near Qwen's five, near the larger sets the other five reviews propose, or between them. This is open, not resolved — the second round has not converged on a count.
 
+## Evolution — fixed-set failure review
+
+Round 3 is now collected and synthesized in [[factor-set-failure-profile-review]]: eight responses examine the six fixed sets rather than advocating a replacement. It reinforces the need to distinguish bundled causes, causal routing, and stable attribution, but does not validate the second round's exposure or factor-count claims empirically. Several reviewers mistake a missing common-factor label for a missing security-fundamentals or positioning channel; those claims are qualified against the prompt. Exact forward accounting and recovery of unknown causes are different problems, so no numerical factor cap is adopted. The final set and its minimal repairs remain open.
+
 ## Related
+
+- [[factor-set-failure-profile-review]]
 
 - [[pricing-model]]
 - [[model-review-consensus]]
@@ -137,3 +146,6 @@ On 2026-09-06 this page's model attributions were corrected after verification a
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md
