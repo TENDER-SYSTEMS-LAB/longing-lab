@@ -58,9 +58,11 @@ When adding a source, append one row to the table below and record the result of
 | `SRC-2026-09-06-world-rules-letter-spec-request` | [raw/documents/2026-09-06-world-rules-letter-spec-request.md](documents/2026-09-06-world-rules-letter-spec-request.md) | document | 2026-09-06 | user-originated | `caafdfeb20586b467654a119ab9d5a55725bc371` | 2026-09-06 | promoted (exact request; world and LETTER design choices remain LLM proposals unless separately accepted) |
 | `SRC-2026-09-06-worldbuilding-roadmap-and-handoff` | [raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md](conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md) | conversation | 2026-09-06 | jointly-developed | `6a22a48044d40a7452563cd7448a29bbae6ad1c6` | 2026-09-06 | promoted (selected original messages; assistant-authored handoff distinct from later user-issued task request) |
 
-## Hash convention for the Korean CSV export
+## Hash convention
 
-The registered Korean CSV reader export uses `git hash-object --no-filters`, as already recorded in the earlier query and roadmap log entries. Its preserved bytes match `cb969b28567cc6c01c94e71629d2563459b5a3c8`; default Git line-ending normalization yields `ccb350ed9eb8377147a755ab2d5f7ad7e2795062`. Check this source using its registered unfiltered convention. The original and its registered hash are unchanged.
+Every hash in the table above is the source's Git blob hash, and `.gitattributes` keeps the working copy byte-identical to it: Markdown originals are stored and checked out with LF, and `*.csv` is marked `-text` so the Korean reader export keeps the CRLF bytes it was delivered with. Plain `git hash-object <path>` therefore reproduces all 44 registered hashes.
+
+The `--no-filters` exception recorded here previously is no longer needed. It existed because the working copies of the LF-stored Markdown originals carried CRLF while the CSV was stored as delivered, so the two required different commands. `ccb350ed9eb8377147a755ab2d5f7ad7e2795062` is the value line-ending normalization would produce for that CSV; it is kept here only so the earlier query and roadmap log entries stay readable. No original and no registered hash changed.
 
 ## Note on the survey sources
 

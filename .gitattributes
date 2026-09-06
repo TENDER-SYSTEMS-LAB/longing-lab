@@ -1,4 +1,5 @@
 * text=auto eol=lf
 
-# Registered originals are immutable byte records. Never let Git rewrite them.
-raw/** -text
+# The Korean CSV export was registered with its delivered CRLF bytes, and its
+# recorded hash is those bytes. Never let Git rewrite it.
+*.csv -text
