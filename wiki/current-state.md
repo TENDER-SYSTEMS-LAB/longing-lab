@@ -3,6 +3,8 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-academic-model-recovered-excerpts
+  - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-06-cross-domain-model-survey
   - SRC-2026-09-06-dataset-backtesting-research
   - SRC-2026-09-06-academic-model-research-notes
@@ -70,6 +72,12 @@ The project has moved from *how does the market inside it run* to *how can its f
 
 - **Cross-domain model discovery.** The later academic pass collected 120 works/projects: 117 substantive systems, one bibliographic lead, and two adjacent data mappings. It covers social behavior, designed institutions, natural systems, engineering, music, and art, with one-sentence targets and source links. It is not a full-text review, validation exercise, or adopted LONGING architecture. See [[academic-model-survey]].
 
+## Resume point — model application discussion
+
+The user endorses separating new starts and discontinuation and explicitly requires feedback. Particular loops, an n-item competition extension, synthetic-data generation and the price bridge remain unselected. The current scenario assumes real data may be unavailable, without permanently rejecting real data. Loewenstein and Rohlfs application clarifications are recorded as assistant proposals in [[academic-model-survey]].
+
+Continue with the user's three unanswered questions: **what should the equation compute; what increases or decreases it; how should strengths be set without real data?** The user wanted application clarification before answering. Preserve that order; do not treat illustrative teaching numbers as calibration. The partial API dialogue, compiled continuation, and subsequently recovered original recent messages are separately registered. The recovery supplies primary user-position evidence without rewriting the earlier records.
+
 ## Unknown
 
 - **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. Ledger *resolution* is no longer open in this list — it is settled as a rule, factor count as a function of universe size, see [[DEC-005-ledger-resolution-scales-with-universe]] — but ledger *membership*, which specific factors fill the starting nine and which candidate is promoted next, remains exactly as open as the rest of this bullet. See [[model-review-consensus]] and [[factor-architecture-review-consensus]].
@@ -115,6 +123,10 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 **The second-round Qwen source was re-captured, not revised.** Its first registration ended mid-expression; the current file is the complete response, registered under the same source ID with the superseded hash retained in `raw/sources.md` and the correction recorded in `wiki/log.md`.
 
 ## Sources
+
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
+
+- [[SRC-2026-09-06-academic-model-continuation]] — raw/conversations/2026-09-06-academic-model-continuation.md; compiled continuation with exact user excerpt supplied by the originating task
 
 - [[SRC-2026-09-06-cross-domain-model-survey]] — raw/surveys/2026-09-06-cross-domain-model-survey.md; original discovery catalog based on linked external sources
 

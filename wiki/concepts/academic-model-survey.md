@@ -3,6 +3,8 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-academic-model-recovered-excerpts
+  - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-06-cross-domain-model-survey
   - SRC-2026-09-06-cross-domain-model-survey-request
   - SRC-2026-09-06-academic-model-research-brief
@@ -78,6 +80,19 @@ Compare the candidate against a simple trend and a plausible alternative mechani
 
 Remaining literature gaps include intergenerational cultural transmission, active-use substitution, infrastructure retirement, chance encounters, contested value, and index construction. This bounded first pass completes an initial academic survey; it does not close those questions or prove an absence of closer prior work.
 
+## Evolution — from model teaching to application questions
+
+After beginner-oriented explanations and worked equations, the user endorsed separating new starts from discontinuation and stated that feedback is necessary. These are user directions; no generator, loop, factor set, or price rule has been selected. The no-real-data case is the current design scenario, not a permanent rejection of observed data. The original accessible teaching dialogue is preserved in [the partial dialogue export](../../raw/conversations/2026-09-06-academic-model-dialogue.md); hypothetical examples do not calibrate LONGING. The API omitted the latest turns; their user positions and assistant clarification were subsequently recovered as original message excerpts from the local task log. The earlier compiled continuation remains preserved with its original provenance limits.
+
+The user finds the two-option Abrams–Strogatz baseline difficult to apply and raises an n-item extension as a possibility. The assistant's further distinction among substitution, complementarity and independent coexistence remains `llm-proposed`. More options alone do not settle overlap.
+
+The requested application clarifications yielded two unconfirmed proposals:
+
+- **Loewenstein:** separate anticipation enjoyment from delay burden in film development. Faster processing might increase participation while removing a valued waiting experience. Waiting duration, expected outcome value, savoring tendency, urgency and experience value are proposed adaptation variables, not the paper's original specification. Uncertain replies require additional modeling; the price effect is open.
+- **Rohlfs:** examine meaningful counterparties and availability in spontaneous calls or correspondence. Scheduling pressure could weaken successful contact, continued participation and the shared norm. A broader participation burden is an adaptation of monetary fees. This is selective to relational practices, not a universal solitude model or physical-infrastructure decay law.
+
+The difference is between how waiting feels and whether a meaningful participation network persists. Valuable-but-hard and feasible-but-not-chosen remain distinct. See [[pricing-model]] for the pending design questions and [[data-sources]] for synthetic-data status.
+
 ## Related
 
 - [[prior-art]] — artistic precedents and the original academic-survey question
@@ -87,6 +102,10 @@ Remaining literature gaps include intergenerational cultural transmission, activ
 - [[Q-004-unit-of-account]] — the unresolved quotation bridge
 
 ## Sources
+
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
+
+- [[SRC-2026-09-06-academic-model-continuation]] — raw/conversations/2026-09-06-academic-model-continuation.md; compiled continuation with exact user excerpt supplied by the originating task
 
 - [[SRC-2026-09-06-cross-domain-model-survey]] — raw/surveys/2026-09-06-cross-domain-model-survey.md; original discovery catalog based on linked external sources
 - [[SRC-2026-09-06-cross-domain-model-survey-request]] — raw/documents/2026-09-06-cross-domain-model-survey-request.md; exact user task message

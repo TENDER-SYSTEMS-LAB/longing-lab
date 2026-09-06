@@ -3,6 +3,8 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-academic-model-recovered-excerpts
+  - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-06-dataset-backtesting-research
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -76,6 +78,12 @@ Presence = Postal Data 60% + Survey 20% + Editorial Model 20%
 - Whether the work ships on real data at all, or on the internal model, is undecided — and the choice changes what LONGING is: an authored fiction, a data visualization, or something between. See [[Q-001-price-formation]].
 - Korean-only sources (Korea Post, Naver) versus global coverage is unaddressed, and it bears on whose disappearance the work is measuring.
 
+## Evolution — designing for unavailable real data
+
+The latest user discussion explicitly designs for the case where real data cannot be used. This narrows the immediate scenario without permanently closing the real-data route. The user defers how to generate natural-looking observations. No synthetic generator, distribution, parameter calibration or acceptance criterion is selected.
+
+The assistant proposes generating conditions, then starts and stops, participation, and only subsequently valuation/price. This is `llm-proposed`. Pedagogical numbers in the model explanations are illustrative and must not become empirical calibration. Synthetic results must retain the existing modeled/editorial provenance distinction. The questions of computed outcome, causal direction and effect strength remain open in [[pricing-model]].
+
 ## Related
 
 - [[dataset-backtesting-survey]] — 23 dataset families, Kaggle routes, access limitations and proposed component-level backtests; no data fitted
@@ -85,6 +93,10 @@ Presence = Postal Data 60% + Survey 20% + Editorial Model 20%
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
+
+- [[SRC-2026-09-06-academic-model-continuation]] — raw/conversations/2026-09-06-academic-model-continuation.md; compiled continuation with exact user excerpt supplied by the originating task
 
 - [[SRC-2026-09-06-dataset-backtesting-research]] — raw/surveys/2026-09-06-dataset-backtesting-research.md
 

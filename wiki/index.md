@@ -26,23 +26,23 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — LONGING as a fictional research house tracking the conditions of human experience modernization is removing · `working` (2026-09-04)
-- [[current-state]] — Snapshot after three pricing-model review rounds and the initial academic-model and dataset surveys · `working` (2026-09-06)
+- [[current-state]] — Snapshot of reviews and research, user-required participation flows and feedback, and the unanswered resume questions · `working` (2026-09-06)
 
 ## Concepts
 
 - [[dataset-backtesting-survey]] — 23 dataset families and Kaggle routes mapped to behavior, observation and mechanism tests, with access limits and unconfirmed priorities · `working` (2026-09-06)
 
-- [[academic-model-survey]] — Six detailed model cards plus a 120-entry cross-domain discovery map with explicit evidence limits · `working` (2026-09-06)
+- [[academic-model-survey]] — Six model cards, 120-entry discovery map and subsequent user directions versus proposed applications · `working` (2026-09-06)
 
 - [[index-architecture]] — LNGI and six condition-based sub-indices, the contrast indicators now promoted to macro variables, and how securities are listed across them · `working` (2026-09-06)
-- [[pricing-model]] — How a price is produced, from reduction to hierarchical complexity and conditional failure profiles · `working` (2026-09-06)
+- [[pricing-model]] — Price architecture, failure reviews, and the new participation/feedback directions with unresolved design questions · `working` (2026-09-06)
 - [[model-review-consensus]] — What the first seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-05)
 - [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, where Qwen dissents toward reduction, and the transition to fixed-set failure review · `working` (2026-09-06)
 - [[factor-set-failure-profile-review]] — Eight third-round reviews of six fixed sets: conditional failure costs, disagreements, source limitations, and tests proposed but not run · `working` (2026-09-06)
 - [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, and the distinction between exact accounting and causal recovery · `working` (2026-09-06)
 - [[arbitrage]] — Arbitrage as a world-building question: the corpus has limits to arbitrage but no arbitrageur, no counterparty, and nothing finite to hold · `working` (2026-09-06)
 - [[information-quality]] — News as reports about events rather than events: misreporting, over- and under-reporting, and rumour ahead of disclosure · `working` (2026-09-06)
-- [[data-sources]] — Behavior, attention, and discourse kept apart; candidate real-world sources, honesty rules and the dataset-backtesting survey · `working` (2026-09-06)
+- [[data-sources]] — Behavior/attention/discourse separation, candidate sources and the current no-real-data design scenario · `working` (2026-09-06)
 - [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-05)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-04)
 - [[prior-art]] — Artistic precedents, three official-page refreshes, and evolution through two academic surveys · `working` (2026-09-06)

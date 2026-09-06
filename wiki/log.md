@@ -181,3 +181,11 @@ Verified all 36 currently registered source hashes, including the concurrently a
 ## [2026-09-06] maintenance | Preserve portable research delivery
 
 Preserved the previously delivered Korean 120-entry catalog and CSV unchanged as registered raw-only derivative exports, and linked them from [[academic-model-survey]]. Prepared the pending third-round review, academic surveys, and dataset survey together for the requested cross-computer handoff. Existing raw sources remain unchanged.
+
+## [2026-09-06] ingest | Academic-model dialogue and continuation
+
+Preserved accessible Korean user/assistant dialogue separately from a compiled continuation and summary. Retrieval returned empty items for the latest two turns; the supplied exact user passage and paraphrased assistant follow-up are explicitly attributed to the originating task handoff. Promoted the user's entry/exit distinction and feedback requirement, retained synthetic generation and model extensions as unresolved, and recorded the three unanswered design questions for cross-machine continuation. Updated existing academic-model, pricing, data and current-state pages plus index; no new concept or implementation. All 38 previously registered originals matched their hashes at ingestion start.
+
+## [2026-09-06] ingest | Recover recent original conversation messages
+
+After the API omitted the latest two turns, recovered the user application positions, assistant clarification and exact cross-machine commit/push request from local original message records. Registered a separate selected excerpt and upgraded Wiki provenance without modifying the previously registered partial export or compiled summary. Verification covers all 41 registered source hashes, preservation of the 38 pre-task originals, append-only history, changed-page links and catalog alignment.

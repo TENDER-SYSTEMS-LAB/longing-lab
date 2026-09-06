@@ -50,6 +50,9 @@ When adding a source, append one row to the table below and record the result of
 
 | `SRC-2026-09-06-cross-domain-model-survey-korean` | [raw/surveys/2026-09-06-cross-domain-model-survey-korean.md](surveys/2026-09-06-cross-domain-model-survey-korean.md) | survey | 2026-09-06 | llm-synthesis | `d22087a2428a6373acda61dc1e3986476c07e166` | — | raw-only (Korean reader export; derivative, not independent evidence) |
 | `SRC-2026-09-06-cross-domain-model-survey-korean-csv` | [raw/documents/2026-09-06-cross-domain-model-survey-korean.csv](documents/2026-09-06-cross-domain-model-survey-korean.csv) | document | 2026-09-06 | llm-synthesis | `cb969b28567cc6c01c94e71629d2563459b5a3c8` | — | raw-only (Korean reader export; derivative, not independent evidence) |
+| `SRC-2026-09-06-academic-model-dialogue` | [raw/conversations/2026-09-06-academic-model-dialogue.md](conversations/2026-09-06-academic-model-dialogue.md) | conversation | 2026-09-06 | jointly-developed | `3209450b18ab30c63bb238798d506ce4163ed051` | 2026-09-06 | promoted (partial retrieval / compiled provenance disclosed) |
+| `SRC-2026-09-06-academic-model-continuation` | [raw/conversations/2026-09-06-academic-model-continuation.md](conversations/2026-09-06-academic-model-continuation.md) | conversation | 2026-09-06 | jointly-developed | `cef6ff121d4aca4cdd563c2bc5299585c6c0e99d` | 2026-09-06 | promoted (partial retrieval / compiled provenance disclosed) |
+| `SRC-2026-09-06-academic-model-recovered-excerpts` | [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](conversations/2026-09-06-academic-model-recovered-excerpts.md) | conversation | 2026-09-06 | jointly-developed | `faf7f71dd333cad4e58e472f862dd704c2a348b0` | 2026-09-06 | promoted (selected original message recovery) |
 
 ## Note on the survey sources
 

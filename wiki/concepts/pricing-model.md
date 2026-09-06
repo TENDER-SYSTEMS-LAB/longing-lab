@@ -3,6 +3,8 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-06
 sources:
+  - SRC-2026-09-06-academic-model-recovered-excerpts
+  - SRC-2026-09-06-academic-model-continuation
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
   - SRC-2026-09-05-deepseek-critic-of-model
@@ -212,6 +214,14 @@ Not settled: the factor set and its names, which candidates are priced versus di
 
 Round 3 now adds eight complete reviews of the six fixed architectures; see [[factor-set-failure-profile-review]]. The synthesis preserves disputes over mispricing direction and artistic cost, separates exact arithmetic from causal identification, and filters claims that ignore the prompt's security-fundamentals and positioning channels. No architecture is selected, no proposed repair is adopted, and no simulation result is claimed. The next evidence proposed by the reviews is event routing, attribution stability, and several distinct revival scenarios rather than another round of advocacy. The user's later factor-count direction remains intact.
 
+## Evolution — participation flows and required feedback
+
+Following the academic-model explanations, the user endorsed separating new starts from discontinuation and explicitly required feedback. These directions extend the working design; no particular feedback loop or additional common factor is adopted. The assistant proposed `active stock = prior stock + starts − stops` to expose churn hidden by net change, and a possible chain from conditions through participation to valuation and price. These are `llm-proposed` structures, not a selected generator or pricing equation.
+
+The user considers the exclusive two-option competition model difficult to apply and suggests an n-item extension as a possibility. The assistant additionally cautions that overlap and complementarity must be specified. Feedback means a causal path that returns to an earlier quantity; treating it as a separate additive factor is not decided.
+
+The next conversation must answer three questions, still unanswered: **what outcome does the equation compute; what increases or decreases it; and how are strengths set without real data?** The user intends to answer after application clarifications, now recorded in [[academic-model-survey]]. No security unit, price bridge, factor set or implementation has been approved.
+
 ## Related
 
 - [[factor-set-failure-profile-review]]
@@ -231,6 +241,10 @@ Round 3 now adds eight complete reviews of the six fixed architectures; see [[fa
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
+
+- [[SRC-2026-09-06-academic-model-continuation]] — raw/conversations/2026-09-06-academic-model-continuation.md; compiled continuation with exact user excerpt supplied by the originating task
 
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
 - [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
