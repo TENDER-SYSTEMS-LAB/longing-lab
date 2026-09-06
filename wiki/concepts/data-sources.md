@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
@@ -99,16 +99,16 @@ The assistant proposes generating conditions, then starts and stops, participati
 
 ## Sources
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request; application choices and tests remain LLM proposals
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals
 
-- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](../../raw/conversations/2026-09-06-academic-model-recovered-excerpts.md); original recent messages recovered from the originating task local log after API omission
 
-- [[SRC-2026-09-06-academic-model-continuation]] — raw/conversations/2026-09-06-academic-model-continuation.md; compiled continuation with exact user excerpt supplied by the originating task
+- [[SRC-2026-09-06-academic-model-continuation]] — [raw/conversations/2026-09-06-academic-model-continuation.md](../../raw/conversations/2026-09-06-academic-model-continuation.md); compiled continuation with exact user excerpt supplied by the originating task
 
-- [[SRC-2026-09-06-dataset-backtesting-research]] — raw/surveys/2026-09-06-dataset-backtesting-research.md
+- [[SRC-2026-09-06-dataset-backtesting-research]] — [raw/surveys/2026-09-06-dataset-backtesting-research.md](../../raw/surveys/2026-09-06-dataset-backtesting-research.md)
 
-- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
-- [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
-- [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
+- [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)
+- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-claude-critic-of-model.md)
+- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-glm-critic-of-model.md](../../raw/surveys/2026-09-05-glm-critic-of-model.md)
 
 The platform capabilities and statistical series described above reach this repository only through the source conversation, which cited them from web search during the discussion. They are secondary citations and have not been independently verified here.

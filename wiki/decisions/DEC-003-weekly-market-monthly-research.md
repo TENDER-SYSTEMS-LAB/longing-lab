@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-05-price-formation-market-model
 ---
@@ -80,4 +80,4 @@ Confirmed. Stated by the user as an instruction, not a suggestion, and it overro
 
 ## Sources
 
-- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
+- [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

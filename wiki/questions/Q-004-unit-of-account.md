@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-proposed
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
@@ -155,12 +155,12 @@ This is the question that decides whether LONGING's indices are *constructed* or
 
 ## Sources
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact request for concrete unit alternatives and downstream consequences; U1–U3 are new LLM proposals, not adopted mechanisms
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
-- [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md
-- [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
-- [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
-- [[SRC-2026-09-05-deepseek-critic-of-model]] — raw/surveys/2026-09-05-deepseek-critic-of-model.md
-- [[SRC-2026-09-05-kimi-critic-of-model]] — raw/surveys/2026-09-05-kimi-critic-of-model.md
-- [[SRC-2026-09-05-grok-critic-of-model]] — raw/surveys/2026-09-05-grok-critic-of-model.md
-- [[SRC-2026-09-05-gemini-critic-of-model]] — raw/surveys/2026-09-05-gemini-critic-of-model.md
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact request for concrete unit alternatives and downstream consequences; U1–U3 are new LLM proposals, not adopted mechanisms
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
+- [[SRC-2026-09-05-qwen-critic-of-model]] — [raw/surveys/2026-09-05-qwen-critic-of-model.md](../../raw/surveys/2026-09-05-qwen-critic-of-model.md)
+- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-claude-critic-of-model.md)
+- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-glm-critic-of-model.md](../../raw/surveys/2026-09-05-glm-critic-of-model.md)
+- [[SRC-2026-09-05-deepseek-critic-of-model]] — [raw/surveys/2026-09-05-deepseek-critic-of-model.md](../../raw/surveys/2026-09-05-deepseek-critic-of-model.md)
+- [[SRC-2026-09-05-kimi-critic-of-model]] — [raw/surveys/2026-09-05-kimi-critic-of-model.md](../../raw/surveys/2026-09-05-kimi-critic-of-model.md)
+- [[SRC-2026-09-05-grok-critic-of-model]] — [raw/surveys/2026-09-05-grok-critic-of-model.md](../../raw/surveys/2026-09-05-grok-critic-of-model.md)
+- [[SRC-2026-09-05-gemini-critic-of-model]] — [raw/surveys/2026-09-05-gemini-critic-of-model.md](../../raw/surveys/2026-09-05-gemini-critic-of-model.md)

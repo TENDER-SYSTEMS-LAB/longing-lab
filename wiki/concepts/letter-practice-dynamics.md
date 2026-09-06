@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-proposed
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-worldbuilding-roadmap-request
@@ -228,7 +228,7 @@ The earlier Wiki left the three model-application questions unanswered and had n
 
 ## Sources
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; user authority for these deliverables and constraints, not approval of this page's assistant-designed rules or numerical assumptions
-- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — raw/documents/2026-09-06-worldbuilding-roadmap-request.md; preceding scope assessment, synthesized in [[worldbuilding-roadmap]]
-- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; earlier user directions on starts/stops, feedback, unavailable real data, and explanation before model selection, maintained in [[academic-model-survey]] and [[data-sources]]
-- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md; cadence and emergent-decline constraint, maintained in [[DEC-003-weekly-market-monthly-research]] and [[DEC-004-secular-decline-with-rallies]]
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); user authority for these deliverables and constraints, not approval of this page's assistant-designed rules or numerical assumptions
+- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — [raw/documents/2026-09-06-worldbuilding-roadmap-request.md](../../raw/documents/2026-09-06-worldbuilding-roadmap-request.md); preceding scope assessment, synthesized in [[worldbuilding-roadmap]]
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](../../raw/conversations/2026-09-06-academic-model-recovered-excerpts.md); earlier user directions on starts/stops, feedback, unavailable real data, and explanation before model selection, maintained in [[academic-model-survey]] and [[data-sources]]
+- [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md); cadence and emergent-decline constraint, maintained in [[DEC-003-weekly-market-monthly-research]] and [[DEC-004-secular-decline-with-rallies]]

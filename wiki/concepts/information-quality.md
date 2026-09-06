@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: user-originated
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
   - SRC-2026-09-05-price-formation-market-model
@@ -69,7 +69,7 @@ Raised in the Wiki from registered material, not proposed in the source session.
 
 ## Sources
 
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
-- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
-- [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
-- [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
+- [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)
+- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-glm-critic-of-model.md](../../raw/surveys/2026-09-05-glm-critic-of-model.md)
+- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-claude-critic-of-model.md)

@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-proposed
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-worldbuilding-roadmap-and-handoff
   - SRC-2026-09-06-world-rules-letter-spec-request
@@ -122,19 +122,19 @@ Earlier source proposals put price formation first, then listing lifecycle, one 
 
 ## Sources
 
-- [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]] — raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md; selected original assessment, user handoff request, assistant-written prompt, and ingestion request; earlier state preserved without replacing subsequent drafts
+- [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]] — [raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md](../../raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md); selected original assessment, user handoff request, assistant-written prompt, and ingestion request; earlier state preserved without replacing subsequent drafts
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact subsequent request taking up stages 1 and 2, with explicit design constraints
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact subsequent request taking up stages 1 and 2, with explicit design constraints
 
-- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — raw/documents/2026-09-06-worldbuilding-roadmap-request.md; exact initiating request, not approval of this proposal
-- [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md; artistic premise, institution, audience, and lifecycle questions; foundational single-source dependence remains
-- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md; market architecture, cadence, and original next-work proposal
-- [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md; ledger growth and design-stage diagnostic intent; compiled record with quoted user statements
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md; user directions on arbitrage, reports, factor count, and separate unit review
-- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original selected user positions on starts/stops, feedback, unavailable real data, and application clarification
-- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md; fixed-set test framing
-- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md; v1 review; accounting/identification cautions, with wider review provenance in [[factor-set-failure-profile-review]]
-- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md; v2 review; conditional failure hypotheses, not test results
-- [[SRC-2026-09-06-academic-model-research-notes]] — raw/surveys/2026-09-06-academic-model-research-notes.md; six model cards and unadopted applications
-- [[SRC-2026-09-06-cross-domain-model-survey]] — raw/surveys/2026-09-06-cross-domain-model-survey.md; discovery breadth, not an implemented model
-- [[SRC-2026-09-06-dataset-backtesting-research]] — raw/surveys/2026-09-06-dataset-backtesting-research.md; data candidates and proposed component tests
+- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — [raw/documents/2026-09-06-worldbuilding-roadmap-request.md](../../raw/documents/2026-09-06-worldbuilding-roadmap-request.md); exact initiating request, not approval of this proposal
+- [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md); artistic premise, institution, audience, and lifecycle questions; foundational single-source dependence remains
+- [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md); market architecture, cadence, and original next-work proposal
+- [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — [raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md](../../raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md); ledger growth and design-stage diagnostic intent; compiled record with quoted user statements
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md); user directions on arbitrage, reports, factor count, and separate unit review
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](../../raw/conversations/2026-09-06-academic-model-recovered-excerpts.md); original selected user positions on starts/stops, feedback, unavailable real data, and application clarification
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — [raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md](../../raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md); fixed-set test framing
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — [raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md](../../raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md); v1 review; accounting/identification cautions, with wider review provenance in [[factor-set-failure-profile-review]]
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — [raw/surveys/2026-09-06-factor-set-failure-profile-glm.md](../../raw/surveys/2026-09-06-factor-set-failure-profile-glm.md); v2 review; conditional failure hypotheses, not test results
+- [[SRC-2026-09-06-academic-model-research-notes]] — [raw/surveys/2026-09-06-academic-model-research-notes.md](../../raw/surveys/2026-09-06-academic-model-research-notes.md); six model cards and unadopted applications
+- [[SRC-2026-09-06-cross-domain-model-survey]] — [raw/surveys/2026-09-06-cross-domain-model-survey.md](../../raw/surveys/2026-09-06-cross-domain-model-survey.md); discovery breadth, not an implemented model
+- [[SRC-2026-09-06-dataset-backtesting-research]] — [raw/surveys/2026-09-06-dataset-backtesting-research.md](../../raw/surveys/2026-09-06-dataset-backtesting-research.md); data candidates and proposed component tests

@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-proposed
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-worldbuilding-roadmap-request
@@ -127,8 +127,8 @@ Next-stage gates are the observation and revision process; choice of a value/con
 
 ## Sources
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request and constraints; new rules here are this task's unconfirmed proposals
-- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — raw/documents/2026-09-06-worldbuilding-roadmap-request.md; target-depth and roadmap request
-- [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md; research-house and stance encounter; the original no-Buy/Sell and provisional acceptance passages were checked for the distinction between viewer interaction and fictional market actors
-- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md; cadence and working anchor/price architecture, read through maintained synthesis for this task
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md; user directions on arbitrage, imperfect reporting, and the unit review, read through maintained synthesis
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request and constraints; new rules here are this task's unconfirmed proposals
+- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — [raw/documents/2026-09-06-worldbuilding-roadmap-request.md](../../raw/documents/2026-09-06-worldbuilding-roadmap-request.md); target-depth and roadmap request
+- [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md); research-house and stance encounter; the original no-Buy/Sell and provisional acceptance passages were checked for the distinction between viewer interaction and fictional market actors
+- [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md); cadence and working anchor/price architecture, read through maintained synthesis for this task
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md); user directions on arbitrage, imperfect reporting, and the unit review, read through maintained synthesis

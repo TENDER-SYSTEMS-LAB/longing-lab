@@ -228,3 +228,18 @@ The assistant's delivered prompt matches the later user-issued task body after r
 Added provenance and evolution context to [[worldbuilding-roadmap]] and [[current-state]], and synchronized the catalog summary. Preserved the newer [[world-rules]] and [[letter-practice-dynamics]] checkpoint and its next-decision gates. No new concept or decision page was needed. A read-only independent audit checked that the earlier assessment would not overwrite downstream progress.
 
 Verified all 44 registered hashes under their documented conventions, byte-for-byte preservation of the 43 pre-existing originals and the full pre-task log prefix, unique catalog membership for all 29 non-index Wiki pages, and changed-page links/registered provenance. The whitespace diff check passed. No commit or push was made.
+
+
+## [2026-09-06] lint | Link source files from every Sources entry
+
+- `## Sources` entries named each original as plain text, so a page's provenance was readable but not navigable and the raw files reached the graph only through `raw/sources.md`. Rewrote 226 entries across 28 pages as `[[SRC-...]] — [raw/<type>/<file>.md](<relative path>)`, keeping the wikilink as the shared source identifier and adding the file itself as a Markdown link.
+- `schema.md`: the Provenance example now shows both links and states the relative-path rule — `../raw/...` from a page directly under `wiki/`, `../../raw/...` from a page in a subdirectory.
+- No claim, attribution, status, or hash changed. This is a link-format correction only.
+
+## [2026-09-07] maintenance | Review source links and synchronize catalog dates
+
+Reviewed the pending source-link maintenance for handoff. The preceding lint entry reports 226 conversions; the actual diff contains 215 source-file link conversions across 28 Wiki pages. Each link resolves to its original registered path. The earlier entry is preserved unchanged.
+
+Updated the 28 edited pages' dates and synchronized their catalog entries, the schema entry, and the activity date. All 29 non-index Wiki pages remain cataloged exactly once with their existing summaries and statuses. No project claim, attribution, or decision changed.
+
+Checked maintained-document local links, Wiki links and registered source identifiers, the unchanged existing log prefix, and the whitespace diff. `git status --porcelain raw/` was empty; no registered original was modified and no full hash audit was repeated.

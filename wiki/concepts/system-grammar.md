@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-04
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-longing-concept-brainstorm
 ---
@@ -75,6 +75,6 @@ The formulation the source conversation kept returning to:
 
 ## Sources
 
-- [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
+- [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
 
 Statements about OTHER GOODS in this page come to the repository only through this conversation; the OTHER GOODS material itself is not registered here. Treat the comparison table and the quoted OTHER GOODS principle as secondary citation until a primary source is registered.

@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-05-pricing-model-v2-factor-framework
   - SRC-2026-09-05-pricing-model-v2-factor-review-prompt
@@ -138,14 +138,14 @@ On 2026-09-06 this page's model attributions were corrected after verification a
 
 ## Sources
 
-- [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-claude]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-deepseek]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
-- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
-- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
-- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md
+- [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — [raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md](../../raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — [raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md](../../raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-claude]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md](../../raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-deepseek]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md](../../raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md](../../raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md](../../raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md](../../raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md](../../raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md)
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — [raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md](../../raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md)
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — [raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md](../../raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md)
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — [raw/surveys/2026-09-06-factor-set-failure-profile-glm.md](../../raw/surveys/2026-09-06-factor-set-failure-profile-glm.md)

@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-04-longing-concept-brainstorm
@@ -112,5 +112,5 @@ The archive retains discontinued LONG and SHORT research without rewriting their
 
 ## Sources
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact request for concrete lifecycle distinctions; thresholds and authority rules above are unconfirmed task proposals
-- [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact request for concrete lifecycle distinctions; thresholds and authority rules above are unconfirmed task proposals
+- [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)

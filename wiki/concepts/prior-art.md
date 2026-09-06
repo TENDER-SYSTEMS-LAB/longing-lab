@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-cross-domain-model-survey
   - SRC-2026-09-06-academic-model-research-notes
@@ -98,11 +98,11 @@ The trademark, domain, and existing-work collision check on the name LONGING was
 
 ## Sources
 
-- [[SRC-2026-09-06-cross-domain-model-survey]] — raw/surveys/2026-09-06-cross-domain-model-survey.md; original discovery catalog based on linked external sources
+- [[SRC-2026-09-06-cross-domain-model-survey]] — [raw/surveys/2026-09-06-cross-domain-model-survey.md](../../raw/surveys/2026-09-06-cross-domain-model-survey.md); original discovery catalog based on linked external sources
 
-- [[SRC-2026-09-06-academic-model-research-notes]] — raw/surveys/2026-09-06-academic-model-research-notes.md
+- [[SRC-2026-09-06-academic-model-research-notes]] — [raw/surveys/2026-09-06-academic-model-research-notes.md](../../raw/surveys/2026-09-06-academic-model-research-notes.md)
 
-- [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
+- [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 
 The original artistic comparisons remain secondary interpretations. Official-page checks for the three market artworks are recorded in the cross-domain survey; their scope is stated in Evolution. Other artistic entries have not been rechecked in this task.

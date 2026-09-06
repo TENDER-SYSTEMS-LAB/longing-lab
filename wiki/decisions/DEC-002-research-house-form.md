@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: user-confirmed
-updated: 2026-09-04
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-longing-concept-brainstorm
 ---
@@ -48,4 +48,4 @@ Status: `deferred`, not rejected. They are recorded here so they are not re-inve
 
 ## Sources
 
-- [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
+- [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)

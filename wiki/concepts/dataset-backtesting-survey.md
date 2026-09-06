@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-dataset-backtesting-research
 ---
@@ -57,4 +57,4 @@ The survey proposes temporal holdouts, simple and seasonal baselines, incrementa
 
 ## Sources
 
-- [[SRC-2026-09-06-dataset-backtesting-research]] — raw/surveys/2026-09-06-dataset-backtesting-research.md; original LLM research synthesis, with documented availability distinguished from untested access and proposed LONGING applications
+- [[SRC-2026-09-06-dataset-backtesting-research]] — [raw/surveys/2026-09-06-dataset-backtesting-research.md](../../raw/surveys/2026-09-06-dataset-backtesting-research.md); original LLM research synthesis, with documented availability distinguished from untested access and proposed LONGING applications

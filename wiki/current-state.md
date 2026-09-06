@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-worldbuilding-roadmap-and-handoff
   - SRC-2026-09-06-world-rules-letter-spec-request
@@ -141,41 +141,41 @@ Explicitly deferred inside the market model, on unanimous review advice: reflexi
 
 ## Sources
 
-- [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]] — raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md; original roadmap assessment and handoff exchange; retrospective provenance, not a replacement for the later world/LETTER checkpoint
+- [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]] — [raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md](../raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md); original roadmap assessment and handoff exchange; retrospective provenance, not a replacement for the later world/LETTER checkpoint
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact request selecting the present design scope and constraints; proposed mechanisms remain unconfirmed
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact request selecting the present design scope and constraints; proposed mechanisms remain unconfirmed
 
-- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — raw/documents/2026-09-06-worldbuilding-roadmap-request.md; exact request for an assessment, target world-building depth, and roadmap; proposed answers remain unconfirmed
+- [[SRC-2026-09-06-worldbuilding-roadmap-request]] — [raw/documents/2026-09-06-worldbuilding-roadmap-request.md](../raw/documents/2026-09-06-worldbuilding-roadmap-request.md); exact request for an assessment, target world-building depth, and roadmap; proposed answers remain unconfirmed
 
-- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](../raw/conversations/2026-09-06-academic-model-recovered-excerpts.md); original recent messages recovered from the originating task local log after API omission
 
-- [[SRC-2026-09-06-academic-model-continuation]] — raw/conversations/2026-09-06-academic-model-continuation.md; compiled continuation with exact user excerpt supplied by the originating task
+- [[SRC-2026-09-06-academic-model-continuation]] — [raw/conversations/2026-09-06-academic-model-continuation.md](../raw/conversations/2026-09-06-academic-model-continuation.md); compiled continuation with exact user excerpt supplied by the originating task
 
-- [[SRC-2026-09-06-cross-domain-model-survey]] — raw/surveys/2026-09-06-cross-domain-model-survey.md; original discovery catalog based on linked external sources
+- [[SRC-2026-09-06-cross-domain-model-survey]] — [raw/surveys/2026-09-06-cross-domain-model-survey.md](../raw/surveys/2026-09-06-cross-domain-model-survey.md); original discovery catalog based on linked external sources
 
-- [[SRC-2026-09-06-dataset-backtesting-research]] — raw/surveys/2026-09-06-dataset-backtesting-research.md
+- [[SRC-2026-09-06-dataset-backtesting-research]] — [raw/surveys/2026-09-06-dataset-backtesting-research.md](../raw/surveys/2026-09-06-dataset-backtesting-research.md)
 
-- [[SRC-2026-09-06-academic-model-research-notes]] — raw/surveys/2026-09-06-academic-model-research-notes.md
+- [[SRC-2026-09-06-academic-model-research-notes]] — [raw/surveys/2026-09-06-academic-model-research-notes.md](../raw/surveys/2026-09-06-academic-model-research-notes.md)
 
-- [[SRC-2026-09-04-longing-concept-brainstorm]] — raw/conversations/2026-09-04-longing-concept-brainstorm.md
-- [[SRC-2026-09-05-price-formation-market-model]] — raw/conversations/2026-09-05-price-formation-market-model.md
-- [[SRC-2026-09-05-claude-critic-of-model]] — raw/surveys/2026-09-05-claude-critic-of-model.md
-- [[SRC-2026-09-05-deepseek-critic-of-model]] — raw/surveys/2026-09-05-deepseek-critic-of-model.md
-- [[SRC-2026-09-05-gemini-critic-of-model]] — raw/surveys/2026-09-05-gemini-critic-of-model.md
-- [[SRC-2026-09-05-glm-critic-of-model]] — raw/surveys/2026-09-05-glm-critic-of-model.md
-- [[SRC-2026-09-05-grok-critic-of-model]] — raw/surveys/2026-09-05-grok-critic-of-model.md
-- [[SRC-2026-09-05-kimi-critic-of-model]] — raw/surveys/2026-09-05-kimi-critic-of-model.md
-- [[SRC-2026-09-05-qwen-critic-of-model]] — raw/surveys/2026-09-05-qwen-critic-of-model.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-claude]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-deepseek]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md
-- [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md
-- [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md
-- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md
-- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md
-- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — raw/surveys/2026-09-06-factor-set-failure-profile-glm.md
+- [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
+- [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../raw/conversations/2026-09-05-price-formation-market-model.md)
+- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-claude-critic-of-model.md](../raw/surveys/2026-09-05-claude-critic-of-model.md)
+- [[SRC-2026-09-05-deepseek-critic-of-model]] — [raw/surveys/2026-09-05-deepseek-critic-of-model.md](../raw/surveys/2026-09-05-deepseek-critic-of-model.md)
+- [[SRC-2026-09-05-gemini-critic-of-model]] — [raw/surveys/2026-09-05-gemini-critic-of-model.md](../raw/surveys/2026-09-05-gemini-critic-of-model.md)
+- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-glm-critic-of-model.md](../raw/surveys/2026-09-05-glm-critic-of-model.md)
+- [[SRC-2026-09-05-grok-critic-of-model]] — [raw/surveys/2026-09-05-grok-critic-of-model.md](../raw/surveys/2026-09-05-grok-critic-of-model.md)
+- [[SRC-2026-09-05-kimi-critic-of-model]] — [raw/surveys/2026-09-05-kimi-critic-of-model.md](../raw/surveys/2026-09-05-kimi-critic-of-model.md)
+- [[SRC-2026-09-05-qwen-critic-of-model]] — [raw/surveys/2026-09-05-qwen-critic-of-model.md](../raw/surveys/2026-09-05-qwen-critic-of-model.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — [raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md](../raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — [raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md](../raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-claude]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md](../raw/surveys/2026-09-05-pricing-model-v2-factor-review-claude.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-deepseek]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md](../raw/surveys/2026-09-05-pricing-model-v2-factor-review-deepseek.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-gemini]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md](../raw/surveys/2026-09-05-pricing-model-v2-factor-review-gemini.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-glm]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md](../raw/surveys/2026-09-05-pricing-model-v2-factor-review-glm.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-grok]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md](../raw/surveys/2026-09-05-pricing-model-v2-factor-review-grok.md)
+- [[SRC-2026-09-05-pricing-model-v2-factor-review-qwen]] — [raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md](../raw/surveys/2026-09-05-pricing-model-v2-factor-review-qwen.md)
+- [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — [raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md](../raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md)
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
+- [[SRC-2026-09-06-factor-set-failure-profile-prompt-v2]] — [raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md](../raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md)
+- [[SRC-2026-09-06-factor-set-failure-profile-chatgpt]] — [raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md](../raw/surveys/2026-09-06-factor-set-failure-profile-chatgpt.md)
+- [[SRC-2026-09-06-factor-set-failure-profile-glm]] — [raw/surveys/2026-09-06-factor-set-failure-profile-glm.md](../raw/surveys/2026-09-06-factor-set-failure-profile-glm.md)

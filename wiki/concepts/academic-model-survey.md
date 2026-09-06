@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
@@ -108,15 +108,15 @@ The subsequent user request moves from model explanation to world and practice s
 
 ## Sources
 
-- [[SRC-2026-09-06-world-rules-letter-spec-request]] — raw/documents/2026-09-06-world-rules-letter-spec-request.md; exact current design request; application choices and tests remain LLM proposals
+- [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals
 
-- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — raw/conversations/2026-09-06-academic-model-recovered-excerpts.md; original recent messages recovered from the originating task local log after API omission
+- [[SRC-2026-09-06-academic-model-recovered-excerpts]] — [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](../../raw/conversations/2026-09-06-academic-model-recovered-excerpts.md); original recent messages recovered from the originating task local log after API omission
 
-- [[SRC-2026-09-06-academic-model-continuation]] — raw/conversations/2026-09-06-academic-model-continuation.md; compiled continuation with exact user excerpt supplied by the originating task
+- [[SRC-2026-09-06-academic-model-continuation]] — [raw/conversations/2026-09-06-academic-model-continuation.md](../../raw/conversations/2026-09-06-academic-model-continuation.md); compiled continuation with exact user excerpt supplied by the originating task
 
-- [[SRC-2026-09-06-cross-domain-model-survey]] — raw/surveys/2026-09-06-cross-domain-model-survey.md; original discovery catalog based on linked external sources
-- [[SRC-2026-09-06-cross-domain-model-survey-request]] — raw/documents/2026-09-06-cross-domain-model-survey-request.md; exact user task message
+- [[SRC-2026-09-06-cross-domain-model-survey]] — [raw/surveys/2026-09-06-cross-domain-model-survey.md](../../raw/surveys/2026-09-06-cross-domain-model-survey.md); original discovery catalog based on linked external sources
+- [[SRC-2026-09-06-cross-domain-model-survey-request]] — [raw/documents/2026-09-06-cross-domain-model-survey-request.md](../../raw/documents/2026-09-06-cross-domain-model-survey-request.md); exact user task message
 
-- [[SRC-2026-09-06-academic-model-research-brief]] — raw/documents/2026-09-06-academic-model-research-brief.md; compiled handoff, secondary provenance
-- [[SRC-2026-09-06-academic-model-research-notes]] — raw/surveys/2026-09-06-academic-model-research-notes.md; original LLM research notes based on primary papers, with proposals distinguished
-- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md; registered user work item
+- [[SRC-2026-09-06-academic-model-research-brief]] — [raw/documents/2026-09-06-academic-model-research-brief.md](../../raw/documents/2026-09-06-academic-model-research-brief.md); compiled handoff, secondary provenance
+- [[SRC-2026-09-06-academic-model-research-notes]] — [raw/surveys/2026-09-06-academic-model-research-notes.md](../../raw/surveys/2026-09-06-academic-model-research-notes.md); original LLM research notes based on primary papers, with proposals distinguished
+- [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md); registered user work item
