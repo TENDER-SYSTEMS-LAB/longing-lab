@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-cross-domain-model-survey
   - SRC-2026-09-06-academic-model-research-notes
   - SRC-2026-09-04-longing-concept-brainstorm
@@ -57,7 +58,7 @@ Benayoun asks *what is the world feeling right now?*, so his data is real time. 
 
 That shifts the work from **measuring emotion** to **recording disappearance**, which is why prices are shown across decades (1998 / 2008 / 2018 / 2026) rather than as a live tick.
 
-Two consequences are treated as binding:
+The original conversation treated two consequences as binding; the later scope revision below qualifies the first:
 
 1. **Abstract emotions must not be securities.** `LOVE ▲2.4%`, `LONELINESS ▼3.1%`, `HOPE ▲1.2%` is explicitly rejected — it lands almost on top of *Emotional Stock Exchange*. Securities are units of behavior, situation, culture, and memory instead: a payphone call to someone you like, a handwritten letter, waiting without contact, the last train, talking until dawn, a window on a rainy day, a drive with no destination, making someone a mixtape, the interval before film is developed. See [[index-architecture]].
 2. **A second inversion is the differentiator.** In a market, a collapsing price marks a worthless asset. Here, the further value falls in the market, the more precious the thing becomes to the person — surfaced as personal disclosures beneath a decimated quote. See [[system-grammar]].
@@ -96,7 +97,15 @@ The trademark, domain, and existing-work collision check on the name LONGING was
 - [[pricing-model]]
 - [[Q-004-unit-of-account]]
 
+## Evolution — abstract conditions are now allowed (2026-09-07)
+
+The user explicitly broadens securities beyond concrete practices and selects [[reflection|사유]] as room to form one's own judgment. Its operational definition is recorded internally while the artwork leaves interpretation open. The earlier practice-only reading of the differentiation below no longer governs the universe. This does not by itself adopt generic emotion tickers or claim that the work measures real emotions.
+
+The current premise constructs fictional historical data and accumulated market/research records. Earlier illustrative dates are not an adopted history window. This update records the user's design change; it adds no independently verified claim about the comparison artworks.
+
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-cross-domain-model-survey]] — [raw/surveys/2026-09-06-cross-domain-model-survey.md](../../raw/surveys/2026-09-06-cross-domain-model-survey.md); original discovery catalog based on linked external sources
 

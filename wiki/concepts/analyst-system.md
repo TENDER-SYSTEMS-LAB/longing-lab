@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -12,6 +13,18 @@ sources:
 ---
 
 # Analyst System
+
+## Current direction — analysts inside the fictional past (2026-09-07)
+
+**User-confirmed:** analysts have recorded outlooks and target prices from the fictional past through the data's present, leaving accumulated judgments to compare with later outcomes. HOLD/SHORT reports should show a stronger win record in the chosen declining market history. This adopts an artistic performance asymmetry, not a target percentage, score formula, forecast horizon, or fixed ranking for the proposed people below.
+
+The earlier four biographies, sample outputs, alpha tables, and exact coverage pattern remain working proposals. The user excludes investor personas' bets, profits, and losses as content, while retaining analysts with conflicting interpretations. A rise in LETTER need not be officially explained as improved practice prospects, a dearer claim, or a dearer opportunity; the audience interprets the competing reports.
+
+**Cadence boundary:** the final user turn says historical outlooks and targets have weekly and monthly records; the opening brief retains weekly prices and monthly formal research. The assistant's reconciliation—weekly brief/target updates and monthly full reports—is a proposal. Neither mandatory weekly targets from every analyst nor new quarterly/annual coverage is confirmed. See [[DEC-003-weekly-market-monthly-research]].
+
+**Open scoring:** decide whether to score the rating, target-price error, underlying-state forecast, or another outcome, over what horizon and eligible reports. A falling market alone does not make HOLD correct; HOLD has not been defined as cash or no position. Price-forecast success, understanding of human conditions, and the audience's value judgment are different assessments.
+
+**Assistant-proposed history controls:** provide each dated analyst only the information available then, retain later corrections separately, and avoid constructing successful forecasts with knowledge of later prices. If reports affect prices, distinguish information arrival, report publication, price response, and scoring so influence is not automatically credited as forecasting skill. These are unadopted production recommendations; no historical generator or backtest was run. See [[information-quality]].
 
 The mechanism that turns LONGING from "a fictional market that prices romance" into "a market where incompatible views of what a human being is collide". The premise came from the user: split the analysts, so that the same security — a handwritten letter — draws a LONG report from one and a HOLD or SHORT from another, with the two personas deliberately opposed, because a market is the place where a buyer's and a seller's opposite judgments are expressed as one price.
 
@@ -61,7 +74,7 @@ The SHORT desk must occasionally be uncomfortably right — on VINYL: *Consumers
 
 ## Track records
 
-Every past report persists, with accuracy and multi-year alpha attached: Adrian ranked first, Eleanor far down the table. The tension this creates is the intended one — the philosophically more beautiful analyst may perform badly, and the analyst nobody wants to agree with may keep being right. Whose judgment does the viewer follow?
+The original proposed scorecard preserves every past report with accuracy and multi-year alpha attached: Adrian ranked first, Eleanor far down the table. This named ranking and scoring format are not confirmed by the later direction above. The tension this creates is the intended one — the philosophically more beautiful analyst may perform badly, and the analyst nobody wants to agree with may keep being right. Whose judgment does the viewer follow?
 
 ## Consensus, and the viewer as the fifth analyst
 
@@ -129,6 +142,8 @@ Unchanged in principle — participant votes are displayed, never priced. One re
 - [[DEC-003-weekly-market-monthly-research]]
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

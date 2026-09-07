@@ -1,8 +1,9 @@
 ---
 status: working
-attribution: llm-proposed
+attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
   - SRC-2026-09-05-qwen-critic-of-model
@@ -15,6 +16,14 @@ sources:
 ---
 
 # Q-004 — What is one unit of a LONGING security?
+
+## Current branch and narrowed dependency (2026-09-07)
+
+**User-confirmed:** for [[reflection|사유]], connect directional exposure first to its market price, with flexibility for a later state-linked structure. This is a choice of reference, not a completed unit, contract, currency, payout, or adoption of the three earlier branches below.
+
+The user wants to simulate the aggregate Market rather than a securities trading system and excludes investor-persona profit/loss stories from the content. A completed borrowing, counterparty, and settlement system is therefore not a prerequisite to all further price design. Quote normalization and index weighting still need definitions; any selected amplification mechanism needs enough state and constraints to explain it. Concrete design depth and financial vocabulary remain open.
+
+U1 assessment, U2 future-practice claims, and U3 support entitlements remain unadopted comparison branches. The abstract-condition definition also removes a universal requirement that every quoted unit count a practice. Earlier contract-specific gates remain relevant only if that branch is later chosen. The separate unit review was requested previously but has not been dispatched, and its brief would need this updated scope.
 
 ## The question
 
@@ -154,6 +163,8 @@ This is the question that decides whether LONGING's indices are *constructed* or
 - [[Q-002-listing-lifecycle]]
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact request for concrete unit alternatives and downstream consequences; U1–U3 are new LLM proposals, not adopted mechanisms
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)

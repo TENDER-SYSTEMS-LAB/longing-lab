@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
   - SRC-2026-09-05-glm-critic-of-model
@@ -79,7 +80,17 @@ Confirmed as direction. The user stated both the decline and the inversion as th
 - [[Q-003-calibrating-the-bias]]
 - [[overview]]
 
+## Evolution — the bias belongs to the chosen history (2026-09-07)
+
+The user now explicitly chooses fictional historical data biased toward human conditions diminishing, with the market model producing prices from that history. The final turn reaffirms sideways periods, short rises, and sharp moves; prices do not fall linearly. The opening brief retains the requirement that changed conditions permit maintenance and recovery under the same rules.
+
+Together these specify an authored declining history without requiring an engine that falls under every input. This is **user-confirmed direction**, not adoption of any factor set, drift coefficient, synthetic generator, or price equation. The named rally dates above remain illustrative history, not the chosen historical span.
+
+The user also wants HOLD/SHORT reports to have the stronger accumulated win record in that market history. [[analyst-system]] owns this outcome direction and the unresolved definition of a win; it is not a fixed ranking for the proposed named analysts.
+
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)
 - [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-claude-critic-of-model.md)

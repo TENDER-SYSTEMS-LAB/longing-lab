@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -61,7 +62,17 @@ None of these is decided. They are recorded because they convert this question f
 - [[DEC-004-secular-decline-with-rallies]]
 - [[overview]]
 
+## Evolution — authored history and an unexplained surface (2026-09-07)
+
+The user explicitly locates the bias in the fictional historical data: the selected human conditions diminish over time. This is no longer merely acknowledgment of an assistant's structural-bias proposal. The price model must still allow recovery under different conditions; [[DEC-004-secular-decline-with-rallies]] owns that constraint.
+
+Internal definitions are explicit in GitHub, while the artwork leaves their interpretation to indicators, securities, and reports. This selects the location of ambiguity without selecting a numeric degree of bias or a public explanatory methodology. The earlier neutral-drift companion, fixed winner percentage, epigraphs, and disclosure devices remain proposals.
+
+HOLD/SHORT's better cumulative forecasting record is now a stated artistic direction. It does not equate prediction success, accurate understanding of the underlying condition, and moral rightness; precise scoring remains open in [[analyst-system]].
+
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

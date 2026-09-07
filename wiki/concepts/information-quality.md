@@ -3,6 +3,7 @@ status: working
 attribution: user-originated
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-glm-critic-of-model
@@ -67,7 +68,15 @@ Raised in the Wiki from registered material, not proposed in the source session.
 - [[arbitrage]]
 - [[Q-001-price-formation]]
 
+## Evolution — information inside authored history (2026-09-07)
+
+The new fictional-history direction makes the gap between author-known data and contemporaneous knowledge central to research records. The opening user brief retains the distinctions among underlying state, observed reports, institutional estimates, analyst forecasts, and market price. The final assistant synthesis proposes timestamped information availability and preserved release vintages so a past report cannot silently know a later correction.
+
+It also proposes separating information arrival, publication, price response, and performance evaluation when reports influence prices. These production controls support the desired historical record but were not individually confirmed by the user. No lag, error, rumour, correction, or forecast-generation rule is selected. See [[analyst-system]] and [[data-sources]].
+
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

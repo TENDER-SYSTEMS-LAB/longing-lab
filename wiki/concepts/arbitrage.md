@@ -3,6 +3,7 @@ status: working
 attribution: user-originated
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
   - SRC-2026-09-05-claude-critic-of-model
@@ -29,7 +30,7 @@ The corpus contains **limits to arbitrage** but not arbitrage. Claude's first-ro
 
 Read plainly: a mispricing persists because nobody is left to take the other side, not because belief is intense. It is one of the two live candidates for replacing the rejected `κ(1−S)` gate — the other being the dual anchor — and it survives in [[pricing-model]] as an unresolved alternative.
 
-That mechanism is entirely negative. It describes the *absence* of an arbitrageur without ever depicting one. Nothing in the repository says who takes the other side of a LONGING position, what holding one costs, or what closing one means. The user's direction is the affirmative case that Claude's coefficient presupposes.
+That mechanism is entirely negative. It describes the *absence* of an arbitrageur without ever depicting one. At the time of that discussion, the repository did not specify who took the other side, what holding cost, or what closing meant. The later unit-dependent proposals and revised market scope are recorded below.
 
 ## What the work already advertises
 
@@ -71,7 +72,15 @@ For the proposed funded branch, the gap between house estimate and market quote 
 - [[Q-003-calibrating-the-bias]]
 - [[Q-004-unit-of-account]]
 
+## Evolution — market scope without investor stories (2026-09-07)
+
+The user now excludes investor personas' betting and profit/loss stories and selects the aggregate Market as the simulation scope. The earlier arbitrage questions about a named participant or a full contract system are conditional design questions, not universal gates for the work. No arbitrage mechanism has been chosen.
+
+The user remains interested in convincing financial phenomena, explicitly reopening forced short covering for exploration. [[pricing-model]] preserves the assistant's aggregate exposure/maintenance candidate. It is neither an implemented arbitrage route nor a confirmed squeeze. [[Q-004-unit-of-account]] records the initial market-price reference for 사유 and the possible later state link. The distinction between a valuation gap and an executable riskless opportunity remains relevant if strict arbitrage is pursued.
+
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals
 

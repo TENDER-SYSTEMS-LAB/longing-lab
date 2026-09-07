@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
@@ -29,6 +30,12 @@ sources:
 ---
 
 # Q-001 — How is a price determined?
+
+## Current question after the 2026-09-07 decisions
+
+How should authored historical data for internally defined subjects produce aggregate market prices and dated research records? The user has chosen that production basis, admits abstract conditions, and initially links 사유's directional exposure to market price with a later state-link option. [[pricing-model]] records the newly open amplification candidates.
+
+The earlier practice/contract-first gate below is no longer universal: a complete exchange system and a funded future-practice claim are not prerequisites. The underlying-state definition, historical input method, information releases, valuation/forecast distinction, weekly price mechanism, index meaning, and scoring still need specification. No equation or financial amplification mechanism has been adopted.
 
 ## The question
 
@@ -86,7 +93,7 @@ Eight complete responses now compare the fixed sets in [[factor-set-failure-prof
 
 ## Evolution — world and practice draft before the price bridge
 
-The current task supplies [[world-rules]], concrete unit alternatives in [[Q-004-unit-of-account]], and [[letter-practice-dynamics]]. The causal trial stops at practice and the institutional observation/estimate boundary. No weekly pricing formula or adopted unit follows. Stage 3 must choose the count or persistence quantity being valued, observation timing and revision treatment, payoff/quote meaning, analyst influence, finite market resources, and index/expiry continuity before this question can close. The illustrative practice arithmetic establishes neither a price history nor an identified factor architecture.
+The 2026-09-06 task supplied [[world-rules]], concrete unit alternatives in [[Q-004-unit-of-account]], and [[letter-practice-dynamics]]. The causal trial stops at practice and the institutional observation/estimate boundary. No weekly pricing formula or adopted unit follows. For that earlier practice/contract branch, stage 3 would need to choose the count or persistence quantity being valued, observation timing and revision treatment, payoff/quote meaning, analyst influence, finite market resources, and index/expiry continuity before this question can close. The illustrative practice arithmetic establishes neither a price history nor an identified factor architecture.
 
 ## Related
 
@@ -106,6 +113,8 @@ The current task supplies [[world-rules]], concrete unit alternatives in [[Q-004
 - [[attribution-ledger]]
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals
 

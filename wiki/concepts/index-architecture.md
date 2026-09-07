@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -89,11 +90,11 @@ The system must never characterize efficiency as bad. It reports 5-year returns 
 
 ## Securities and membership
 
-Individual securities are behaviors, situations, and cultural units — never abstract emotions, which is the deliberate break from prior art (see [[prior-art]]). Working examples: `LTR` LETTER, `WTG` WAITING, `SRD` SERENDIPITY, `NTW` NIGHT WALK, `CLL` UNPLANNED CALL, plus proposals such as mixtape-making, an aimless drive, a call from a payphone, and the interval before film is developed.
+The original universe emphasized behaviors, situations, and cultural units as a deliberate break from emotion tickers in [[prior-art]]. On 2026-09-07 the user broadened eligibility to abstract conditions with clear internal definitions: [[reflection|사유]] is room to form one's own judgment. This does not adopt generic emotion tickers, a new index assignment, or a security code. Earlier working examples remain `LTR` LETTER, `WTG` WAITING, `SRD` SERENDIPITY, `NTW` NIGHT WALK, `CLL` UNPLANNED CALL, plus mixtape-making, an aimless drive, a call from a payphone, and the interval before film is developed.
 
 A security can belong to several indices at once — LETTER sits in Latency, Human Friction, and Materiality — which is a large part of what makes the structure read as a real market.
 
-Prices are shown across long horizons rather than as a single day's quote: current price, values at 1998 / 2008 / 2018 / 2026, 52-week and all-time highs. That moves the work's subject from measuring emotion to **recording disappearance**.
+Long price histories, 52-week and all-time highs, and snapshots at 1998 / 2008 / 2018 / 2026 were proposed to move the subject from measuring emotion to **recording disappearance**. The user now chooses fictional historical data as the production basis, but the historical span and exact dates remain undecided. No index weighting or normalization rule follows automatically from that choice; see [[data-sources]] and [[Q-004-unit-of-account]].
 
 Four of the six sub-indices — Latency, Serendipity, Human Friction, Unstructured Time — were judged the likeliest core vocabulary of the work.
 
@@ -151,6 +152,8 @@ What is agreed across all reviews: build securities first and aggregate upward, 
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); user decisions broaden eligible subjects and choose fictional historical data without selecting index rules
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

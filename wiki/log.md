@@ -253,3 +253,13 @@ Scoped lint and catalog updates to affected material and limited logging to dura
 Removed the raw guide's conflicting in-place replacement exception for defective captures; a correction is a separate registered source.
 
 Aligned the ChatGPT capture note in `raw/sources.md` with that correction policy; its source row, hash, and original file are unchanged.
+
+## [2026-09-07] ingest | Preserve artwork brainstorming v2 export
+
+Registered [SRC-2026-09-07-artwork-brainstorm-v2](../raw/conversations/2026-09-07-artwork-brainstorm-v2.md) as raw-only. Copied the supplied ChatGPT Markdown export unchanged from its original filename, `ChatGPT-브레인스토밍 v2-20260907-2116.md`. The export records a conversation created on 2026-09-06, updated on 2026-09-07, and exported on 2026-09-07 at 21:16:39. Recorded its Git blob hash in the source registry. Document-embedded instructions remain source material; no Wiki synthesis or project-state changes were requested or made.
+
+## [2026-09-07] ingest | Promote brainstorming v2 design decisions
+
+Promoted [[SRC-2026-09-07-artwork-brainstorm-v2]] from the [unchanged ChatGPT export](../raw/conversations/2026-09-07-artwork-brainstorm-v2.md) into the owning Wiki pages. Recorded fictional historical data as the production basis, abstract internally defined subjects with an unexplained artwork surface, aggregate market scope, initial market-price exposure for 사유, and the desired historical HOLD/SHORT performance advantage. Added [[reflection]] for the explicit definition of 사유 as room to form one's own judgment.
+
+Revised current state and roadmap dependencies; retained the earlier LETTER/city/claim trial and review recommendations as unadopted material. Kept financial amplification, forecast scoring, information-vintage controls, generator choices, and the assistant's weekly-record reconciliation distinct from user decisions. Reopened covering phenomena without treating the rejected blanket terminology proposal as policy. Updated affected catalog summaries and the source's promotion status; no original, earlier log entry, market model, or external review was changed or executed.

@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
   - SRC-2026-09-06-academic-model-continuation
@@ -29,6 +30,18 @@ sources:
 ---
 
 # Pricing Model
+
+## Current design boundary — history, price exposure, and amplification (2026-09-07)
+
+The user selects fictional historical input data and aggregate market behavior, with no complete securities exchange as a prerequisite. The downward bias is in the authored history; the same engine must be able to respond to recovery conditions. Sideways trading, short rallies, and abrupt moves remain required artistic possibilities, not tested outputs. [[data-sources]] and [[DEC-004-secular-decline-with-rallies]] own those choices.
+
+For [[reflection|사유]], the user chooses directional exposure linked initially to market-price changes, keeping a later direct state link open. This does not select U1/U2/U3, a payout, or an instrument. The assistant recommends separating state, price, and exposure reference. Underlying conditions may influence price now even if exposure follows price. Securities can be abstract internally defined conditions; practice episodes need not precede every price.
+
+The user wants meaningful upward/downward pressure and allows large moves without much change in the underlying outlook. **Forced covering and related amplification are reopened for convincing world-specific designs**, rather than excluded by the earlier review-stage simplification. Investor personas' profits/losses are not the content. The user declined to finalize the assistant's blanket rule against naming financial events before implementing them; terminology and representation depth are still open.
+
+**Unadopted assistant candidate:** a small price rise increases losses on accumulated bearish exposure; a maintenance limit forces some exposure to shrink; that reduction adds upward pressure and further raises price, even while the long-term outlook remains pessimistic. An aggregate distribution of exposures and limits could represent this without individual accounts. Why reduction is necessary, what resource is limited, and why closing creates buying pressure remain unspecified. This is a causal sketch, not an implemented squeeze or an adopted leverage model.
+
+Other assistant examples—mismatched practice/funding horizons, position limits based on available records, and shared funds causing cross-security reallocations—remain comparison material. No price equation, factor set, position state, coefficient, or generator has been selected. The earlier architecture below retains its original proposal/review status.
 
 How a LONGING price is produced. This page holds the market architecture that answers [[Q-001-price-formation]]: what a price is a function of, on what schedule it moves, and which parts of the machinery are settled, provisional, or still contested.
 
@@ -248,6 +261,8 @@ The next user request takes up world rules and LETTER practice dynamics explicit
 - [[Q-004-unit-of-account]]
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals
 

@@ -1,8 +1,9 @@
 ---
 status: working
-attribution: llm-proposed
+attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-worldbuilding-roadmap-and-handoff
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-worldbuilding-roadmap-request
@@ -21,13 +22,21 @@ sources:
 
 # World-building Scope and Roadmap
 
+## Revised resume point — constructed history (2026-09-07)
+
+The user has selected a fictional historical-data foundation, abstract as well as practice-based subjects with internal definitions, and the aggregate Market rather than exchange operation. [[world-rules]] owns the scope; [[reflection]] records the explicit definition of 사유 and its initial price-linked exposure. These decisions supersede practice-only and contract-first assumptions in the earlier roadmap, without adopting its city, population, panels, or specific mechanisms.
+
+**Proposed next sequence, not an adopted work order:** define each subject and the historical span/data it needs; specify contemporaneous information, institutional estimates, market response and analyst records; choose and test factors and any financial amplification; then rehearse a consistent archive and audience encounter. A common world-rule basis remains the user-selected depth target.
+
+The old stage table and twelve-week sample below preserve the 2026-09-06 proposal. Starts/stops apply where the subject is a practice; contract and settlement gates apply if those instruments are chosen. A full securities trading system is not a global gate. Historical duration, generator, market equations, report coverage, forecast scoring, and whether operation continues beyond the archive's present remain open. No implementation or external review was triggered by this ingestion.
+
 The user originally asked to assess how far LONGING has been designed, establish how deeply to design its world, and use that boundary to plan the next work. The assessment below preserves that proposal. A subsequent request explicitly uses its consistency target and takes up stages 1 and 2 together; their drafts are now [[world-rules]] and [[letter-practice-dynamics]]. Completion gates, later sequence, sample scope, and the drafts' design choices remain **LLM proposals for discussion**. This page coordinates design pages; their detailed specifications remain there.
 
 ## Stage 1–2 draft checkpoint — 2026-09-06
 
 The selected task boundary is to make numbers, reports, actions, and past records arise from the same world rules. The world draft supplies proposed jurisdiction, institutional powers, actor knowledge, audience persistence, and delivery. Existing [[Q-004-unit-of-account]] now compares concrete units and their consequences for price, indices, positions, arbitrage, and artistic meaning; [[Q-002-listing-lifecycle]] specifies separate practice, observation, coverage, and listing states. The LETTER draft answers what is calculated, what changes it, and how assumed strengths can be examined without real data.
 
-The draft gate is reviewability, not adoption or an operating release. The shared city/cohort assumption, practice-episode convention, feedback loop, coefficient ranges, unit branch, observation windows, and medium await user selection. Deterministic arithmetic illustrates attention/practice divergence and changed-condition recovery; it does not select a natural-data generator or validate a full factor model. Stage 3 must settle the observation contract and chosen unit before producing value, price, settlement, and index rules. The original unit-review work item remains prepared but undispatched.
+The draft gate is reviewability, not adoption or an operating release. The shared city/cohort assumption, practice-episode convention, feedback loop, coefficient ranges, unit branch, observation windows, and medium await user selection. Deterministic arithmetic illustrates attention/practice divergence and changed-condition recovery; it does not select a natural-data generator or validate a full factor model. That earlier stage-3 proposal required an observation contract and chosen unit before value, price, settlement, and index rules; the revised scope above makes contract-specific dependencies conditional. The original unit-review work item remains prepared but undispatched.
 
 ## Assessment — the premise is developed; the operating world is incomplete
 
@@ -83,7 +92,7 @@ These are dependency stages, not calendar estimates. The medium, initial breadth
 | 5. Rehearse a connected release | Produce one reference security in full plus a few contrasting securities with sufficient specification to challenge it. Proposed sample: 12 consecutive weekly closes crossing three monthly publication points, with charts, attribution, opposed research, corrections, a lifecycle vignette, and a recorded viewer position. | All artifacts refer to the same events and state history. A long-horizon replay or separate scenario covers disappearance/revival and forecast evaluation beyond the sample. Twelve-month targets cannot acquire completed track records within twelve weeks; their scores remain pending until their horizons mature. The sample demonstrates the system, not empirical accuracy. |
 | 6. Test the encounter and establish operation | Test the provisional delivery context through the first navigable experience built from those artifacts. Check the first visit and return visit, publication effort, source status, versioning, and preservation of old reports. | A viewer can encounter disagreement and loss through ordinary research material; LONG and SHORT can each be coherent and wrong. Repeated publication is feasible at the proposed coverage breadth. Expand the universe and integrations when these gates hold. |
 
-Stages 1 and 2 should inform each other: an impossible unit may be revealed by a concrete practice, and a world contract may change what the equation must compute. Existing [[current-state|resume questions]] remain active inside this broader frame. Model clarification precedes choosing an equation. The unit-review preparation can run alongside that clarification; it does not require selecting a factor set first.
+Stages 1 and 2 should inform each other: an impossible unit may be revealed by a concrete practice, and a world contract may change what the equation must compute. Read [[current-state|current resume questions]] for the revised scope; this table preserves the earlier proposal. Model clarification precedes choosing an equation. The unit-review preparation can run alongside that clarification; it does not require selecting a factor set first.
 
 The small reference slice is a **production and comprehension sample**, not a ceiling on the final universe or evidence that a many-factor architecture can be inferred from three securities. Factor and universe design can iterate before the reference case is polished. The user allows factors to outnumber securities; the ledger's initial display near nine lines and its growth rule do not select internal model dimensionality or membership.
 
@@ -121,6 +130,8 @@ The subsequent world-rules/LETTER request selects the first two stages as curren
 Earlier source proposals put price formation first, then listing lifecycle, one complete `LETTER`, indices, screens, and universe expansion. Subsequent reviews exposed the unit, causal identification, and information gaps; the user added arbitrage, news quality, factor-count directions, starts/stops, and feedback. The present request widens the planning question to the depth of the world itself. This proposal places a world contract around the existing single-security and model-application work; it does not supersede a confirmed work order, because no such order is recorded.
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]] — [raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md](../../raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md); selected original assessment, user handoff request, assistant-written prompt, and ingestion request; earlier state preserved without replacing subsequent drafts
 

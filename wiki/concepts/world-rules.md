@@ -1,8 +1,9 @@
 ---
 status: working
-attribution: llm-proposed
+attribution: jointly-developed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-worldbuilding-roadmap-request
   - SRC-2026-09-04-longing-concept-brainstorm
@@ -12,7 +13,19 @@ sources:
 
 # World Rules — Provisional Design
 
-This is the first-stage specification requested in [[worldbuilding-roadmap]], developed alongside [[letter-practice-dynamics]]. **Every new rule and number below is an LLM proposal for review, not a user decision or an empirical description.** The user has selected the design task and its consistency criterion; selecting the task does not select these answers.
+## Current scope — fictional history and aggregate market (2026-09-07)
+
+**User-confirmed:** the work starts from authored fictional historical data, biased toward the diminishment of its human subjects. A market model acts on those data, with sideways periods, rallies, and sharp moves inside the long decline. Analysts have recorded outlooks and targets across that history. The historical window, world population, data generator, coefficients, and exact market equations remain unselected. See [[data-sources]] and [[DEC-004-secular-decline-with-rallies]].
+
+The listed object need not be a practice. Abstract conditions are allowed; **사유** is defined as **room to form one's own judgment** ([[reflection]]). Operational definitions belong in GitHub design records. The artwork presents indicators, securities, and analyst reports without explaining those definitions or declaring the human meaning of a price move. This is a presentation decision, not a decision to make the repository private.
+
+The selected simulation scope is the aggregate financial **market**, not a complete securities trading system. Investor personas' betting, gains, and losses are outside the desired content. For 사유, directional exposure is initially linked to its market price, with flexibility for a later direct state link. No account system, order book, borrowing/settlement mechanism, or anonymous position model was adopted by that choice. See [[Q-004-unit-of-account]].
+
+**Open, not rejected:** forced short covering and other financial amplification, if a convincing LONGING-specific relation can be designed. The user explicitly declined to finalize the assistant's proposed rule prohibiting a report from naming a financial event unless that event had been implemented. Neither that prohibition nor a permission to treat an unimplemented mechanism as already operating is a settled design rule. Mechanism, representation depth, and report vocabulary require further discussion.
+
+The numbered 2026-09-06 draft below is preserved as **llm-proposed**. Its city, 10,000 adults, 500-person panel, institutional departments, support rights, 52-week claims, and viewer persistence are unadopted. Its practice-only ontology and contract-first dependency do not govern all subsequent securities or the current market scope.
+
+This is the first-stage specification requested in [[worldbuilding-roadmap]], developed alongside [[letter-practice-dynamics]]. **Every rule and number in the numbered draft is an LLM proposal for review, not a user decision or an empirical description.** The user has selected the design task and its consistency criterion; selecting the task does not select these answers.
 
 ## Existing commitments and choices in this draft
 
@@ -62,7 +75,7 @@ If funded claims are selected, a **separate fictional clearing trust** holds par
 
 ## 4. What is listed and what one unit means
 
-The listed object is a **specified practice in a specified population and observation convention**, not an emotion, every physical object associated with it, or ownership of practitioners. `LETTER` is the continuing coverage identifier. Its specification excludes unsent drafts and machine-produced letters and counts a qualifying personal handwritten physical message when released to a particular addressee; [[letter-practice-dynamics]] owns the detailed boundary.
+In this earlier LETTER trial, the listed object is a **specified practice in a specified population and observation convention**, not an emotion, every physical object associated with it, or ownership of practitioners. `LETTER` is the continuing coverage identifier. Its specification excludes unsent drafts and machine-produced letters and counts a qualifying personal handwritten physical message when released to a particular addressee; [[letter-practice-dynamics]] owns the detailed boundary.
 
 Three genuinely different meanings remain open:
 
@@ -126,6 +139,8 @@ At the next visit, the visitor's previous position, the original report, the new
 Next-stage gates are the observation and revision process; choice of a value/contract outcome and its mapping; a finite participant and weekly quotation rule if U2/U3 is selected; forecast scoring; and index roll/membership treatment. These gates do not select a factor set. Completing LETTER tests connected operation, not whether the entire factor architecture is sufficient or identifiable. Factors may outnumber securities.
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request and constraints; new rules here are this task's unconfirmed proposals
 - [[SRC-2026-09-06-worldbuilding-roadmap-request]] — [raw/documents/2026-09-06-worldbuilding-roadmap-request.md](../../raw/documents/2026-09-06-worldbuilding-roadmap-request.md); target-depth and roadmap request

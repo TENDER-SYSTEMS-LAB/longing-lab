@@ -28,46 +28,48 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Core
 
-- [[overview]] — LONGING as a fictional research house tracking the conditions of human experience modernization is removing · `working` (2026-09-07)
-- [[current-state]] — Snapshot of decisions, the world/LETTER drafts, unselected assumptions, and gates before information and price design · `working` (2026-09-07)
+- [[overview]] — Fictional research house built from authored historical data, abstract or concrete subjects, and accumulated market records · `working` (2026-09-07)
+- [[current-state]] — Latest fictional-history decisions, abstract subjects, aggregate market scope, and unresolved data, price, and forecast rules · `working` (2026-09-07)
 
 ## Concepts
 
-- [[worldbuilding-roadmap]] — Design-readiness assessment, handoff provenance, stage 1–2 draft checkpoint, and proposed later dependencies and release gates · `working` (2026-09-07)
-- [[world-rules]] — Proposed city/cohort, institutional authority, unit branches, actor knowledge, publication memory, and audience encounter · `working` (2026-09-07)
-- [[letter-practice-dynamics]] — Proposed LETTER boundary, episode stocks and send flows, causal conditions, feedback, assumed strengths, and scenario checks · `working` (2026-09-07)
+- [[reflection]] — 사유 as room to form one's own judgment, with an internal definition and initial market-price exposure · `working` (2026-09-07)
+
+- [[worldbuilding-roadmap]] — Revised history-first resume point with earlier world/LETTER stages retained as conditional proposals · `working` (2026-09-07)
+- [[world-rules]] — Adopted historical and aggregate-market scope, internal definitions, and the preserved unadopted city/cohort trial · `working` (2026-09-07)
+- [[letter-practice-dynamics]] — LETTER-specific unadopted practice model, feedback and consistency examples; not a universal security template · `working` (2026-09-07)
 
 - [[dataset-backtesting-survey]] — 23 dataset families and Kaggle routes mapped to behavior, observation and mechanism tests, with access limits and unconfirmed priorities · `working` (2026-09-07)
 
 - [[academic-model-survey]] — Six model cards, 120-entry discovery map, user directions, and the separate unadopted LETTER application draft · `working` (2026-09-07)
 
-- [[index-architecture]] — LNGI and six condition-based sub-indices, the contrast indicators now promoted to macro variables, and how securities are listed across them · `working` (2026-09-07)
-- [[pricing-model]] — Price architecture and failure reviews, now connected to the proposed LETTER state specification and unit-dependent price bridge · `working` (2026-09-07)
+- [[index-architecture]] — LNGI and six condition-based sub-indices, macro contrasts, and eligibility broadened to abstract internally defined subjects · `working` (2026-09-07)
+- [[pricing-model]] — Historical-input market design, initial price-linked exposure, and unadopted financial amplification alongside prior reviews · `working` (2026-09-07)
 - [[model-review-consensus]] — What the first seven independent model reviews agreed to keep, cut, and add, and where they split · `working` (2026-09-07)
 - [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, where Qwen dissents toward reduction, and the transition to fixed-set failure review · `working` (2026-09-07)
 - [[factor-set-failure-profile-review]] — Eight third-round reviews of six fixed sets: conditional failure costs, disagreements, source limitations, and tests proposed but not run · `working` (2026-09-07)
 - [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, and the distinction between exact accounting and causal recovery · `working` (2026-09-07)
-- [[arbitrage]] — Arbitrage as a world-building question, with proposed unit-dependent holdings and the distinction between risky convergence and executable payout discrepancies · `working` (2026-09-07)
-- [[information-quality]] — News as reports about events rather than events: misreporting, over- and under-reporting, and rumour ahead of disclosure · `working` (2026-09-07)
-- [[data-sources]] — Behavior/attention/discourse separation, candidate sources, and modeled-versus-observed boundaries in the world/LETTER trial · `working` (2026-09-07)
-- [[analyst-system]] — Opposed analysts publishing LONG/HOLD/SHORT with targets and conviction, consensus, track records, and the viewer as fifth analyst · `working` (2026-09-07)
+- [[arbitrage]] — Open world-specific arbitrage interest under aggregate market scope; no investor-story or full-exchange prerequisite · `working` (2026-09-07)
+- [[information-quality]] — Imperfect reports and proposed contemporaneous-information controls for the fictional research history · `working` (2026-09-07)
+- [[data-sources]] — Selected fictional historical-data basis, layered state and information, and earlier empirical candidates · `working` (2026-09-07)
+- [[analyst-system]] — Dated historical outlooks and targets, desired HOLD/SHORT advantage, and open scoring and coverage rules · `working` (2026-09-07)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-07)
-- [[prior-art]] — Artistic precedents, three official-page refreshes, and evolution through two academic surveys · `working` (2026-09-07)
+- [[prior-art]] — Artistic precedents and academic links, with differentiation updated to admit abstract internally defined conditions · `working` (2026-09-07)
 
 ## Decisions
 
 - [[DEC-001-project-name-longing]] — The work is titled LONGING with no suffix; rejected name candidates and the outstanding collision check · `confirmed` (2026-09-07)
 - [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-07)
-- [[DEC-003-weekly-market-monthly-research]] — Prices strike weekly, formal research publishes monthly and sets the anchor; real-time pricing rejected · `confirmed` (2026-09-07)
-- [[DEC-004-secular-decline-with-rallies]] — The market trends down and rallies where a real market crashes; the decline must emerge, never be hard-coded · `confirmed` (2026-09-07)
+- [[DEC-003-weekly-market-monthly-research]] — Weekly prices and monthly formal research extended into fictional history; detailed weekly analyst obligations remain open · `confirmed` (2026-09-07)
+- [[DEC-004-secular-decline-with-rallies]] — Declining authored history with market rallies and recovery possible under changed inputs; no forced price drift · `confirmed` (2026-09-07)
 - [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection, now carrying the user's later position that factors may outnumber securities · `confirmed` (2026-09-07)
 
 ## Open Questions
 
-- [[Q-001-price-formation]] — Price architecture with unresolved unit, observation, valuation, and market rules after the world/LETTER draft · `working` (2026-09-07)
+- [[Q-001-price-formation]] — Open historical-data, information, valuation, price and index rules under aggregate market scope · `working` (2026-09-07)
 - [[Q-002-listing-lifecycle]] — Proposed independent practice, observation, coverage, and listing states, including absence, delisting, and return · `working` (2026-09-07)
-- [[Q-003-calibrating-the-bias]] — How far the tilt toward the human can go before the work stops asking and starts arguing · `working` (2026-09-07)
-- [[Q-004-unit-of-account]] — Concrete quotation, forecast-claim, and support-entitlement alternatives with price, index, positioning, arbitrage, and artistic consequences · `working` (2026-09-07)
+- [[Q-003-calibrating-the-bias]] — Bias located in authored history while degree, scoring, and public presentation devices remain open · `working` (2026-09-07)
+- [[Q-004-unit-of-account]] — Initial market-price reference for 사유; unit/index questions and alternative claims remain open without a full-exchange gate · `working` (2026-09-07)
 
 ## Activity
 
@@ -85,7 +87,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - Create a concept, decision, or question page only when registered source material supports it.
 - Do not duplicate a per-source raw catalog here. Use the [Raw Source Index](../raw/sources.md) as the single registry.
-- Several pages still rest on a single source. [[overview]], [[system-grammar]], [[prior-art]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] depend entirely on the 2026-09-04 concept conversation.
+- Several pages still rest on a single source. [[system-grammar]], [[DEC-001-project-name-longing]], and [[DEC-002-research-house-form]] depend entirely on the 2026-09-04 concept conversation. [[overview]] now also uses the brainstorming v2 export; [[prior-art]] also uses later survey sources.
 - The seven `critic-of-model` surveys are `llm-proposed` throughout. Their agreement is evidence about the model, never a user decision — do not promote a converged recommendation to `confirmed` without the user. The six second-round Pricing Model v2 factor reviews are `llm-proposed` on the same terms; all six (Claude, DeepSeek, Gemini, GLM, Grok, Qwen) are hash-verified and synthesized in [[factor-architecture-review-consensus]]. Qwen's source was re-registered on 2026-09-06 after its first capture was found defective — it ended mid-expression partway through the response — and is now verified under the same source ID.
 
 The eight accepted third-round reviews are synthesized in [[factor-set-failure-profile-review]] with the same `llm-proposed` boundary. No factor set or repair has been selected; initial Gemini coverage was superseded by a separate complete response, and all capture differences are recorded in the raw registry.

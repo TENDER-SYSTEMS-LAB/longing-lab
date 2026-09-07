@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-05-price-formation-market-model
 ---
 
@@ -78,6 +79,14 @@ Confirmed. Stated by the user as an instruction, not a suggestion, and it overro
 - [[DEC-002-research-house-form]]
 - [[Q-001-price-formation]]
 
+## Evolution — cadence within a fictional archive (2026-09-07)
+
+The new conversation retains weekly prices and monthly formal research in its opening user brief. Its final user turn places weekly and monthly outlook/target records throughout the fictional history. This extends the cadence into an accumulated past rather than deciding how long future live operation must continue.
+
+The assistant proposed weekly short/event or target-update records alongside monthly full research as a reconciliation. Exact weekly analyst obligations, coverage density, forecast horizons, and report length remain unselected; the samples and extended cadence above are not newly confirmed. [[analyst-system]] owns the historical record and scoring questions.
+
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

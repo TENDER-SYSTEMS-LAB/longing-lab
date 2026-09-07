@@ -3,6 +3,7 @@ status: working
 attribution: llm-proposed
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-worldbuilding-roadmap-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
@@ -10,6 +11,12 @@ sources:
 ---
 
 # LETTER Practice Dynamics
+
+## Scope after brainstorming v2 (2026-09-07)
+
+This remains a **LETTER-specific, unadopted practice trial**. The user explicitly identifies its city/cohort, panel, dispatch boundary, episode convention, feedback loop, and coefficients as AI proposals. Securities are no longer limited to practices: [[reflection]] is a separately defined abstract condition. The current production basis is fictional past data, not merely a fallback when real data cannot be obtained.
+
+The calculations below are preserved as consistency examples. They do not select a historical generator, imply that every security requires starts/stops, or require a 52-week claim before aggregate market design. The previous contract-first handoff is conditional on that branch; [[world-rules]] and [[Q-004-unit-of-account]] give the current scope.
 
 This is a reviewable proposal for stage 2 of [[worldbuilding-roadmap]], paired with [[world-rules]]. The user requires distinct starts and interruptions, feedback, a current scenario without real data, and recovery under the same rules. **The boundaries, state convention, equations, coefficients, and examples below are assistant assumptions for a trial, not user decisions or empirical estimates.** The specification answers the user's three questions in order. It computes practice before estimating its value or quoting its price.
 
@@ -227,6 +234,8 @@ Practice absence, inability to observe, coverage ending, delisting, and return f
 The earlier Wiki left the three model-application questions unanswered and had not selected a feedback loop or generator. The present user request commissions a concrete draft. This page advances those questions to one inspectable trial with alternative boundaries and unselected extensions. It does not promote the trial into a confirmed mechanism or select a natural-looking data generator.
 
 ## Sources
+
+- [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); user authority for these deliverables and constraints, not approval of this page's assistant-designed rules or numerical assumptions
 - [[SRC-2026-09-06-worldbuilding-roadmap-request]] — [raw/documents/2026-09-06-worldbuilding-roadmap-request.md](../../raw/documents/2026-09-06-worldbuilding-roadmap-request.md); preceding scope assessment, synthesized in [[worldbuilding-roadmap]]
