@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-worldbuilding-roadmap-request
@@ -12,6 +13,14 @@ sources:
 ---
 
 # World Rules — Provisional Design
+
+## Backing layer added (2026-09-15)
+
+The world now has a layer beneath its listed objects: what a romantic good rests on, where that backing goes when it leaves, and why the quote falls without the backing becoming common. It is carried by two instruments the institute covers, **BEARER BOND** and **BLIND TRUST**, and it was absorbed from the separate RS-001 system, which is concluded.
+
+[[reserve-instruments]] owns the mechanics and [[DEC-006-reserve-function-absorbed]] owns the decision. Nothing in the numbered draft below is changed, confirmed, or withdrawn by it: the city, the 10,000-adult cohort, the 500-person panel, the departments, the contract branches, and every number in them remain `llm-proposed` and unadopted. The backing layer supplies no count, no unit, no coefficient, and no population.
+
+One interaction is worth carrying forward into any later specification. Section 3 reserves a **separate fictional clearing trust** for participant collateral if funded claims are ever selected. That is an unrelated mechanism and must not be conflated with BLIND TRUST, which is a subject the institute covers, not a facility the institute operates.
 
 ## Current scope — fictional history and aggregate market (2026-09-07)
 

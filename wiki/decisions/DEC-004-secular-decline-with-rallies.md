@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-07
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
@@ -87,6 +88,22 @@ The user now explicitly chooses fictional historical data biased toward human co
 Together these specify an authored declining history without requiring an engine that falls under every input. This is **user-confirmed direction**, not adoption of any factor set, drift coefficient, synthetic generator, or price equation. The named rally dates above remain illustrative history, not the chosen historical span.
 
 The user also wants HOLD/SHORT reports to have the stronger accumulated win record in that market history. [[analyst-system]] owns this outcome direction and the unresolved definition of a win; it is not a fixed ranking for the proposed named analysts.
+
+## Evolution — the decline acquires a structural cause, and nobody argues it (2026-09-15)
+
+This decision already required that the decline **emerge** rather than be imposed, and left open what structural forces would deliver it. The 2026-09-15 conversation supplies a candidate cause and one further constraint.
+
+**The cause.** Trust between people leaves for AI, and the total falls at the same time, because unilateral trust creates no new trust the way bilateral trust did. [[reserve-instruments]] owns the mechanism; [[DEC-006-reserve-function-absorbed]] owns the decision to hold it inside LONGING. This is the kind of structural force this decision asked for: securities hold negative exposure to it and the drift falls out, rather than being written in.
+
+**The constraint.** The user stated that nobody in the world argues the decline:
+
+> 세계관의 흐름상 낭만이 줄어들 뿐이야. 사람들이 그걸 대세로 주장하지도 않아. 그냥 세상의 흐름이 그렇게 되는거야. 실제 금융 시장이 움직이는것처럼.
+
+This is stronger than the existing *the system never argues*. It removes the advocate from inside the fiction as well: no character, analyst, or institution asserts the trend. Each participant acts correctly on their own facts and the aggregate does what nobody chose — the ordinary behaviour of a market.
+
+Two `llm-proposed` consequences follow and are recorded, not adopted. First, the market should not crash: volume thins, the spread widens, and quotes remain with nothing filling — the way a market actually dies. Second, the peak is invisible in its own moment and legible only later on a chart, which delivers loss without any sentence mourning it.
+
+None of this selects a factor, a coefficient, a drift value, a curve, or a historical span. The no-hard-coded-drift rule and the requirement that the model be able to disagree with its author are unchanged and now bind the new cause as well: if transfer-to-AI becomes a modelled force, it must be publishable, testable, and capable of reversing.
 
 ## Sources
 

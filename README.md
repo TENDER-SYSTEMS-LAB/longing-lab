@@ -1,11 +1,11 @@
-# LONGING
+# LONGING RESEARCH
 
 **Research on changing values.**
 
 Progress is easy to measure.\
 What it removes is not.
 
-LONGING tracks human practices, habits, and conditions whose value is changing.
+LONGING RESEARCH tracks human practices, habits, and conditions whose value is changing.
 
 ---
 

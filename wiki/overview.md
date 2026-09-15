@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-longing-research-rename
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
 ---
@@ -11,13 +12,13 @@ sources:
 
 ## Definition
 
-LONGING is an interactive web-based work that presents itself as a fictional independent research institution covering human values, behaviors, and conditions undergoing structural change. Its surface is a dry, information-dense financial research terminal: an index, sub-indices, price charts, tickers, analyst reports with LONG / HOLD / SHORT ratings, target prices, consensus, and news headlines. The assets it covers are human experiences — handwritten letters, waiting without contact, aimless night walks, unplanned calls, solitude, boredom — rather than companies.
+LONGING RESEARCH is an interactive web-based work that presents itself as a fictional independent research institution covering human values, behaviors, and conditions undergoing structural change. Its surface is a dry, information-dense financial research terminal: an index, sub-indices, price charts, tickers, analyst reports with LONG / HOLD / SHORT ratings, target prices, consensus, and news headlines. The assets it covers are human experiences — handwritten letters, waiting without contact, aimless night walks, unplanned calls, solitude, boredom — rather than companies.
 
-The working title of the theme was «사라져버린 낭만을 찾아서» ("In Search of Vanished Romance"). The work's name is [[DEC-001-project-name-longing|LONGING]], with no descriptive suffix.
+The working title of the theme was «사라져버린 낭만을 찾아서» ("In Search of Vanished Romance"). The work's name is [[DEC-001-project-name-longing|LONGING RESEARCH]], two words, following the series format the sibling titles share. It was titled **LONGING** without a suffix until 2026-09-15; the reversal and what it costs are recorded in that decision.
 
 Internal one-line definition, in the user's chosen framing:
 
-> LONGING is a fictional research house tracking the conditions of human experience that modernization is removing.
+> LONGING RESEARCH is a fictional research house tracking the conditions of human experience that modernization is removing.
 
 An earlier, broader formulation from the same conversation is also on record: *"a fictional financial market for things whose value cannot be agreed upon."*
 

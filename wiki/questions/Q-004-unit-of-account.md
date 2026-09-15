@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
@@ -24,6 +25,19 @@ sources:
 The user wants to simulate the aggregate Market rather than a securities trading system and excludes investor-persona profit/loss stories from the content. A completed borrowing, counterparty, and settlement system is therefore not a prerequisite to all further price design. Quote normalization and index weighting still need definitions; any selected amplification mechanism needs enough state and constraints to explain it. Concrete design depth and financial vocabulary remain open.
 
 U1 assessment, U2 future-practice claims, and U3 support entitlements remain unadopted comparison branches. The abstract-condition definition also removes a universal requirement that every quoted unit count a practice. Earlier contract-specific gates remain relevant only if that branch is later chosen. The separate unit review was requested previously but has not been dispatched, and its brief would need this updated scope.
+
+## The backing layer sharpens this question (2026-09-15)
+
+LONGING now owns a backing layer: what a romantic good rests on, and where that backing goes. See [[reserve-instruments]] and [[DEC-006-reserve-function-absorbed]].
+
+It does **not** answer this question, and the reason is exactly the failure the originating premise ran into. If the traded good and the thing backing it are made of the same substance, both sides of the ratio move together and the quote does not move at all. A price only exists once the two are separable and separately named. So the backing layer converts "what is one unit" from a weighting problem into a **denominator** problem: a LONGING price is a ratio between a romantic good and something else, and that something else is still unnamed.
+
+Two constraints the backing layer adds to any answer chosen later:
+
+- **The numeraire cannot itself be love, understanding, or trust.** Those are the backing. Pricing the backing in the backing yields a constant.
+- **BEARER BOND and BLIND TRUST are denominated in the same unit as each other**, since the world's central comparison is between their risk and yield. Whatever the unit is, it has to survive that comparison.
+
+An `llm-proposed` route not taken: price the decline in an appreciating numeraire — speed, certainty, immediacy — so romance did not get cheaper, the yardstick got heavier. Recorded as an alternative to the branches below, not adopted.
 
 ## The question
 
