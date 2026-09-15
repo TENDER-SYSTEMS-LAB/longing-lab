@@ -1,8 +1,10 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-14-typographic-voice
+  - SRC-2026-09-14-design-principles-draft
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-worldbuilding-roadmap-and-handoff
   - SRC-2026-09-06-world-rules-letter-spec-request
@@ -53,6 +55,7 @@ The latest decisions shift production to fictional historical data and accumulat
 
 - **The work is named LONGING**, capitals, no suffix. See [[DEC-001-project-name-longing]].
 - **The work is a fictional independent research house**, not a trading app. See [[DEC-002-research-house-form]].
+- **Typeface identifies the speaker.** Inherited from the institution and confirmed by the user there: Inconsolata is the system's base voice, Departure Mono the more directly mechanical voice for terminals, dashboards, monitoring, logs, and live status, and Source Serif the voice of text a person wrote. The rule is owned by TENDER SYSTEMS; LONGING's reading of which of its surfaces belong to which speaker is `llm-proposed` and does not change any market, unit, or LETTER decision. Korean auxiliary typeface, version, weights, sizes, spacing, density, glyph and licensing checks remain unresolved upstream, and no font is implemented. See [[design-application]].
 - **The subject is the conditions of human experience that modernization is removing** — not "romance" as a category. See [[overview]].
 - **The system never argues.** It publishes numbers and reports; opposed views settle into a price; emotion happens in the viewer.
 - **Weekly market, monthly research.** Prices strike weekly; formal analyst research publishes monthly and sets the anchor the market moves toward. Real-time pricing was rejected because it would require fabricated volume and a fabricated order book. See [[DEC-003-weekly-market-monthly-research]].
@@ -146,6 +149,9 @@ The earlier reviews recommended deferring reflexivity, leverage/forced selling, 
 **The second-round Qwen source was re-captured, not revised.** Its first registration ended mid-expression; the current file is the complete response, registered under the same source ID with the superseded hash retained in `raw/sources.md` and the correction recorded in `wiki/log.md`.
 
 ## Sources
+
+- [[SRC-2026-09-14-typographic-voice]] — [raw/conversations/2026-09-14-typographic-voice.md](../raw/conversations/2026-09-14-typographic-voice.md); derivative import of the institutional original, byte-identical; the speaker rule and its three typefaces are user-confirmed, the remaining settings are unverified assistant proposals
+- [[SRC-2026-09-14-design-principles-draft]] — [raw/conversations/2026-09-14-design-principles-draft.md](../raw/conversations/2026-09-14-design-principles-draft.md); derivative import, byte-identical; only the request for an abstract layer is the user's, the principles themselves are an unanswered draft
 
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 

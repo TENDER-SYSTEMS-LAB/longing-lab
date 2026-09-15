@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: user-confirmed
-updated: 2026-09-07
+updated: 2026-09-15
 sources:
   - SRC-2026-09-04-longing-concept-brainstorm
 ---
@@ -19,7 +19,7 @@ Marked `working` rather than `confirmed`: the user accepted the direction with "
 - **No Buy / Sell.** There is no order entry, no simulated portfolio value, no money. The one interaction offered to the viewer is a position — LONG · HOLD · SHORT — recorded and acknowledged with nothing more than `Position recorded.` See [[analyst-system]].
 - **Price is the conclusion; research is the argument around it.** The institution publishes a number and does not explain it. The explanation is left to analysts who disagree.
 - **Order of appearance: market data first, humans later.** The home screen leads with the index, sub-indices, movers, latest research, and dry data lines. Personal, remembered material surfaces only deeper in — inside a security page or a report — never on the landing screen.
-- **Borrow the attitude, not the palette.** The reference is the posture of a professional terminal (density, codes, numbers, indifference), not Bloomberg's black-and-amber styling specifically.
+- **Borrow the attitude, not the palette.** The reference is the posture of a professional terminal (density, codes, numbers, indifference), not Bloomberg's black-and-amber styling specifically. How that register is set in type — which surfaces speak as the system, as the machine, or as a person — is worked out in [[design-application]] under the institution's confirmed typographic rule.
 
 ## Rationale
 
@@ -45,6 +45,7 @@ Status: `deferred`, not rejected. They are recorded here so they are not re-inve
 - [[index-architecture]]
 - [[analyst-system]]
 - [[system-grammar]]
+- [[design-application]]
 
 ## Sources
 

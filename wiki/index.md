@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-07
+updated: 2026-09-15
 sources: []
 ---
 
@@ -18,6 +18,7 @@ This is the Wiki's working content catalog. Excluding the index itself, every Wi
 | Design readiness, target world-building depth, and proposed work sequence | [[worldbuilding-roadmap]] |
 | Provisional jurisdiction, institutional powers, actors, audience memory, and unit branches | [[world-rules]] |
 | LETTER practice boundary, starts/stops, feedback, and no-data effect assumptions | [[letter-practice-dynamics]] |
+| Typeface, speaker classification, and local design questions | [[design-application]] |
 | An idea that develops across several areas | Relevant `wiki/concepts/` page |
 | A choice explicitly decided by the user and its rationale | Relevant `wiki/decisions/` page |
 | An unanswered question that remains under review | Relevant `wiki/questions/` page |
@@ -29,7 +30,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Fictional research house built from authored historical data, abstract or concrete subjects, and accumulated market records · `working` (2026-09-07)
-- [[current-state]] — Latest fictional-history decisions, abstract subjects, aggregate market scope, and unresolved data, price, and forecast rules · `working` (2026-09-07)
+- [[current-state]] — Latest fictional-history decisions, abstract subjects, aggregate market scope, inherited typographic voice, and unresolved data, price, and forecast rules · `working` (2026-09-15)
 
 ## Concepts
 
@@ -54,12 +55,13 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[data-sources]] — Selected fictional historical-data basis, layered state and information, and earlier empirical candidates · `working` (2026-09-07)
 - [[analyst-system]] — Dated historical outlooks and targets, desired HOLD/SHORT advantage, and open scoring and coverage rules · `working` (2026-09-07)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-07)
+- [[design-application]] — The inherited institutional rule that typeface identifies the speaker, with proposed LONGING surface assignments, counter-examples, and open local design questions · `working` (2026-09-15)
 - [[prior-art]] — Artistic precedents and academic links, with differentiation updated to admit abstract internally defined conditions · `working` (2026-09-07)
 
 ## Decisions
 
 - [[DEC-001-project-name-longing]] — The work is titled LONGING with no suffix; rejected name candidates and the outstanding collision check · `confirmed` (2026-09-07)
-- [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-07)
+- [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-15)
 - [[DEC-003-weekly-market-monthly-research]] — Weekly prices and monthly formal research extended into fictional history; detailed weekly analyst obligations remain open · `confirmed` (2026-09-07)
 - [[DEC-004-secular-decline-with-rallies]] — Declining authored history with market rallies and recovery possible under changed inputs; no forced price drift · `confirmed` (2026-09-07)
 - [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection, now carrying the user's later position that factors may outnumber securities · `confirmed` (2026-09-07)
@@ -73,7 +75,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-07)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-15)
 
 ## Repository Control
 
