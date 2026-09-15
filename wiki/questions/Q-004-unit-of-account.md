@@ -1,8 +1,9 @@
 ---
-status: working
+status: confirmed
 attribution: jointly-developed
 updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
@@ -17,6 +18,16 @@ sources:
 ---
 
 # Q-004 — What is one unit of a LONGING security?
+
+## Answered — see [[DEC-007-standard-return-numeraire]] (2026-09-15)
+
+The question is closed, and not by selecting among U1, U2 and U3 below. Those asked what one unit of a *security* is. The backing layer had already replaced that with the denominator question in the section below it, and that is the question the user answered.
+
+Prices are quoted against **STANDARD RETURN** (`SR`): a fixed basket of AI-mediated acts, valued by what the basket gives back. The numeraire is countable, so float and positioning survive, and it appreciates, so the decline needs no drift coefficient. Both constraints this page placed on any later answer are satisfied — the backing is not the numeraire, since the unit is the return flow rather than the stock of trust, and BEARER BOND and BLIND TRUST share the unit.
+
+The connected sub-question below is also closed: float is **not** the index weight. The headline index is equal-weighted, so prevalence cannot feed both the fundamental and the weight, and float is a separate quantity — outstanding BEARER BONDs, estimated rather than counted because a bearer instrument has no register.
+
+The separate review round this page requested was never dispatched and is now moot for the question as framed. Everything below is preserved as the record of how the question stood before it was answered; U1, U2 and U3 remain unadopted.
 
 ## Current branch and narrowed dependency (2026-09-07)
 

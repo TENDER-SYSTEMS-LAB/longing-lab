@@ -68,13 +68,14 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-004-secular-decline-with-rallies]] — Declining authored history with market rallies and recovery possible under changed inputs; no forced price drift, and now a structural cause that nobody in the world argues · `confirmed` (2026-09-15)
 - [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection, now carrying the user's later position that factors may outnumber securities · `confirmed` (2026-09-07)
 - [[DEC-006-reserve-function-absorbed]] — LONGING absorbs the reserve function as BEARER BOND and BLIND TRUST; the separate holding institution and RS-001 are withdrawn, and the LONGING / LONGING RESEARCH title conflict is left unresolved · `confirmed` (2026-09-15)
+- [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based · `confirmed` (2026-09-15)
 
 ## Open Questions
 
 - [[Q-001-price-formation]] — Open historical-data, information, valuation, price and index rules under aggregate market scope · `working` (2026-09-07)
 - [[Q-002-listing-lifecycle]] — Proposed independent practice, observation, coverage, and listing states, including absence, delisting, and return · `working` (2026-09-07)
 - [[Q-003-calibrating-the-bias]] — Bias located in authored history while degree, scoring, and public presentation devices remain open · `working` (2026-09-07)
-- [[Q-004-unit-of-account]] — Initial market-price reference for 사유; the backing layer recasts the open question as a denominator problem and rules the backing itself out as numeraire · `working` (2026-09-15)
+- [[Q-004-unit-of-account]] — Answered by DEC-007: the denominator is STANDARD RETURN, and float is separated from the index weight; U1–U3 and the undispatched review round are preserved as superseded record · `confirmed` (2026-09-15)
 
 ## Activity
 

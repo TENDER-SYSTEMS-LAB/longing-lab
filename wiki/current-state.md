@@ -3,6 +3,8 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-numeraire-and-standard-return
+  - SRC-2026-09-15-ai-reinforcing-loop-diagram
   - SRC-2026-09-15-longing-research-rename
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-14-typographic-voice
@@ -46,7 +48,7 @@ The source registry is maintained in `raw/sources.md`. Two additional sources pr
 
 The third round maps the costs of six fixed factor sets without choosing one. It adds conditional event and attribution hypotheses, disputed artistic costs, and proposed tests; no simulation or exposure-matrix result has been established. See [[factor-set-failure-profile-review]].
 
-The latest decisions shift production to fictional historical data and accumulated market/research records. Internally defined subjects may include abstract conditions; the chosen simulation scope is the aggregate Market. Earlier factor reviews and LETTER trials remain useful, unadopted design material. See the resume point below.
+The 2026-09-15 numeraire decision is the largest structural change since the backing layer and is recorded in [[DEC-007-standard-return-numeraire]]. The latest decisions shift production to fictional historical data and accumulated market/research records. Internally defined subjects may include abstract conditions; the chosen simulation scope is the aggregate Market. Earlier factor reviews and LETTER trials remain useful, unadopted design material. See the resume point below.
 
 ## Confirmed
 
@@ -57,6 +59,9 @@ The latest decisions shift production to fictional historical data and accumulat
 
 - **LONGING RESEARCH owns the backing layer.** What a romantic good rests on is no longer held by a separate system. It is carried by two instruments the institute covers: **BEARER BOND**, trust between two people — unregistered, bilateral, defaultable — and **BLIND TRUST**, trust placed in AI — contents unseeable, one-way, non-convertible, never in default. RS-001 — THE RESERVE is concluded and its function inherited here. The separate neutral holding institution that would have issued both, and its candidate names, are withdrawn. See [[DEC-006-reserve-function-absorbed]] and [[reserve-instruments]].
 - **Trust accumulates toward AI while the total also falls.** Two curves, both required: either one alone tells a different story than the intended one. The user's own position, stated directly. Dilution and withdrawal-under-suspicion were both rejected as audience messages; the intended subject is love and understanding between people **turning into** hatred and misunderstanding while trust disappears, with no claim that romance is right.
+- **Prices are quoted against STANDARD RETURN.** The denominator is a fixed basket of AI-mediated acts valued by what it hands back — spared time and spared effort — so the unit appreciates as the tools improve. What AI consumes instead (communication between people, a person's own reflection) stays among the securities. The user's framing: what was taken from the human side, divided by what was handed back. See [[DEC-007-standard-return-numeraire]] and [[Q-004-unit-of-account]].
+- **The decline is produced by a loop, not a drift.** AI capability and adoption is a fed-back state, not an authored curve: the backing's fall reads as anxiety, anxiety raises delegation, delegation raises capability. Authored content is one published loop gain plus the basket's effort coefficient. The single series the world writes down is rising. Nobody in the fiction measured a decline. See the 2026-09-15 mechanism note on [[DEC-004-secular-decline-with-rallies]].
+- **Float is outstanding BEARER BONDs, and it is not the index weight.** The headline index is equal-weighted, so prevalence cannot enter both the fundamental and the weight. Because a bearer instrument has no register, float is estimated rather than counted and carries a `MODELED` tag. Default clusters contract it, which is where the inverted rallies come from. Parameter values, basket membership, and `βᵢᵐᵃˣ` per security are all unset.
 - **Nobody in the world argues the decline.** Not the analysts, not the institute, not a character. Every participant acts correctly on their own facts and the aggregate does what nobody chose — the ordinary behaviour of a market. This is stronger than the existing *the system never argues*: it removes the advocate from inside the fiction too. See the 2026-09-15 evolution note on [[DEC-004-secular-decline-with-rallies]].
 
 - **The work is named LONGING RESEARCH**, capitals, two words. Renamed 2026-09-15 from the suffix-less **LONGING**, on the user's stated rule that each work in the series carries a two-word name. The reversal, what it costs, and the unrenamed repository are in [[DEC-001-project-name-longing]].
@@ -107,7 +112,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 ## Unknown
 
 - **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. Ledger *resolution* is no longer open in this list — it is settled as a rule, factor count as a function of universe size, see [[DEC-005-ledger-resolution-scales-with-universe]] — but ledger *membership*, which specific factors fill the starting nine and which candidate is promoted next, remains exactly as open as the rest of this bullet. See [[model-review-consensus]] and [[factor-architecture-review-consensus]].
-- **Quote/index meaning and any exposure constraints.** The market-price reference for 사유 is selected, but unit, currency, normalization, weights, and any mechanism-specific resources remain open. A full contract system is no longer a prerequisite to all market design. The earlier requested unit review remains undispatched and needs the revised scope. See [[Q-004-unit-of-account]].
+- **Numeraire values, not the numeraire itself.** The unit, the quote convention, and the index weighting are settled in [[DEC-007-standard-return-numeraire]]; what is unset is every number in it — basket membership and base date, the effort coefficient `c`, the loop gain `g`, the substitution mapping, the learning-material function and its peak, and `βᵢᵐᵃˣ` for every security. The review round this question was to be put to is moot as framed.
 - **Whether there is a periodic observable.** Nothing in the current design can surprise anyone, and two reviews call this the largest remaining gap: without something scheduled to be wrong about, monthly analyst opinion is commentary rather than information.
 - **How to generate the selected fictional history.** Its period, scope, underlying data, coefficients, and acceptance criteria remain open. A later empirical input is possible but is not the current production basis. See [[data-sources]].
 - **Listing lifecycle**: who lists, whether scarcity raises or lowers price, delisting, where a delisted romance goes, whether one person resuming a practice relists it. See [[Q-002-listing-lifecycle]].
@@ -133,7 +138,7 @@ The earlier proposal was to complete one reference security before sketching a l
 
 Three work items set by the user on 2026-09-06, `user-originated`; the initial academic survey is now recorded, with remaining gaps below. This completed failure-profile collection uses the previously registered prompts; it does not cover the separate unit review or academic survey, and those prompts do not explicitly carry the later factor-count positions:
 
-1. **Put [[Q-004-unit-of-account]] to the review models** as its own round, in the way the pricing model and the factor architecture were.
+1. ~~**Put [[Q-004-unit-of-account]] to the review models** as its own round~~ — moot. The question was answered directly by the user on 2026-09-15; see [[DEC-007-standard-return-numeraire]]. A round could still be run against the *chosen* numeraire's consequences, which is a different brief and is not scheduled.
 2. **Carry two positions into the next modelling round as stated context** — that factors may outnumber securities, and that listing choice determines which factors can exist. See [[DEC-005-ledger-resolution-scales-with-universe]].
 3. **Survey academic prior art.** A first pass is complete in [[academic-model-survey]]: six explicit models and a mechanism-identification critique, with primary references and estimated versus assumed values. All applications remain LLM proposals. Cultural transmission, infrastructure retirement, chance encounters, contested value, and index measurement remain literature gaps; no factor set or price bridge is adopted.
 
@@ -143,7 +148,7 @@ An initial dataset investigation requested by the user is now recorded in [[data
 
 Seven sibling formats built on the same grammar — an abolished-jobs recruitment site, a government-style romance white paper, a cold-storage memory archive, Romance as a Service, parcel tracking, a social network of moments, and the archive of a radio station that never existed. Recorded as possible future works, not as parts of LONGING RESEARCH. See [[DEC-002-research-house-form]].
 
-The earlier reviews recommended deferring reflexivity, leverage/forced selling, correlation-regime switching, seasonality, stochastic volatility, and an options-style volatility index. This was review advice, not a user decision. On 2026-09-07 the user explicitly reopened forced covering and convincing financial amplification for exploration; no mechanism is adopted. Other extensions retain their proposal status.
+**Reflexivity is no longer deferred.** [[DEC-007-standard-return-numeraire]] puts a feedback loop in V1, against the first round's unanimous advice to defer it; the user supplied the reflexive premise directly, and the accepted cost is that one published coefficient governs the speed of the whole work. The earlier reviews recommended deferring reflexivity, leverage/forced selling, correlation-regime switching, seasonality, stochastic volatility, and an options-style volatility index. This was review advice, not a user decision. On 2026-09-07 the user explicitly reopened forced covering and convincing financial amplification for exploration; no mechanism is adopted. Other extensions retain their proposal status.
 
 ## Provenance warnings
 
@@ -158,6 +163,9 @@ The earlier reviews recommended deferring reflexivity, leverage/forced selling, 
 **The second-round Qwen source was re-captured, not revised.** Its first registration ended mid-expression; the current file is the complete response, registered under the same source ID with the superseded hash retained in `raw/sources.md` and the correction recorded in `wiki/log.md`.
 
 ## Sources
+
+- [[SRC-2026-09-15-numeraire-and-standard-return]] — [raw/conversations/2026-09-15-numeraire-and-standard-return.md](../raw/conversations/2026-09-15-numeraire-and-standard-return.md); machine-extracted session transcript, with 38 tool invocations, system reminders, and two skill bodies excluded per its capture note
+- [[SRC-2026-09-15-ai-reinforcing-loop-diagram]] — [raw/documents/2026-09-15-ai-reinforcing-loop-diagram.webp](../raw/documents/2026-09-15-ai-reinforcing-loop-diagram.webp); third-party diagram the user took from <https://youtu.be/W_ChhnAM7GY>, channel and upload date unverified; only its reinforcing structure is promoted and its named actors are not
 
 - [[SRC-2026-09-14-typographic-voice]] — [raw/conversations/2026-09-14-typographic-voice.md](../raw/conversations/2026-09-14-typographic-voice.md); derivative import of the institutional original, byte-identical; the speaker rule and its three typefaces are user-confirmed, the remaining settings are unverified assistant proposals
 - [[SRC-2026-09-14-design-principles-draft]] — [raw/conversations/2026-09-14-design-principles-draft.md](../raw/conversations/2026-09-14-design-principles-draft.md); derivative import, byte-identical; only the request for an abstract layer is the user's, the principles themselves are an unanswered draft

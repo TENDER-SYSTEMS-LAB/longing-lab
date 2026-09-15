@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-05-price-formation-market-model
@@ -104,6 +105,20 @@ This is stronger than the existing *the system never argues*. It removes the adv
 Two `llm-proposed` consequences follow and are recorded, not adopted. First, the market should not crash: volume thins, the spread widens, and quotes remain with nothing filling — the way a market actually dies. Second, the peak is invisible in its own moment and legible only later on a chart, which delivers loss without any sentence mourning it.
 
 None of this selects a factor, a coefficient, a drift value, a curve, or a historical span. The no-hard-coded-drift rule and the requirement that the model be able to disagree with its author are unchanged and now bind the new cause as well: if transfer-to-AI becomes a modelled force, it must be publishable, testable, and capable of reversing.
+
+## Evolution — the cause acquires a mechanism, and the rallies acquire one too (2026-09-15, later)
+
+The preceding note supplied a cause and left it unmechanized. [[DEC-007-standard-return-numeraire]] supplies the mechanism, and it satisfies this decision's central constraint more tightly than a factor set would have.
+
+**What is authored shrinks to one coefficient.** AI capability and adoption, `A(t)`, is not drawn as a curve. It is fed back from the decline it produces: the backing's fall is read as anxiety, anxiety raises delegation, delegation raises capability, and less comes back. The only authored quantity is the loop gain, which is published. The rejected `weekly_drift = -0.3%` at the top of this page is replaced by a loop, not by a different constant.
+
+**The decline is not written anywhere.** The single series the world authors is monotonically *rising*. Nobody in the fiction measured a decline; they measured progress. That is the strongest available form of the constraint added in the note above — no advocate, and now no author of the decline either.
+
+**The rallies stop needing special-case logic.** A cluster of BEARER BOND defaults removes float abruptly, and shorts must cover into what is left. The inversion this decision named — melt-ups where a real market has crashes — becomes a by-product of the decline itself rather than a scripted exception. The weeks/months/years rally engines listed above are unaffected; this adds the mechanism for the first of them.
+
+**The tests above now have somewhere to attach.** The neutral-drift companion index becomes the fixed-yardstick index `SR₀`, published beside every quote; the published drift parameter becomes the loop gain and the basket's effort coefficient; and the requirement that the model be able to disagree with its author binds the loop, since a revival raises float, which raises the learning material the loop needs, which is not obviously self-limiting and has not been tested.
+
+No factor set, coefficient value, historical span, or basket membership is selected here. See [[DEC-007-standard-return-numeraire]] for what remains open.
 
 ## Sources
 
