@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-16
+updated: 2026-09-20
 sources:
   - SRC-2026-09-16-loop-simulation-session
   - SRC-2026-09-15-numeraire-and-standard-return
@@ -179,6 +179,22 @@ tested, so the stability argument is unaffected.
 
 Everything in the run is uncalibrated. No factor, coefficient, basket membership,
 or historical span becomes selected by having been simulated.
+
+## Evolution — float is a balance, not a count (2026-09-20)
+
+This page defines float as outstanding BEARER BONDs and the first simulation
+counted relationships. [[DEC-008-bearer-bond-is-perpetual]] settles what one bond
+is: the outstanding **attention one person has placed in another**, in one
+direction, with both directions kept gross.
+
+Float therefore becomes an amount, quoted in SR, not a number of relationships.
+`πᵢ = net exposure / float` is unchanged in form and changes in units, and
+`Pᵢ × floatᵢ` published as `Outstanding Coverage Value` now means what its name
+says.
+
+The instrument is perpetual, so the melt-up mechanism this page attributed to
+default clusters is replaced by contagion in write-downs. Nothing else here
+changes: the numeraire, the loop, the quote convention, and the two indices stand.
 
 ## Sources
 

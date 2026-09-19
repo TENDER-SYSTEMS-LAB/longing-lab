@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-20
 sources:
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
@@ -107,6 +107,26 @@ The assistant proposes generating conditions, then starts and stops, participati
 - [[pricing-model]]
 - [[Q-001-price-formation]]
 - [[Q-004-unit-of-account]]
+
+## Evolution — measured where measurement exists (2026-09-20)
+
+This page records authored fictional history as the production basis and that no
+source has been secured. [[technology-waves]] partly reverses the second half.
+
+The world's span is fixed at thirty years, 1996 to 2026, and the driver behind the
+decline is a stack of technology waves rather than one curve. Internet, mobile and
+broadband penetration have national statistical series across most of that window
+in all three markets of [[DEC-009-three-markets-and-convergence]]; only the AI
+segment at the end depends on vendor disclosures, which are not continuous.
+
+So the driver is **measured where data exists and extrapolated beyond**, with the
+institute publishing the boundary as a rule on its own chart. Authored fictional
+history remains the basis for everything else — the practices, the events, the
+analyst record. What changes is that the series driving them is no longer drawn by
+hand at the start.
+
+No series has been collected, no normalisation rule across three countries'
+definitions and base years has been written, and no proxy has been selected.
 
 ## Sources
 

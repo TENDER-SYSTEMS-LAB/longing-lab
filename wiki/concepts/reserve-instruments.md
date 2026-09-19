@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-15
+updated: 2026-09-20
 sources:
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
 ---
@@ -130,6 +130,26 @@ The user proposed two surfaces and required neither exclusively: the instruments
 The counter scene *"BEARER BOND로 하시겠습니까, BLIND TRUST로 하시겠습니까"* belonged to the withdrawn institution. It was proposed for recovery as a transcript in a report appendix, where the institute cannot comment on it. Not adopted.
 
 Nothing on this surface question is settled, and it interacts with the open terminal and publication-format material in [[analyst-system]] and [[attribution-ledger]].
+
+## Evolution — the instrument is perpetual, and it leaves by call (2026-09-20)
+
+This page defines BEARER BOND as bilateral, issuable and defaultable and leaves
+its mechanics `llm-proposed`. [[DEC-008-bearer-bond-is-perpetual]] fills them in,
+and one of them changes the shape of the decline recorded above.
+
+The bond has **no maturity**. What is outstanding is attention placed in another
+person, and people do not form relationships with a term in mind. The coupon
+carries the only deadline, and it is deferrable — which is this page's own
+sentence about a late reply requiring understanding, written as a contract term.
+
+The decline is therefore made of **calls**, not defaults. The issuer redeems early
+because they can do alone what once required asking. That is why *credit creation
+stops* above is arithmetic rather than metaphor: AI is what makes the call
+available, so using it repays what was owed to people, and BLIND TRUST fills from
+redemption rather than from breach.
+
+Default survives and is no longer the main channel. Nobody has to be betrayed for
+the total to fall.
 
 ## What this does not settle
 

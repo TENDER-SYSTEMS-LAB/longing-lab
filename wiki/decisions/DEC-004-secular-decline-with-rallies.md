@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-15
+updated: 2026-09-20
 sources:
   - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
@@ -119,6 +119,32 @@ The preceding note supplied a cause and left it unmechanized. [[DEC-007-standard
 **The tests above now have somewhere to attach.** The neutral-drift companion index becomes the fixed-yardstick index `SR₀`, published beside every quote; the published drift parameter becomes the loop gain and the basket's effort coefficient; and the requirement that the model be able to disagree with its author binds the loop, since a revival raises float, which raises the learning material the loop needs, which is not obviously self-limiting and has not been tested.
 
 No factor set, coefficient value, historical span, or basket membership is selected here. See [[DEC-007-standard-return-numeraire]] for what remains open.
+
+## Evolution — the three rally engines acquire mechanisms (2026-09-20)
+
+This page listed three rally engines at three speeds and required that none need
+special-case logic. All three now have one, and none is scheduled.
+
+**Weeks** — crowded-short squeezes come from contagion in write-downs: a
+withdrawal answers a withdrawal, and the severe tail of that response distribution
+makes float fall discontinuously. See [[DEC-008-bearer-bond-is-perpetual]].
+
+**Months** — the macro decelerating is the gap between a technology wave's arrival
+and substitution phases narrowing.
+
+**Years** — the genuine revival this page demanded is the **arrival phase itself**.
+A new technology's first effect is to create modes of connection that did not
+exist; substitution overtakes it only later. See [[technology-waves]].
+
+That last one retires an embarrassment. The simulation had been scheduling a
+revival era by hand because a history needs at least one long advance to be a
+history rather than a slope. It is now structural.
+
+The same evolution strengthens this page's central constraint. The decline was
+never hard-coded, but the *rise* driving it was an authored curve; with the driver
+measured where national statistics exist and extrapolated beyond, the early history
+records what the world actually did. *Calculated against the world's current
+direction, it keeps falling* stops being a figure of speech.
 
 ## Sources
 

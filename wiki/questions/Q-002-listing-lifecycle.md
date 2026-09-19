@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-19
+updated: 2026-09-20
 sources:
   - SRC-2026-09-19-market-texture-findings
   - SRC-2026-09-06-world-rules-letter-spec-request
@@ -9,6 +9,23 @@ sources:
 ---
 
 # Q-002 — Who lists a romance, and what happens when it dies?
+
+## Issuance is answered (2026-09-20)
+
+**Who issues: the person who leans.** Not the institute, which cannot — a bearer
+instrument has no register. The Committee below lists a practice for quotation; it
+does not issue anything. See [[DEC-008-bearer-bond-is-perpetual]].
+
+What was *not* answered here, and stays open below: who observes a resumption and
+on what evidence, whether a delisted practice can be re-admitted, and what a zero
+quote means. The arithmetic now has a birth mechanism; the administrative rules
+around it do not exist.
+
+One thing the answer changes about this page's framing. The instrument is
+perpetual, so a practice does not lapse by reaching maturity — it is **called**,
+redeemed early by the person who no longer needs it. The question *if one person
+begins a vanished practice again, has it still vanished?* acquires a mechanical
+counterpart: a new issue against a practice with no outstanding balance.
 
 ## The arithmetic now needs an answer (2026-09-19)
 
