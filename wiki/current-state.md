@@ -1,8 +1,12 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-15
+updated: 2026-09-19
 sources:
+  - SRC-2026-09-19-market-texture-session
+  - SRC-2026-09-19-market-texture-findings
+  - SRC-2026-09-16-loop-simulation-session
+  - SRC-2026-09-16-loop-simulation-findings
   - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-ai-reinforcing-loop-diagram
   - SRC-2026-09-15-longing-research-rename
@@ -48,7 +52,7 @@ The source registry is maintained in `raw/sources.md`. Two additional sources pr
 
 The third round maps the costs of six fixed factor sets without choosing one. It adds conditional event and attribution hypotheses, disputed artistic costs, and proposed tests; no simulation or exposure-matrix result has been established. See [[factor-set-failure-profile-review]].
 
-The 2026-09-15 numeraire decision is the largest structural change since the backing layer and is recorded in [[DEC-007-standard-return-numeraire]]. The latest decisions shift production to fictional historical data and accumulated market/research records. Internally defined subjects may include abstract conditions; the chosen simulation scope is the aggregate Market. Earlier factor reviews and LETTER trials remain useful, unadopted design material. See the resume point below.
+The 2026-09-15 numeraire decision is the largest structural change since the backing layer and is recorded in [[DEC-007-standard-return-numeraire]]. On 2026-09-16 it was executed for the first time — see [[loop-simulation]] — which corrected one term by user decision and left four gaps open. A second round on 2026-09-19 built the event layer DEC-003 required, brought the market's texture to a real index's statistics inverted, and found three defects, one of which makes [[Q-002-listing-lifecycle]] a numerical requirement. The latest decisions shift production to fictional historical data and accumulated market/research records. Internally defined subjects may include abstract conditions; the chosen simulation scope is the aggregate Market. Earlier factor reviews and LETTER trials remain useful, unadopted design material. See the resume point below.
 
 ## Confirmed
 
@@ -60,7 +64,7 @@ The 2026-09-15 numeraire decision is the largest structural change since the bac
 - **LONGING RESEARCH owns the backing layer.** What a romantic good rests on is no longer held by a separate system. It is carried by two instruments the institute covers: **BEARER BOND**, trust between two people — unregistered, bilateral, defaultable — and **BLIND TRUST**, trust placed in AI — contents unseeable, one-way, non-convertible, never in default. RS-001 — THE RESERVE is concluded and its function inherited here. The separate neutral holding institution that would have issued both, and its candidate names, are withdrawn. See [[DEC-006-reserve-function-absorbed]] and [[reserve-instruments]].
 - **Trust accumulates toward AI while the total also falls.** Two curves, both required: either one alone tells a different story than the intended one. The user's own position, stated directly. Dilution and withdrawal-under-suspicion were both rejected as audience messages; the intended subject is love and understanding between people **turning into** hatred and misunderstanding while trust disappears, with no claim that romance is right.
 - **Prices are quoted against STANDARD RETURN.** The denominator is a fixed basket of AI-mediated acts valued by what it hands back — spared time and spared effort — so the unit appreciates as the tools improve. What AI consumes instead (communication between people, a person's own reflection) stays among the securities. The user's framing: what was taken from the human side, divided by what was handed back. See [[DEC-007-standard-return-numeraire]] and [[Q-004-unit-of-account]].
-- **The decline is produced by a loop, not a drift.** AI capability and adoption is a fed-back state, not an authored curve: the backing's fall reads as anxiety, anxiety raises delegation, delegation raises capability. Authored content is one published loop gain plus the basket's effort coefficient. The single series the world writes down is rising. Nobody in the fiction measured a decline. See the 2026-09-15 mechanism note on [[DEC-004-secular-decline-with-rallies]].
+- **The decline is produced by a loop, not a drift.** AI capability and adoption is a fed-back state, not an authored curve: anxiety raises delegation, delegation raises capability, and less comes back. **Anxiety is the trust that will not return, not the stock getting smaller** — corrected 2026-09-16 after the first run showed the loop could not start otherwise. It now supplies 98% of capability growth. Authored content is one published loop gain plus the basket's effort coefficient. The single series the world writes down is rising. Nobody in the fiction measured a decline. See the 2026-09-15 mechanism note on [[DEC-004-secular-decline-with-rallies]].
 - **Float is outstanding BEARER BONDs, and it is not the index weight.** The headline index is equal-weighted, so prevalence cannot enter both the fundamental and the weight. Because a bearer instrument has no register, float is estimated rather than counted and carries a `MODELED` tag. Default clusters contract it, which is where the inverted rallies come from. Parameter values, basket membership, and `βᵢᵐᵃˣ` per security are all unset.
 - **Nobody in the world argues the decline.** Not the analysts, not the institute, not a character. Every participant acts correctly on their own facts and the aggregate does what nobody chose — the ordinary behaviour of a market. This is stronger than the existing *the system never argues*: it removes the advocate from inside the fiction too. See the 2026-09-15 evolution note on [[DEC-004-secular-decline-with-rallies]].
 
@@ -111,6 +115,10 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 
 ## Unknown
 
+- **The requisition rate `s(t)`.** [[DEC-007-standard-return-numeraire]] writes `dVᵢ/Vᵢ = −βᵢ·s(t)` without defining `s`, and [[loop-simulation]] shows that this one unspecified value decides whether the model can ever disagree with its author. Above roughly `s = 20·ΔA` no revival succeeds anywhere in the history. Cap it, or state that nothing returns after the tipping point.
+- **How large a default cluster is.** Melt-ups require float to vanish discontinuously; an orderly decline strands nobody. The cadence DEC-004 wants needs weeks in which about a fifth of a practice's relationships end at once, which no page yet claims.
+- **Who issues a BEARER BOND.** The instrument is defined as issuable and the first build implemented only its defaults, so float could only fall and a practice could never be resumed. A birth rate must exist; who issues, on what evidence a resumption is observed, and whether a delisted practice can relist are unanswered. See [[Q-002-listing-lifecycle]].
+- **What a zero quote means.** High-β securities reach numerical zero in the first run. No floor, no delisting rule, no stated meaning. See [[Q-002-listing-lifecycle]].
 - **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. Ledger *resolution* is no longer open in this list — it is settled as a rule, factor count as a function of universe size, see [[DEC-005-ledger-resolution-scales-with-universe]] — but ledger *membership*, which specific factors fill the starting nine and which candidate is promoted next, remains exactly as open as the rest of this bullet. See [[model-review-consensus]] and [[factor-architecture-review-consensus]].
 - **Numeraire values, not the numeraire itself.** The unit, the quote convention, and the index weighting are settled in [[DEC-007-standard-return-numeraire]]; what is unset is every number in it — basket membership and base date, the effort coefficient `c`, the loop gain `g`, the substitution mapping, the learning-material function and its peak, and `βᵢᵐᵃˣ` for every security. The review round this question was to be put to is moot as framed.
 - **Whether there is a periodic observable.** Nothing in the current design can surprise anyone, and two reviews call this the largest remaining gap: without something scheduled to be wrong about, monthly analyst opinion is commentary rather than information.
@@ -164,6 +172,10 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 ## Sources
 
+- [[SRC-2026-09-19-market-texture-session]] — [raw/conversations/2026-09-19-market-texture-session.md](../raw/conversations/2026-09-19-market-texture-session.md); the requirement that the market read as a real index inverted
+- [[SRC-2026-09-19-market-texture-findings]] — [raw/documents/2026-09-19-market-texture-findings.md](../raw/documents/2026-09-19-market-texture-findings.md); stylistic calibration to the terminal register, not evidence about the world
+- [[SRC-2026-09-16-loop-simulation-session]] — [raw/conversations/2026-09-16-loop-simulation-session.md](../raw/conversations/2026-09-16-loop-simulation-session.md); continuation of the numeraire conversation, same extraction boundary
+- [[SRC-2026-09-16-loop-simulation-findings]] — [raw/documents/2026-09-16-loop-simulation-findings.md](../raw/documents/2026-09-16-loop-simulation-findings.md); assistant-authored results from an assistant-authored model, uncalibrated against anything
 - [[SRC-2026-09-15-numeraire-and-standard-return]] — [raw/conversations/2026-09-15-numeraire-and-standard-return.md](../raw/conversations/2026-09-15-numeraire-and-standard-return.md); machine-extracted session transcript, with 38 tool invocations, system reminders, and two skill bodies excluded per its capture note
 - [[SRC-2026-09-15-ai-reinforcing-loop-diagram]] — [raw/documents/2026-09-15-ai-reinforcing-loop-diagram.webp](../raw/documents/2026-09-15-ai-reinforcing-loop-diagram.webp); third-party diagram the user took from <https://youtu.be/W_ChhnAM7GY>, channel and upload date unverified; only its reinforcing structure is promoted and its named actors are not
 

@@ -66,6 +66,12 @@ For a lookup or suspected mismatch, search only the source ID/path and its captu
 | `SRC-2026-09-15-longing-research-rename` | [raw/conversations/2026-09-15-longing-research-rename.md](conversations/2026-09-15-longing-research-rename.md) | conversation | 2026-09-15 | user-originated | `d186ef253116a5dd44634ec20596a22eb79a1661` | 2026-09-15 | promoted as the rename of the work to LONGING RESEARCH, resolving the contradiction logged during the same day's earlier ingestion |
 | `SRC-2026-09-15-numeraire-and-standard-return` | [raw/conversations/2026-09-15-numeraire-and-standard-return.md](conversations/2026-09-15-numeraire-and-standard-return.md) | conversation | 2026-09-15 | jointly-developed | `11c61a0be519aadeac9d92dd6434f614b57ddd21` | 2026-09-15 | promoted as DEC-007, the STANDARD RETURN numeraire, and as the answer closing Q-004 |
 | `SRC-2026-09-15-ai-reinforcing-loop-diagram` | [raw/documents/2026-09-15-ai-reinforcing-loop-diagram.webp](documents/2026-09-15-ai-reinforcing-loop-diagram.webp) | document | 2026-09-15 | user-originated | `8db1d71c56a46bf3178f8da92af3f834a6413921` | 2026-09-15 | promoted only as the reinforcing structure behind the endogenous loop in DEC-007; its named actors are explicitly not adopted |
+| `SRC-2026-09-16-loop-simulation-session` | [raw/conversations/2026-09-16-loop-simulation-session.md](conversations/2026-09-16-loop-simulation-session.md) | conversation | 2026-09-16 | jointly-developed | `55284e4985c09cf46798beac1414d4f6832b6359` | 2026-09-16 | promoted as the decision to simulate before selecting a factor set, and as the adoption of the redefined anxiety term |
+| `SRC-2026-09-16-loop-simulation-findings` | [raw/documents/2026-09-16-loop-simulation-findings.md](documents/2026-09-16-loop-simulation-findings.md) | document | 2026-09-16 | llm-proposed | `76024d116f309fb6796c06ea28adc9c85d6947b6` | 2026-09-16 | promoted as loop-simulation; the seven findings are assistant-authored results from an assistant-authored model |
+| `SRC-2026-09-16-loop-simulation-harness` | [raw/documents/2026-09-16-loop-simulation-harness.py](documents/2026-09-16-loop-simulation-harness.py) | document | 2026-09-16 | llm-proposed | `388783be4372f11fc8b3e141118cf5cd29ffdb2f` | 2026-09-16 | the instrument the findings come from, registered so they can be reproduced or refuted |
+| `SRC-2026-09-19-market-texture-session` | [raw/conversations/2026-09-19-market-texture-session.md](conversations/2026-09-19-market-texture-session.md) | conversation | 2026-09-19 | jointly-developed | `421955e62da31b6897e4ee42a2898772583e53b0` | 2026-09-19 | promoted as the requirement that the market read as a real index inverted |
+| `SRC-2026-09-19-market-texture-findings` | [raw/documents/2026-09-19-market-texture-findings.md](documents/2026-09-19-market-texture-findings.md) | document | 2026-09-19 | llm-proposed | `00a393f8c29d340d98232547e6130ce2adb7c80b` | 2026-09-19 | promoted into loop-simulation; six added mechanisms, three defects, and a stylistic-calibration boundary |
+| `SRC-2026-09-19-loop-simulation-harness-v2` | [raw/documents/2026-09-19-loop-simulation-harness-v2.py](documents/2026-09-19-loop-simulation-harness-v2.py) | document | 2026-09-19 | llm-proposed | `34c5608e12f71c6bece43898ea3cd4091575b6a2` | 2026-09-19 | the harness after the texture round; supersedes the 2026-09-16 harness, which is retained unedited |
 
 ## Hash convention
 
@@ -144,6 +150,53 @@ The same file is registered in [longing-lab](https://github.com/TENDER-SYSTEMS-L
 `SRC-2026-09-15-numeraire-and-standard-return` is **machine-extracted from the Claude Code session transcript**, not an operator retyping and not a vendor export. Its own capture note states the boundary: every user and assistant message verbatim and both structured questions with the options offered and the answer selected, with 38 tool invocations and their outputs, session-level system reminders, and two invoked skill bodies excluded. None of those carry conversation substance that is not also visible in the repository's own Git state. The export was taken during the session it records, so the closing turns that register it are not in it; the log entry covers them.
 
 `SRC-2026-09-15-ai-reinforcing-loop-diagram` is the image the user pasted in turn 21 of that conversation, preserved as the binary it arrived as. It is **third-party material**, not the user's own composition: the user identified its origin in turn 37 as <https://youtu.be/W_ChhnAM7GY>, whose page title returned as `AI 기업들이 숨기고있는 소름끼치는 것`. The channel and upload date could not be verified from the page and are not recorded. It is registered as `user-originated` because the five permitted attribution values have no term for material a user brings in from elsewhere; the distinction is carried here rather than by the column. Only its reinforcing structure is promoted. Its named actors — fear marketing, political lobbying, litigation — are explicitly not adopted, because an actor who intends the decline contradicts `DEC-004`.
+
+## Note on the 2026-09-16 simulation records
+
+Three sources, and the reason for three is that they carry different weights.
+
+`SRC-2026-09-16-loop-simulation-session` is the conversation, extracted the same
+way as its predecessor and registered separately because a registered original is
+never edited. It begins at the turn after the first export was taken.
+
+`SRC-2026-09-16-loop-simulation-harness` is the model itself — a stdlib Python
+file, the first executable artifact in this project. It is registered so the
+findings can be reproduced or refuted rather than believed. **It is not a
+component of the artwork**, and no part of it is a specification: it is an
+instrument built to test whether DEC-007's mechanism can produce the shape
+DEC-004 asks for.
+
+`SRC-2026-09-16-loop-simulation-findings` is the report. Its attribution is
+`llm-proposed` and this matters more than usual: these are assistant-authored
+results from an assistant-authored model, run on invented parameters that are
+calibrated against nothing. The findings identify where DEC-007 is
+underspecified, which is a claim about the document. They establish nothing about
+the world. One of them corrects an earlier version of the same report, and that
+reversal is kept in the file rather than edited out.
+
+Only one thing in this group is `user-confirmed`, and it is in the conversation,
+not the report: the redefinition of anxiety as trust that never returns.
+
+## Note on the 2026-09-19 market-texture records
+
+`SRC-2026-09-19-loop-simulation-harness-v2` **supersedes**
+`SRC-2026-09-16-loop-simulation-harness` as the current instrument. The earlier
+file is retained unedited, as every registered original is, and the two are worth
+keeping side by side: the first round's build is where three defects were found,
+and a corrected copy would hide them.
+
+The reference the user set the texture against — a screenshot of a third-party
+market-data terminal showing a real equity index — is **not registered**. It was
+supplied to name a target, nothing in the wiki rests on its content, and
+preserving a vendor screenshot serves no provenance purpose. The conversation
+describes it in place.
+
+`SRC-2026-09-19-market-texture-findings` is `llm-proposed` for the same reason as
+its predecessor, and carries one boundary explicitly: matching a real index's
+statistics is a stylistic calibration to the terminal register of `DEC-002`. It
+answers whether the surface reads as traded rather than drawn. It is not evidence
+about human practice, and no factor, coefficient, basket, or historical span
+becomes selected by having produced a convincing chart.
 
 ## Note on the 2026-09-15 reserve-absorption record — naming survey
 

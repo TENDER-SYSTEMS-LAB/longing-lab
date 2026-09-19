@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-07
+updated: 2026-09-19
 sources:
+  - SRC-2026-09-19-market-texture-findings
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-05-price-formation-market-model
 ---
@@ -85,8 +86,33 @@ The new conversation retains weekly prices and monthly formal research in its op
 
 The assistant proposed weekly short/event or target-update records alongside monthly full research as a reconciliation. Exact weekly analyst obligations, coverage density, forecast horizons, and report length remain unselected; the samples and extended cadence above are not newly confirmed. [[analyst-system]] owns the historical record and scoring questions.
 
+## Evolution — the week is the tick, so the candle is a month (2026-09-19)
+
+A consequence of this decision that nothing had stated, found by drawing the
+market rather than describing it. See [[loop-simulation]].
+
+If prices strike weekly, **there is no intra-week high or low**. A weekly
+candlestick therefore cannot be drawn on any LONGING surface: its wicks would be
+data the world does not have, and inventing them is the failure mode the work is
+built to avoid. The smallest honest candle is the **month** — four weekly strikes
+supplying open, high, low and close — and any moving average on such a chart is
+in months.
+
+A weekly chart is still available as a line, which is what a weekly close is.
+This constrains the terminal's chart furniture and nothing else: no cadence,
+analyst obligation, or publication rule changes.
+
+The same decision's other half was also found missing in the first build. This
+page records that something must supply information between monthly research
+notes; the first simulation had no event layer at all, and the resulting market
+had no texture — smooth enough that a viewer would read it as drawn. The event
+layer is now built, and [[information-quality]]'s distinction between events that
+are true of the practice and events that merely move the quote is carried in it.
+Neither the arrival process nor the true-event share is selected.
+
 ## Sources
 
+- [[SRC-2026-09-19-market-texture-findings]] — [raw/documents/2026-09-19-market-texture-findings.md](../../raw/documents/2026-09-19-market-texture-findings.md); the candle-unit consequence and the missing event layer
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

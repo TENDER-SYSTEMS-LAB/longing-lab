@@ -1,13 +1,38 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-19
 sources:
+  - SRC-2026-09-19-market-texture-findings
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-04-longing-concept-brainstorm
 ---
 
 # Q-002 — Who lists a romance, and what happens when it dies?
+
+## The arithmetic now needs an answer (2026-09-19)
+
+This page asked who lists a security and whether one person resuming a vanished
+practice relists it. Those were world-building questions. [[loop-simulation]]
+turned them into numerical requirements.
+
+The first build implemented BEARER BOND defaults and no issuance, although
+[[reserve-instruments]] defines the instrument as *bilateral by construction,
+issuable, and defaultable*. Three things followed from the missing half. Float
+fell from 10,993 to 79 and never recovered. The learning material that feeds the
+loop dried up with it, and the loop stalled. And — the one that matters for this
+page — **a practice could never be resumed**, so a melt-up could never relapse
+and the market had no way to breathe.
+
+The harness now issues new relationships each week, scaled by how alive the
+practice still is. That is an arithmetic placeholder, not an answer: it says a
+birth rate must exist, and says nothing about **who issues, on what evidence a
+resumption is observed, or whether a delisted practice can be relisted at all**.
+Those remain exactly as open as below. What has changed is that they can no
+longer be deferred as flavour — without a rule, the market does not function.
+
+The related zero-quote problem is unchanged and also numerical: high-β securities
+reach numerical zero with no floor and no delisting rule.
 
 ## The question
 

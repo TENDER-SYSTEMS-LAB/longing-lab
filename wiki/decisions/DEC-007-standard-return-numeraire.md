@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-15
+updated: 2026-09-16
 sources:
+  - SRC-2026-09-16-loop-simulation-session
   - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-ai-reinforcing-loop-diagram
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
@@ -133,8 +134,55 @@ No crash, no eulogy. Every quote afterwards carries a small marker and nothing e
 
 The loop diagram is third-party material the user brought to the conversation, not the user's own position statement, and only the reinforcing structure is adopted from it. Its named actors — fear marketing, political lobbying, litigation — are explicitly **not** adopted, because an actor who intends the decline contradicts [[DEC-004-secular-decline-with-rallies]]. The still image is preserved as its own registered source; the video's channel and upload date were not verified.
 
+## Evolution — anxiety is redefined, and four gaps are found (2026-09-16)
+
+The mechanism above was executed for the first time; [[loop-simulation]] owns the
+run. One term is corrected here by user decision, and four places where this page
+is underspecified are recorded as open.
+
+**Anxiety was defined on the wrong quantity — `user-confirmed`.** `D` was the rate
+at which the backing stock falls. That quantity turns late, so the feedback term
+was zero at the start and stayed there: the loop could not begin, and with it inert
+the gain `g` had no effect at any value. `D` is now the trust that will not come
+back — `D = (rate the stock falls) + ai_anx · ai_share · attrition` — which begins
+the moment trust starts reallocating rather than when a total turns. This is not a
+new idea; [[reserve-instruments]] already states that trust placed in AI is
+one-way and returns nothing. The feedback term goes from 69% of capability growth
+to 98%, and the exogenous arrival this page did not mention drops to a formality.
+
+**The reflexive claim and its cost both hold, and one of them was nearly
+withdrawn.** With an inert loop the gain barely mattered, and the first version of
+the findings concluded that this page was wrong to say one coefficient governs the
+work's speed. With the loop running it is right: `g = 0.1` leaves the market at 45
+and `g = 0.3` takes it to 6.5. Saturation still bounds the loop at every gain
+tested, so the stability argument is unaffected.
+
+**Four gaps, none closed here.**
+
+- **The requisition rate `s(t)` is unspecified and decisive.** This page writes
+  `dVᵢ/Vᵢ = −βᵢ·s(t)` and never says what `s` is. Above roughly `s = 20·ΔA`, no
+  revival at any point in the history can stage a bull market, so the model can
+  never disagree with its author and [[DEC-004-secular-decline-with-rallies]]'s
+  sharpest test fails by construction. Either `s` is capped, or the work states
+  that nothing returns after the tipping point.
+- **The melt-up mechanism needs far larger collapses than this page implies.** An
+  orderly float decline takes the short position with it; only a discontinuity
+  strands it. Stranding requires a week in which roughly a fifth of a practice's
+  relationships end at once — a world-building claim this page does not make.
+- **There is a tipping point nobody designed.** The backing only turns once AI
+  holds about a third of it, which splits the history into two regimes with an
+  unannounced crossing. Recorded as a finding, not a defect: it is the invisible
+  peak arriving mechanically.
+- **High-β securities reach numerical zero**, with no floor, no delisting rule,
+  and no stated meaning for a zero quote. [[Q-002-listing-lifecycle]] is now a
+  numerical requirement rather than a preference.
+
+Everything in the run is uncalibrated. No factor, coefficient, basket membership,
+or historical span becomes selected by having been simulated.
+
 ## Sources
 
+- [[SRC-2026-09-16-loop-simulation-session]] — [raw/conversations/2026-09-16-loop-simulation-session.md](../../raw/conversations/2026-09-16-loop-simulation-session.md); the redefinition of anxiety, `user-confirmed`
 - [[SRC-2026-09-15-numeraire-and-standard-return]] — [raw/conversations/2026-09-15-numeraire-and-standard-return.md](../../raw/conversations/2026-09-15-numeraire-and-standard-return.md); machine-extracted session transcript, tool invocations excluded per its capture note
 - [[SRC-2026-09-15-reserve-absorption-and-trust-instruments]] — the backing layer that converted this question into a denominator problem
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — aggregate-Market scope, the reopening of forced covering, and 사유's market-price exposure

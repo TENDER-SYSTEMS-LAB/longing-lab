@@ -31,7 +31,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Fictional research house built from authored historical data, abstract or concrete subjects, and accumulated market records · `working` (2026-09-07)
-- [[current-state]] — Latest fictional-history decisions, abstract subjects, aggregate market scope, inherited typographic voice, and unresolved data, price, and forecast rules · `working` (2026-09-15)
+- [[current-state]] — Latest numeraire, loop and fictional-history decisions, abstract subjects, aggregate market scope, inherited typographic voice, and unresolved requisition, issuance, cluster, price and forecast rules · `working` (2026-09-19)
 
 ## Concepts
 
@@ -40,6 +40,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[worldbuilding-roadmap]] — Revised history-first resume point with earlier world/LETTER stages retained as conditional proposals · `working` (2026-09-07)
 - [[world-rules]] — Adopted historical and aggregate-market scope, internal definitions, the added backing layer, and the preserved unadopted city/cohort trial · `working` (2026-09-15)
 - [[reserve-instruments]] — The absorbed backing layer: BEARER BOND and BLIND TRUST, sign reversal instead of depletion, transfer to AI against a falling total, and how this market dies · `working` (2026-09-15)
+- [[loop-simulation]] — The executable check on DEC-007: the shape is reachable without a drift constant, anxiety is redefined so the loop can start, the market now carries a real index's texture inverted, and seven places where the design is underspecified · `working` (2026-09-19)
 - [[letter-practice-dynamics]] — LETTER-specific unadopted practice model, feedback and consistency examples; not a universal security template · `working` (2026-09-07)
 
 - [[dataset-backtesting-survey]] — 23 dataset families and Kaggle routes mapped to behavior, observation and mechanism tests, with access limits and unconfirmed priorities · `working` (2026-09-07)
@@ -64,16 +65,16 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[DEC-001-project-name-longing]] — The work is titled LONGING RESEARCH; the superseded one-word title, the reversed no-suffix precedent, rejected candidates, and the outstanding collision and repository-rename questions · `confirmed` (2026-09-15)
 - [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-15)
-- [[DEC-003-weekly-market-monthly-research]] — Weekly prices and monthly formal research extended into fictional history; detailed weekly analyst obligations remain open · `confirmed` (2026-09-07)
+- [[DEC-003-weekly-market-monthly-research]] — Weekly prices and monthly formal research extended into fictional history; the week being the tick makes the month the smallest drawable candle; detailed weekly analyst obligations remain open · `confirmed` (2026-09-19)
 - [[DEC-004-secular-decline-with-rallies]] — Declining authored history with market rallies and recovery possible under changed inputs; no forced price drift, and now a structural cause that nobody in the world argues · `confirmed` (2026-09-15)
 - [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection, now carrying the user's later position that factors may outnumber securities · `confirmed` (2026-09-07)
 - [[DEC-006-reserve-function-absorbed]] — LONGING absorbs the reserve function as BEARER BOND and BLIND TRUST; the separate holding institution and RS-001 are withdrawn, and the LONGING / LONGING RESEARCH title conflict is left unresolved · `confirmed` (2026-09-15)
-- [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based · `confirmed` (2026-09-15)
+- [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based; anxiety redefined and four gaps opened by the first simulation · `confirmed` (2026-09-16)
 
 ## Open Questions
 
 - [[Q-001-price-formation]] — Open historical-data, information, valuation, price and index rules under aggregate market scope · `working` (2026-09-07)
-- [[Q-002-listing-lifecycle]] — Proposed independent practice, observation, coverage, and listing states, including absence, delisting, and return · `working` (2026-09-07)
+- [[Q-002-listing-lifecycle]] — Proposed independent practice, observation, coverage, and listing states; issuance and delisting are now numerical requirements rather than flavour · `working` (2026-09-19)
 - [[Q-003-calibrating-the-bias]] — Bias located in authored history while degree, scoring, and public presentation devices remain open · `working` (2026-09-07)
 - [[Q-004-unit-of-account]] — Answered by DEC-007: the denominator is STANDARD RETURN, and float is separated from the index weight; U1–U3 and the undispatched review round are preserved as superseded record · `confirmed` (2026-09-15)
 
