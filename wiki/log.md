@@ -589,3 +589,11 @@ Registered [[SRC-2026-09-20-japanese-publisher-is-an-evening-paper]], `user-orig
 ## [2026-09-20] decision | Evening is a setting; the masthead is free
 
 Registered [[SRC-2026-09-20-masthead-need-not-say-evening]], `user-originated`. The user fixed that the evening-paper form belongs to the world's setting only: the masthead need not say 夕刊, and all eight shortlisted forms remain candidates on equal terms. Recorded on [[DEC-009-three-markets-and-convergence]] and [[institution-naming-review]]; [[current-state]] updated. How 夕経 sounds when spoken stays open and now matters only if that form is chosen. The paper is still unnamed; nothing is cleared. No registered original modified.
+
+## [2026-09-20] lint | Repository-wide Wiki lint
+
+Ran the full checklist across all 43 Wiki pages on user request. Wikilinks, source wikilinks, and relative Markdown paths all resolve; every non-index page is registered exactly once in the catalog and carries a `## Sources` section; no orphan pages; frontmatter fields, status values, and attribution values are valid everywhere; catalog dates match page frontmatter; no page is excessively large or small; no rejected material is presented as current; `git diff --check` is clean. All 114 source IDs cited in the Wiki are registered.
+
+Two mechanical repairs, both in `wiki/index.md`: its frontmatter `updated` and the Activity entry for [[log]] both still read 2026-09-15 although the catalog and the log had advanced to 2026-09-20. No page content was changed.
+
+Three findings reported without repair, since each needs a judgment the lint cannot make. First, `SRC-2026-09-06-academic-model-dialogue` is registered with Wiki Status `promoted` (2026-09-06), but no Wiki page cites it and no earlier log entry mentions it; either the row overstates its use or [[academic-model-survey]] is missing the citation. The other three uncited registered sources are correctly marked `raw-only`. Second, in the Decisions catalog DEC-007 is listed after DEC-009 rather than in numeric order. Third, `wiki/log.md` alone carries no YAML frontmatter; it has been that way since the repository was initialized, so this is noted as a consistency question rather than a defect.

@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-15
+updated: 2026-09-20
 sources: []
 ---
 
@@ -87,7 +87,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-15)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-20)
 
 ## Repository Control
 
