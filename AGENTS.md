@@ -27,6 +27,12 @@ This is LONGING's long-term project memory. Shared conventions originate in [TEN
 10. **Synchronize the index** — For each created, moved, deleted, or edited page, update only affected catalog entries when their summary, status, or updated date changed. Register every Wiki page except the index exactly once with a link, one-line summary, status if present, and date.
 11. **Append the result** — Add one concise `## [YYYY-MM-DD] <type> | <title>` entry after all existing log content for meaningful ingestion, decisions, durable queries, or maintenance. Prefer `ingest`, `query`, `decision`, `lint`, or `maintenance`. Do not log routine reads or clean checks without a durable result.
 
+## Answering "What Is Next?"
+
+When the user asks what to do or decide next (for example "다음 작업이 뭐야?", "what's next?", "what should I decide?"), answer from `wiki/current-state.md` alone. Read its `## Unknown`, `## Deferred`, and `## Next steps proposed in the sources` sections plus the resume point; skip the confirmed and source lists. Do not search the log, the index, or raw sources for this question.
+
+Reply with a short ranked list of open decisions, each as one line: what must be decided, why it blocks other work, and the page or `DEC-`/`Q-` ID that owns it. Put items the user deferred last and mark them deferred. Distinguish user decisions from LLM proposals; never present a proposal as the next task unless the user must accept or reject it. Do not edit any file for this question; if the user then decides something, follow the ingestion workflow.
+
 ## Preservation and Scope
 
 - Maintain documentation in English; preserve raw originals, proper names, source IDs, paths, and intentional quotations. Public translations are derivatives of canonical English; see `schema.md`.
