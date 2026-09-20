@@ -64,6 +64,14 @@ sources:
   - SRC-2026-09-20-institution-naming-glm
   - SRC-2026-09-20-institution-naming-grok
   - SRC-2026-09-20-institution-naming-qwen
+  - SRC-2026-09-20-proxy-sourcing-prompt
+  - SRC-2026-09-20-proxy-sourcing-chatgpt
+  - SRC-2026-09-20-proxy-sourcing-claude
+  - SRC-2026-09-20-proxy-sourcing-deepseek
+  - SRC-2026-09-20-proxy-sourcing-gemini
+  - SRC-2026-09-20-proxy-sourcing-glm
+  - SRC-2026-09-20-proxy-sourcing-grok
+  - SRC-2026-09-20-proxy-sourcing-qwen
 ---
 
 # Current State
@@ -142,7 +150,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 
 - **How large a default cluster is.** Melt-ups require float to vanish discontinuously; an orderly decline strands nobody. The cadence DEC-004 wants needs weeks in which about a fifth of a practice's relationships end at once, which no page yet claims.
 - **The administrative half of issuance.** Who issues is settled — the person who leans. Who *observes* a resumption, on what evidence, and whether a delisted practice can be re-admitted are not. See [[Q-002-listing-lifecycle]].
-- **Every number in the new structure.** The severity distribution's tail, forbearance before default, call intensity, wave membership and dating, the arrival-to-substitution lag, each wave's connection-creating coefficient, which proxies are used and how three countries' statistics are normalised. None selected; the simulation's values are placeholders shaped after the real order of arrival.
+- **Every number in the new structure.** The severity distribution's tail, forbearance before default, call intensity, wave membership and dating, the arrival-to-substitution lag, each wave's connection-creating coefficient, which proxies are used and how three countries' statistics are normalised. None selected; the simulation's values are placeholders shaped after the real order of arrival. The sourcing round narrows the last two: the ITU / World Bank triplet is the only candidate spine, four of the seven waves can be carried as measured series and three cannot, seven normalisation rules agree on every principle and differ only in the scaling step, and the measurement boundary is one per series rather than one vertical rule. Nothing downloaded. See [[proxy-sourcing-review]].
 - **Two fictional institutions must be named** — an evening paper and a ratings house — and checked against real companies. [[DEC-001-project-name-longing]]'s unperformed trademark and collision check triples here. A seven-model naming round, collected 2026-09-20, mapped the occupied ground and produced candidates that survived each reviewer's own screen, none shared between reviewers and none cleared; it also rejects the `KOCPI` placeholder as one letter from KOSPI, and leaves three questions for the user — national or regional publisher, whether the category word may appear in an acronym, and the US index's count convention. See [[institution-naming-review]].
 - **Symmetric research for three markets.** Naming specific Korean events obliges comparable specificity for Japan and the United States. Not done.
 - **What a zero quote means.** High-β securities reach numerical zero in the first run. No floor, no delisting rule, no stated meaning. See [[Q-002-listing-lifecycle]].
@@ -203,6 +211,8 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` cap, `user-originated`
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../raw/documents/2026-09-20-factor-identification-prompt.md); the fourth factor round, registered before dispatch
+- [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the sourcing round, registered before dispatch
+- [[SRC-2026-09-20-proxy-sourcing-chatgpt]], [[SRC-2026-09-20-proxy-sourcing-claude]], [[SRC-2026-09-20-proxy-sourcing-deepseek]], [[SRC-2026-09-20-proxy-sourcing-gemini]], [[SRC-2026-09-20-proxy-sourcing-glm]], [[SRC-2026-09-20-proxy-sourcing-grok]], [[SRC-2026-09-20-proxy-sourcing-qwen]] — [raw/surveys/](../raw/surveys/); seven sourcing responses, `llm-proposed`, synthesised in [[proxy-sourcing-review]]
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../raw/documents/2026-09-20-institution-naming-prompt.md); the naming round, registered before dispatch
 - [[SRC-2026-09-20-institution-naming-chatgpt]], [[SRC-2026-09-20-institution-naming-claude]], [[SRC-2026-09-20-institution-naming-deepseek]], [[SRC-2026-09-20-institution-naming-gemini]], [[SRC-2026-09-20-institution-naming-glm]], [[SRC-2026-09-20-institution-naming-grok]], [[SRC-2026-09-20-institution-naming-qwen]] — [raw/surveys/](../raw/surveys/); seven naming responses, `llm-proposed`, synthesised in [[institution-naming-review]]
 - [[SRC-2026-09-20-factor-identification-chatgpt]], [[SRC-2026-09-20-factor-identification-claude]], [[SRC-2026-09-20-factor-identification-deepseek]], [[SRC-2026-09-20-factor-identification-gemini]], [[SRC-2026-09-20-factor-identification-glm]], [[SRC-2026-09-20-factor-identification-grok]], [[SRC-2026-09-20-factor-identification-qwen]] — [raw/surveys/](../raw/surveys/); seven fourth-round responses, `llm-proposed`, synthesised in [[factor-identification-review]]

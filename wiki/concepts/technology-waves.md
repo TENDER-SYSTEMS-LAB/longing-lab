@@ -4,6 +4,7 @@ attribution: user-confirmed
 updated: 2026-09-20
 sources:
   - SRC-2026-09-20-bearer-bond-issuance
+  - SRC-2026-09-20-proxy-sourcing-prompt
 ---
 
 # Technology Waves — arrival raises what substitution later takes
@@ -82,7 +83,19 @@ observation and which part is estimate.
 
 - **Which proxies.** Penetration series exist for three countries with different
   definitions and base years; a normalisation rule is required and the institute
-  must publish it.
+  must publish it. The 2026-09-20 sourcing round — [[proxy-sourcing-review]] —
+  names the candidate spine (the ITU / World Bank triplet for internet use, mobile
+  and fixed broadband, 1996 to about 2024) and finds that only four of the seven
+  waves can be carried as measured series at all: dial-up, messaging and
+  generative AI cannot. Nothing is downloaded and no proxy is selected.
+- **The boundary is not one line.** This page says a vertical rule marks where
+  measurement stops. The sourcing round's most consistent finding is that the
+  boundary differs by technology and by country, that each observation carries
+  its own reference, fieldwork, publication and revision dates, and that for
+  generative AI the *no longer measured* line sits almost immediately after
+  *first measured*. Either the chart carries one boundary per series or the
+  methodology page states a rule for collapsing them into one published week.
+  Undecided.
 - **Wave membership and dating.** Which technologies count as waves, and when each
   arrives in each market, is unselected.
 - **The lag between arrival and substitution**, per wave. Unselected.
@@ -113,7 +126,9 @@ this market.** See [[loop-simulation]].
 - [[DEC-004-secular-decline-with-rallies]]
 - [[data-sources]]
 - [[loop-simulation]]
+- [[proxy-sourcing-review]]
 
 ## Sources
 
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
+- [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the two open items above draw on the seven responses synthesised in [[proxy-sourcing-review]]

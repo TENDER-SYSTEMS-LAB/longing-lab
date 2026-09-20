@@ -11,6 +11,7 @@ sources:
   - SRC-2026-09-05-price-formation-market-model
   - SRC-2026-09-05-claude-critic-of-model
   - SRC-2026-09-05-glm-critic-of-model
+  - SRC-2026-09-20-proxy-sourcing-prompt
 ---
 
 # Data Sources
@@ -128,11 +129,33 @@ hand at the start.
 No series has been collected, no normalisation rule across three countries'
 definitions and base years has been written, and no proxy has been selected.
 
+## Evolution — the sourcing round tests whether the measured half exists (2026-09-20)
+
+Seven models were asked whether the series above can actually be assembled from
+published statistics — [[proxy-sourcing-review]]. The answer is unanimous and
+narrower than this page's claim: a single thirty-year series does not exist, and a
+chain can be built for four waves only. Mobile telephony, fixed broadband and
+internet use run 1996 to about 2024 on the ITU / World Bank triplet, which is the
+only spine that is continuous, public, three-country and aligned by one compiler.
+Smartphones and the social web exist as national surveys from about 2005–2012,
+good for timing and not for levels. Dial-up and bulletin boards, messaging, and
+generative AI cannot be carried as measured three-country series; generative AI is
+three or four non-comparable annual points per country from 2023 plus one
+modelled cross-country estimate. The definitional mismatches — subscriptions
+against people, four recall windows, three age floors, three speed floors, a
+platform list that changes — are catalogued there with the breaks the reviewers
+could source, and the licences are not uniform: Korea's national tables are
+posted edition by edition under KOGL Type 4 or Type 1, which matters for an index
+that will be published. Still no series collected, no rule written, no proxy
+selected. The candidate spine is now named, and the boundary this page describes
+as one rule turns out to be one per series.
+
 ## Sources
 
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals
+- [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the 2026-09-20 evolution note draws on the seven responses synthesised in [[proxy-sourcing-review]]
 
 - [[SRC-2026-09-06-academic-model-recovered-excerpts]] — [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](../../raw/conversations/2026-09-06-academic-model-recovered-excerpts.md); original recent messages recovered from the originating task local log after API omission
 
