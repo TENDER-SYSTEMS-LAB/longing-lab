@@ -9,6 +9,7 @@ sources:
   - SRC-2026-09-20-japanese-publisher-is-national
   - SRC-2026-09-20-identification-experiment-findings-v4
   - SRC-2026-09-20-japanese-publisher-is-an-evening-paper
+  - SRC-2026-09-20-masthead-need-not-say-evening
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
@@ -128,9 +129,9 @@ global.
   naming round supplied — an evening paper has first claim on the closing
   quotation, and the Sankei itself began under an evening publisher. Of the
   eight national forms two carry the form in the masthead, 夕刊経済新報 and
-  夕刊商業; the others are not excluded, since an evening paper need not say so
-  in its name, but they no longer carry the basis in the title. The name itself
-  is still unselected.
+  夕刊商業. **The user then fixed that the evening form is a setting only**: the
+  masthead need not say it, and all eight remain candidates on equal terms. The
+  name itself is still unselected.
 - **Symmetric research.** Using specific Korean events obliges comparable
   specificity for Japan and the United States. Not done.
 - **Normalisation across three national statistical series** with different
@@ -184,3 +185,4 @@ versus common survives, the estimation from timing does not, for those waves.
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md); the naming note draws on the seven responses synthesised in [[institution-naming-review]]
 - [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../../raw/conversations/2026-09-20-japanese-publisher-is-national.md); the publisher is national
 - [[SRC-2026-09-20-japanese-publisher-is-an-evening-paper]] — [raw/conversations/2026-09-20-japanese-publisher-is-an-evening-paper.md](../../raw/conversations/2026-09-20-japanese-publisher-is-an-evening-paper.md); and an evening paper
+- [[SRC-2026-09-20-masthead-need-not-say-evening]] — [raw/conversations/2026-09-20-masthead-need-not-say-evening.md](../../raw/conversations/2026-09-20-masthead-need-not-say-evening.md); the form is a setting, the masthead is free
