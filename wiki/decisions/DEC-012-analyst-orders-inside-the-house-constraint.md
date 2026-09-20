@@ -3,11 +3,12 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-analyst-orders-are-a-proposal
   - SRC-2026-09-20-order-constraint-retained
   - SRC-2026-09-20-joint-line-as-a-range
 ---
 
-# DEC-012 — Each analyst carries their own order, inside the house constraint, until the record says otherwise
+# DEC-012 — The house order constraint binds any analyst reading; per-analyst orders remain the user's proposal
 
 ## The decision
 
@@ -15,17 +16,21 @@ sources:
 
 > 일단 그럼 순서 제약을 유지하자. 내가 나중에 기록보고 순서 제약을 해제 하던지 고려해볼게
 
-**Three parts, `user-confirmed`, the first by the assistant's reading of a message that does not restate the proposal it accepts:**
+The user then corrected the record's reading of that answer ([[SRC-2026-09-20-analyst-orders-are-a-proposal]]):
 
-1. **Analysts carry their own order.** An analyst's monthly research may declare its own sequence and read the month's weeks through it. The house ledger keeps the one published order of DEC-010 and its `Joint` range; an analyst's reading is a second layer, not a replacement.
-2. **The house constraint holds for analysts.** Measured lines are removed before estimated lines and the reflexive line is last, for every analyst as for the house. An analyst chooses among the admissible orders — six over the three movable blocks on the current lines — so each analyst's attribution is a point inside the house `Joint` band, never outside it.
+> 애널리스트가 자기 순서를 가진다. 는 건 내가 제안 정도이고, 너의 의견을 들어보니 순서의 제약을 둬야할 것 같음.
+
+**Three parts, the first `user-originated` as a proposal and not confirmed, the second and third `user-confirmed`:**
+
+1. **Analysts carrying their own order is a proposal, the user's own.** An analyst's monthly research *might* declare its own sequence and read the month's weeks through it, with the house ledger keeping the one published order of DEC-010 and its `Joint` range as the reference. Not adopted; the assistant's argument for it and against it stands in [[SRC-2026-09-20-joint-line-as-a-range]], Turn 6.
+2. **The house constraint holds for any analyst reading.** Measured lines are removed before estimated lines and the reflexive line is last, for every analyst as for the house. An analyst chooses among the admissible orders — six over the three movable blocks on the current lines — so if analysts ever read through their own orders, each reading is a point inside the house `Joint` band, never outside it. This is what the user decided after hearing the assistant's view.
 3. **The constraint is provisional.** The user will read the record — the generated history, its bands and its analysts' readings — and then consider lifting the constraint. What is revisable is the constraint on analysts' orders, not the decision that they carry one; what in the record would prompt the lifting is not stated.
 
 ## What this does and does not do
 
-- **What it gives.** The `Joint` width becomes the room the analysts have to disagree in a given week; when the band collapses, as it does late in the generated history ([[identification-experiment]]), every admissible order returns the same numbers and the disagreement is arithmetically moot. This is the assistant's reading of the consequence, `llm-proposed`.
-- **What it costs.** An order that puts the analyst's own valued line ahead of the schedule is not admissible, so the most romantic reading is expressible only within the estimated block; the SHORT analyst's natural order coincides with the house order. This is the cost the user accepted for now and the reason the choice is provisional.
-- **What it does not decide.** Which order each analyst carries; whether the reading appears in the monthly report as a line-by-line ledger or only in prose; how a monthly reading is cut from weekly ledgers, since the house ledger is weekly and research is monthly ([[DEC-003-weekly-market-monthly-research]]); and the relation to scoring — an order cannot be tested from returns, so an analyst's order never enters a track record ([[analyst-system]], open scoring).
+- **What it would give, if part 1 were adopted.** The `Joint` width becomes the room the analysts have to disagree in a given week; when the band collapses, as it does late in the generated history ([[identification-experiment]]), every admissible order returns the same numbers and the disagreement is arithmetically moot. This is the assistant's reading of the consequence, `llm-proposed`.
+- **What it costs.** An order that puts the analyst's own valued line ahead of the schedule is not admissible, so the most romantic reading is expressible only within the estimated block; the SHORT analyst's natural order coincides with the house order. This is the cost the user accepted for now and the reason the constraint is provisional.
+- **What it does not decide.** Whether analysts read through their own orders at all (part 1); which order each would carry; whether the reading appears in the monthly report as a line-by-line ledger or only in prose; how a monthly reading is cut from weekly ledgers, since the house ledger is weekly and research is monthly ([[DEC-003-weekly-market-monthly-research]]); and the relation to scoring — an order cannot be tested from returns, so an analyst's order never enters a track record ([[analyst-system]], open scoring).
 
 ## Related
 
@@ -39,5 +44,6 @@ sources:
 
 ## Sources
 
+- [[SRC-2026-09-20-analyst-orders-are-a-proposal]] — [raw/conversations/2026-09-20-analyst-orders-are-a-proposal.md](../../raw/conversations/2026-09-20-analyst-orders-are-a-proposal.md); per-analyst orders are the user's proposal, the constraint is the decision
 - [[SRC-2026-09-20-joint-line-as-a-range]] — [raw/conversations/2026-09-20-joint-line-as-a-range.md](../../raw/conversations/2026-09-20-joint-line-as-a-range.md); the question and the assistant's proposal it answers
 - [[SRC-2026-09-20-order-constraint-retained]] — [raw/conversations/2026-09-20-order-constraint-retained.md](../../raw/conversations/2026-09-20-order-constraint-retained.md); the decision

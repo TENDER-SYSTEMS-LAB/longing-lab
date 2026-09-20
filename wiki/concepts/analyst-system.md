@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-analyst-orders-are-a-proposal
   - SRC-2026-09-20-order-constraint-retained
   - SRC-2026-09-20-joint-line-as-a-range
   - SRC-2026-09-07-artwork-brainstorm-v2
@@ -136,7 +137,7 @@ Unchanged in principle — participant votes are displayed, never priced. One re
 
 ## Evolution — each analyst carries an order (2026-09-20)
 
-[[DEC-012-analyst-orders-inside-the-house-constraint]] gives the four readings arithmetic. An analyst's monthly research may declare its own attribution order and read the month through it, chosen from the orders [[DEC-010-declared-order-with-a-joint-line]] admits — measured lines first, the reflexive line last — so that every analyst's reading is a point inside the house `Joint` band. Which order each analyst carries is not chosen; the natural readings the assistant sketched — the priced factors first for the LONG analyst, the schedule first for the SHORT analyst, positioning first for the behavioural one — are `llm-proposed`, and the first of them is not admissible as stated. The decision is provisional, to be corrected against the record. An order cannot be tested from returns and does not enter a track record.
+[[DEC-012-analyst-orders-inside-the-house-constraint]] could give the four readings arithmetic, but does not yet: that an analyst's monthly research declares its own attribution order and reads the month through it is the user's own proposal, not adopted, after the assistant's view was heard. What is decided is the constraint — any such reading would be chosen from the orders [[DEC-010-declared-order-with-a-joint-line]] admits — measured lines first, the reflexive line last — so that every analyst's reading is a point inside the house `Joint` band. Which order each analyst carries is not chosen; the natural readings the assistant sketched — the priced factors first for the LONG analyst, the schedule first for the SHORT analyst, positioning first for the behavioural one — are `llm-proposed`, and the first of them is not admissible as stated. The constraint is provisional, to be reconsidered against the record. An order cannot be tested from returns and does not enter a track record.
 
 ## Related
 
@@ -149,7 +150,8 @@ Unchanged in principle — participant votes are displayed, never priced. One re
 
 ## Sources
 
-- [[SRC-2026-09-20-order-constraint-retained]] — [raw/conversations/2026-09-20-order-constraint-retained.md](../../raw/conversations/2026-09-20-order-constraint-retained.md); analysts carry their own order inside the house constraint
+- [[SRC-2026-09-20-order-constraint-retained]] — [raw/conversations/2026-09-20-order-constraint-retained.md](../../raw/conversations/2026-09-20-order-constraint-retained.md); the order constraint kept
+- [[SRC-2026-09-20-analyst-orders-are-a-proposal]] — [raw/conversations/2026-09-20-analyst-orders-are-a-proposal.md](../../raw/conversations/2026-09-20-analyst-orders-are-a-proposal.md); per-analyst orders downgraded to the user's proposal
 - [[SRC-2026-09-20-joint-line-as-a-range]] — [raw/conversations/2026-09-20-joint-line-as-a-range.md](../../raw/conversations/2026-09-20-joint-line-as-a-range.md); the per-analyst-order question and proposal
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
