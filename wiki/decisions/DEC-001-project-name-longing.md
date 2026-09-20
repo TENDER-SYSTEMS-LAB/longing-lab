@@ -1,11 +1,12 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-15
+updated: 2026-09-20
 sources:
   - SRC-2026-09-15-longing-research-rename
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-04-longing-concept-brainstorm
+  - SRC-2026-09-20-institution-naming-prompt
 ---
 
 # DEC-001 — The work is named LONGING RESEARCH
@@ -77,7 +78,7 @@ Two consequences of the reversal are worth keeping visible, because the original
 
 - **The identifier stays `LN-001`.** Identifiers are assigned once and never reused or re-derived; the institutional registry records this explicitly.
 - **The rejected candidates and their reasoning are unchanged.** CONSENSUS, POSITION, HOLD, and the rest were rejected against the same criteria, none of which the suffix affects.
-- **The outstanding trademark, domain, and existing-work collision check is unchanged and now larger.** It was never carried out for `LONGING`, and `LONGING RESEARCH` has not been checked either.
+- **The outstanding trademark, domain, and existing-work collision check is unchanged and now larger.** It was never carried out for `LONGING`, and `LONGING RESEARCH` has not been checked either. The 2026-09-20 naming round, [[institution-naming-review]], screened the two fictional institutions and their indices but was given `LONGING COMPOSITE` as fixed and did not screen it; one reviewer notes that the phrase therefore remains unchecked alongside the work's own name. Two composite tickers are known occupied — `LNG` is Cheniere Energy and `LONG` was eLong's.
 - **The known risk and its mitigation still apply.** The word still reads as emotional; the suffix arguably reduces that, which was never the reason for the change and is not claimed as one here.
 - **The LONG·ING double reading is untouched.** Nothing in the suffix disturbs it.
 
@@ -90,9 +91,11 @@ The Lab repository is still `longing-lab`. [DEC-001 — repository conventions](
 - [[DEC-002-research-house-form]]
 - [[system-grammar]]
 - [[prior-art]]
+- [[institution-naming-review]]
 
 ## Sources
 
 - [[SRC-2026-09-15-longing-research-rename]] — [raw/conversations/2026-09-15-longing-research-rename.md](../../raw/conversations/2026-09-15-longing-research-rename.md) — the rename instruction
 - [[SRC-2026-09-15-reserve-absorption-and-trust-instruments]] — [raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md](../../raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md) — the two-word format rule and the user's use of the name
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
+- [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md); the note on the unscreened composite name draws on [[institution-naming-review]]

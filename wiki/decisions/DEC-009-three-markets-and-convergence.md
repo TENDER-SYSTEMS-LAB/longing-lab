@@ -5,6 +5,7 @@ updated: 2026-09-20
 sources:
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-factor-identification-prompt
+  - SRC-2026-09-20-institution-naming-prompt
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
@@ -110,6 +111,12 @@ global.
 - **Named fictional institutions.** An evening paper and a ratings house must be
   invented, and a collision check against real companies is required. [[DEC-001-project-name-longing]]
   already carries an unperformed trademark and collision check; this triples it.
+  The 2026-09-20 naming round — [[institution-naming-review]] — mapped what is
+  occupied and produced uncleared candidates; **two reviewers independently reject
+  the `KOCPI` placeholder above**, as one letter from KOSPI and as embedding `CPI`.
+  The round also surfaced a decision this page does not make: whether the Japanese
+  publisher is a national paper, as the Nikkei is, or a regional one, which says
+  something different about who had the right to measure.
 - **Symmetric research.** Using specific Korean events obliges comparable
   specificity for Japan and the United States. Not done.
 - **Normalisation across three national statistical series** with different
@@ -148,8 +155,10 @@ the decision bought.
 - [[index-architecture]]
 - [[attribution-ledger]]
 - [[factor-identification-review]]
+- [[institution-naming-review]]
 
 ## Sources
 
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
+- [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md); the naming note draws on the seven responses synthesised in [[institution-naming-review]]

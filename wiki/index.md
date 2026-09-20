@@ -54,6 +54,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[factor-architecture-review-consensus]] — What the six verified second-round reviews agree must make a richer factor architecture identifiable, auditable, and falsifiable, where Qwen dissents toward reduction, and the transition to fixed-set failure review · `working` (2026-09-07)
 - [[factor-set-failure-profile-review]] — Eight third-round reviews of six fixed sets: conditional failure costs, disagreements, source limitations, and tests proposed but not run · `working` (2026-09-07)
 - [[factor-identification-review]] — Seven fourth-round reviews of what the three-market universe can identify: thirteen named directions, a handover from market to practice lines under convergence, a promotion gate battery, what no listing separates, and a runnable simulation — no set selected · `working` (2026-09-20)
+- [[institution-naming-review]] — Seven naming reviews for the Japanese publisher, the US ratings house, three index names and four tickers: the occupied ground, candidates that survived each reviewer's own screen, the rejected `KOCPI` placeholder, and three questions left for the user — nothing cleared · `working` (2026-09-20)
 - [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, the distinction between exact accounting and causal recovery, and the line count the listing can carry · `working` (2026-09-20)
 - [[arbitrage]] — Open world-specific arbitrage interest under aggregate market scope; no investor-story or full-exchange prerequisite · `working` (2026-09-07)
 - [[information-quality]] — Imperfect reports and proposed contemporaneous-information controls for the fictional research history · `working` (2026-09-07)
@@ -65,7 +66,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Decisions
 
-- [[DEC-001-project-name-longing]] — The work is titled LONGING RESEARCH; the superseded one-word title, the reversed no-suffix precedent, rejected candidates, and the outstanding collision and repository-rename questions · `confirmed` (2026-09-15)
+- [[DEC-001-project-name-longing]] — The work is titled LONGING RESEARCH; the superseded one-word title, the reversed no-suffix precedent, rejected candidates, and the outstanding collision and repository-rename questions · `confirmed` (2026-09-20)
 - [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-15)
 - [[DEC-003-weekly-market-monthly-research]] — Weekly prices and monthly formal research extended into fictional history; the week being the tick makes the month the smallest drawable candle; detailed weekly analyst obligations remain open · `confirmed` (2026-09-19)
 - [[DEC-004-secular-decline-with-rallies]] — Declining authored history with market rallies and recovery possible under changed inputs; no forced price drift, a structural cause that nobody in the world argues, mechanisms for all three rally engines, and the disagreement test kept alive by the requisition cap · `confirmed` (2026-09-20)

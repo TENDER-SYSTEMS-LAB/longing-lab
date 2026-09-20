@@ -56,6 +56,14 @@ sources:
   - SRC-2026-09-06-factor-set-failure-profile-prompt-v2
   - SRC-2026-09-06-factor-set-failure-profile-chatgpt
   - SRC-2026-09-06-factor-set-failure-profile-glm
+  - SRC-2026-09-20-institution-naming-prompt
+  - SRC-2026-09-20-institution-naming-chatgpt
+  - SRC-2026-09-20-institution-naming-claude
+  - SRC-2026-09-20-institution-naming-deepseek
+  - SRC-2026-09-20-institution-naming-gemini
+  - SRC-2026-09-20-institution-naming-glm
+  - SRC-2026-09-20-institution-naming-grok
+  - SRC-2026-09-20-institution-naming-qwen
 ---
 
 # Current State
@@ -135,7 +143,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 - **How large a default cluster is.** Melt-ups require float to vanish discontinuously; an orderly decline strands nobody. The cadence DEC-004 wants needs weeks in which about a fifth of a practice's relationships end at once, which no page yet claims.
 - **The administrative half of issuance.** Who issues is settled — the person who leans. Who *observes* a resumption, on what evidence, and whether a delisted practice can be re-admitted are not. See [[Q-002-listing-lifecycle]].
 - **Every number in the new structure.** The severity distribution's tail, forbearance before default, call intensity, wave membership and dating, the arrival-to-substitution lag, each wave's connection-creating coefficient, which proxies are used and how three countries' statistics are normalised. None selected; the simulation's values are placeholders shaped after the real order of arrival.
-- **Two fictional institutions must be named** — an evening paper and a ratings house — and checked against real companies. [[DEC-001-project-name-longing]]'s unperformed trademark and collision check triples here.
+- **Two fictional institutions must be named** — an evening paper and a ratings house — and checked against real companies. [[DEC-001-project-name-longing]]'s unperformed trademark and collision check triples here. A seven-model naming round, collected 2026-09-20, mapped the occupied ground and produced candidates that survived each reviewer's own screen, none shared between reviewers and none cleared; it also rejects the `KOCPI` placeholder as one letter from KOSPI, and leaves three questions for the user — national or regional publisher, whether the category word may appear in an acronym, and the US index's count convention. See [[institution-naming-review]].
 - **Symmetric research for three markets.** Naming specific Korean events obliges comparable specificity for Japan and the United States. Not done.
 - **What a zero quote means.** High-β securities reach numerical zero in the first run. No floor, no delisting rule, no stated meaning. See [[Q-002-listing-lifecycle]].
 - **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. Ledger *resolution* is no longer open in this list — it is settled as a rule, factor count as a function of universe size, see [[DEC-005-ledger-resolution-scales-with-universe]] — but ledger *membership*, which specific factors fill the starting nine and which candidate is promoted next, remains open — but the fourth round narrows it: the listing supports thirteen named directions at most, never all at once, and the opening count the seven reviews derive runs from three to thirteen depending on a counting convention the decision never fixed. Which factors, still open; how many the universe can carry, now a test rather than a choice. See [[model-review-consensus]], [[factor-architecture-review-consensus]] and [[factor-identification-review]].
@@ -147,7 +155,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 - **Listing lifecycle**: who lists, whether scarcity raises or lowers price, delisting, where a delisted romance goes, whether one person resuming a practice relists it. See [[Q-002-listing-lifecycle]].
 - **How far the bias may go** before the work stops asking and starts arguing. See [[Q-003-calibrating-the-bias]].
 - **Whether the repository, and the social accounts, follow the rename.** The work is now LONGING RESEARCH, but the Lab is still `longing-lab` and the institution's public-surfaces page records accounts under `LONGING`. The repository convention would give `longing-research-lab`; renaming a published repository breaks existing links, including the cross-repository URLs written into THE RESERVE's conclusion decision. Not done, and needing a decision. See [[DEC-001-project-name-longing]].
-- **Flagship index ticker** (`LNGI` / `LX` / `LCI`), the security-code scheme, and the currency.
+- **Flagship index ticker** (`LNGI` / `LX` / `LCI`), the security-code scheme, and the currency. The naming round adds four composite codes to the field and the rule that every purely alphabetic three- or four-letter code should be assumed occupied; `LNG`, `LONG`, `COMP` and `LGC` are taken. See [[institution-naming-review]].
 - **Trademark, domain, and existing-work collision check on the name** — planned in the first conversation, never carried out for `LONGING` and not carried out for `LONGING RESEARCH` either. See [[DEC-001-project-name-longing]].
 - **Medium and delivery**: mobile-first was the starting assumption; no platform, technology, or exhibition context has been decided.
 
@@ -195,6 +203,8 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` cap, `user-originated`
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../raw/documents/2026-09-20-factor-identification-prompt.md); the fourth factor round, registered before dispatch
+- [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../raw/documents/2026-09-20-institution-naming-prompt.md); the naming round, registered before dispatch
+- [[SRC-2026-09-20-institution-naming-chatgpt]], [[SRC-2026-09-20-institution-naming-claude]], [[SRC-2026-09-20-institution-naming-deepseek]], [[SRC-2026-09-20-institution-naming-gemini]], [[SRC-2026-09-20-institution-naming-glm]], [[SRC-2026-09-20-institution-naming-grok]], [[SRC-2026-09-20-institution-naming-qwen]] — [raw/surveys/](../raw/surveys/); seven naming responses, `llm-proposed`, synthesised in [[institution-naming-review]]
 - [[SRC-2026-09-20-factor-identification-chatgpt]], [[SRC-2026-09-20-factor-identification-claude]], [[SRC-2026-09-20-factor-identification-deepseek]], [[SRC-2026-09-20-factor-identification-gemini]], [[SRC-2026-09-20-factor-identification-glm]], [[SRC-2026-09-20-factor-identification-grok]], [[SRC-2026-09-20-factor-identification-qwen]] — [raw/surveys/](../raw/surveys/); seven fourth-round responses, `llm-proposed`, synthesised in [[factor-identification-review]]
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../raw/conversations/2026-09-20-bearer-bond-issuance.md); registered `user-originated`
 - [[SRC-2026-09-20-simulation-rebuild]] — [raw/conversations/2026-09-20-simulation-rebuild.md](../raw/conversations/2026-09-20-simulation-rebuild.md); the third simulation round

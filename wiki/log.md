@@ -475,3 +475,17 @@ Seven responses to [[SRC-2026-09-20-factor-identification-prompt]] — ChatGPT, 
 **Pages touched.** Evolution notes on [[DEC-005-ledger-resolution-scales-with-universe]], [[DEC-009-three-markets-and-convergence]] and [[attribution-ledger]]; two new open questions in [[current-state]] — the counting convention of nine and the attribution's orthogonalisation order; next-step 2 (carry the two positions into the next round) struck as done; the round-3 page cross-linked. Gemini's response, in Korean and inventing thresholds the prompt forbade, is recorded and flagged rather than excluded.
 
 No factor, name, count, coefficient or order is selected by this ingestion, and no registered original was modified.
+
+## [2026-09-20] ingest | The naming round: occupied ground mapped, nothing cleared
+
+Seven responses to [[SRC-2026-09-20-institution-naming-prompt]] — ChatGPT, Claude, DeepSeek, Gemini, GLM, Grok, Qwen — are promoted into [[institution-naming-review]], `llm-synthesis`. The round asked for candidates for the Japanese publisher, the US ratings house, three index names and four tickers, with the collision report as the deliverable.
+
+**No name is selected and none is cleared.** No reviewer could see a register, and every one said so. The durable output is the map of what is occupied: the `<place>経済新聞` pattern as a class (the みんなの経済新聞 network), the whole Nikkei lineage, the well-known fictional papers, historical titles that surface on archival search (関東経済新聞, 1950, verified by ChatGPT on Japan Search), the contractions that fail (中経, 日商, 東商, 帝経, 日産, 東邦), the surnames in the exact trade, the surnames that are brands (Marsh, Mercer, Sterling, Crane, Ames, Cabot), initials that are jokes (P&L, M&A, S&K), the KOSPI typo-shadows, the real Korean bodies, the index numbers that belong to real series, and the tickers verified occupied (`LNG`, `LONG`, `COMP`, `LGC`, `BR`, `MP`, `CR`).
+
+**Two reviewers independently reject `KOCPI`**, the placeholder [[DEC-009-three-markets-and-convergence]] carries — one letter from KOSPI, and it embeds `CPI`. Recorded on that page. `LONGING COMPOSITE` itself was fixed by the prompt and never screened, which is noted on [[DEC-001-project-name-longing]] beside the work's own unperformed check.
+
+**Candidates that survived each reviewer's own screen** are tabulated per reviewer, not merged: no publisher, house, acronym or composite code was proposed by two reviewers independently, except 京浜経済新聞 by three, two of whom flag the Keihin automotive brand. Source quality is uneven and is recorded: Claude, GLM, Grok and ChatGPT carry a basis on every judgement; Gemini and Qwen assert *clean* and *high confidence* on recall alone, use 225 and 500, and Qwen invents institutional histories for its counts.
+
+**Three questions are left for the user**, not for another round: whether the Japanese publisher is national or regional; whether the category word — *practice*, 행위 — may appear in an acronym's expansion; and the US index's count convention, which now has three incompatible readings (a period-authentic 90, a specialist 80 or 120, the literal 11) and depends on [[Q-002-listing-lifecycle]].
+
+[[current-state]] Unknown bullets on the institutions and the ticker updated. No registered original was modified.
