@@ -76,9 +76,30 @@ For a lookup or suspected mismatch, search only the source ID/path and its captu
 | `SRC-2026-09-20-simulation-rebuild` | [raw/conversations/2026-09-20-simulation-rebuild.md](conversations/2026-09-20-simulation-rebuild.md) | conversation | 2026-09-20 | jointly-developed | `2efda6c9420304ee7d1b9d02a600d0e917c37582` | 2026-09-20 | promoted as the third simulation round and the signed-positioning correction |
 | `SRC-2026-09-20-rebuild-findings` | [raw/documents/2026-09-20-rebuild-findings.md](documents/2026-09-20-rebuild-findings.md) | document | 2026-09-20 | llm-proposed | `86e797688fa58159df1d08fc8a0c5d68ea3c023d` | 2026-09-20 | five defects, one of them a test that had been passing for the wrong reason |
 | `SRC-2026-09-20-loop-simulation-harness-v3` | [raw/documents/2026-09-20-loop-simulation-harness-v3.py](documents/2026-09-20-loop-simulation-harness-v3.py) | document | 2026-09-20 | llm-proposed | `442c3e1b7b9c95a14ac7ba2282604334535bb234` | 2026-09-20 | the harness rebuilt on DEC-008 and DEC-009; supersedes v2, which is retained unedited |
-| `SRC-2026-09-20-factor-identification-prompt` | [raw/documents/2026-09-20-factor-identification-prompt.md](documents/2026-09-20-factor-identification-prompt.md) | document | 2026-09-20 | jointly-developed | `59c082e4ad3699bba93ccd3f36cd3825fdcc4c91` | — | registered on authoring, not on dispatch; no round has been run against it |
-| `SRC-2026-09-20-proxy-sourcing-prompt` | [raw/documents/2026-09-20-proxy-sourcing-prompt.md](documents/2026-09-20-proxy-sourcing-prompt.md) | document | 2026-09-20 | jointly-developed | `3bdd53cb7dc4c35cf68750123017ccde71ea0318` | — | registered on authoring; undispatched |
-| `SRC-2026-09-20-institution-naming-prompt` | [raw/documents/2026-09-20-institution-naming-prompt.md](documents/2026-09-20-institution-naming-prompt.md) | document | 2026-09-20 | jointly-developed | `a924dcb5b5c50779e451e451809dc92b627f3627` | — | registered on authoring; undispatched |
+| `SRC-2026-09-20-factor-identification-prompt` | [raw/documents/2026-09-20-factor-identification-prompt.md](documents/2026-09-20-factor-identification-prompt.md) | document | 2026-09-20 | jointly-developed | `59c082e4ad3699bba93ccd3f36cd3825fdcc4c91` | — | registered on authoring; dispatched 2026-09-20, seven responses registered below, none synthesised |
+| `SRC-2026-09-20-proxy-sourcing-prompt` | [raw/documents/2026-09-20-proxy-sourcing-prompt.md](documents/2026-09-20-proxy-sourcing-prompt.md) | document | 2026-09-20 | jointly-developed | `3bdd53cb7dc4c35cf68750123017ccde71ea0318` | — | registered on authoring; dispatched 2026-09-20, seven responses registered below, none synthesised |
+| `SRC-2026-09-20-institution-naming-prompt` | [raw/documents/2026-09-20-institution-naming-prompt.md](documents/2026-09-20-institution-naming-prompt.md) | document | 2026-09-20 | jointly-developed | `a924dcb5b5c50779e451e451809dc92b627f3627` | — | registered on authoring; dispatched 2026-09-20, seven responses registered below, none synthesised |
+| `SRC-2026-09-20-factor-identification-chatgpt` | [raw/surveys/2026-09-20-factor-identification-chatgpt.md](surveys/2026-09-20-factor-identification-chatgpt.md) | survey | 2026-09-20 | llm-proposed | `a137b935fb9ad3615c4dac3f618cf6e03a05674c` | — | raw-only |
+| `SRC-2026-09-20-factor-identification-claude` | [raw/surveys/2026-09-20-factor-identification-claude.md](surveys/2026-09-20-factor-identification-claude.md) | survey | 2026-09-20 | llm-proposed | `9c548f64c8e03233ec64d7e5b1071d6330f0b87d` | — | raw-only |
+| `SRC-2026-09-20-factor-identification-deepseek` | [raw/surveys/2026-09-20-factor-identification-deepseek.md](surveys/2026-09-20-factor-identification-deepseek.md) | survey | 2026-09-20 | llm-proposed | `08feadf56a12e457a4f8d3b930c098e7d5116b31` | — | raw-only |
+| `SRC-2026-09-20-factor-identification-gemini` | [raw/surveys/2026-09-20-factor-identification-gemini.md](surveys/2026-09-20-factor-identification-gemini.md) | survey | 2026-09-20 | llm-proposed | `fc07a869715ffb13950d2e381689ab524a1d60a1` | — | raw-only; response written in Korean |
+| `SRC-2026-09-20-factor-identification-glm` | [raw/surveys/2026-09-20-factor-identification-glm.md](surveys/2026-09-20-factor-identification-glm.md) | survey | 2026-09-20 | llm-proposed | `8260966aadd99c3619b3fdf0a93dba4295401afa` | — | raw-only |
+| `SRC-2026-09-20-factor-identification-grok` | [raw/surveys/2026-09-20-factor-identification-grok.md](surveys/2026-09-20-factor-identification-grok.md) | survey | 2026-09-20 | llm-proposed | `758c7e8de06061f90daf9e367ac2b4d427cb8aeb` | — | raw-only |
+| `SRC-2026-09-20-factor-identification-qwen` | [raw/surveys/2026-09-20-factor-identification-qwen.md](surveys/2026-09-20-factor-identification-qwen.md) | survey | 2026-09-20 | llm-proposed | `391f725dfbefc06d3e9ca20d34cdf4db25c0c03a` | — | raw-only |
+| `SRC-2026-09-20-proxy-sourcing-chatgpt` | [raw/surveys/2026-09-20-proxy-sourcing-chatgpt.md](surveys/2026-09-20-proxy-sourcing-chatgpt.md) | survey | 2026-09-20 | llm-proposed | `c6edb2da9adc33c27d904931f592c5c0917a44b4` | — | raw-only |
+| `SRC-2026-09-20-proxy-sourcing-claude` | [raw/surveys/2026-09-20-proxy-sourcing-claude.md](surveys/2026-09-20-proxy-sourcing-claude.md) | survey | 2026-09-20 | llm-proposed | `d6adb2453745e92e1a51873b5a6a7845392ce987` | — | raw-only; capture retains the leading chat message before the report |
+| `SRC-2026-09-20-proxy-sourcing-deepseek` | [raw/surveys/2026-09-20-proxy-sourcing-deepseek.md](surveys/2026-09-20-proxy-sourcing-deepseek.md) | survey | 2026-09-20 | llm-proposed | `6fad8e5c3ca4d2177633cb19d64ca123868ba3e9` | — | raw-only; first delivered as a byte-identical pair with the Gemini slot, identified as DeepSeek by the user |
+| `SRC-2026-09-20-proxy-sourcing-gemini` | [raw/surveys/2026-09-20-proxy-sourcing-gemini.md](surveys/2026-09-20-proxy-sourcing-gemini.md) | survey | 2026-09-20 | llm-proposed | `c0a4d1414c6116a3c23a87c6599afa5d616aeb84` | — | raw-only; re-collected after the first Gemini slot proved to be a duplicate of DeepSeek |
+| `SRC-2026-09-20-proxy-sourcing-glm` | [raw/surveys/2026-09-20-proxy-sourcing-glm.md](surveys/2026-09-20-proxy-sourcing-glm.md) | survey | 2026-09-20 | llm-proposed | `f3f3dedf19f9a2253f4bade552702aa664785862` | — | raw-only; self-titled `Round 1`, attests no live lookup |
+| `SRC-2026-09-20-proxy-sourcing-grok` | [raw/surveys/2026-09-20-proxy-sourcing-grok.md](surveys/2026-09-20-proxy-sourcing-grok.md) | survey | 2026-09-20 | llm-proposed | `7bacdd8fd530411d8487b8721b89a1befd23d2f5` | — | raw-only |
+| `SRC-2026-09-20-proxy-sourcing-qwen` | [raw/surveys/2026-09-20-proxy-sourcing-qwen.md](surveys/2026-09-20-proxy-sourcing-qwen.md) | survey | 2026-09-20 | llm-proposed | `6d0a72a8e279d0a59a39b4987a020db81a1fb083` | — | raw-only |
+| `SRC-2026-09-20-institution-naming-chatgpt` | [raw/surveys/2026-09-20-institution-naming-chatgpt.md](surveys/2026-09-20-institution-naming-chatgpt.md) | survey | 2026-09-20 | llm-proposed | `d203bb554e241493fd1f5e181c94abf61daf6df6` | — | raw-only |
+| `SRC-2026-09-20-institution-naming-claude` | [raw/surveys/2026-09-20-institution-naming-claude.md](surveys/2026-09-20-institution-naming-claude.md) | survey | 2026-09-20 | llm-proposed | `35bee4f3e12651e343236adcfd22fe7c27b29acc` | — | raw-only; capture retains the leading chat message before the report |
+| `SRC-2026-09-20-institution-naming-deepseek` | [raw/surveys/2026-09-20-institution-naming-deepseek.md](surveys/2026-09-20-institution-naming-deepseek.md) | survey | 2026-09-20 | llm-proposed | `f3cf27eb3d709b48c3dc22e2bab088089c684db1` | — | raw-only |
+| `SRC-2026-09-20-institution-naming-gemini` | [raw/surveys/2026-09-20-institution-naming-gemini.md](surveys/2026-09-20-institution-naming-gemini.md) | survey | 2026-09-20 | llm-proposed | `08c8d9e8aa171192052504c16238525c0783ce93` | — | raw-only |
+| `SRC-2026-09-20-institution-naming-glm` | [raw/surveys/2026-09-20-institution-naming-glm.md](surveys/2026-09-20-institution-naming-glm.md) | survey | 2026-09-20 | llm-proposed | `5721ca3948704db34671e9e517341e2fa5e9d29d` | — | raw-only |
+| `SRC-2026-09-20-institution-naming-grok` | [raw/surveys/2026-09-20-institution-naming-grok.md](surveys/2026-09-20-institution-naming-grok.md) | survey | 2026-09-20 | llm-proposed | `9451f1bcc33cfce496bc799318164248bc3d9829` | — | raw-only |
+| `SRC-2026-09-20-institution-naming-qwen` | [raw/surveys/2026-09-20-institution-naming-qwen.md](surveys/2026-09-20-institution-naming-qwen.md) | survey | 2026-09-20 | llm-proposed | `00964e9d77c2878daebe3e2ff44c70dcb15a42ee` | — | raw-only |
 
 ## Hash convention
 
@@ -184,7 +205,7 @@ reversal is kept in the file rather than edited out.
 Only one thing in this group is `user-confirmed`, and it is in the conversation,
 not the report: the redefinition of anxiety as trust that never returns.
 
-## Note on the three undispatched prompts
+## Note on the three 2026-09-20 prompts and their responses
 
 Registered **before** dispatch, on purpose. `current-state` has carried a
 provenance warning since the first review round — *the review prompt is not
@@ -192,9 +213,20 @@ registered, so everything the surveys say about what was asked is a secondary
 citation.* Registering a prompt when it is written rather than when its answers
 arrive removes that class of defect for these rounds.
 
-Their `Ingested` column is `—` because nothing has been ingested: no round has
-been run against any of the three, and no response exists. When responses arrive
-they are registered separately as surveys and cite these hashes.
+The three were dispatched on 2026-09-20, one prompt per fresh session per model,
+and the responses are registered as surveys with `Ingested` `—`: nothing has been
+synthesised into the Wiki yet. Kimi was not consulted this round. ChatGPT files
+use the `chatgpt` suffix as in the third round.
+
+Capture conditions: verbatim rendered response text from each answer container,
+reasoning panels excluded, no translation. Two Claude captures (naming, sourcing)
+keep the one-line chat message that preceded the report; Gemini's factor response
+is in Korean. Hashes attest to preservation of these captures.
+
+**One re-collection.** The sourcing captures first delivered as DeepSeek and
+Gemini were byte-identical (md5 `6582166967cb1b5bfc4893d0f1b7c3e6`). The user
+identified the text as DeepSeek's; the Gemini response was collected again and
+registered separately. The mis-pasted duplicate was never registered.
 
 The three ask for different kinds of work and should not be treated as one round.
 The factor prompt asks what the universe can identify, which is analytic. The

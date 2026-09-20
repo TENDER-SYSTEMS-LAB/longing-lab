@@ -441,3 +441,11 @@ The factor prompt opens a fourth round on a question the first three could not s
 The sourcing prompt asks whether a thirty-year, three-country diffusion series can actually be assembled, and is written so that an invented figure is the named failure mode rather than a convenience. The naming prompt asks for candidates for the Japanese publisher, the United States ratings house and the three index names, and treats the collision report as the deliverable rather than the names.
 
 No decision, factor, coefficient or name is selected by this entry, and no registered original was modified.
+
+## [2026-09-20] maintenance | Three rounds collected; twenty-one surveys registered
+
+The three prompts registered earlier today were dispatched — one prompt per fresh session per model, never combined — and the responses filed under the raw convention `2026-09-20-<prompt>-<model>.md`. Twenty-one are registered in `raw/sources.md` as `raw-only`: seven each for [[SRC-2026-09-20-factor-identification-prompt]], [[SRC-2026-09-20-institution-naming-prompt]] and [[SRC-2026-09-20-proxy-sourcing-prompt]]. Kimi was not consulted. ChatGPT keeps the third round's `chatgpt` suffix.
+
+**One sourcing capture was re-collected.** The files first delivered as DeepSeek and Gemini were byte-identical; the user identified the text as DeepSeek's, and Gemini's response was collected again. The duplicate was never registered.
+
+Nothing is synthesised. No factor, name, or series is selected, and no registered original was modified.
