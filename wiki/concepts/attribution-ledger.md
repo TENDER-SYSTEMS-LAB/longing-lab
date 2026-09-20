@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-20
 sources:
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
@@ -16,6 +16,7 @@ sources:
   - SRC-2026-09-06-factor-set-failure-profile-prompt-v2
   - SRC-2026-09-06-factor-set-failure-profile-chatgpt
   - SRC-2026-09-06-factor-set-failure-profile-glm
+  - SRC-2026-09-20-factor-identification-prompt
 ---
 
 # Attribution Ledger
@@ -83,6 +84,8 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 - Whether the three-layer allocation rule survives user review, and in what form.
 - Whether a per-factor separability test — a factor earns a ledger line when at least one security in the universe responds to it differently from every other factor — replaces the earlier working ratio of roughly one factor per three securities. Proposed by the assistant; not confirmed. See [[DEC-005-ledger-resolution-scales-with-universe]].
 - Which nine (or so) factors form the starting ledger, which is not yet decided.
+- **Whether "nine" counts priced factor lines or every line.** The ledger's fixed lines — numeraire, substitution, positioning, reflexive, `Unexplained` — and its priced factor lines are enumerated separately, and the fourth round split on which the count of nine includes. The two readings give different defensible openings. Not recorded; needs the user. See [[factor-identification-review]].
+- **The orthogonalisation order.** The fourth round agrees the weekly split is a recursive residualisation in a declared order — numeraire, substitution, priced factors, positioning, reflexive, `Unexplained` is the order most reviewers assume — and that the order determines the split, cannot be tested from returns, and must be published. No order is chosen.
 
 ## Evolution — round 3 tests the ledger's causal language
 
@@ -90,9 +93,14 @@ The eight-response [[factor-set-failure-profile-review]] makes the existing arit
 
 The useful review output is a set of contrasting events and stability tests: trust without proximity, scheduling without attention loss, supply without taste change, and crowding without changed belief. A missing common-factor name does not erase the existing fundamentals or positioning layers. Multiple legitimate effects of one event are not automatically double counting. Routing, interaction treatment, visibility of uncertainty, and line stability remain untested proposals, not confirmed mechanisms. The earlier lab-closure example's treatment in security fundamentals is preserved.
 
+## Evolution — round 4 derives the line count from the listing
+
+The seven-response [[factor-identification-review]] gives the ledger its first count that is not a preference. A listing of eleven practices in three markets names thirteen factor directions — one common, ten practice contrasts, two market contrasts — and the twenty remaining dimensions are single securities' own noise, which is the formal form of the *effect with ambitions* objection. Measured lines consume none of that capacity, which is how the user's position that factors may outnumber securities is read. Convergence moves the estimable lines from the market side to the practice side without changing what can be named. The promotion criterion becomes a gate battery with a post-publication check, because publication itself can create a factor once the reflexive line exists. `Unexplained` gains a mechanical role: if its cross-sectional covariance stops being near-diagonal, a line is missing and the promotion search runs. The exact-accounting-versus-causal-recovery distinction this page draws is kept and sharpened — a shared driver is not itself a double count, and exact weekly sums in a nonlinear model need a stated finite-change allocation rule. All of it `llm-proposed`; nothing on this page is adopted by it.
+
 ## Related
 
 - [[factor-set-failure-profile-review]]
+- [[factor-identification-review]]
 
 - [[pricing-model]]
 - [[information-quality]]
@@ -106,6 +114,7 @@ The useful review output is a set of contrasting events and stability tests: tru
 ## Sources
 
 - [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — [raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md](../../raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md)
+- [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — [raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md](../../raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — [raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md](../../raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md)

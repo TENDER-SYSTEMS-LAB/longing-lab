@@ -1,10 +1,11 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-07
+updated: 2026-09-20
 sources:
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
+  - SRC-2026-09-20-factor-identification-prompt
 ---
 
 # DEC-005 — Ledger resolution scales with the security universe
@@ -51,6 +52,17 @@ Two things, and an instruction.
 
 This does not change the decision. DEC-005 fixes how ledger resolution behaves as the work grows, and it remains exactly that. What the position does is settle the direction of the still-open promotion criterion: whatever criterion is adopted must be a test of expressibility against the listed universe, not an arithmetic cap on factor count. Recorded as `user-originated` and `working` — a stated direction, not a specified mechanism.
 
+## Evolution — the fourth round makes the count a test
+
+The two positions above were carried into the 2026-09-20 factor identification round as fixed context, and seven responses answered against the thirty-three-security universe of [[DEC-009-three-markets-and-convergence]]. Their reading, recorded in [[factor-identification-review]] and `llm-proposed` throughout:
+
+- **The rule's count has a ceiling the listing fixes.** A listing of `I` practices in `C` markets names `1 + (I − 1) + (C − 1)` factor directions — thirteen here — plus whatever lines the institute measures rather than estimates. The realised line count is the number of those directions passing a promotion test on a given date. This is the rule, made a formula: the count is a function of universe size because rank rises only as listings add rows.
+- **Nine is not derived.** No reviewer's identification argument produces nine. The one derivation that lands on it (Qwen) does so as a ceiling on unnamed *slots*, `13 − 4` standing lines, and the opening counts across the seven run from three to thirteen. Part of the spread is a counting ambiguity this decision never resolved: whether *near nine displayed factors* counts priced factors only or every attribution line. That is now an open question.
+- **The first position holds in one mode.** Factors may outnumber securities when they enter as declared, measured series; not when their weekly realisations are inferred from the cross-section. Stated by four reviewers as an interpretation, not a challenge.
+- **The `llm-proposed` separability criterion above has a concrete form.** The round converges on a gate battery — rank increment, support on at least two markets and two practices, orthogonality to the measured lines, held-out reduction of `Unexplained`, placebo on permuted arrival dates, stability, and a post-publication check because publication itself can create a factor. Thresholds are institutional constants to be calibrated by simulation. None is adopted.
+
+The decision is unchanged. What changed is that its open promotion criterion now has a candidate shape and its count has a derivable ceiling.
+
 ## Status
 
 Confirmed. The user stated the rule directly in response to a direct question, in the same exchange that also stated related positions (that unattributable events should not occur, and that factors should be abstract but numerous) which are recorded separately as `user-originated` and `working` because they are stated directions rather than specified mechanisms — see [[attribution-ledger]].
@@ -60,9 +72,12 @@ Confirmed. The user stated the rule directly in response to a direct question, i
 - [[attribution-ledger]]
 - [[pricing-model]]
 - [[factor-architecture-review-consensus]]
+- [[factor-identification-review]]
+- [[DEC-009-three-markets-and-convergence]]
 - [[Q-001-price-formation]]
 
 ## Sources
 
 - [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — [raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md](../../raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md)
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
+- [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]

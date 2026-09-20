@@ -4,6 +4,7 @@ attribution: user-confirmed
 updated: 2026-09-20
 sources:
   - SRC-2026-09-20-bearer-bond-issuance
+  - SRC-2026-09-20-factor-identification-prompt
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
@@ -116,6 +117,28 @@ global.
 - **The dispersion measure's definition**, and whether the local/common ledger
   split is displayed to the audience or only computed.
 
+## Evolution — the fourth round tests the separability claim
+
+The 2026-09-20 factor identification round put the claim above — that three
+markets make local and common factors structurally separable — to seven models
+against this exact universe. Their answer, `llm-proposed` and recorded in
+[[factor-identification-review]], is that the claim is half-true at every date.
+The layout *names* local versus common permanently: thirteen directions, one
+common, two market contrasts, ten practice contrasts. But it *estimates* market
+factors only while the markets differ and practice factors only while they
+align — a practice dying at three speeds in three markets is three
+security-specific effects, not one practice factor. The two purchases are never
+at full strength together, and the handover between them is the structural
+event of the middle of the history, dated by a rank test rather than by the
+specification. Convergence also has an asymmetry the decision did not state:
+loadings on early, staggered waves survive it if they are time-invariant, while
+loadings on waves that arrive coincidentally everywhere — smartphones,
+messaging, AI — were never identified at all. And the correlation path is not
+the right observable: `+0.2 → +0.9` can mean local shocks shrinking or global
+variance growing, and only the absolute variance of the two market contrasts
+distinguishes them. None of this reverses the decision; it says exactly what
+the decision bought.
+
 ## Related
 
 - [[technology-waves]]
@@ -124,7 +147,9 @@ global.
 - [[DEC-005-ledger-resolution-scales-with-universe]]
 - [[index-architecture]]
 - [[attribution-ledger]]
+- [[factor-identification-review]]
 
 ## Sources
 
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
+- [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]

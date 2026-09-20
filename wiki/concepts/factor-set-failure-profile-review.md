@@ -94,6 +94,7 @@ These are candidate next experiments, not an approved implementation plan. Their
 
 ## Related
 
+- [[factor-identification-review]] — the fourth round, which asks what the tripled universe can identify rather than which set is right
 - [[factor-architecture-review-consensus]]
 - [[attribution-ledger]]
 - [[pricing-model]]
