@@ -1,8 +1,10 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-analyst-orders-inside-the-constraint
+  - SRC-2026-09-20-joint-line-as-a-range
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
@@ -132,6 +134,10 @@ One review assigns each analyst a distinct channel of the model, so that their e
 
 Unchanged in principle — participant votes are displayed, never priced. One review notes the option of treating the aggregate as genuine **retail positioning** if the audience votes, which would be real rather than invented data and would make the audience part of the market's crowding. Recorded as an option, not adopted: it would give viewer behavior an indirect route into price, which the existing rule was written to prevent.
 
+## Evolution — each analyst carries an order (2026-09-20)
+
+[[DEC-012-analyst-orders-inside-the-house-constraint]] gives the four readings arithmetic. An analyst's monthly research may declare its own attribution order and read the month through it, chosen from the orders [[DEC-010-declared-order-with-a-joint-line]] admits — measured lines first, the reflexive line last — so that every analyst's reading is a point inside the house `Joint` band. Which order each analyst carries is not chosen; the natural readings the assistant sketched — the priced factors first for the LONG analyst, the schedule first for the SHORT analyst, positioning first for the behavioural one — are `llm-proposed`, and the first of them is not admissible as stated. The decision is provisional, to be corrected against the record. An order cannot be tested from returns and does not enter a track record.
+
 ## Related
 
 - [[index-architecture]]
@@ -143,6 +149,8 @@ Unchanged in principle — participant votes are displayed, never priced. One re
 
 ## Sources
 
+- [[SRC-2026-09-20-analyst-orders-inside-the-constraint]] — [raw/conversations/2026-09-20-analyst-orders-inside-the-constraint.md](../../raw/conversations/2026-09-20-analyst-orders-inside-the-constraint.md); analysts carry their own order inside the house constraint
+- [[SRC-2026-09-20-joint-line-as-a-range]] — [raw/conversations/2026-09-20-joint-line-as-a-range.md](../../raw/conversations/2026-09-20-joint-line-as-a-range.md); the per-analyst-order question and proposal
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)

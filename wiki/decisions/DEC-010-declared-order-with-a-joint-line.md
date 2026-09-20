@@ -60,7 +60,7 @@ Asked, in plain language, what the line is, and told that the experiment had mea
 
 Because the range is a width and not a share, it is not additive: the declared lines still sum to the week's return and `Joint` does not enter the sum, so the finite-change allocation rule noted above is not required by this line. The 1.85 / 0.57 single-swap figures on [[identification-experiment]] become a lower bound on the early and late widths, not the width itself.
 
-Still open after this: whether `Joint` is shown to the audience, and how; the joint fit of blocks; and a question the user attached to the decision — whether each analyst may carry a different order — which the assistant answered with a proposal, that the house ledger keeps one order and each analyst's monthly research declares its own reading as a point inside, or exempt from, the house band. `llm-proposed`, not answered. See [[analyst-system]].
+Still open after this: whether `Joint` is shown to the audience, and how; the joint fit of blocks; and a question the user attached to the decision — whether each analyst may carry a different order — which the assistant answered with a proposal, that the house ledger keeps one order and each analyst's monthly research declares its own reading as a point inside, or exempt from, the house band. Taken up the same day as [[DEC-012-analyst-orders-inside-the-house-constraint]]: analysts carry their own order inside this decision's constraint, provisionally.
 
 ## Related
 

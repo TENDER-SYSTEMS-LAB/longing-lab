@@ -61,7 +61,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[arbitrage]] — Open world-specific arbitrage interest under aggregate market scope; no investor-story or full-exchange prerequisite · `working` (2026-09-07)
 - [[information-quality]] — Imperfect reports and proposed contemporaneous-information controls for the fictional research history · `working` (2026-09-07)
 - [[data-sources]] — Selected fictional historical-data basis, layered state and information, and a driver measured where national statistics exist and extrapolated beyond, now tested against what is published and with the nine WDI series in hand · `working` (2026-09-20)
-- [[analyst-system]] — Dated historical outlooks and targets, desired HOLD/SHORT advantage, and open scoring and coverage rules · `working` (2026-09-07)
+- [[analyst-system]] — Dated historical outlooks and targets, desired HOLD/SHORT advantage, per-analyst attribution orders inside the house constraint, and open scoring and coverage rules · `working` (2026-09-20)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-07)
 - [[design-application]] — The inherited institutional rule that typeface identifies the speaker, with proposed LONGING surface assignments, counter-examples, and open local design questions · `working` (2026-09-15)
 - [[prior-art]] — Artistic precedents and academic links, with differentiation updated to admit abstract internally defined conditions · `working` (2026-09-07)
@@ -78,6 +78,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-009-three-markets-and-convergence]] — Japan, Korea and the United States list the same practices separately and converge as events become global; each index is published by a different fictional institution and the composite absorbs them · `confirmed` (2026-09-20)
 - [[DEC-010-declared-order-with-a-joint-line]] — The weekly attribution's order is declared and published, measured lines before estimated lines, and the order-dependent overlap is carried as a `Joint` line computed as the range over every admissible order; the world's own order is chicken-and-egg and left so · `confirmed` (2026-09-20)
 - [[DEC-011-the-audience-ledger-reads-hearts-cooling]] — The audience need not know finance: positioning stays in the engine and is published as the share from hearts cooling, on a five-line receipt that shows `Unexplained` as unknown · `confirmed` (2026-09-20)
+- [[DEC-012-analyst-orders-inside-the-house-constraint]] — Each analyst's monthly research may declare its own attribution order among the ones DEC-010 admits, so every reading sits inside the house `Joint` band; provisional, to be corrected against the record · `confirmed` (2026-09-20)
 - [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based; anxiety redefined, four gaps opened by simulation with the requisition rate now capped on the condition that the chart still falls, and float a balance rather than a count · `confirmed` (2026-09-20)
 
 ## Open Questions
