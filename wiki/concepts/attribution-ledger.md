@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-20
+updated: 2026-09-21
 sources:
+  - SRC-2026-09-21-joint-shown-and-blocks-fitted-jointly
   - SRC-2026-09-20-joint-line-as-a-range
   - SRC-2026-09-20-hearts-cooling-line
   - SRC-2026-09-20-orthogonalisation-order
@@ -94,11 +95,15 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 
 ## Evolution — the order is decided (2026-09-20)
 
-[[DEC-010-declared-order-with-a-joint-line]] closes the order question. The split is a recursive orthogonalisation in a published sequence — numeraire, declared schedule, priced factors, positioning, reflexive, `Unexplained` — justified as *measured before estimated* rather than as a causal claim, and the ledger gains a line: `Joint`, the amount the split would move under the alternative order. This is the third distinction the page now draws. Exact accounting is the sum; causal recovery is what returns cannot give; and `Joint` is the size of the gap between them for the week, published rather than assigned. In the generated world it is large early and small late. ~~How `Joint` is computed for more than one swap~~ was decided later the same day: the range over every admissible order, per line the largest minus the smallest attribution across them, a width that does not enter the sum. Whether it is shown to the viewer stays open; `Unexplained` is shown, by [[DEC-011-the-audience-ledger-reads-hearts-cooling]].
+[[DEC-010-declared-order-with-a-joint-line]] closes the order question. The split is a recursive orthogonalisation in a published sequence — numeraire, declared schedule, priced factors, positioning, reflexive, `Unexplained` — justified as *measured before estimated* rather than as a causal claim, and the ledger gains a line: `Joint`, the amount the split would move under the alternative order. This is the third distinction the page now draws. Exact accounting is the sum; causal recovery is what returns cannot give; and `Joint` is the size of the gap between them for the week, published rather than assigned. In the generated world it is large early and small late. ~~How `Joint` is computed for more than one swap~~ was decided later the same day: the range over every admissible order, per line the largest minus the smallest attribution across them, a width that does not enter the sum. Whether it is shown to the viewer was decided on 2026-09-21: it is, as a width beside each receipt line, and the ledger's blocks are fitted jointly so that order exists only between blocks — [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]. `Unexplained` is shown, by [[DEC-011-the-audience-ledger-reads-hearts-cooling]].
 
 ## Evolution — the audience receipt (2026-09-20)
 
 [[DEC-011-the-audience-ledger-reads-hearts-cooling]] separates the ledger the engine keeps from the receipt the audience reads. The user's position is that the viewer need not know finance and that the work's purpose is recognition of romance leaving the age; the positioning line therefore stays in the engine, where every rally mechanism depends on it, and is published as *the share from hearts cooling* — romance valued less, as against romance diminished. The receipt has five audience lines over the engine's lines: technology, romance itself, hearts cooling, last week's report, unknown. `Unexplained` is displayed. The numeraire line's place on the receipt and the wording are open.
+
+## Evolution — the width is shown and blocks are fitted jointly (2026-09-21)
+
+[[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]] completes the `Joint` line. Its width is published beside each audience line, so the receipt carries, for every line, both the institute's number and how far the institute's own convention moved it. The ledger's lines are fitted in blocks: the schedule's waves together, the priced factors together, positioning, the reflexive term; order and overlap exist only between blocks. The line count the listing can carry, from round 4, is unaffected — it counts lines, and the joint fit changes how they are estimated, not how many there are. Wording, the numeraire revision's place on the receipt, and how a width is drawn remain open.
 
 ## Evolution — round 3 tests the ledger's causal language
 
@@ -124,6 +129,7 @@ The seven-response [[factor-identification-review]] gives the ledger its first c
 - [[Q-004-unit-of-account]]
 - [[DEC-005-ledger-resolution-scales-with-universe]]
 - [[DEC-010-declared-order-with-a-joint-line]]
+- [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]
 - [[DEC-011-the-audience-ledger-reads-hearts-cooling]]
 
 ## Sources
@@ -133,6 +139,7 @@ The seven-response [[factor-identification-review]] gives the ledger its first c
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine closed as moot, the order deferred
 - [[SRC-2026-09-20-orthogonalisation-order]] — [raw/conversations/2026-09-20-orthogonalisation-order.md](../../raw/conversations/2026-09-20-orthogonalisation-order.md); the order decided, the `Joint` line added
 - [[SRC-2026-09-20-joint-line-as-a-range]] — [raw/conversations/2026-09-20-joint-line-as-a-range.md](../../raw/conversations/2026-09-20-joint-line-as-a-range.md); `Joint` computed as the range over every admissible order
+- [[SRC-2026-09-21-joint-shown-and-blocks-fitted-jointly]] — [raw/conversations/2026-09-21-joint-shown-and-blocks-fitted-jointly.md](../../raw/conversations/2026-09-21-joint-shown-and-blocks-fitted-jointly.md); the width shown, blocks fitted jointly
 - [[SRC-2026-09-20-hearts-cooling-line]] — [raw/conversations/2026-09-20-hearts-cooling-line.md](../../raw/conversations/2026-09-20-hearts-cooling-line.md); the audience receipt and the hearts-cooling line
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — [raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md](../../raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md)

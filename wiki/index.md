@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-20
+updated: 2026-09-21
 sources: []
 ---
 
@@ -57,7 +57,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[factor-identification-review]] — Seven fourth-round reviews of what the three-market universe can identify: thirteen named directions, a handover from market to practice lines under convergence, a promotion gate battery, what no listing separates, and a runnable simulation — no set selected · `working` (2026-09-20)
 - [[institution-naming-review]] — Seven naming reviews for the Japanese publisher, the US ratings house, three index names and four tickers: the occupied ground, candidates that survived each reviewer's own screen, the rejected `KOCPI` placeholder, the publisher decided a national evening paper, and two questions still deferred — nothing cleared · `working` (2026-09-20)
 - [[proxy-sourcing-review]] — Seven sourcing reviews of whether a thirty-year, three-country diffusion series exists: the ITU / World Bank spine, four waves measurable and three not, the definitional mismatches and sourced breaks, seven normalisation rules agreeing on principle, and a measurement boundary that is one per series — the spine since collected and the national series reached as far as they could be · `working` (2026-09-20)
-- [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, the distinction between exact accounting and causal recovery, and the line count the listing can carry · `working` (2026-09-20)
+- [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, the distinction between exact accounting and causal recovery, and the line count the listing can carry · `working` (2026-09-21)
 - [[arbitrage]] — Open world-specific arbitrage interest under aggregate market scope; no investor-story or full-exchange prerequisite · `working` (2026-09-07)
 - [[information-quality]] — Imperfect reports and proposed contemporaneous-information controls for the fictional research history · `working` (2026-09-07)
 - [[data-sources]] — Selected fictional historical-data basis, layered state and information, and a driver measured where national statistics exist and extrapolated beyond, now tested against what is published and with the nine WDI series in hand · `working` (2026-09-20)
@@ -76,9 +76,10 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-006-reserve-function-absorbed]] — LONGING absorbs the reserve function as BEARER BOND and BLIND TRUST; the separate holding institution and RS-001 are withdrawn, and the LONGING / LONGING RESEARCH title conflict is left unresolved · `confirmed` (2026-09-15)
 - [[DEC-008-bearer-bond-is-perpetual]] — A BEARER BOND is perpetual and its principal is attention; the one who leans issues, the decline is made of early calls rather than defaults, and contagion in write-downs supplies the melt-ups · `confirmed` (2026-09-20)
 - [[DEC-009-three-markets-and-convergence]] — Japan, Korea and the United States list the same practices separately and converge as events become global; each index is published by a different fictional institution and the composite absorbs them · `confirmed` (2026-09-20)
-- [[DEC-010-declared-order-with-a-joint-line]] — The weekly attribution's order is declared and published, measured lines before estimated lines, and the order-dependent overlap is carried as a `Joint` line computed as the range over every admissible order; the world's own order is chicken-and-egg and left so · `confirmed` (2026-09-20)
-- [[DEC-011-the-audience-ledger-reads-hearts-cooling]] — The audience need not know finance: positioning stays in the engine and is published as the share from hearts cooling, on a five-line receipt that shows `Unexplained` as unknown · `confirmed` (2026-09-20)
+- [[DEC-010-declared-order-with-a-joint-line]] — The weekly attribution's order is declared and published, measured lines before estimated lines, and the order-dependent overlap is carried as a `Joint` line computed as the range over every admissible order; the world's own order is chicken-and-egg and left so · `confirmed` (2026-09-21)
+- [[DEC-011-the-audience-ledger-reads-hearts-cooling]] — The audience need not know finance: positioning stays in the engine and is published as the share from hearts cooling, on a five-line receipt that shows `Unexplained` as unknown · `confirmed` (2026-09-21)
 - [[DEC-012-analyst-orders-inside-the-house-constraint]] — The house order constraint, measured first and reflexive last, binds any analyst reading, so it would sit inside the house `Joint` band; that analysts read through their own orders at all stays the user's proposal; the constraint is provisional · `confirmed` (2026-09-20)
+- [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]] — The `Joint` width is shown beside each audience line, not as an additive row, and the ledger's blocks are fitted jointly so that order and overlap exist only between blocks; wording and drawing open · `confirmed` (2026-09-21)
 - [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based; anxiety redefined, four gaps opened by simulation with the requisition rate now capped on the condition that the chart still falls, and float a balance rather than a count · `confirmed` (2026-09-20)
 
 ## Open Questions

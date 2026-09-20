@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-20
+updated: 2026-09-21
 sources:
   - SRC-2026-09-20-hearts-cooling-line
   - SRC-2026-09-20-orthogonalisation-order
@@ -44,13 +44,14 @@ The numeraire line — the ruler moved — is not on this receipt; where it goes
 
 ## What this does not decide
 
-- The `Joint` line's ~~computation and~~ display: the assistant's proposals — the range over the six orders that respect the measured-first and reflexive-last constraints, blocks fitted jointly so that within-block order does not arise, `Joint` shown as a width beside each line rather than an additive row, and no change to the exact sum — were put and not answered here. The first was decided later the same day on [[DEC-010-declared-order-with-a-joint-line]]: the range over every admissible order, `user-confirmed`. The joint fit, the display as a width, and the receipt's treatment of it remain `llm-proposed`.
+- The `Joint` line's ~~computation and~~ display: the assistant's proposals — the range over the six orders that respect the measured-first and reflexive-last constraints, blocks fitted jointly so that within-block order does not arise, `Joint` shown as a width beside each line rather than an additive row, and no change to the exact sum — were put and not answered here. The first was decided later the same day on [[DEC-010-declared-order-with-a-joint-line]]: the range over every admissible order, `user-confirmed`. The joint fit and the display were decided on 2026-09-21, [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]: the width is shown beside each receipt line and blocks are fitted jointly. The width's name and wording on the receipt remain open with the receipt's other wording.
 - Where the numeraire revision appears on the audience receipt.
 - Whether the security-fundamentals layer of the worked example on [[attribution-ledger]] has an audience line.
 - The published wording of the five lines.
 
 ## Related
 
+- [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]
 - [[attribution-ledger]]
 - [[DEC-010-declared-order-with-a-joint-line]]
 - [[DEC-007-standard-return-numeraire]]

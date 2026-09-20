@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-20
+updated: 2026-09-21
 sources:
   - SRC-2026-09-20-joint-line-as-a-range
   - SRC-2026-09-20-orthogonalisation-order
@@ -44,10 +44,10 @@ The institute's bias is the work's subject ([[Q-003-calibrating-the-bias]]), so 
 
 ## What this does not decide
 
-- **Where the `Joint` line sits in the display**, whether it is a ledger line the viewer sees or an internal diagnostic like `Unexplained`. The same question is open for `Unexplained` on [[attribution-ledger]].
-- ~~**How `Joint` is computed** when more than two lines can be swapped.~~ Closed 2026-09-20 below: the range over every admissible order. What the range still needs is a statement of *what is permuted* — whether a block of several lines (the waves of the schedule, the priced factors) is fitted jointly so that only blocks are ordered; that is the assistant's proposal and remains `llm-proposed`.
-- **The internal order of the estimated block** — priced factors, then positioning, then reflexive — is inherited from the reviewers' assumed order, not chosen on its own grounds. That positioning belongs to the estimated block at all is settled by [[DEC-007-standard-return-numeraire]]'s `MODELED` tag, noted on [[DEC-011-the-audience-ledger-reads-hearts-cooling]]. The reflexive line is last by construction because it is lagged; the factor-before-positioning position has no argument recorded.
-- **Whether the schedule is one line or one per wave.** [[technology-waves]] carries several waves; part 2 says the measured block goes first, not how the block is ordered inside itself.
+- ~~**Where the `Joint` line sits in the display**~~ Closed 2026-09-21 by [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]: shown to the audience as a width beside each line. The original question: whether it is a ledger line the viewer sees or an internal diagnostic like `Unexplained`. The same question is open for `Unexplained` on [[attribution-ledger]].
+- ~~**How `Joint` is computed** when more than two lines can be swapped.~~ Closed 2026-09-20 below: the range over every admissible order. What the range still needed — a statement of *what is permuted* — is given by [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]: blocks, fitted jointly, so only blocks are ordered.
+- ~~**The internal order of the estimated block**~~ Closed 2026-09-21 by [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]: blocks are fitted jointly, so no order arises inside one; the three remain blocks in the declared sequence. The original note: priced factors, then positioning, then reflexive — is inherited from the reviewers' assumed order, not chosen on its own grounds. That positioning belongs to the estimated block at all is settled by [[DEC-007-standard-return-numeraire]]'s `MODELED` tag, noted on [[DEC-011-the-audience-ledger-reads-hearts-cooling]]. The reflexive line is last by construction because it is lagged; the factor-before-positioning position has no argument recorded.
+- ~~**Whether the schedule is one line or one per wave.**~~ Closed 2026-09-21 by [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]: one block, fitted jointly, however many waves it carries. The original note: [[technology-waves]] carries several waves; part 2 says the measured block goes first, not how the block is ordered inside itself.
 - The exact-sum requirement: adding `Joint` to a ledger that must sum to the week's return needs the finite-change allocation rule [[attribution-ledger]] already lists as unstated.
 
 ## Evolution — `Joint` is the range over every admissible order (2026-09-20)
@@ -60,10 +60,11 @@ Asked, in plain language, what the line is, and told that the experiment had mea
 
 Because the range is a width and not a share, it is not additive: the declared lines still sum to the week's return and `Joint` does not enter the sum, so the finite-change allocation rule noted above is not required by this line. The 1.85 / 0.57 single-swap figures on [[identification-experiment]] become a lower bound on the early and late widths, not the width itself.
 
-Still open after this: whether `Joint` is shown to the audience, and how; the joint fit of blocks; and a question the user attached to the decision — whether each analyst may carry a different order — which the assistant answered with a proposal, that the house ledger keeps one order and each analyst's monthly research declares its own reading as a point inside, or exempt from, the house band. Taken up the same day as [[DEC-012-analyst-orders-inside-the-house-constraint]]: analysts carry their own order inside this decision's constraint, provisionally.
+Still open after this — the first two since closed by [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]] on 2026-09-21 — were: whether `Joint` is shown to the audience, and how; the joint fit of blocks; and a question the user attached to the decision — whether each analyst may carry a different order — which the assistant answered with a proposal, that the house ledger keeps one order and each analyst's monthly research declares its own reading as a point inside, or exempt from, the house band. Taken up the same day as [[DEC-012-analyst-orders-inside-the-house-constraint]]: analysts carry their own order inside this decision's constraint, provisionally.
 
 ## Related
 
+- [[DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly]]
 - [[attribution-ledger]]
 - [[factor-identification-review]]
 - [[identification-experiment]]
