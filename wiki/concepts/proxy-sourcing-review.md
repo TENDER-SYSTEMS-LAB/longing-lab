@@ -23,6 +23,9 @@ sources:
   - SRC-2026-09-20-mic-r06-household-device-ownership
   - SRC-2026-09-20-mic-r06-internet-use-individuals
   - SRC-2026-09-20-oecd-social-networking-D1B_I
+  - SRC-2026-09-20-nia-internet-usage-survey-2025-microdata
+  - SRC-2026-09-20-nia-internet-usage-survey-2025-licence
+  - SRC-2026-09-20-nia-internet-usage-survey-2025-record
 ---
 
 # Proxy Sourcing Review
@@ -170,7 +173,7 @@ On the user's instruction the assistant retrieved the three WDI series for the t
 
 ## Evolution — the national series, as far as they could be reached
 
-The round said smartphones and the social web exist as national surveys, good for timing. The same day the session reached some of them and not others — [[SRC-2026-09-20-national-series-retrieval]]. Reached: Pew's smartphone series (adults, 2011–2025) and its 2005–2015 any-social-media series (on an internet-user base, exposed only as page text), MIC's household device-ownership trend (smartphone from 2010), and the OECD individuals dataflow's social-networking measure for all three countries, which is each national survey passed through with a definition flag. Not reached: any Korean smartphone series, and any Korean social-web series that contains its own midpoint — data.go.kr's file returned zero bytes, MSIT's attachments are `.hwp` and `.zip`, KOSIS needs a key, and the OECD dataflow has no Korean device measure. The round's verdict on these two waves stands, now with the gaps named by portal.
+The round said smartphones and the social web exist as national surveys, good for timing. The same day the session reached some of them and not others — [[SRC-2026-09-20-national-series-retrieval]]. Reached: Pew's smartphone series (adults, 2011–2025) and its 2005–2015 any-social-media series (on an internet-user base, exposed only as page text), MIC's household device-ownership trend (smartphone from 2010), and the OECD individuals dataflow's social-networking measure for all three countries, which is each national survey passed through with a definition flag. Not reached: any Korean smartphone series, and any Korean social-web series that contains its own midpoint — data.go.kr's file returned zero bytes, MSIT's attachments are `.hwp` and `.zip`, KOSIS needs a key, and the OECD dataflow has no Korean device measure. The round's verdict on these two waves stands, now with the gaps named by portal. Later the same day the user downloaded the data.go.kr file by hand — [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]]. It is the 2025 wave's microdata, one year, under a third KOGL type (2: attribution, non-commercial). It yields four weighted 2025 points — smartphone ownership 96.8% of persons 3+, SNS use in the last month 61.3% (68.1% of 16–74, beside the OECD passthrough's 66.1% for 2024), messenger use 92.4% — and no series; the Korean smartphone and social-web waves still need the published rates by year.
 
 ## Related
 
@@ -194,3 +197,4 @@ The round said smartphones and the social web exist as national surveys, good fo
 - [[SRC-2026-09-20-proxy-sourcing-qwen]] — [raw/surveys/2026-09-20-proxy-sourcing-qwen.md](../../raw/surveys/2026-09-20-proxy-sourcing-qwen.md)
 - [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../../raw/documents/2026-09-20-wdi-spine-retrieval.md); the spine as retrieved
 - [[SRC-2026-09-20-national-series-retrieval]] — [raw/documents/2026-09-20-national-series-retrieval.md](../../raw/documents/2026-09-20-national-series-retrieval.md); the national series reached and not reached
+- [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]] — [raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md](../../raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md); the 2025 microdata the user fetched, and what one year can and cannot give
