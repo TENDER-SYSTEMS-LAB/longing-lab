@@ -18,6 +18,7 @@ sources:
   - SRC-2026-09-06-factor-set-failure-profile-glm
   - SRC-2026-09-20-factor-identification-prompt
   - SRC-2026-09-20-round-decisions-and-deferrals
+  - SRC-2026-09-20-identification-experiment-findings
 ---
 
 # Attribution Ledger
@@ -86,7 +87,7 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 - Whether a per-factor separability test — a factor earns a ledger line when at least one security in the universe responds to it differently from every other factor — replaces the earlier working ratio of roughly one factor per three securities. Proposed by the assistant; not confirmed. See [[DEC-005-ledger-resolution-scales-with-universe]].
 - Which nine (or so) factors form the starting ledger, which is not yet decided.
 - ~~Whether "nine" counts priced factor lines or every line.~~ Closed 2026-09-20: the user said nine was an LLM proposal, not a designed number, and the count may grow as needed. See [[DEC-005-ledger-resolution-scales-with-universe]].
-- **The orthogonalisation order.** The fourth round agrees the weekly split is a recursive residualisation in a declared order — numeraire, substitution, priced factors, positioning, reflexive, `Unexplained` is the order most reviewers assume — and that the order determines the split, cannot be tested from returns, and must be published. No order is chosen; the user deferred it on 2026-09-20 to a later discussion.
+- **The orthogonalisation order.** The fourth round agrees the weekly split is a recursive residualisation in a declared order — numeraire, substitution, priced factors, positioning, reflexive, `Unexplained` is the order most reviewers assume — and that the order determines the split, cannot be tested from returns, and must be published. No order is chosen; the user deferred it on 2026-09-20 to a later discussion. The same day [[identification-experiment]] measured how much it matters in the generated world: swapping the schedule and factor lines shifts the schedule line's weekly attribution by 1.45 times its own size early and 0.57 late, and nearly doubles the early drift it carries.
 
 ## Evolution — round 3 tests the ledger's causal language
 

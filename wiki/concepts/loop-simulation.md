@@ -13,6 +13,7 @@ sources:
   - SRC-2026-09-16-loop-simulation-session
   - SRC-2026-09-16-loop-simulation-findings
   - SRC-2026-09-16-loop-simulation-harness
+  - SRC-2026-09-20-identification-experiment-findings
 ---
 
 # Loop Simulation — the first thing in this project that runs
@@ -240,7 +241,13 @@ series has been collected, no normalisation rule across three national definitio
 exists, no proxy is selected, and the `creates` coefficients are judgements rather
 than measurements.
 
+## Evolution — the v3 world put to an identification test (2026-09-20)
+
+The v3 harness was used unmodified as the generator for [[identification-experiment]], the fourth factor round's proposed Section 7 procedure: the numeraire and the declared schedule stripped, then the residual asked what the listing can identify, early against late, with a planted null. The harness's `n_factors` was swept as the truth. Results and limits are on that page; nothing on this page changes, and the harness's placeholders remain placeholders.
+
 ## Related
+
+- [[identification-experiment]]
 
 - [[DEC-007-standard-return-numeraire]]
 - [[DEC-004-secular-decline-with-rallies]]
@@ -251,6 +258,8 @@ than measurements.
 - [[information-quality]]
 
 ## Sources
+
+- [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the v3 world as generator for the identification test
 
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` gap decided, `user-confirmed`
 - [[SRC-2026-09-20-simulation-rebuild]] — [raw/conversations/2026-09-20-simulation-rebuild.md](../../raw/conversations/2026-09-20-simulation-rebuild.md); the instruction to rebuild, and the correction that shorts are not the only thing that lifts a price

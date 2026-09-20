@@ -12,6 +12,8 @@ sources:
   - SRC-2026-09-20-factor-identification-grok
   - SRC-2026-09-20-factor-identification-qwen
   - SRC-2026-09-20-round-decisions-and-deferrals
+  - SRC-2026-09-20-identification-experiment
+  - SRC-2026-09-20-identification-experiment-findings
 ---
 
 # Factor Identification Review
@@ -148,9 +150,14 @@ The prompt permitted framing objections in Section 8 only. Those raised:
 - **The second position is a premise, not an identification result** (DeepSeek): the analysis can say what a listing separates, not what should be listed.
 - **The round asked for scalars where the objects are indexed by epoch and rotation** (GLM); a single number would smuggle in the preference the round forbade.
 
+## Evolution — the procedure was run
+
+On the user's instruction the Section 7 procedure was run on 2026-09-20 against the v3 harness, five seeds, with the numeraire and the declared schedule stripped first — [[identification-experiment]]. What it returned, all `llm-proposed` and all on placeholder coefficients: the handover is visible and runs through the interaction block rather than the market contrasts; an eigenvalue-ratio estimator recovers one or two directions early whatever the truth and eight of nine or nine of thirteen late, never thirteen; a fixed promotion threshold promotes most planted nulls and the gate must be calibrated on the null per window, after which its power is 0.89 early and 0.98 late; two markets explain 23% of the third early and 56% late; and swapping the orthogonalisation order of the schedule and factor lines shifts the schedule line by 1.45 times its own size early. No factor is named and nothing is calibrated against the spine.
+
 ## Related
 
 - [[DEC-005-ledger-resolution-scales-with-universe]]
+- [[identification-experiment]]
 - [[DEC-009-three-markets-and-convergence]]
 - [[DEC-007-standard-return-numeraire]]
 - [[attribution-ledger]]
@@ -171,3 +178,4 @@ The prompt permitted framing objections in Section 8 only. Those raised:
 - [[SRC-2026-09-20-factor-identification-grok]] — [raw/surveys/2026-09-20-factor-identification-grok.md](../../raw/surveys/2026-09-20-factor-identification-grok.md)
 - [[SRC-2026-09-20-factor-identification-qwen]] — [raw/surveys/2026-09-20-factor-identification-qwen.md](../../raw/surveys/2026-09-20-factor-identification-qwen.md)
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the user's answer on the counting convention
+- [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the Section 7 procedure, run

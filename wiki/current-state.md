@@ -79,6 +79,8 @@ sources:
   - SRC-2026-09-20-wdi-mobile-subscriptions
   - SRC-2026-09-20-wdi-fixed-broadband
   - SRC-2026-09-20-wdi-spine-csv
+  - SRC-2026-09-20-identification-experiment
+  - SRC-2026-09-20-identification-experiment-findings
 ---
 
 # Current State
@@ -140,6 +142,7 @@ The 2026-09-15 numeraire decision is the largest structural change since the bac
 - **News quality as a modelled layer.** The user's position is that the event layer models facts arriving while real news also misreports, over- and under-reports, and leaks ahead of disclosure. Misreporting and pre-circulating rumour have no representation anywhere in the corpus; the existing confidence rule models uncertainty about an event that is nonetheless true. Recorded as `user-originated` and `working`; no mechanism was proposed. See [[information-quality]].
 - **Deliberately provoking `Unexplained` during design.** The user's stated intent is to find as many unattributable events as possible while the work is still being designed, in order to discover which of them are factors worth promoting — a design-stage instrument, not (yet) a display decision. Recorded as `user-originated` and `working`, since the mechanism for doing this is still `llm-proposed`. See [[attribution-ledger]].
 
+- **The identification procedure has been run once, on placeholders.** [[identification-experiment]] executes the fourth round's Section 7 on the v3 world: the handover is visible through the interaction block, an estimator recovers at most nine directions late and one or two early, a promotion gate must be calibrated on a planted null per window, two markets explain the third only late, and the orthogonalisation order moves the schedule line more than its own size early. `llm-proposed`; no factor named; the WDI spine not yet wired in.
 - **Cross-domain model discovery.** The later academic pass collected 120 works/projects: 117 substantive systems, one bibliographic lead, and two adjacent data mappings. It covers social behavior, designed institutions, natural systems, engineering, music, and art, with one-sentence targets and source links. It is not a full-text review, validation exercise, or adopted LONGING RESEARCH architecture. See [[academic-model-survey]].
 
 ## Resume point — fictional history, market, and research records
@@ -164,7 +167,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 - **What a zero quote means.** High-β securities reach numerical zero in the first run. No floor, no delisting rule, no stated meaning. See [[Q-002-listing-lifecycle]].
 - **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. Ledger *resolution* is no longer open in this list — it is settled as a rule, factor count as a function of universe size, see [[DEC-005-ledger-resolution-scales-with-universe]] — but ledger *membership*, which specific factors fill the starting nine and which candidate is promoted next, remains open — but the fourth round narrows it: the listing supports thirteen named directions at most, never all at once, and the opening count the seven reviews derive runs from three to thirteen depending on a counting convention the decision never fixed. Which factors, still open; how many the universe can carry, now a test rather than a choice. See [[model-review-consensus]], [[factor-architecture-review-consensus]] and [[factor-identification-review]].
 - **Numeraire values, not the numeraire itself.** The unit, the quote convention, and the index weighting are settled in [[DEC-007-standard-return-numeraire]]; what is unset is every number in it — basket membership and base date, the effort coefficient `c`, the loop gain `g`, the substitution mapping, the learning-material function and its peak, and `βᵢᵐᵃˣ` for every security. The review round this question was to be put to is moot as framed.
-- **The attribution's orthogonalisation order.** The fourth round agrees the weekly split is a recursive orthogonalisation whose order determines the result and cannot be tested from returns, so it must be published. No order is chosen. Deferred by the user on 2026-09-20. See [[factor-identification-review]].
+- **The attribution's orthogonalisation order.** The fourth round agrees the weekly split is a recursive orthogonalisation whose order determines the result and cannot be tested from returns, so it must be published. No order is chosen. Deferred by the user on 2026-09-20; [[identification-experiment]] puts a number on the stake — swapping two lines shifts the schedule line by 1.45 times its own size early. See [[factor-identification-review]].
 - **Whether there is a periodic observable.** Nothing in the current design can surprise anyone, and two reviews call this the largest remaining gap: without something scheduled to be wrong about, monthly analyst opinion is commentary rather than information.
 - **How to generate the selected fictional history.** Its period, scope, underlying data, coefficients, and acceptance criteria remain open. A later empirical input is possible but is not the current production basis. See [[data-sources]].
 - **Listing lifecycle**: who lists, whether scarcity raises or lowers price, delisting, where a delisted romance goes, whether one person resuming a practice relists it. See [[Q-002-listing-lifecycle]].
@@ -218,6 +221,7 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 ## Sources
 
+- [[SRC-2026-09-20-identification-experiment]], [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/](../raw/documents/); the Section 7 procedure run on the v3 world, `llm-proposed`
 - [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../raw/documents/2026-09-20-wdi-spine-retrieval.md); the nine WDI series retrieved, with [[SRC-2026-09-20-wdi-internet-use]], [[SRC-2026-09-20-wdi-mobile-subscriptions]], [[SRC-2026-09-20-wdi-fixed-broadband]] and [[SRC-2026-09-20-wdi-spine-csv]] as the data files
 - [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../raw/conversations/2026-09-20-japanese-publisher-is-national.md); the Japanese publisher is national, `user-originated`
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine was an LLM proposal, eight deferrals, `user-originated`
