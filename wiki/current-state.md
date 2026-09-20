@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-simulation-rebuild
   - SRC-2026-09-20-rebuild-findings
@@ -55,7 +56,7 @@ The source registry is maintained in `raw/sources.md`. Two additional sources pr
 
 The third round maps the costs of six fixed factor sets without choosing one. It adds conditional event and attribution hypotheses, disputed artistic costs, and proposed tests; no simulation or exposure-matrix result has been established. See [[factor-set-failure-profile-review]].
 
-The 2026-09-15 numeraire decision is the largest structural change since the backing layer and is recorded in [[DEC-007-standard-return-numeraire]]. On 2026-09-16 it was executed for the first time — see [[loop-simulation]] — which corrected one term by user decision and left four gaps open. A second round on 2026-09-19 built the event layer DEC-003 required, brought the market's texture to a real index's statistics inverted, and found three defects, one of which makes [[Q-002-listing-lifecycle]] a numerical requirement. The latest decisions shift production to fictional historical data and accumulated market/research records. Internally defined subjects may include abstract conditions; the chosen simulation scope is the aggregate Market. Earlier factor reviews and LETTER trials remain useful, unadopted design material. See the resume point below.
+The 2026-09-15 numeraire decision is the largest structural change since the backing layer and is recorded in [[DEC-007-standard-return-numeraire]]. On 2026-09-16 it was executed for the first time — see [[loop-simulation]] — which corrected one term by user decision and left four gaps open, one of which — the requisition rate — was closed on 2026-09-20. A second round on 2026-09-19 built the event layer DEC-003 required, brought the market's texture to a real index's statistics inverted, and found three defects, one of which makes [[Q-002-listing-lifecycle]] a numerical requirement. The latest decisions shift production to fictional historical data and accumulated market/research records. Internally defined subjects may include abstract conditions; the chosen simulation scope is the aggregate Market. Earlier factor reviews and LETTER trials remain useful, unadopted design material. See the resume point below.
 
 ## Confirmed
 
@@ -84,6 +85,7 @@ The 2026-09-15 numeraire decision is the largest structural change since the bac
 - **An event detector is required.** If prices move weekly and research lands monthly, something has to supply information in between. Stated by the user as a requirement.
 - **LONGING RESEARCH is a secular bear market with inverted rallies.** The user's own position — romance is genuinely disappearing — so the market trends down, and where a real market has crashes this one has melt-ups. See [[DEC-004-secular-decline-with-rallies]].
 - **The decline must not be hard-coded.** It has to fall out of structural forces the model publishes, so the work says *"calculated against the world's current direction, it keeps falling"* rather than *"romance must die."*
+- **The requisition rate is capped, and the chart still falls.** `s(t)` has a ceiling, chosen on 2026-09-20 over the alternative that nothing returns after the tipping point, so the model keeps the ability to disagree with its author across the whole history. The user's condition on any cap: seen whole, the graph must decline overall as it does now, because without a visible long-run decline the work does not deliver its purpose. The cap is published beside `c` and `g`; its value, units, and in-world reason are unset, the reason `llm-proposed`. See the evolution note on [[DEC-007-standard-return-numeraire]].
 - **Ledger resolution scales with the security universe.** The weekly attribution ledger starts near nine displayed factors, and the number of displayed lines grows as the security universe grows — a rule governing how the factor count behaves, not a selection of which factors those are. See [[DEC-005-ledger-resolution-scales-with-universe]].
 
 ## Working
@@ -122,7 +124,6 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 
 ## Unknown
 
-- **The requisition rate `s(t)`.** [[DEC-007-standard-return-numeraire]] writes `dVᵢ/Vᵢ = −βᵢ·s(t)` without defining `s`, and [[loop-simulation]] shows that this one unspecified value decides whether the model can ever disagree with its author. Above roughly `s = 20·ΔA` no revival succeeds anywhere in the history. Cap it, or state that nothing returns after the tipping point.
 - **How large a default cluster is.** Melt-ups require float to vanish discontinuously; an orderly decline strands nobody. The cadence DEC-004 wants needs weeks in which about a fifth of a practice's relationships end at once, which no page yet claims.
 - **The administrative half of issuance.** Who issues is settled — the person who leans. Who *observes* a resumption, on what evidence, and whether a delisted practice can be re-admitted are not. See [[Q-002-listing-lifecycle]].
 - **Every number in the new structure.** The severity distribution's tail, forbearance before default, call intensity, wave membership and dating, the arrival-to-substitution lag, each wave's connection-creating coefficient, which proxies are used and how three countries' statistics are normalised. None selected; the simulation's values are placeholders shaped after the real order of arrival.
@@ -182,6 +183,7 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 ## Sources
 
+- [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` cap, `user-originated`
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../raw/conversations/2026-09-20-bearer-bond-issuance.md); registered `user-originated`
 - [[SRC-2026-09-20-simulation-rebuild]] — [raw/conversations/2026-09-20-simulation-rebuild.md](../raw/conversations/2026-09-20-simulation-rebuild.md); the third simulation round
 - [[SRC-2026-09-20-rebuild-findings]] — [raw/documents/2026-09-20-rebuild-findings.md](../raw/documents/2026-09-20-rebuild-findings.md); five defects, uncalibrated throughout

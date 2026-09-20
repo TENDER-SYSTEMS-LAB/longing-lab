@@ -31,7 +31,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Fictional research house built from authored historical data, abstract or concrete subjects, and accumulated market records · `working` (2026-09-15)
-- [[current-state]] — Latest numeraire, perpetual-bond, technology-wave and three-market decisions, aggregate market scope, inherited typographic voice, and unresolved severity, proxy, naming and forecast rules · `working` (2026-09-20)
+- [[current-state]] — Latest numeraire, perpetual-bond, technology-wave and three-market decisions, aggregate market scope, inherited typographic voice, the capped requisition rate, and unresolved severity, proxy, naming and forecast rules · `working` (2026-09-20)
 
 ## Concepts
 
@@ -41,7 +41,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[world-rules]] — Adopted historical and aggregate-market scope, internal definitions, the added backing layer, and the preserved unadopted city/cohort trial · `working` (2026-09-15)
 - [[reserve-instruments]] — The absorbed backing layer: BEARER BOND and BLIND TRUST, sign reversal instead of depletion, transfer to AI against a falling total, and a decline made of early calls rather than defaults · `working` (2026-09-20)
 - [[technology-waves]] — Arrival raises what substitution later takes, so every wave is a rise followed by a decline; thirty years 1996–2026, a connection-creating coefficient per wave, and a driver measured where statistics exist · `working` (2026-09-20)
-- [[loop-simulation]] — The executable check on the design: three rounds, rebuilt on DEC-008 and DEC-009, with a real index's texture inverted, three converging markets, and twelve places where the design was wrong or underspecified · `working` (2026-09-20)
+- [[loop-simulation]] — The executable check on the design: three rounds, rebuilt on DEC-008 and DEC-009, with a real index's texture inverted, three converging markets, and twelve places where the design was wrong or underspecified, the requisition-rate gap now decided · `working` (2026-09-20)
 - [[letter-practice-dynamics]] — LETTER-specific unadopted practice model, feedback and consistency examples; not a universal security template · `working` (2026-09-07)
 
 - [[dataset-backtesting-survey]] — 23 dataset families and Kaggle routes mapped to behavior, observation and mechanism tests, with access limits and unconfirmed priorities · `working` (2026-09-07)
@@ -67,18 +67,18 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-001-project-name-longing]] — The work is titled LONGING RESEARCH; the superseded one-word title, the reversed no-suffix precedent, rejected candidates, and the outstanding collision and repository-rename questions · `confirmed` (2026-09-15)
 - [[DEC-002-research-house-form]] — The form is a research house in a terminal register, not a trading app; seven sibling formats deferred · `working` (2026-09-15)
 - [[DEC-003-weekly-market-monthly-research]] — Weekly prices and monthly formal research extended into fictional history; the week being the tick makes the month the smallest drawable candle; detailed weekly analyst obligations remain open · `confirmed` (2026-09-19)
-- [[DEC-004-secular-decline-with-rallies]] — Declining authored history with market rallies and recovery possible under changed inputs; no forced price drift, a structural cause that nobody in the world argues, and mechanisms for all three rally engines · `confirmed` (2026-09-20)
+- [[DEC-004-secular-decline-with-rallies]] — Declining authored history with market rallies and recovery possible under changed inputs; no forced price drift, a structural cause that nobody in the world argues, mechanisms for all three rally engines, and the disagreement test kept alive by the requisition cap · `confirmed` (2026-09-20)
 - [[DEC-005-ledger-resolution-scales-with-universe]] — The weekly ledger starts near nine displayed factors and grows as the security universe grows; a rule, not a set selection, now carrying the user's later position that factors may outnumber securities · `confirmed` (2026-09-07)
 - [[DEC-006-reserve-function-absorbed]] — LONGING absorbs the reserve function as BEARER BOND and BLIND TRUST; the separate holding institution and RS-001 are withdrawn, and the LONGING / LONGING RESEARCH title conflict is left unresolved · `confirmed` (2026-09-15)
 - [[DEC-008-bearer-bond-is-perpetual]] — A BEARER BOND is perpetual and its principal is attention; the one who leans issues, the decline is made of early calls rather than defaults, and contagion in write-downs supplies the melt-ups · `confirmed` (2026-09-20)
 - [[DEC-009-three-markets-and-convergence]] — Japan, Korea and the United States list the same practices separately and converge as events become global; each index is published by a different fictional institution and the composite absorbs them · `confirmed` (2026-09-20)
-- [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based; anxiety redefined, four gaps opened by simulation, and float now a balance rather than a count · `confirmed` (2026-09-20)
+- [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based; anxiety redefined, four gaps opened by simulation with the requisition rate now capped on the condition that the chart still falls, and float a balance rather than a count · `confirmed` (2026-09-20)
 
 ## Open Questions
 
 - [[Q-001-price-formation]] — Open historical-data, information, valuation, price and index rules under aggregate market scope · `working` (2026-09-07)
 - [[Q-002-listing-lifecycle]] — Who issues is answered — the person who leans; observation of a resumption, re-admission and the meaning of a zero quote remain open · `working` (2026-09-20)
-- [[Q-003-calibrating-the-bias]] — Bias located in authored history while degree, scoring, and public presentation devices remain open · `working` (2026-09-07)
+- [[Q-003-calibrating-the-bias]] — Bias located in authored history; the requisition cap gives the first stated bound, that the whole chart still falls, while degree, scoring, and public presentation devices remain open · `working` (2026-09-20)
 - [[Q-004-unit-of-account]] — Answered by DEC-007: the denominator is STANDARD RETURN, and float is separated from the index weight; U1–U3 and the undispatched review round are preserved as superseded record · `confirmed` (2026-09-15)
 
 ## Activity

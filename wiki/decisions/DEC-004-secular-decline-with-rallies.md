@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-07-artwork-brainstorm-v2
@@ -66,7 +67,7 @@ All seven reviews accepted an emergent secular decline as reasonable, and severa
 - **Publish the drift parameter** with its rationale, as an index provider publishes rules.
 - **Keep structural winners in the universe** — 15–25% of securities with positive or near-zero rate sensitivity, such as solitude, handmade objects, live performance. A universe where everything declines is a tautology a viewer decodes in thirty seconds.
 - **Publish a neutral-drift companion index** at zero drift beside the headline, so the audience can subtract the thesis and see what remains.
-- **The model must be able to disagree with the artist.** The sharpest form of this test: film photography and vinyl genuinely revived in the real world, so if `FILM` cannot stage a multi-year bull market inside the model, the model is rigged.
+- **The model must be able to disagree with the artist.** The sharpest form of this test: film photography and vinyl genuinely revived in the real world, so if `FILM` cannot stage a multi-year bull market inside the model, the model is rigged. **Kept in force for the whole history on 2026-09-20:** the requisition rate is capped rather than allowed to make late revival impossible, with the user's condition that the chart seen whole still falls. See the evolution note on [[DEC-007-standard-return-numeraire]].
 
 Three rally engines at three speeds were identified, none requiring special-case logic: weeks — crowded-short squeezes in illiquid names; months — the macro factors decelerating; years — a genuine revival, incidence beating expectations quarter after quarter.
 
@@ -148,6 +149,7 @@ direction, it keeps falling* stops being a figure of speech.
 
 ## Sources
 
+- [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the requisition cap that keeps the disagreement test alive after the tipping point
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)

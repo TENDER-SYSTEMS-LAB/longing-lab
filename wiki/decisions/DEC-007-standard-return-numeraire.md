@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-16-loop-simulation-session
   - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-ai-reinforcing-loop-diagram
@@ -157,14 +158,15 @@ work's speed. With the loop running it is right: `g = 0.1` leaves the market at 
 and `g = 0.3` takes it to 6.5. Saturation still bounds the loop at every gain
 tested, so the stability argument is unaffected.
 
-**Four gaps, none closed here.**
+**Four gaps. One is closed below, on 2026-09-20; three remain open.**
 
 - **The requisition rate `s(t)` is unspecified and decisive.** This page writes
   `dVᵢ/Vᵢ = −βᵢ·s(t)` and never says what `s` is. Above roughly `s = 20·ΔA`, no
   revival at any point in the history can stage a bull market, so the model can
   never disagree with its author and [[DEC-004-secular-decline-with-rallies]]'s
   sharpest test fails by construction. Either `s` is capped, or the work states
-  that nothing returns after the tipping point.
+  that nothing returns after the tipping point. **Closed 2026-09-20: capped.**
+  See the evolution note below.
 - **The melt-up mechanism needs far larger collapses than this page implies.** An
   orderly float decline takes the short position with it; only a discontinuity
   strands it. Stranding requires a week in which roughly a fifth of a practice's
@@ -196,8 +198,50 @@ The instrument is perpetual, so the melt-up mechanism this page attributed to
 default clusters is replaced by contagion in write-downs. Nothing else here
 changes: the numeraire, the loop, the quote convention, and the two indices stand.
 
+## Evolution — the requisition rate is capped (2026-09-20)
+
+`s(t)` has a ceiling — `user-confirmed`. The user chose the cap over the
+alternative this page's gap offered, that nothing returns after the tipping
+point, and attached the condition that decides between any two caps: **the
+chart, seen whole, must still fall as it does now.** A cap that lets a late
+revival win a decade is inside the decision; a cap that flattens thirty years
+into a plateau is outside it, because without a visible long-run decline the
+work does not deliver its purpose. The user's own words: the cap is kept, and
+the whole graph must keep declining overall as it does now.
+
+What this settles: [[DEC-004-secular-decline-with-rallies]]'s sharpest test —
+that `FILM` must be able to stage a multi-year bull market — stays in force for
+the whole history, not only its first half. The cap joins `c` and `g` as a
+**published** coefficient, on the same rule from [[Q-003-calibrating-the-bias]]
+that a disclosed thumb on the scale is a methodology and a hidden one is
+manipulation.
+
+What it does not settle: the cap's value, its units, and its stated reason inside
+the fiction. The value is chosen with the rest of the numbers this page leaves
+unset. The reason is `llm-proposed` and recorded here so it does not have to be
+reinvented: **a call needs a hand to take the weight.** The issuer of a BEARER
+BOND can redeem only what a tool can already carry that week, and the one who
+leans changes habits slower than the tool improves — so requisition is bounded by
+the rate at which people can actually stop asking, not by the rate at which AI
+becomes able to answer. That is a claim about people rather than about AI, which
+is where the work wants its limits to sit.
+
+How `s` currently exists in the run: the third harness has no `A` loop; `s` is
+`gain_s · βᵢ · Δsubstitution`, and substitution is a saturating logistic per
+technology wave, so the drag is bounded by shape and peaks at about 0.4% a week
+at the committed defaults. The `20·ΔA` cliff recorded above belongs to the first
+build. A scoped check on an unedited scratch copy of v3 with one line changed —
+`min(s_cap, drag)` — passes all sixteen design tests at every ceiling tried
+between 0.2% and 2% a week, with the index ending near 16 rather than 40, so at
+this structure the cap and the decline do not compete. Whether a **late** arrival
+can win under the cap is a question about how much a wave connects rather than
+about `s`: the same probe with a hypothetical connection-creating wave in 2022
+lifts the ending index from 16 to 22 and produces no advance the harness can
+score in the three years remaining. No value from that check is selected.
+
 ## Sources
 
+- [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` cap and its condition, `user-confirmed`
 - [[SRC-2026-09-16-loop-simulation-session]] — [raw/conversations/2026-09-16-loop-simulation-session.md](../../raw/conversations/2026-09-16-loop-simulation-session.md); the redefinition of anxiety, `user-confirmed`
 - [[SRC-2026-09-15-numeraire-and-standard-return]] — [raw/conversations/2026-09-15-numeraire-and-standard-return.md](../../raw/conversations/2026-09-15-numeraire-and-standard-return.md); machine-extracted session transcript, tool invocations excluded per its capture note
 - [[SRC-2026-09-15-reserve-absorption-and-trust-instruments]] — the backing layer that converted this question into a denominator problem

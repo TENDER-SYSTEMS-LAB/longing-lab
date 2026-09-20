@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-05-price-formation-market-model
@@ -46,7 +47,7 @@ The seven reviews of the market model turned that into checkable tests, which is
 - **Publish the drift parameter**, with its rationale. A hidden thumb on the scale is manipulation; a disclosed assumption in a published methodology is what an index provider does.
 - **Keep structural winners** — one review puts it at 15–25% of the universe with positive or near-zero exposure. A universe where everything declines is a tautology, and a viewer decodes it immediately.
 - **Publish a neutral-drift companion index** at zero drift beside the headline, inviting the audience to subtract the thesis and see what remains.
-- **The model must be able to disagree with its author.** The sharpest form: film photography and vinyl genuinely revived in reality, so if `FILM` cannot stage a multi-year bull market inside the model, the model is rigged.
+- **The model must be able to disagree with its author.** The sharpest form: film photography and vinyl genuinely revived in reality, so if `FILM` cannot stage a multi-year bull market inside the model, the model is rigged. The 2026-09-20 requisition cap in [[DEC-007-standard-return-numeraire]] keeps this possible after the tipping point; the cap is to be published like the drift parameter above, and its condition — the whole chart still falls — is the first stated bound on how far the bias may go.
 - **A measurable version of the bias.** If returns decompose into a flow effect and a re-rating effect, then a market compressing multiples further than practice decline justifies is charging a *despair premium* — something the viewer discovers in an attribution table rather than being told.
 
 And one device that goes further than anything previously on this page: let the institution **revise its own fundamental model downward** at the annual review, in dry language, with a changelog, once its estimates have been persistently wrong. A research desk quietly marking down its model of human value on schedule is the thesis executed as a maintenance procedure — the strongest available form of "structural rather than stated", and also the closest the work has come to letting the bias be visible in the machinery instead of the prose.
@@ -72,6 +73,7 @@ HOLD/SHORT's better cumulative forecasting record is now a stated artistic direc
 
 ## Sources
 
+- [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the cap, and the condition that bounds it
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)

@@ -3,6 +3,7 @@ status: working
 attribution: llm-proposed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-20-simulation-rebuild
   - SRC-2026-09-20-rebuild-findings
   - SRC-2026-09-20-loop-simulation-harness-v3
@@ -68,8 +69,9 @@ Four gaps, all in the decision rather than in the run. Detail and tables are in
   `dVᵢ/Vᵢ = −βᵢ·s(t)` without saying what `s` is. Above roughly `s = 20·ΔA` the
   model can never disagree with its author at any point in the history, and
   DEC-004's sharpest test fails by construction. Below that, revivals work only
-  in the first half. **Open: cap `s`, or state that after the tipping point
-  nothing comes back.**
+  in the first half. **Decided 2026-09-20: `s` is capped, on the condition that
+  the chart seen whole still falls as it does now.** Value unset. See the
+  evolution note on [[DEC-007-standard-return-numeraire]].
 - **The melt-up needs collapses an order of magnitude larger than implied.** At a
   plausible default cluster no squeeze ever fires in 38 years, because an orderly
   float decline takes the short position down with it. Stranding shorts needs a
@@ -110,7 +112,7 @@ file rather than edited out.
 Nothing about the world. The universe, hazard rates, creation and attrition
 rates, the anxiety coefficient and the revival magnitudes are all invented. The
 run is a statement about whether the *document* is complete enough to execute,
-and the answer was: not yet, in four specific places, one of which is now closed.
+and the answer was: not yet, in four specific places, two of which are now closed.
 
 ## Second round — does it read as a market? (2026-09-19)
 
@@ -250,6 +252,7 @@ than measurements.
 
 ## Sources
 
+- [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` gap decided, `user-confirmed`
 - [[SRC-2026-09-20-simulation-rebuild]] — [raw/conversations/2026-09-20-simulation-rebuild.md](../../raw/conversations/2026-09-20-simulation-rebuild.md); the instruction to rebuild, and the correction that shorts are not the only thing that lifts a price
 - [[SRC-2026-09-20-rebuild-findings]] — [raw/documents/2026-09-20-rebuild-findings.md](../../raw/documents/2026-09-20-rebuild-findings.md); five defects and what the new structure does
 - [[SRC-2026-09-20-loop-simulation-harness-v3]] — [raw/documents/2026-09-20-loop-simulation-harness-v3.py](../../raw/documents/2026-09-20-loop-simulation-harness-v3.py); the current instrument, superseding v2

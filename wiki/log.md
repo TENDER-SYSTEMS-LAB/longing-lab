@@ -449,3 +449,13 @@ The three prompts registered earlier today were dispatched — one prompt per fr
 **One sourcing capture was re-collected.** The files first delivered as DeepSeek and Gemini were byte-identical; the user identified the text as DeepSeek's, and Gemini's response was collected again. The duplicate was never registered.
 
 Nothing is synthesised. No factor, name, or series is selected, and no registered original was modified.
+
+## [2026-09-20] decision | The requisition rate is capped, on the condition that the chart still falls
+
+Registered [[SRC-2026-09-20-requisition-cap-decision]] (hash `ce91289ea8e39fbb8134505b5a83169bd29de932`), a short Claude Code session that read [[current-state]], isolated the one decision in the `s(t)` gap that was the user's to make, and received it.
+
+**The decision, `user-confirmed`.** `s(t)` has a ceiling. The user chose the cap over the alternative [[DEC-007-standard-return-numeraire]] had offered — that nothing returns after the tipping point — and attached the condition that selects between any two caps: seen whole, the graph must keep declining as it does now, because without a visible long-run decline the work does not deliver its purpose. Recorded as an evolution note on DEC-007, as a closed gap on [[loop-simulation]], and as a kept-in-force test on [[DEC-004-secular-decline-with-rallies]] and [[Q-003-calibrating-the-bias]]. The cap joins `c` and `g` as a published coefficient. Its value, units, and in-world reason are unset; the reason recorded — a call needs a hand to take the weight, so requisition is bounded by how fast people can stop asking rather than by how fast AI can answer — is `llm-proposed`.
+
+**One scoped check, not registered.** On an unedited scratch copy of the v3 harness with one line changed (`min(s_cap, drag)`), all sixteen design tests pass at every ceiling tried from 0.2% to 2% a week and the index ends near 16 in each case, so at this structure the cap and the decline do not compete; the uncapped drag already peaks near 0.4% a week because substitution is a saturating logistic per wave, and the `20·ΔA` cliff belongs to the first build, which had an `A` loop v3 does not. A second probe with a hypothetical connection-creating wave arriving in 2022 lifts the ending index from 16 to 22 and produces no advance the harness can score in the three years left, failing only the melt-up-magnitude test. Nothing was selected from either run and no registered original was modified.
+
+Three simulation gaps stay open: the default-cluster size, the meaning of a zero quote under [[Q-002-listing-lifecycle]], and every number in the structure.
