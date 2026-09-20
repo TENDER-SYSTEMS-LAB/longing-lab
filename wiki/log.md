@@ -625,3 +625,7 @@ On the user's instruction the capture `2026-09-20-analyst-orders-inside-the-cons
 ## [2026-09-20] decision | Per-analyst orders are the user's proposal; the constraint is the decision
 
 Registered [[SRC-2026-09-20-analyst-orders-are-a-proposal]], `user-originated`. Told that DEC-012's first part rested on the assistant's reading, the user corrected it: that each analyst carries their own order was the user's own suggestion at the level of a proposal, and after hearing the assistant's view the order constraint should be kept. [[DEC-012-analyst-orders-inside-the-house-constraint]] retitled and restated — part 1 is now `user-originated` and not confirmed, parts 2 and 3 `user-confirmed`, the constraint provisional; [[analyst-system]], [[current-state]] and the catalog entry follow. The page and registry changes landed in commit `HEAD~1`; this entry and the current-state and catalog edits follow in the next. No registered original modified.
+
+## [2026-09-20] maintenance | Commit reference in the preceding entry
+
+The preceding entry cites the page and registry changes as `HEAD~1`; the commit is `8a3ad82`, and the entry itself landed in `778cdb1`. Appended rather than edited.
