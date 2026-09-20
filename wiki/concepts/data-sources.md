@@ -108,6 +108,8 @@ The assistant proposes generating conditions, then starts and stops, participati
 - [[pricing-model]]
 - [[Q-001-price-formation]]
 - [[Q-004-unit-of-account]]
+- [[technology-waves]]
+- [[proxy-sourcing-review]] — what of the driver series is actually published, and what is not
 
 ## Evolution — measured where measurement exists (2026-09-20)
 
