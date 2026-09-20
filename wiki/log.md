@@ -617,3 +617,7 @@ Registered [[SRC-2026-09-20-analyst-orders-inside-the-constraint]], `user-origin
 ## [2026-09-20] ingest | A second wording of the order-constraint turn
 
 Registered [[SRC-2026-09-20-order-constraint-retained]], `user-originated`. The turn that DEC-012 records reached this session in a second wording — keep the order constraint, and the user will consider lifting it after reading the record. Registered separately since both wordings are the user's; noted on [[DEC-012-analyst-orders-inside-the-house-constraint]] as reinforcing its second and third parts and as fixing what the later reading is for: the constraint, not the analysts' own orders. No other page changed. No registered original modified.
+
+## [2026-09-20] maintenance | The parallel capture of the order-constraint turn is withdrawn
+
+On the user's instruction the capture `2026-09-20-analyst-orders-inside-the-constraint.md`, registered by a parallel session with a wording the user says is not what was sent, is removed from the working tree and its registry row struck; it remains in Git history at commit `1477178`. [[SRC-2026-09-20-order-constraint-retained]] is the original of that turn. [[DEC-012-analyst-orders-inside-the-house-constraint]] now quotes it, cites it alone, and states its third part as the user did — the constraint is what may later be lifted, not the analysts' own orders; [[analyst-system]] re-cited. The two earlier log entries that name the withdrawn capture stand as history. This departs from the rule that a registered original is never deleted, by explicit user instruction.

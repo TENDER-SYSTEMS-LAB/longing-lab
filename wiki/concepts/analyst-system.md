@@ -3,7 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-20
 sources:
-  - SRC-2026-09-20-analyst-orders-inside-the-constraint
+  - SRC-2026-09-20-order-constraint-retained
   - SRC-2026-09-20-joint-line-as-a-range
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
@@ -149,7 +149,7 @@ Unchanged in principle — participant votes are displayed, never priced. One re
 
 ## Sources
 
-- [[SRC-2026-09-20-analyst-orders-inside-the-constraint]] — [raw/conversations/2026-09-20-analyst-orders-inside-the-constraint.md](../../raw/conversations/2026-09-20-analyst-orders-inside-the-constraint.md); analysts carry their own order inside the house constraint
+- [[SRC-2026-09-20-order-constraint-retained]] — [raw/conversations/2026-09-20-order-constraint-retained.md](../../raw/conversations/2026-09-20-order-constraint-retained.md); analysts carry their own order inside the house constraint
 - [[SRC-2026-09-20-joint-line-as-a-range]] — [raw/conversations/2026-09-20-joint-line-as-a-range.md](../../raw/conversations/2026-09-20-joint-line-as-a-range.md); the per-analyst-order question and proposal
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
