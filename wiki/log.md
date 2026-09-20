@@ -515,3 +515,9 @@ Registered [[SRC-2026-09-20-round-decisions-and-deferrals]] (hash `384ad1e494580
 **Deferred to a later discussion**, listed under Deferred in [[current-state]]: the orthogonalisation order, the measurement boundary, the `KOCPI` replacement, the category word, the three unmeasurable waves, the normalisation's scaling step, the default-cluster size, the zero quote and listing lifecycle, the rename, and tickers, medium, the name check and the periodic observable.
 
 One question was asked back — what a national versus a regional Japanese publisher would mean — and answered in chat as an assessment, not a decision. No registered original was modified.
+
+## [2026-09-20] decision | The Japanese publisher is a national paper
+
+Registered [[SRC-2026-09-20-japanese-publisher-is-national]], `user-originated`. Asked what a national versus a regional Japanese publisher would mean, the assistant set out both: a national paper carries the Nikkei's kind of authority from the start and makes the later absorption into `LONGING COMPOSITE` a national institution ceding to an international one, at the cost of the hardest naming ground; a regional paper needs a line of backstory for why a provincial authority computed the national index, and reads as a member of the みんなの経済新聞 network. The user chose **national**.
+
+Recorded on [[DEC-009-three-markets-and-convergence]] as `user-confirmed`, and on [[institution-naming-review]], where the regional candidates (東海, 北陸, 京浜) drop out and the surviving forms are the ones without a place name. A Confirmed bullet added to [[current-state]]. The paper is still unnamed; the category-word question and the `KOCPI` replacement remain deferred. No registered original was modified.

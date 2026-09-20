@@ -12,6 +12,7 @@ sources:
   - SRC-2026-09-20-institution-naming-grok
   - SRC-2026-09-20-institution-naming-qwen
   - SRC-2026-09-20-round-decisions-and-deferrals
+  - SRC-2026-09-20-japanese-publisher-is-national
 ---
 
 # Institution Naming Review
@@ -94,11 +95,11 @@ Every reviewer refused to assert any candidate clear. The lists of what could no
 
 Three things this round leaves for the user rather than for another round:
 
-- **Whether the Japanese publisher is national or regional.** A regional masthead is easier to keep clear of the Nikkei lineage and harder to keep clear of the 経済新聞 network, and it changes what the index name says about who had the right to measure.
+- ~~Whether the Japanese publisher is national or regional.~~ **Decided 2026-09-20: national**, after the assistant set out what each would mean — a national paper carries the Nikkei's kind of authority and makes the later absorption into the composite weightier, at the cost of the hardest naming ground; a regional one needs a line of backstory and reads as a member of the 経済新聞 network. The user chose national. Regional candidates (東海, 北陸, 京浜) drop out of the table below; the surviving forms are the ones without a place name — 夕刊経済新報, 秋津経済新報, 全国経済新聞, 商工日報, 商況日報, 首都経済新聞, 夕刊商業, 日本取引新聞 — and 帝都経済新聞 stays flagged for the fictional 帝都新聞. See [[DEC-009-three-markets-and-convergence]].
 - **Whether the category word may appear.** *Practice* in an acronym's expansion is administrative to one reviewer and a leak to another.
 - **The count convention for the US index**, which now has three incompatible readings — a period-authentic 90, a specialist 80 or 120, or the literal 11 — and which depends on what [[Q-002-listing-lifecycle]] decides about reconstitution. The user's answer on 2026-09-20: *the world need not be followed so exactly* — period authenticity is not a constraint on the number. `user-originated`; the number itself is still unselected.
 
-On 2026-09-20 the user deferred the category-word question and the `KOCPI` replacement to a later discussion, and asked what a national versus a regional publisher would mean; that answer was given in chat and is not a decision.
+On 2026-09-20 the user deferred the category-word question and the `KOCPI` replacement to a later discussion, and asked what a national versus a regional publisher would mean; the answer, and the decision that followed it, are in [[SRC-2026-09-20-japanese-publisher-is-national]].
 
 ## Related
 
@@ -120,3 +121,4 @@ On 2026-09-20 the user deferred the category-word question and the `KOCPI` repla
 - [[SRC-2026-09-20-institution-naming-grok]] — [raw/surveys/2026-09-20-institution-naming-grok.md](../../raw/surveys/2026-09-20-institution-naming-grok.md)
 - [[SRC-2026-09-20-institution-naming-qwen]] — [raw/surveys/2026-09-20-institution-naming-qwen.md](../../raw/surveys/2026-09-20-institution-naming-qwen.md)
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the user's answers on the three questions
+- [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../../raw/conversations/2026-09-20-japanese-publisher-is-national.md); national, decided

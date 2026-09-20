@@ -6,6 +6,7 @@ sources:
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-factor-identification-prompt
   - SRC-2026-09-20-institution-naming-prompt
+  - SRC-2026-09-20-japanese-publisher-is-national
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
@@ -114,9 +115,13 @@ global.
   The 2026-09-20 naming round — [[institution-naming-review]] — mapped what is
   occupied and produced uncleared candidates; **two reviewers independently reject
   the `KOCPI` placeholder above**, as one letter from KOSPI and as embedding `CPI`.
-  The round also surfaced a decision this page does not make: whether the Japanese
-  publisher is a national paper, as the Nikkei is, or a regional one, which says
-  something different about who had the right to measure.
+  The round also surfaced a decision this page did not make: whether the Japanese
+  publisher is a national paper, as the Nikkei is, or a regional one. **Decided
+  2026-09-20: a national paper.** `user-confirmed`. The index therefore carries
+  national authority from the start, and its later absorption into the composite
+  is a national institution ceding to an international one. Candidates with a
+  regional qualifier — 東海, 北陸, 京浜 — are out; the surviving forms are those
+  without a place name. The name itself is still unselected.
 - **Symmetric research.** Using specific Korean events obliges comparable
   specificity for Japan and the United States. Not done.
 - **Normalisation across three national statistical series** with different
@@ -162,3 +167,4 @@ the decision bought.
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md); the naming note draws on the seven responses synthesised in [[institution-naming-review]]
+- [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../../raw/conversations/2026-09-20-japanese-publisher-is-national.md); the publisher is national
