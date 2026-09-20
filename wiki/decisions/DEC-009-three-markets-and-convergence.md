@@ -8,6 +8,7 @@ sources:
   - SRC-2026-09-20-institution-naming-prompt
   - SRC-2026-09-20-japanese-publisher-is-national
   - SRC-2026-09-20-identification-experiment-findings-v4
+  - SRC-2026-09-20-japanese-publisher-is-an-evening-paper
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
@@ -122,7 +123,14 @@ global.
   national authority from the start, and its later absorption into the composite
   is a national institution ceding to an international one. Candidates with a
   regional qualifier — 東海, 北陸, 京浜 — are out; the surviving forms are those
-  without a place name. The name itself is still unselected.
+  without a place name. **And an evening paper** (夕刊), decided later the same
+  day, `user-confirmed`: the basis for its right to measure is the one the
+  naming round supplied — an evening paper has first claim on the closing
+  quotation, and the Sankei itself began under an evening publisher. Of the
+  eight national forms two carry the form in the masthead, 夕刊経済新報 and
+  夕刊商業; the others are not excluded, since an evening paper need not say so
+  in its name, but they no longer carry the basis in the title. The name itself
+  is still unselected.
 - **Symmetric research.** Using specific Korean events obliges comparable
   specificity for Japan and the United States. Not done.
 - **Normalisation across three national statistical series** with different
@@ -175,3 +183,4 @@ versus common survives, the estimation from timing does not, for those waves.
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md); the naming note draws on the seven responses synthesised in [[institution-naming-review]]
 - [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../../raw/conversations/2026-09-20-japanese-publisher-is-national.md); the publisher is national
+- [[SRC-2026-09-20-japanese-publisher-is-an-evening-paper]] — [raw/conversations/2026-09-20-japanese-publisher-is-an-evening-paper.md](../../raw/conversations/2026-09-20-japanese-publisher-is-an-evening-paper.md); and an evening paper

@@ -14,6 +14,7 @@ sources:
   - SRC-2026-09-20-round-decisions-and-deferrals
   - SRC-2026-09-20-japanese-publisher-is-national
   - SRC-2026-09-20-japanese-publisher-clearance-shortlist
+  - SRC-2026-09-20-japanese-publisher-is-an-evening-paper
 ---
 
 # Institution Naming Review
@@ -104,7 +105,7 @@ On 2026-09-20 the user deferred the category-word question and the `KOCPI` repla
 
 ## Evolution — the national-form candidates, compiled for clearance
 
-With the publisher decided national, the eight surviving forms were put side by side in the shape a clearance search needs — [[SRC-2026-09-20-japanese-publisher-clearance-shortlist]]: masthead, the two-character contraction the index is named from, the index name, what the round found and on what basis, what it could not check, and the checks that would settle each. No candidate was proposed by two reviewers; 帝都経済新聞 is kept out on two independent flags. Nothing was re-checked in the compilation and nothing is cleared. Three things a register search will not settle are named: whether each contraction is spoken well (首経, 夕経, 秋経 and 全経 each have a homophone), whether an evening-paper form is wanted, and the index count, which the `<contraction>平均` form does not need and the user has said need not follow the world.
+With the publisher decided national, the eight surviving forms were put side by side in the shape a clearance search needs — [[SRC-2026-09-20-japanese-publisher-clearance-shortlist]]: masthead, the two-character contraction the index is named from, the index name, what the round found and on what basis, what it could not check, and the checks that would settle each. No candidate was proposed by two reviewers; 帝都経済新聞 is kept out on two independent flags. Nothing was re-checked in the compilation and nothing is cleared. Three things a register search will not settle are named: whether each contraction is spoken well (首経, 夕経, 秋経 and 全経 each have a homophone), whether an evening-paper form is wanted, and the index count, which the `<contraction>平均` form does not need and the user has said need not follow the world. **The evening question is answered**: the user chose the evening paper (2026-09-20), on the closing-quotation basis GLM supplied. That narrows the eight to the two that carry 夕刊 in the masthead — 夕刊経済新報 → 夕経 (Claude, moderate) and 夕刊商業 → 商業 (Qwen, recall only, generic contraction) — with the other six still admissible as evening papers whose names do not say so. Two things remain the user's: how 夕経 sounds when spoken (it is a homophone of 有形), and whether a masthead should carry the form at all. Nothing is cleared.
 
 ## Related
 
@@ -128,3 +129,4 @@ With the publisher decided national, the eight surviving forms were put side by 
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the user's answers on the three questions
 - [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../../raw/conversations/2026-09-20-japanese-publisher-is-national.md); national, decided
 - [[SRC-2026-09-20-japanese-publisher-clearance-shortlist]] — [raw/documents/2026-09-20-japanese-publisher-clearance-shortlist.md](../../raw/documents/2026-09-20-japanese-publisher-clearance-shortlist.md); the eight, side by side
+- [[SRC-2026-09-20-japanese-publisher-is-an-evening-paper]] — [raw/conversations/2026-09-20-japanese-publisher-is-an-evening-paper.md](../../raw/conversations/2026-09-20-japanese-publisher-is-an-evening-paper.md); evening, decided
