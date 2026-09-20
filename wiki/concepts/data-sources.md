@@ -12,6 +12,11 @@ sources:
   - SRC-2026-09-05-claude-critic-of-model
   - SRC-2026-09-05-glm-critic-of-model
   - SRC-2026-09-20-proxy-sourcing-prompt
+  - SRC-2026-09-20-wdi-spine-retrieval
+  - SRC-2026-09-20-wdi-internet-use
+  - SRC-2026-09-20-wdi-mobile-subscriptions
+  - SRC-2026-09-20-wdi-fixed-broadband
+  - SRC-2026-09-20-wdi-spine-csv
 ---
 
 # Data Sources
@@ -152,12 +157,26 @@ that will be published. Still no series collected, no rule written, no proxy
 selected. The candidate spine is now named, and the boundary this page describes
 as one rule turns out to be one per series.
 
+**Later the same day the spine was collected.** The three WDI series for the three
+countries — vintage 2026-07-13, retrieved 2026-09-20T08:07:50Z — are registered
+as raw originals with a retrieval record, [[SRC-2026-09-20-wdi-spine-retrieval]],
+that gives coverage cell by cell: the last fully measured common year is 2023,
+2024 is complete for seven of nine series, nothing exists for 2025 or 2026, and
+the API carries no estimate flags in this vintage. The Korean indicator page
+confirmed the 2002 and 2006 age-floor changes and the one-month recall window;
+the e-Stat archive lists the Japanese survey's editions from 1996 to 2025; the
+Korean licence was confirmed to differ by posting, KOGL Type 1 for the 2025
+release and Type 4 for the 2024 report. The ITU DataHub refused the session, so
+WDI's republication is the route. The sentence above — *no series has been
+collected* — is superseded for these nine; the rest of it stands.
+
 ## Sources
 
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the 2026-09-20 evolution note draws on the seven responses synthesised in [[proxy-sourcing-review]]
+- [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../../raw/documents/2026-09-20-wdi-spine-retrieval.md); the nine series, their coverage, and the portal checks
 
 - [[SRC-2026-09-06-academic-model-recovered-excerpts]] — [raw/conversations/2026-09-06-academic-model-recovered-excerpts.md](../../raw/conversations/2026-09-06-academic-model-recovered-excerpts.md); original recent messages recovered from the originating task local log after API omission
 

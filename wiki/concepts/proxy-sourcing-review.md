@@ -11,6 +11,11 @@ sources:
   - SRC-2026-09-20-proxy-sourcing-glm
   - SRC-2026-09-20-proxy-sourcing-grok
   - SRC-2026-09-20-proxy-sourcing-qwen
+  - SRC-2026-09-20-wdi-spine-retrieval
+  - SRC-2026-09-20-wdi-internet-use
+  - SRC-2026-09-20-wdi-mobile-subscriptions
+  - SRC-2026-09-20-wdi-fixed-broadband
+  - SRC-2026-09-20-wdi-spine-csv
 ---
 
 # Proxy Sourcing Review
@@ -152,6 +157,10 @@ World Bank WDI is CC BY 4.0 with attribution to ITU; OECD is CC BY 4.0 since 202
 
 Every reviewer but Qwen declined to reproduce historical values from memory; the compliant ones put almost no numbers in their tables at all, which is what the prompt asked. All declined to say what the index should do with the series. GLM and ChatGPT declined to certify any table they had not opened. None assessed the premise.
 
+## Evolution — the spine was collected the same day
+
+On the user's instruction the assistant retrieved the three WDI series for the three countries on 2026-09-20 — vintage 2026-07-13 — and registered the raw responses, a tidy CSV and a retrieval record, [[SRC-2026-09-20-wdi-spine-retrieval]]. Coverage matches what the round expected with two specifics the round could not give: Japan's mobile and fixed-broadband series end in 2023 in this vintage while every other series reaches 2024, and the API returns no estimate flags, so estimated and reported cells are indistinguishable here (the ITU DataHub, which carries the flags, returned 403). Japan's internet-use line falls from 91 in 2015 to 85 in 2023 in the raw data — the reconciliation problem Grok predicted, recorded and not adjusted. Portal checks in the same session confirmed the Korean age-floor dates (2002, 2006), the one-month window, the e-Stat edition run 1996–2025, and the per-posting Korean licence (Type 1 for the 2025 release, Type 4 for the 2024 report). Nothing is normalised and no proxy is selected.
+
 ## Related
 
 - [[technology-waves]]
@@ -172,3 +181,4 @@ Every reviewer but Qwen declined to reproduce historical values from memory; the
 - [[SRC-2026-09-20-proxy-sourcing-glm]] — [raw/surveys/2026-09-20-proxy-sourcing-glm.md](../../raw/surveys/2026-09-20-proxy-sourcing-glm.md)
 - [[SRC-2026-09-20-proxy-sourcing-grok]] — [raw/surveys/2026-09-20-proxy-sourcing-grok.md](../../raw/surveys/2026-09-20-proxy-sourcing-grok.md)
 - [[SRC-2026-09-20-proxy-sourcing-qwen]] — [raw/surveys/2026-09-20-proxy-sourcing-qwen.md](../../raw/surveys/2026-09-20-proxy-sourcing-qwen.md)
+- [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../../raw/documents/2026-09-20-wdi-spine-retrieval.md); the spine as retrieved

@@ -74,6 +74,11 @@ sources:
   - SRC-2026-09-20-proxy-sourcing-qwen
   - SRC-2026-09-20-round-decisions-and-deferrals
   - SRC-2026-09-20-japanese-publisher-is-national
+  - SRC-2026-09-20-wdi-spine-retrieval
+  - SRC-2026-09-20-wdi-internet-use
+  - SRC-2026-09-20-wdi-mobile-subscriptions
+  - SRC-2026-09-20-wdi-fixed-broadband
+  - SRC-2026-09-20-wdi-spine-csv
 ---
 
 # Current State
@@ -153,7 +158,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 
 - **How large a default cluster is.** Melt-ups require float to vanish discontinuously; an orderly decline strands nobody. The cadence DEC-004 wants needs weeks in which about a fifth of a practice's relationships end at once, which no page yet claims.
 - **The administrative half of issuance.** Who issues is settled — the person who leans. Who *observes* a resumption, on what evidence, and whether a delisted practice can be re-admitted are not. See [[Q-002-listing-lifecycle]].
-- **Every number in the new structure.** The severity distribution's tail, forbearance before default, call intensity, wave membership and dating, the arrival-to-substitution lag, each wave's connection-creating coefficient, which proxies are used and how three countries' statistics are normalised. None selected; the simulation's values are placeholders shaped after the real order of arrival. The sourcing round narrows the last two: the ITU / World Bank triplet is the only candidate spine, four of the seven waves can be carried as measured series and three cannot, seven normalisation rules agree on every principle and differ only in the scaling step, and the measurement boundary is one per series rather than one vertical rule. Nothing downloaded. See [[proxy-sourcing-review]].
+- **Every number in the new structure.** The severity distribution's tail, forbearance before default, call intensity, wave membership and dating, the arrival-to-substitution lag, each wave's connection-creating coefficient, which proxies are used and how three countries' statistics are normalised. None selected; the simulation's values are placeholders shaped after the real order of arrival. The sourcing round narrows the last two: the ITU / World Bank triplet is the only candidate spine, four of the seven waves can be carried as measured series and three cannot, seven normalisation rules agree on every principle and differ only in the scaling step, and the measurement boundary is one per series rather than one vertical rule. **The spine is collected**: nine WDI series, vintage 2026-07-13, last fully measured common year 2023, registered with a retrieval record — see [[SRC-2026-09-20-wdi-spine-retrieval]]. Not normalised, no proxy selected. See [[proxy-sourcing-review]].
 - **Two fictional institutions must be named** — an evening paper and a ratings house — and checked against real companies. [[DEC-001-project-name-longing]]'s unperformed trademark and collision check triples here. A seven-model naming round, collected 2026-09-20, mapped the occupied ground and produced candidates that survived each reviewer's own screen, none shared between reviewers and none cleared; it also rejects the `KOCPI` placeholder as one letter from KOSPI, and left three questions for the user. One is answered: **the Japanese publisher is a national paper** (2026-09-20), which drops the regional candidates and leaves the forms without a place name. The category word is deferred, and period authenticity is not a constraint on the US index's number. See [[institution-naming-review]] and [[DEC-009-three-markets-and-convergence]].
 - **Symmetric research for three markets.** Naming specific Korean events obliges comparable specificity for Japan and the United States. Not done.
 - **What a zero quote means.** High-β securities reach numerical zero in the first run. No floor, no delisting rule, no stated meaning. See [[Q-002-listing-lifecycle]].
@@ -213,6 +218,7 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 ## Sources
 
+- [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../raw/documents/2026-09-20-wdi-spine-retrieval.md); the nine WDI series retrieved, with [[SRC-2026-09-20-wdi-internet-use]], [[SRC-2026-09-20-wdi-mobile-subscriptions]], [[SRC-2026-09-20-wdi-fixed-broadband]] and [[SRC-2026-09-20-wdi-spine-csv]] as the data files
 - [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../raw/conversations/2026-09-20-japanese-publisher-is-national.md); the Japanese publisher is national, `user-originated`
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine was an LLM proposal, eight deferrals, `user-originated`
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` cap, `user-originated`
