@@ -12,6 +12,7 @@ sources:
   - SRC-2026-09-20-identification-experiment-findings-v3
   - SRC-2026-09-20-wave-calibration-from-national-series
   - SRC-2026-09-20-nia-internet-usage-survey-2025-record
+  - SRC-2026-09-20-no-korean-time-series
 ---
 
 # Identification Experiment
@@ -50,7 +51,7 @@ Smartphone and social-web dates for Japan and the United States were then fitted
 
 ## What it makes possible next
 
-- Obtain a Korean smartphone series and a Korean social-web series that contains its own midpoint, so the two newly dated waves are measured in all three markets and the mix goes away; the data.go.kr file, MSIT's attachments and KOSIS all refused the session. The user then fetched the data.go.kr file by hand; it is 2025 microdata, one year, and gives a point (smartphone ownership 96.8%, SNS 61.3%) but not a series — [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]]. The series still has to come from KOSIS or the annual reports.
+- Obtain a Korean smartphone series and a Korean social-web series that contains its own midpoint, so the two newly dated waves are measured in all three markets and the mix goes away; the data.go.kr file, MSIT's attachments and KOSIS all refused the session. The user then fetched the data.go.kr file by hand; it is 2025 microdata, one year, and gives a point (smartphone ownership 96.8%, SNS 61.3%) but not a series — [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]]. The series still has to come from KOSIS or the annual reports, and the user reports that they are not available. The v5 run therefore stands as a demonstration of the mixing distortion, v4 is the working world, and a wave is wired only when all three markets are measured.
 - Run the rest of the gate battery, and the placebo on permuted arrival labels.
 - Use the order-sensitivity number when the deferred orthogonalisation decision is taken up.
 

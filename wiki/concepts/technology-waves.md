@@ -15,6 +15,7 @@ sources:
   - SRC-2026-09-20-wave-calibration-from-national-series
   - SRC-2026-09-20-national-series-retrieval
   - SRC-2026-09-20-loop-simulation-harness-v5
+  - SRC-2026-09-20-no-korean-time-series
 ---
 
 # Technology Waves — arrival raises what substitution later takes
@@ -136,6 +137,17 @@ observation and which part is estimate.
   with them is [[SRC-2026-09-20-loop-simulation-harness-v5]]; mixing a
   placeholder with measured dates inside one wave is a recorded distortion.
   Dial-up, messaging and AI remain placeholders.
+  **The Korean rates by year are not available** (user, 2026-09-20), so the
+  smartphone and social-web waves cannot be measured in all three markets. What
+  v5 showed — a guessed date sixteen years from a measured one inside a single
+  wave, and the artificial local structure that follows — leads to a rule,
+  `llm-proposed`: **a wave's dates are wired only when every market's date is
+  measured**; a wave measured in some markets keeps its placeholder in all,
+  and the measured dates are recorded beside it as what the placeholder must
+  not contradict. Under that rule the working build is v4 — mobile and
+  broadband measured, five waves on placeholders — and v5 is retained as the
+  record of what mixing does. The Japanese and US smartphone and social-web
+  dates stay on file in [[SRC-2026-09-20-wave-calibration-from-national-series]].
 - **The lag between arrival and substitution**, per wave. Unselected.
 - **Named events.** Using specific cultural events puts real proper nouns into one
   market's event stream, which obliges comparable density in the other two.
@@ -174,3 +186,4 @@ this market.** See [[loop-simulation]].
 - [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); the rule and fits that date two waves
 - [[SRC-2026-09-20-wave-calibration-from-national-series]] — [raw/documents/2026-09-20-wave-calibration-from-national-series.md](../../raw/documents/2026-09-20-wave-calibration-from-national-series.md); two more waves, two markets each
 - [[SRC-2026-09-20-national-series-retrieval]] — [raw/documents/2026-09-20-national-series-retrieval.md](../../raw/documents/2026-09-20-national-series-retrieval.md); what was reached and what was not
+- [[SRC-2026-09-20-no-korean-time-series]] — [raw/conversations/2026-09-20-no-korean-time-series.md](../../raw/conversations/2026-09-20-no-korean-time-series.md); no Korean series to add, and the rule that follows

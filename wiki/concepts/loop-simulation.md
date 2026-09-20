@@ -19,6 +19,7 @@ sources:
   - SRC-2026-09-20-identification-experiment-findings-v2
   - SRC-2026-09-20-loop-simulation-harness-v5
   - SRC-2026-09-20-identification-experiment-findings-v3
+  - SRC-2026-09-20-no-korean-time-series
 ---
 
 # Loop Simulation — the first thing in this project that runs
@@ -252,7 +253,7 @@ The v3 harness was used unmodified as the generator for [[identification-experim
 
 **Fourth build, the same day: v4, two waves measured.** [[SRC-2026-09-20-loop-simulation-harness-v4]] is v3 with the mobile and broadband arrival weeks and widths replaced by logistic fits to the WDI spine ([[SRC-2026-09-20-wave-calibration-from-spine]]) and the measured boundary moved to week 1461, the end of 2023. v3 is retained unedited. **All sixteen design tests pass on v4.** The one number that moved beyond noise is the arrival peak of unplanned calls — week 642 instead of 365, because measured telephony reaches the population later than the placeholder assumed — and the practice falls less far by 2026 (×0.49 against ×0.29). Correlation runs +0.21 → +0.78, the largest five-week move is +22% against +32%, volatility clustering rises to 0.22. The design's shape did not depend on the two dates that had been guessed. Five waves are still placeholders.
 
-**Fifth build: v5, four waves partly measured.** [[SRC-2026-09-20-loop-simulation-harness-v5]] adds smartphone and social-web dates for Japan and the United States from national series ([[SRC-2026-09-20-wave-calibration-from-national-series]]), with Korea on placeholders for both. Sixteen of sixteen pass. Two numbers move: late correlation falls to +0.70 and the largest five-week move lands at week 138, +36% — both because Korea's placeholder social-web date (1999) now sits sixteen years before Japan's measured one (2014.8, a late definition), which is an artefact of the mix rather than a finding. v4 remains the cleaner comparison; v5 is what the record looks like with the measured and the guessed side by side.
+**Fifth build: v5, four waves partly measured.** [[SRC-2026-09-20-loop-simulation-harness-v5]] adds smartphone and social-web dates for Japan and the United States from national series ([[SRC-2026-09-20-wave-calibration-from-national-series]]), with Korea on placeholders for both. Sixteen of sixteen pass. Two numbers move: late correlation falls to +0.70 and the largest five-week move lands at week 138, +36% — both because Korea's placeholder social-web date (1999) now sits sixteen years before Japan's measured one (2014.8, a late definition), which is an artefact of the mix rather than a finding. v4 remains the cleaner comparison; v5 is what the record looks like with the measured and the guessed side by side. **v4 is the working build** (2026-09-20): the Korean rates by year that would complete the two v5 waves are not available, and the rule proposed on [[technology-waves]] — wire a wave only when every market's date is measured — keeps those waves on placeholders until they are.
 
 ## Related
 
