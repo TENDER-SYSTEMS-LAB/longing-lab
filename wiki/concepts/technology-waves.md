@@ -10,6 +10,8 @@ sources:
   - SRC-2026-09-20-wdi-mobile-subscriptions
   - SRC-2026-09-20-wdi-fixed-broadband
   - SRC-2026-09-20-wdi-spine-csv
+  - SRC-2026-09-20-wave-calibration-from-spine
+  - SRC-2026-09-20-loop-simulation-harness-v4
 ---
 
 # Technology Waves — arrival raises what substitution later takes
@@ -108,7 +110,16 @@ observation and which part is estimate.
   methodology page states a rule for collapsing them into one published week.
   Undecided.
 - **Wave membership and dating.** Which technologies count as waves, and when each
-  arrives in each market, is unselected.
+  arrives in each market, is unselected. **Two of the seven are now dated from
+  measurement** (2026-09-20): mobile and broadband arrival weeks and widths come
+  from logistic fits to the WDI spine under a published rule —
+  [[SRC-2026-09-20-wave-calibration-from-spine]]. Measured, both waves arrive
+  later than the placeholders in every market, Korea and Japan reach mobile
+  together (1999.8, 1999.9) with the United States two and a half years behind,
+  and broadband's cross-market spread halves. The other five keep placeholder
+  dates; internet use was fitted as a check series and not wired, since it is
+  not a dial-up series. The fits are `llm-proposed`; the harness with them is
+  [[SRC-2026-09-20-loop-simulation-harness-v4]].
 - **The lag between arrival and substitution**, per wave. Unselected.
 - **Named events.** Using specific cultural events puts real proper nouns into one
   market's event stream, which obliges comparable density in the other two.
@@ -144,3 +155,4 @@ this market.** See [[loop-simulation]].
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the two open items above draw on the seven responses synthesised in [[proxy-sourcing-review]]
 - [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../../raw/documents/2026-09-20-wdi-spine-retrieval.md); the spine's coverage as retrieved, with the data files it describes
+- [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); the rule and fits that date two waves

@@ -6,6 +6,9 @@ sources:
   - SRC-2026-09-20-identification-experiment
   - SRC-2026-09-20-identification-experiment-findings
   - SRC-2026-09-20-factor-identification-prompt
+  - SRC-2026-09-20-identification-experiment-v2
+  - SRC-2026-09-20-identification-experiment-findings-v2
+  - SRC-2026-09-20-wave-calibration-from-spine
 ---
 
 # Identification Experiment
@@ -34,9 +37,13 @@ Weekly log returns of the quote, 3 markets × 11 practices × 1,564 weeks. The n
 
 No factor names. No calibration: the [[proxy-sourcing-review]] spine retrieved the same day is not wired into the harness. One estimator, one gate, five seeds, two windows; rank tests, placebo on permuted arrival dates, stability and the post-publication check are not run. Positioning and reflexive lines are not stripped because the harness does not expose flows, so their content sits in the residual. The order experiment swaps two lines out of a six-line ordering.
 
+## Second run — on the v4 world, two waves measured
+
+The same day the mobile and broadband dates were replaced by logistic fits to the WDI spine ([[SRC-2026-09-20-wave-calibration-from-spine]]) and the run repeated on the v4 harness with the script's harness path made an argument — [[SRC-2026-09-20-identification-experiment-findings-v2]]. The sixteen design tests pass on v4. **Every one of the five readings holds.** The variance shares move by a few points and keep their shape; the early panel still collapses to one or two directions and the late panel still saturates near eight or nine, never thirteen; the calibrated gate's power stays above 0.9; two markets still explain the third only late. One number strengthened: the early order sensitivity rose from 1.45 to **1.85** times the schedule line's own size, because measured waves arrive later and closer together across markets, so in the early window less of the decline is the schedule's on its own and more of what the schedule line claims depends on whether the factor lines were removed first. The *placeholder* qualifier is weakened, not removed: five of seven waves are still guessed.
+
 ## What it makes possible next
 
-- Wire the WDI spine into the harness's wave dates and rerun, so the placeholder qualifier drops.
+- Date the remaining waves where a measured series exists in a national survey — smartphones, the social web — under the same rule, and leave dial-up, messaging and AI as declared placeholders.
 - Run the rest of the gate battery, and the placebo on permuted arrival labels.
 - Use the order-sensitivity number when the deferred orthogonalisation decision is taken up.
 
@@ -54,3 +61,6 @@ No factor names. No calibration: the [[proxy-sourcing-review]] spine retrieved t
 - [[SRC-2026-09-20-identification-experiment]] — [raw/documents/2026-09-20-identification-experiment.py](../../raw/documents/2026-09-20-identification-experiment.py); the script
 - [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the tables and their reading
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); Section 7, the procedure as asked for
+- [[SRC-2026-09-20-identification-experiment-v2]] — [raw/documents/2026-09-20-identification-experiment-v2.py](../../raw/documents/2026-09-20-identification-experiment-v2.py); the script with the harness path as an argument
+- [[SRC-2026-09-20-identification-experiment-findings-v2]] — [raw/documents/2026-09-20-identification-experiment-findings-v2.md](../../raw/documents/2026-09-20-identification-experiment-findings-v2.md); the five readings on v4 beside v3
+- [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); how the two dates were measured

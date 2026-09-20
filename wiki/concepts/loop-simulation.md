@@ -14,6 +14,9 @@ sources:
   - SRC-2026-09-16-loop-simulation-findings
   - SRC-2026-09-16-loop-simulation-harness
   - SRC-2026-09-20-identification-experiment-findings
+  - SRC-2026-09-20-loop-simulation-harness-v4
+  - SRC-2026-09-20-wave-calibration-from-spine
+  - SRC-2026-09-20-identification-experiment-findings-v2
 ---
 
 # Loop Simulation — the first thing in this project that runs
@@ -245,6 +248,8 @@ than measurements.
 
 The v3 harness was used unmodified as the generator for [[identification-experiment]], the fourth factor round's proposed Section 7 procedure: the numeraire and the declared schedule stripped, then the residual asked what the listing can identify, early against late, with a planted null. The harness's `n_factors` was swept as the truth. Results and limits are on that page; nothing on this page changes, and the harness's placeholders remain placeholders.
 
+**Fourth build, the same day: v4, two waves measured.** [[SRC-2026-09-20-loop-simulation-harness-v4]] is v3 with the mobile and broadband arrival weeks and widths replaced by logistic fits to the WDI spine ([[SRC-2026-09-20-wave-calibration-from-spine]]) and the measured boundary moved to week 1461, the end of 2023. v3 is retained unedited. **All sixteen design tests pass on v4.** The one number that moved beyond noise is the arrival peak of unplanned calls — week 642 instead of 365, because measured telephony reaches the population later than the placeholder assumed — and the practice falls less far by 2026 (×0.49 against ×0.29). Correlation runs +0.21 → +0.78, the largest five-week move is +22% against +32%, volatility clustering rises to 0.22. The design's shape did not depend on the two dates that had been guessed. Five waves are still placeholders.
+
 ## Related
 
 - [[identification-experiment]]
@@ -260,6 +265,9 @@ The v3 harness was used unmodified as the generator for [[identification-experim
 ## Sources
 
 - [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the v3 world as generator for the identification test
+- [[SRC-2026-09-20-loop-simulation-harness-v4]] — [raw/documents/2026-09-20-loop-simulation-harness-v4.py](../../raw/documents/2026-09-20-loop-simulation-harness-v4.py); the fourth build
+- [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); how the two dates were measured
+- [[SRC-2026-09-20-identification-experiment-findings-v2]] — [raw/documents/2026-09-20-identification-experiment-findings-v2.md](../../raw/documents/2026-09-20-identification-experiment-findings-v2.md); the sixteen tests on v3 and v4 side by side
 
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` gap decided, `user-confirmed`
 - [[SRC-2026-09-20-simulation-rebuild]] — [raw/conversations/2026-09-20-simulation-rebuild.md](../../raw/conversations/2026-09-20-simulation-rebuild.md); the instruction to rebuild, and the correction that shorts are not the only thing that lifts a price
