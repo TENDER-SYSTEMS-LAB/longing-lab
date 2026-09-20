@@ -59,7 +59,7 @@ The five gates the first run left untested were run on the working build, each c
 
 - Obtain a Korean smartphone series and a Korean social-web series that contains its own midpoint, so the two newly dated waves are measured in all three markets and the mix goes away; the data.go.kr file, MSIT's attachments and KOSIS all refused the session. The user then fetched the data.go.kr file by hand; it is 2025 microdata, one year, and gives a point (smartphone ownership 96.8%, SNS 61.3%) but not a series — [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]]. The series still has to come from KOSIS or the annual reports, and the user reports that they are not available. The v5 run therefore stands as a demonstration of the mixing distortion, v4 is the working world, and a wave is wired only when all three markets are measured.
 - Restate the stability gate against something a null lacks, and draw nulls inside the interaction space, so the two gates that failed get a fair second run.
-- Use the order-sensitivity number when the deferred orthogonalisation decision is taken up.
+- ~~Use the order-sensitivity number when the deferred orthogonalisation decision is taken up.~~ Done 2026-09-20: [[DEC-010-declared-order-with-a-joint-line]] declares the order, measured lines first, and publishes the overlap as a `Joint` line whose size this number is.
 
 ## Related
 
@@ -68,6 +68,7 @@ The five gates the first run left untested were run on the working build, each c
 - [[attribution-ledger]]
 - [[DEC-005-ledger-resolution-scales-with-universe]]
 - [[DEC-009-three-markets-and-convergence]]
+- [[DEC-010-declared-order-with-a-joint-line]]
 - [[proxy-sourcing-review]]
 
 ## Sources

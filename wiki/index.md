@@ -31,7 +31,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Fictional research house built from authored historical data, abstract or concrete subjects, and accumulated market records · `working` (2026-09-15)
-- [[current-state]] — Latest numeraire, perpetual-bond, technology-wave and three-market decisions, aggregate market scope, inherited typographic voice, the capped requisition rate, and unresolved severity, proxy, naming and forecast rules · `working` (2026-09-20)
+- [[current-state]] — Latest numeraire, perpetual-bond, technology-wave, three-market and attribution-order decisions, aggregate market scope, inherited typographic voice, the capped requisition rate, and unresolved severity, proxy, naming and forecast rules · `working` (2026-09-20)
 
 ## Concepts
 
@@ -76,6 +76,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-006-reserve-function-absorbed]] — LONGING absorbs the reserve function as BEARER BOND and BLIND TRUST; the separate holding institution and RS-001 are withdrawn, and the LONGING / LONGING RESEARCH title conflict is left unresolved · `confirmed` (2026-09-15)
 - [[DEC-008-bearer-bond-is-perpetual]] — A BEARER BOND is perpetual and its principal is attention; the one who leans issues, the decline is made of early calls rather than defaults, and contagion in write-downs supplies the melt-ups · `confirmed` (2026-09-20)
 - [[DEC-009-three-markets-and-convergence]] — Japan, Korea and the United States list the same practices separately and converge as events become global; each index is published by a different fictional institution and the composite absorbs them · `confirmed` (2026-09-20)
+- [[DEC-010-declared-order-with-a-joint-line]] — The weekly attribution's order is declared and published, measured lines before estimated lines, and the order-dependent overlap is carried as a `Joint` line; the world's own order is chicken-and-egg and left so · `confirmed` (2026-09-20)
 - [[DEC-007-standard-return-numeraire]] — Prices are quoted against STANDARD RETURN, an appreciating basket of what AI hands back; the decline emerges from a published loop gain rather than a drift, float becomes outstanding BEARER BONDs, and the work ends when the basket stops being re-based; anxiety redefined, four gaps opened by simulation with the requisition rate now capped on the condition that the chart still falls, and float a balance rather than a count · `confirmed` (2026-09-20)
 
 ## Open Questions
