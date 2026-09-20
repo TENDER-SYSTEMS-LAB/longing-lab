@@ -72,6 +72,10 @@ For a lookup or suspected mismatch, search only the source ID/path and its captu
 | `SRC-2026-09-19-market-texture-session` | [raw/conversations/2026-09-19-market-texture-session.md](conversations/2026-09-19-market-texture-session.md) | conversation | 2026-09-19 | jointly-developed | `421955e62da31b6897e4ee42a2898772583e53b0` | 2026-09-19 | promoted as the requirement that the market read as a real index inverted |
 | `SRC-2026-09-19-market-texture-findings` | [raw/documents/2026-09-19-market-texture-findings.md](documents/2026-09-19-market-texture-findings.md) | document | 2026-09-19 | llm-proposed | `00a393f8c29d340d98232547e6130ce2adb7c80b` | 2026-09-19 | promoted into loop-simulation; six added mechanisms, three defects, and a stylistic-calibration boundary |
 | `SRC-2026-09-19-loop-simulation-harness-v2` | [raw/documents/2026-09-19-loop-simulation-harness-v2.py](documents/2026-09-19-loop-simulation-harness-v2.py) | document | 2026-09-19 | llm-proposed | `34c5608e12f71c6bece43898ea3cd4091575b6a2` | 2026-09-19 | the harness after the texture round; supersedes the 2026-09-16 harness, which is retained unedited |
+| `SRC-2026-09-20-bearer-bond-issuance` | [raw/conversations/2026-09-20-bearer-bond-issuance.md](conversations/2026-09-20-bearer-bond-issuance.md) | conversation | 2026-09-20 | user-originated | `c65b1d47b5cb7795357b2f889b85c47ae339be80` | 2026-09-20 | promoted as DEC-008, DEC-009 and technology-waves |
+| `SRC-2026-09-20-simulation-rebuild` | [raw/conversations/2026-09-20-simulation-rebuild.md](conversations/2026-09-20-simulation-rebuild.md) | conversation | 2026-09-20 | jointly-developed | `2efda6c9420304ee7d1b9d02a600d0e917c37582` | 2026-09-20 | promoted as the third simulation round and the signed-positioning correction |
+| `SRC-2026-09-20-rebuild-findings` | [raw/documents/2026-09-20-rebuild-findings.md](documents/2026-09-20-rebuild-findings.md) | document | 2026-09-20 | llm-proposed | `86e797688fa58159df1d08fc8a0c5d68ea3c023d` | 2026-09-20 | five defects, one of them a test that had been passing for the wrong reason |
+| `SRC-2026-09-20-loop-simulation-harness-v3` | [raw/documents/2026-09-20-loop-simulation-harness-v3.py](documents/2026-09-20-loop-simulation-harness-v3.py) | document | 2026-09-20 | llm-proposed | `442c3e1b7b9c95a14ac7ba2282604334535bb234` | 2026-09-20 | the harness rebuilt on DEC-008 and DEC-009; supersedes v2, which is retained unedited |
 
 ## Hash convention
 
@@ -176,6 +180,28 @@ reversal is kept in the file rather than edited out.
 
 Only one thing in this group is `user-confirmed`, and it is in the conversation,
 not the report: the redefinition of anxiety as trust that never returns.
+
+## Note on the 2026-09-20 records
+
+`SRC-2026-09-20-bearer-bond-issuance` is attributed `user-originated` rather than
+`jointly-developed`, which is unusual for a conversation source and deliberate.
+Every framing the assistant offered for what one BEARER BOND is was rejected, and
+the model that replaced it — attention as principal, a perpetual instrument, a
+decline made of calls, a write-down that answers the counterparty — is the user's.
+So are the thirty-year span, the three markets, and the correction that technology
+raises before it takes. The assistant's contribution is the arithmetic and the
+register.
+
+`SRC-2026-09-20-loop-simulation-harness-v3` **supersedes** the v2 harness, which
+is retained unedited as every registered original is. Keeping all three builds
+side by side is the point: each round's defects live in the build that had them,
+and a corrected copy would hide them.
+
+`SRC-2026-09-20-rebuild-findings` is `llm-proposed`, and carries the same boundary
+as its predecessors. One item in it is a correction to the project's own method
+rather than to the world: a test had been passing for the wrong reason because it
+measured a quote, which carries an event premium, instead of the fundamental the
+claim was about.
 
 ## Note on the 2026-09-19 market-texture records
 

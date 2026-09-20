@@ -1,5 +1,5 @@
 ---
-status: working
+status: confirmed
 attribution: user-confirmed
 updated: 2026-09-20
 sources:
@@ -8,11 +8,6 @@ sources:
 ---
 
 # DEC-008 — A BEARER BOND is perpetual, and what it measures is attention
-
-> **Substance confirmed, provenance pending.** The originating conversation is not
-> yet exported into `raw/`, so `SRC-2026-09-20-bearer-bond-issuance` is a
-> placeholder identifier and this page is held at `working`. Register the
-> original, record its hash, and promote the status in the same task.
 
 ## The decision
 
@@ -147,5 +142,5 @@ explained from inside the world.
 
 ## Sources
 
-- `SRC-2026-09-20-bearer-bond-issuance` — **unregistered placeholder**; the 2026-09-20 conversation
+- [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md); registered `user-originated`, because every framing the assistant offered was rejected and the model that replaced it is the user's
 - [[SRC-2026-09-15-reserve-absorption-and-trust-instruments]] — [raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md](../../raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md); the instrument definitions this decision fills in

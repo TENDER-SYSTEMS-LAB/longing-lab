@@ -8,9 +8,6 @@ sources:
 
 # Technology Waves — arrival raises what substitution later takes
 
-> Provenance pending: `SRC-2026-09-20-bearer-bond-issuance` is an unregistered
-> placeholder. See [[DEC-008-bearer-bond-is-perpetual]].
-
 ## The correction this page exists for
 
 Every model in this project until 2026-09-20 had technology working in one
@@ -93,6 +90,21 @@ observation and which part is estimate.
   market's event stream, which obliges comparable density in the other two.
   Unresearched.
 
+## What the third simulation round added to this page
+
+Each wave now carries a coefficient for how much of its arrival makes new ways to
+reach a person rather than new ways to manage without one. It is the only place in
+the design where the technologies are distinguished from each other, and it
+separates the eras by character rather than by assertion: the social web and
+mobile telephony score highest, and **AI is the outlier at a tenth of them**. That
+single number is the only claim this work makes about AI — it substitutes heavily
+and connects almost nobody.
+
+The consequence shows in the market. Advances before 2000 run at 1.5–1.9× the
+run's mean arrival intensity; every advance after 2010 runs below a third of it
+and is short covering. **The century's turn is the last time buying itself lifted
+this market.** See [[loop-simulation]].
+
 ## Related
 
 - [[DEC-008-bearer-bond-is-perpetual]]
@@ -104,4 +116,4 @@ observation and which part is estimate.
 
 ## Sources
 
-- `SRC-2026-09-20-bearer-bond-issuance` — **unregistered placeholder**; the 2026-09-20 conversation
+- [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)

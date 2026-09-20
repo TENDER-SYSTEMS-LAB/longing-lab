@@ -1,5 +1,5 @@
 ---
-status: working
+status: confirmed
 attribution: user-confirmed
 updated: 2026-09-20
 sources:
@@ -7,9 +7,6 @@ sources:
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
-
-> Provenance pending: `SRC-2026-09-20-bearer-bond-issuance` is an unregistered
-> placeholder. See [[DEC-008-bearer-bond-is-perpetual]].
 
 ## The decision
 
@@ -130,4 +127,4 @@ global.
 
 ## Sources
 
-- `SRC-2026-09-20-bearer-bond-issuance` — **unregistered placeholder**; the 2026-09-20 conversation
+- [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)

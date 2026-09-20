@@ -1,8 +1,11 @@
 ---
 status: working
 attribution: llm-proposed
-updated: 2026-09-19
+updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-simulation-rebuild
+  - SRC-2026-09-20-rebuild-findings
+  - SRC-2026-09-20-loop-simulation-harness-v3
   - SRC-2026-09-19-market-texture-session
   - SRC-2026-09-19-market-texture-findings
   - SRC-2026-09-19-loop-simulation-harness-v2
@@ -181,6 +184,60 @@ register of [[DEC-002-research-house-form]]**. It answers whether the surface
 reads as traded rather than drawn. It is not evidence about human practice, and
 nothing becomes selected by having produced a convincing chart.
 
+## Third round — rebuilt on DEC-008 and DEC-009 (2026-09-20)
+
+The first two rounds tested a design that has since been replaced. The harness was
+rebuilt on the decisions as they now stand and **16 tests pass, half of them new**.
+Full detail is in [[SRC-2026-09-20-rebuild-findings]].
+
+### What the new structure does that the old one could not
+
+- **The decline is redemption.** Calls outweigh defaults about three to one; 74%
+  of the balance that leaves does so because someone can now manage alone. Nobody
+  has to be betrayed for the total to fall.
+- **Arrival is visible.** `CALL` rises to x1.43 of its listing fundamental before
+  substitution overtakes it, then falls to x0.30. Telephony created unplanned
+  calls before it made them unnecessary.
+- **A practice can be resumed.** Outstanding attention rises in 969 of 1565 weeks.
+- **The markets converge and nothing declares it.** Cross-market return
+  correlation runs +0.21 early to +0.86 late, because early waves land years apart
+  in the three countries and late ones land in the same season.
+
+### Five defects, one of them methodological
+
+- **Unnormalised drivers.** Magic constants carried over from the single-market
+  model put the index at 526× its base. Normalising both drivers to sum to one
+  across the run turned every coefficient into an elasticity and removed them.
+- **No issuance between waves**, so in the years between technologies nobody
+  formed a relationship and float starved. A baseline issuance term fixes it.
+- **Adoption curves narrower than history** — sixteen months, when Korean
+  broadband alone took five years. Multi-year advances capped at 93 weeks because
+  of it. The curve was corrected to match the world; the threshold was not lowered
+  to pass the test.
+- **A test passing for the wrong reason.** *Arrival raises before substitution
+  takes* was measured on the quote, which carries the event premium. Measured on
+  the fundamental, net drift was negative from week zero: **the arrival phase did
+  not exist at all**, and the apparent peak was entirely premium. Write the test
+  against the quantity the claim is about.
+- **Positioning could only be short**, so the only force that could lift a price
+  was covering. The user named it: technology brings romance too. Positioning is
+  now signed and follows a trend, which produced demand-driven rallies and gave
+  the market a **downside** mechanism it had never had — a crowded long
+  liquidating when a revival ends.
+
+### Left unbalanced on purpose
+
+All 33 forced long liquidations fall in one episode. A mass-participation bubble
+in these practices recurring several times in thirty years would be less credible
+than its happening once.
+
+### Still not established
+
+Wave dates are placeholders shaped after the real order of arrival. No statistical
+series has been collected, no normalisation rule across three national definitions
+exists, no proxy is selected, and the `creates` coefficients are judgements rather
+than measurements.
+
 ## Related
 
 - [[DEC-007-standard-return-numeraire]]
@@ -193,6 +250,9 @@ nothing becomes selected by having produced a convincing chart.
 
 ## Sources
 
+- [[SRC-2026-09-20-simulation-rebuild]] — [raw/conversations/2026-09-20-simulation-rebuild.md](../../raw/conversations/2026-09-20-simulation-rebuild.md); the instruction to rebuild, and the correction that shorts are not the only thing that lifts a price
+- [[SRC-2026-09-20-rebuild-findings]] — [raw/documents/2026-09-20-rebuild-findings.md](../../raw/documents/2026-09-20-rebuild-findings.md); five defects and what the new structure does
+- [[SRC-2026-09-20-loop-simulation-harness-v3]] — [raw/documents/2026-09-20-loop-simulation-harness-v3.py](../../raw/documents/2026-09-20-loop-simulation-harness-v3.py); the current instrument, superseding v2
 - [[SRC-2026-09-19-market-texture-session]] — [raw/conversations/2026-09-19-market-texture-session.md](../../raw/conversations/2026-09-19-market-texture-session.md); the requirement that the market read as a real index inverted
 - [[SRC-2026-09-19-market-texture-findings]] — [raw/documents/2026-09-19-market-texture-findings.md](../../raw/documents/2026-09-19-market-texture-findings.md); six mechanisms, three defects, and the calibration boundary
 - [[SRC-2026-09-19-loop-simulation-harness-v2]] — [raw/documents/2026-09-19-loop-simulation-harness-v2.py](../../raw/documents/2026-09-19-loop-simulation-harness-v2.py); the current instrument, superseding the 2026-09-16 harness
