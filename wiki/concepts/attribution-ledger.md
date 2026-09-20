@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-joint-line-as-a-range
   - SRC-2026-09-20-hearts-cooling-line
   - SRC-2026-09-20-orthogonalisation-order
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
@@ -93,7 +94,7 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 
 ## Evolution — the order is decided (2026-09-20)
 
-[[DEC-010-declared-order-with-a-joint-line]] closes the order question. The split is a recursive orthogonalisation in a published sequence — numeraire, declared schedule, priced factors, positioning, reflexive, `Unexplained` — justified as *measured before estimated* rather than as a causal claim, and the ledger gains a line: `Joint`, the amount the split would move under the alternative order. This is the third distinction the page now draws. Exact accounting is the sum; causal recovery is what returns cannot give; and `Joint` is the size of the gap between them for the week, published rather than assigned. In the generated world it is large early and small late. How `Joint` is computed for more than one swap, and whether it or `Unexplained` is shown to the viewer, stay open.
+[[DEC-010-declared-order-with-a-joint-line]] closes the order question. The split is a recursive orthogonalisation in a published sequence — numeraire, declared schedule, priced factors, positioning, reflexive, `Unexplained` — justified as *measured before estimated* rather than as a causal claim, and the ledger gains a line: `Joint`, the amount the split would move under the alternative order. This is the third distinction the page now draws. Exact accounting is the sum; causal recovery is what returns cannot give; and `Joint` is the size of the gap between them for the week, published rather than assigned. In the generated world it is large early and small late. ~~How `Joint` is computed for more than one swap~~ was decided later the same day: the range over every admissible order, per line the largest minus the smallest attribution across them, a width that does not enter the sum. Whether it is shown to the viewer stays open; `Unexplained` is shown, by [[DEC-011-the-audience-ledger-reads-hearts-cooling]].
 
 ## Evolution — the audience receipt (2026-09-20)
 
@@ -131,6 +132,7 @@ The seven-response [[factor-identification-review]] gives the ledger its first c
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine closed as moot, the order deferred
 - [[SRC-2026-09-20-orthogonalisation-order]] — [raw/conversations/2026-09-20-orthogonalisation-order.md](../../raw/conversations/2026-09-20-orthogonalisation-order.md); the order decided, the `Joint` line added
+- [[SRC-2026-09-20-joint-line-as-a-range]] — [raw/conversations/2026-09-20-joint-line-as-a-range.md](../../raw/conversations/2026-09-20-joint-line-as-a-range.md); `Joint` computed as the range over every admissible order
 - [[SRC-2026-09-20-hearts-cooling-line]] — [raw/conversations/2026-09-20-hearts-cooling-line.md](../../raw/conversations/2026-09-20-hearts-cooling-line.md); the audience receipt and the hearts-cooling line
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — [raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md](../../raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md)

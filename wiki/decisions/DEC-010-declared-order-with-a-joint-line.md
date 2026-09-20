@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-joint-line-as-a-range
   - SRC-2026-09-20-orthogonalisation-order
   - SRC-2026-09-20-round-decisions-and-deferrals
   - SRC-2026-09-20-identification-experiment-findings-v4
@@ -44,10 +45,22 @@ The institute's bias is the work's subject ([[Q-003-calibrating-the-bias]]), so 
 ## What this does not decide
 
 - **Where the `Joint` line sits in the display**, whether it is a ledger line the viewer sees or an internal diagnostic like `Unexplained`. The same question is open for `Unexplained` on [[attribution-ledger]].
-- **How `Joint` is computed** when more than two lines can be swapped. The experiment swapped two of six; the assistant's example was that single swap. Whether `Joint` is one alternative order, the range over all orders, or something between is unspecified. `llm-proposed` territory.
+- ~~**How `Joint` is computed** when more than two lines can be swapped.~~ Closed 2026-09-20 below: the range over every admissible order. What the range still needs is a statement of *what is permuted* — whether a block of several lines (the waves of the schedule, the priced factors) is fitted jointly so that only blocks are ordered; that is the assistant's proposal and remains `llm-proposed`.
 - **The internal order of the estimated block** — priced factors, then positioning, then reflexive — is inherited from the reviewers' assumed order, not chosen on its own grounds. That positioning belongs to the estimated block at all is settled by [[DEC-007-standard-return-numeraire]]'s `MODELED` tag, noted on [[DEC-011-the-audience-ledger-reads-hearts-cooling]]. The reflexive line is last by construction because it is lagged; the factor-before-positioning position has no argument recorded.
 - **Whether the schedule is one line or one per wave.** [[technology-waves]] carries several waves; part 2 says the measured block goes first, not how the block is ordered inside itself.
 - The exact-sum requirement: adding `Joint` to a ledger that must sum to the week's return needs the finite-change allocation rule [[attribution-ledger]] already lists as unstated.
+
+## Evolution — `Joint` is the range over every admissible order (2026-09-20)
+
+Asked, in plain language, what the line is, and told that the experiment had measured one swap of six lines, the user chose the computation:
+
+> 순서 조합 전부 돌려 범위로 내자. 결정 기록해줘.
+
+**`Joint` is computed by running every order combination and publishing the range**, `user-confirmed`. Per line, it is the largest minus the smallest attribution that line receives across the orders. The assistant's reading, recorded as such, is that *every combination* means every order that respects the constraints parts 1–3 already fix — measured lines before estimated lines, the reflexive line last by construction — since the user was answering a summary of that proposal ([[SRC-2026-09-20-hearts-cooling-line]], option b) and a sweep that also permuted the measured block would contradict the decision it extends. Under those constraints, with the schedule, the priced factors and positioning as the three movable blocks, six orders are run; the count grows with the blocks, not with the lines, only if blocks are fitted jointly, which is still a proposal.
+
+Because the range is a width and not a share, it is not additive: the declared lines still sum to the week's return and `Joint` does not enter the sum, so the finite-change allocation rule noted above is not required by this line. The 1.85 / 0.57 single-swap figures on [[identification-experiment]] become a lower bound on the early and late widths, not the width itself.
+
+Still open after this: whether `Joint` is shown to the audience, and how; the joint fit of blocks; and a question the user attached to the decision — whether each analyst may carry a different order — which the assistant answered with a proposal, that the house ledger keeps one order and each analyst's monthly research declares its own reading as a point inside, or exempt from, the house band. `llm-proposed`, not answered. See [[analyst-system]].
 
 ## Related
 
@@ -62,6 +75,7 @@ The institute's bias is the work's subject ([[Q-003-calibrating-the-bias]]), so 
 
 ## Sources
 
+- [[SRC-2026-09-20-joint-line-as-a-range]] — [raw/conversations/2026-09-20-joint-line-as-a-range.md](../../raw/conversations/2026-09-20-joint-line-as-a-range.md); `Joint` computed as the range over every admissible order
 - [[SRC-2026-09-20-orthogonalisation-order]] — [raw/conversations/2026-09-20-orthogonalisation-order.md](../../raw/conversations/2026-09-20-orthogonalisation-order.md)
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the deferral this decision closes
 - [[SRC-2026-09-20-identification-experiment-findings-v4]] — [raw/documents/2026-09-20-identification-experiment-findings-v4.md](../../raw/documents/2026-09-20-identification-experiment-findings-v4.md); the order-sensitivity figures

@@ -44,7 +44,7 @@ The numeraire line — the ruler moved — is not on this receipt; where it goes
 
 ## What this does not decide
 
-- The `Joint` line's computation and display: the assistant's proposals — the range over the six orders that respect the measured-first and reflexive-last constraints, blocks fitted jointly so that within-block order does not arise, `Joint` shown as a width beside each line rather than an additive row, and no change to the exact sum — were put and not answered. All `llm-proposed`.
+- The `Joint` line's ~~computation and~~ display: the assistant's proposals — the range over the six orders that respect the measured-first and reflexive-last constraints, blocks fitted jointly so that within-block order does not arise, `Joint` shown as a width beside each line rather than an additive row, and no change to the exact sum — were put and not answered here. The first was decided later the same day on [[DEC-010-declared-order-with-a-joint-line]]: the range over every admissible order, `user-confirmed`. The joint fit, the display as a width, and the receipt's treatment of it remain `llm-proposed`.
 - Where the numeraire revision appears on the audience receipt.
 - Whether the security-fundamentals layer of the worked example on [[attribution-ledger]] has an audience line.
 - The published wording of the five lines.
