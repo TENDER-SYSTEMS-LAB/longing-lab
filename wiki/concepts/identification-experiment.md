@@ -13,6 +13,8 @@ sources:
   - SRC-2026-09-20-wave-calibration-from-national-series
   - SRC-2026-09-20-nia-internet-usage-survey-2025-record
   - SRC-2026-09-20-no-korean-time-series
+  - SRC-2026-09-20-identification-experiment-gates
+  - SRC-2026-09-20-identification-experiment-findings-v4
 ---
 
 # Identification Experiment
@@ -49,10 +51,14 @@ The same day the mobile and broadband dates were replaced by logistic fits to th
 
 Smartphone and social-web dates for Japan and the United States were then fitted from national series — [[SRC-2026-09-20-wave-calibration-from-national-series]] — with Korea left on placeholders, and the run repeated: [[SRC-2026-09-20-identification-experiment-findings-v3]]. Sixteen tests pass. The five readings hold in conclusion, but the early market and common blocks grow (0.10 → 0.14, 0.09 → 0.16), the estimator over-counts a truth of three early, cross-market transportability rises early and falls late, and the largest melt-up moves to 1998. All of it follows from one row: Korea's placeholder social-web date sits sixteen years before Japan's measured one, which itself dates a late survey definition. The v5 numbers are read as partly an artefact of mixing placeholders with measurements inside a wave; **v4 remains the cleaner comparison.** The early order sensitivity is 1.88.
 
+## Fourth run — the rest of the gate battery, on v4
+
+The five gates the first run left untested were run on the working build, each calibrated on a planted null where a threshold is needed — [[SRC-2026-09-20-identification-experiment-findings-v4]]. **Only two gates carry power on this world.** The held-out gate (first run) and the **support floor** — which rejects every cell, market and practice effect and passes everything else, the formal form of *an effect with ambitions* — are the promotion rule; the rest are recorded with their failure modes. **Bulk clearance** has power about 0.5: a random direction already sits at twice the bulk because nine pervasive factors fill the space, and the generator's factors are of similar size, so half of them are too weak to clear the calibrated margin in a 400-week window. **Stability** of loading signs has no power: a random direction's loadings are also stable, at 82–88% sign agreement, because the residual is pervasive. The **placebo** on permuted arrival labels does not reject early or late — more than a third of the five permutations explain as much as the truth — and early that is the *measured* dates doing it: Korea and Japan reach mobile in the same season and broadband within two years, so the cross-market stagger [[DEC-009-three-markets-and-convergence]] relies on is, for the two waves now measured, smaller than the placeholder world assumed. The declared schedule stays a measured line, but returns alone would not recover which market's schedule is which. The **Unexplained monitor** is weak late and points the wrong way early with the eigenvalue-ratio estimator. All `llm-proposed`; the nulls are random directions in the full space, and a null drawn inside the interaction space would be stricter.
+
 ## What it makes possible next
 
 - Obtain a Korean smartphone series and a Korean social-web series that contains its own midpoint, so the two newly dated waves are measured in all three markets and the mix goes away; the data.go.kr file, MSIT's attachments and KOSIS all refused the session. The user then fetched the data.go.kr file by hand; it is 2025 microdata, one year, and gives a point (smartphone ownership 96.8%, SNS 61.3%) but not a series — [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]]. The series still has to come from KOSIS or the annual reports, and the user reports that they are not available. The v5 run therefore stands as a demonstration of the mixing distortion, v4 is the working world, and a wave is wired only when all three markets are measured.
-- Run the rest of the gate battery, and the placebo on permuted arrival labels.
+- Restate the stability gate against something a null lacks, and draw nulls inside the interaction space, so the two gates that failed get a fair second run.
 - Use the order-sensitivity number when the deferred orthogonalisation decision is taken up.
 
 ## Related
@@ -74,3 +80,5 @@ Smartphone and social-web dates for Japan and the United States were then fitted
 - [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); how the two dates were measured
 - [[SRC-2026-09-20-identification-experiment-findings-v3]] — [raw/documents/2026-09-20-identification-experiment-findings-v3.md](../../raw/documents/2026-09-20-identification-experiment-findings-v3.md); the third run, on v5
 - [[SRC-2026-09-20-wave-calibration-from-national-series]] — [raw/documents/2026-09-20-wave-calibration-from-national-series.md](../../raw/documents/2026-09-20-wave-calibration-from-national-series.md); the two further waves
+- [[SRC-2026-09-20-identification-experiment-gates]] — [raw/documents/2026-09-20-identification-experiment-gates.py](../../raw/documents/2026-09-20-identification-experiment-gates.py); the five remaining gates
+- [[SRC-2026-09-20-identification-experiment-findings-v4]] — [raw/documents/2026-09-20-identification-experiment-findings-v4.md](../../raw/documents/2026-09-20-identification-experiment-findings-v4.md); the battery on v4

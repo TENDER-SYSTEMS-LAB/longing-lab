@@ -7,6 +7,7 @@ sources:
   - SRC-2026-09-20-factor-identification-prompt
   - SRC-2026-09-20-institution-naming-prompt
   - SRC-2026-09-20-japanese-publisher-is-national
+  - SRC-2026-09-20-identification-experiment-findings-v4
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
@@ -149,7 +150,13 @@ messaging, AI — were never identified at all. And the correlation path is not
 the right observable: `+0.2 → +0.9` can mean local shocks shrinking or global
 variance growing, and only the absolute variance of the two market contrasts
 distinguishes them. None of this reverses the decision; it says exactly what
-the decision bought.
+the decision bought. A later run the same day — the placebo gate in
+[[identification-experiment]] — adds a number to it: with mobile and broadband
+dated from measurement, Korea and Japan arrive in the same season and the
+United States within two years, and permuting the market labels of the declared
+schedule costs no explanatory power. The stagger this page relies on is, for the
+two measured waves, smaller than the placeholders assumed; the naming of local
+versus common survives, the estimation from timing does not, for those waves.
 
 ## Related
 
