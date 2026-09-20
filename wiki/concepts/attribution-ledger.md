@@ -17,6 +17,7 @@ sources:
   - SRC-2026-09-06-factor-set-failure-profile-chatgpt
   - SRC-2026-09-06-factor-set-failure-profile-glm
   - SRC-2026-09-20-factor-identification-prompt
+  - SRC-2026-09-20-round-decisions-and-deferrals
 ---
 
 # Attribution Ledger
@@ -84,8 +85,8 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 - Whether the three-layer allocation rule survives user review, and in what form.
 - Whether a per-factor separability test — a factor earns a ledger line when at least one security in the universe responds to it differently from every other factor — replaces the earlier working ratio of roughly one factor per three securities. Proposed by the assistant; not confirmed. See [[DEC-005-ledger-resolution-scales-with-universe]].
 - Which nine (or so) factors form the starting ledger, which is not yet decided.
-- **Whether "nine" counts priced factor lines or every line.** The ledger's fixed lines — numeraire, substitution, positioning, reflexive, `Unexplained` — and its priced factor lines are enumerated separately, and the fourth round split on which the count of nine includes. The two readings give different defensible openings. Not recorded; needs the user. See [[factor-identification-review]].
-- **The orthogonalisation order.** The fourth round agrees the weekly split is a recursive residualisation in a declared order — numeraire, substitution, priced factors, positioning, reflexive, `Unexplained` is the order most reviewers assume — and that the order determines the split, cannot be tested from returns, and must be published. No order is chosen.
+- ~~Whether "nine" counts priced factor lines or every line.~~ Closed 2026-09-20: the user said nine was an LLM proposal, not a designed number, and the count may grow as needed. See [[DEC-005-ledger-resolution-scales-with-universe]].
+- **The orthogonalisation order.** The fourth round agrees the weekly split is a recursive residualisation in a declared order — numeraire, substitution, priced factors, positioning, reflexive, `Unexplained` is the order most reviewers assume — and that the order determines the split, cannot be tested from returns, and must be published. No order is chosen; the user deferred it on 2026-09-20 to a later discussion.
 
 ## Evolution — round 3 tests the ledger's causal language
 
@@ -115,6 +116,7 @@ The seven-response [[factor-identification-review]] gives the ledger its first c
 
 - [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — [raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md](../../raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md)
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
+- [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine closed as moot, the order deferred
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — [raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md](../../raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — [raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md](../../raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md)

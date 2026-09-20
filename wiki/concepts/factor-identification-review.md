@@ -11,6 +11,7 @@ sources:
   - SRC-2026-09-20-factor-identification-glm
   - SRC-2026-09-20-factor-identification-grok
   - SRC-2026-09-20-factor-identification-qwen
+  - SRC-2026-09-20-round-decisions-and-deferrals
 ---
 
 # Factor Identification Review
@@ -27,7 +28,7 @@ The result is a **conditional frontier**, not a factor set. No factor, name, coe
 
 All seven responses reach Section 8 and answer in the required order. Six are in English; **Gemini's response is in Korean**, and it is the least compliant: it states a convergence threshold (`r ≥ 0.85`), promotion thresholds (`t > 2.58`, `|λ| > 0.35`, `ΔR² ≥ 0.05` over 52 weeks) and a labelled nine-line set with named securities, all of which the prompt forbade inventing. Its content is recorded where it agrees with others and flagged where it stands alone. ChatGPT cites external references inline; the others cite the literature by name. No response ran an estimation; every procedure in Section 7 is proposed, not executed.
 
-**The prompt has one defect the round exposed.** It says the ledger has one line each for numeraire, substitution, positioning, reflexivity and `Unexplained`, plus "one line per priced factor", and then says it "opens near nine factor lines". Five reviewers read *nine priced factors*; GLM read *nine total lines* and answered under that reading, with the alternative given; Qwen and Grok answered both. The two readings give different frontiers — under the total-lines reading GLM's defensible opening count is eight, and under the priced-only reading it is three. Which count the decision in [[DEC-005-ledger-resolution-scales-with-universe]] meant is not recorded anywhere and is now an open question on [[attribution-ledger]].
+**The prompt has one defect the round exposed.** It says the ledger has one line each for numeraire, substitution, positioning, reflexivity and `Unexplained`, plus "one line per priced factor", and then says it "opens near nine factor lines". Five reviewers read *nine priced factors*; GLM read *nine total lines* and answered under that reading, with the alternative given; Qwen and Grok answered both. The two readings give different frontiers — under the total-lines reading GLM's defensible opening count is eight, and under the priced-only reading it is three. Which count the decision in [[DEC-005-ledger-resolution-scales-with-universe]] meant turned out to be the wrong question: asked, the user said the nine was an LLM proposal they had gone along with, not a designed number, and that the factor count may be raised as needed. The ambiguity is closed as moot, and the counts in the table below are read as what the listing supports, not as verdicts on a target.
 
 ## Where the round converges
 
@@ -169,3 +170,4 @@ The prompt permitted framing objections in Section 8 only. Those raised:
 - [[SRC-2026-09-20-factor-identification-glm]] — [raw/surveys/2026-09-20-factor-identification-glm.md](../../raw/surveys/2026-09-20-factor-identification-glm.md)
 - [[SRC-2026-09-20-factor-identification-grok]] — [raw/surveys/2026-09-20-factor-identification-grok.md](../../raw/surveys/2026-09-20-factor-identification-grok.md)
 - [[SRC-2026-09-20-factor-identification-qwen]] — [raw/surveys/2026-09-20-factor-identification-qwen.md](../../raw/surveys/2026-09-20-factor-identification-qwen.md)
+- [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the user's answer on the counting convention

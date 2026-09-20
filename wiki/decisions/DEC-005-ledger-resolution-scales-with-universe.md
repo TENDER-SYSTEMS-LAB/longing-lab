@@ -6,6 +6,7 @@ sources:
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
   - SRC-2026-09-20-factor-identification-prompt
+  - SRC-2026-09-20-round-decisions-and-deferrals
 ---
 
 # DEC-005 — Ledger resolution scales with the security universe
@@ -63,6 +64,12 @@ The two positions above were carried into the 2026-09-20 factor identification r
 
 The decision is unchanged. What changed is that its open promotion criterion now has a candidate shape and its count has a derivable ceiling.
 
+## Evolution — nine was never the author's number (2026-09-20)
+
+Asked, after the fourth round, which of two counting conventions *near nine* had meant, the user answered that the nine was not theirs: it was an LLM proposal — the line count of the worked example the assistant had printed on 2026-09-06 — that the user went along with, and **the factor count may be raised as needed**. `user-originated`.
+
+This clarifies rather than changes the decision. What the user fixed on 2026-09-06 was the rule — the count grows with the universe — and that stands. What the user did not fix was a starting number, so the question the fourth round raised, whether nine counts priced lines or every line, has no referent and is closed as moot. The opening count is whatever the listing supports, which [[factor-identification-review]] now bounds from the design side: thirteen named directions at most, plus measured lines, with the realised number set by a promotion test. The summary line *start near nine displayed factors* above is kept as the record of what was said and how it was read at the time; it is not a target.
+
 ## Status
 
 Confirmed. The user stated the rule directly in response to a direct question, in the same exchange that also stated related positions (that unattributable events should not occur, and that factors should be abstract but numerous) which are recorded separately as `user-originated` and `working` because they are stated directions rather than specified mechanisms — see [[attribution-ledger]].
@@ -81,3 +88,4 @@ Confirmed. The user stated the rule directly in response to a direct question, i
 - [[SRC-2026-09-06-attribution-resolution-and-universe-scaling]] — [raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md](../../raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md)
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
+- [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine was an LLM proposal, the count may grow

@@ -72,6 +72,7 @@ sources:
   - SRC-2026-09-20-proxy-sourcing-glm
   - SRC-2026-09-20-proxy-sourcing-grok
   - SRC-2026-09-20-proxy-sourcing-qwen
+  - SRC-2026-09-20-round-decisions-and-deferrals
 ---
 
 # Current State
@@ -156,8 +157,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 - **What a zero quote means.** High-β securities reach numerical zero in the first run. No floor, no delisting rule, no stated meaning. See [[Q-002-listing-lifecycle]].
 - **Which specification to build.** The first review round differed on nearly every parameter; the second expands the choice into which factors are priced, which remain indicators, how many constituents are needed to support them, and how exact attribution handles interaction and correlation. Ledger *resolution* is no longer open in this list — it is settled as a rule, factor count as a function of universe size, see [[DEC-005-ledger-resolution-scales-with-universe]] — but ledger *membership*, which specific factors fill the starting nine and which candidate is promoted next, remains open — but the fourth round narrows it: the listing supports thirteen named directions at most, never all at once, and the opening count the seven reviews derive runs from three to thirteen depending on a counting convention the decision never fixed. Which factors, still open; how many the universe can carry, now a test rather than a choice. See [[model-review-consensus]], [[factor-architecture-review-consensus]] and [[factor-identification-review]].
 - **Numeraire values, not the numeraire itself.** The unit, the quote convention, and the index weighting are settled in [[DEC-007-standard-return-numeraire]]; what is unset is every number in it — basket membership and base date, the effort coefficient `c`, the loop gain `g`, the substitution mapping, the learning-material function and its peak, and `βᵢᵐᵃˣ` for every security. The review round this question was to be put to is moot as framed.
-- **Whether "nine factor lines" counts priced factors only or every attribution line.** [[DEC-005-ledger-resolution-scales-with-universe]] says *near nine displayed factors*; the fourth-round prompt listed the standing lines and then gave the count, and the seven reviews split on the reading. Under one reading the defensible opening ledger has eight lines, under the other three. Not recorded anywhere; needs the user. See [[factor-identification-review]] and [[attribution-ledger]].
-- **The attribution's orthogonalisation order.** The fourth round agrees the weekly split is a recursive orthogonalisation whose order determines the result and cannot be tested from returns, so it must be published. No order is chosen. See [[factor-identification-review]].
+- **The attribution's orthogonalisation order.** The fourth round agrees the weekly split is a recursive orthogonalisation whose order determines the result and cannot be tested from returns, so it must be published. No order is chosen. Deferred by the user on 2026-09-20. See [[factor-identification-review]].
 - **Whether there is a periodic observable.** Nothing in the current design can surprise anyone, and two reviews call this the largest remaining gap: without something scheduled to be wrong about, monthly analyst opinion is commentary rather than information.
 - **How to generate the selected fictional history.** Its period, scope, underlying data, coefficients, and acceptance criteria remain open. A later empirical input is possible but is not the current production basis. See [[data-sources]].
 - **Listing lifecycle**: who lists, whether scarcity raises or lowers price, delisting, where a delisted romance goes, whether one person resuming a practice relists it. See [[Q-002-listing-lifecycle]].
@@ -191,6 +191,8 @@ An initial dataset investigation requested by the user is now recorded in [[data
 
 ## Deferred
 
+**Deferred by the user on 2026-09-20 to a later discussion**, after the three review rounds were synthesised: the attribution's orthogonalisation order; the measurement boundary (one per series or one collapsed week); the replacement of the `KOCPI` placeholder; whether the category word may appear in an acronym; how the three unmeasurable waves — dial-up, messaging, generative AI — are carried in [[technology-waves]]; the normalisation's scaling step; the default-cluster size; the meaning of a zero quote and the listing lifecycle; the repository and account rename; and tickers, codes, currency, medium, the name's collision check and the periodic observable. Two things were settled in the same reply: *nine* was an LLM proposal and the factor count may grow — see [[DEC-005-ledger-resolution-scales-with-universe]] — and real-world naming conventions need not be followed exactly. See [[SRC-2026-09-20-round-decisions-and-deferrals]].
+
 Seven sibling formats built on the same grammar — an abolished-jobs recruitment site, a government-style romance white paper, a cold-storage memory archive, Romance as a Service, parcel tracking, a social network of moments, and the archive of a radio station that never existed. Recorded as possible future works, not as parts of LONGING RESEARCH. See [[DEC-002-research-house-form]].
 
 **Reflexivity is no longer deferred.** [[DEC-007-standard-return-numeraire]] puts a feedback loop in V1, against the first round's unanimous advice to defer it; the user supplied the reflexive premise directly, and the accepted cost is that one published coefficient governs the speed of the whole work. The earlier reviews recommended deferring reflexivity, leverage/forced selling, correlation-regime switching, seasonality, stochastic volatility, and an options-style volatility index. This was review advice, not a user decision. On 2026-09-07 the user explicitly reopened forced covering and convincing financial amplification for exploration; no mechanism is adopted. Other extensions retain their proposal status.
@@ -209,6 +211,7 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 ## Sources
 
+- [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine was an LLM proposal, eight deferrals, `user-originated`
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../raw/conversations/2026-09-20-requisition-cap-decision.md); the `s(t)` cap, `user-originated`
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../raw/documents/2026-09-20-factor-identification-prompt.md); the fourth factor round, registered before dispatch
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the sourcing round, registered before dispatch

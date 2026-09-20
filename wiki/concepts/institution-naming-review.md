@@ -11,6 +11,7 @@ sources:
   - SRC-2026-09-20-institution-naming-glm
   - SRC-2026-09-20-institution-naming-grok
   - SRC-2026-09-20-institution-naming-qwen
+  - SRC-2026-09-20-round-decisions-and-deferrals
 ---
 
 # Institution Naming Review
@@ -95,7 +96,9 @@ Three things this round leaves for the user rather than for another round:
 
 - **Whether the Japanese publisher is national or regional.** A regional masthead is easier to keep clear of the Nikkei lineage and harder to keep clear of the 経済新聞 network, and it changes what the index name says about who had the right to measure.
 - **Whether the category word may appear.** *Practice* in an acronym's expansion is administrative to one reviewer and a leak to another.
-- **The count convention for the US index**, which now has three incompatible readings — a period-authentic 90, a specialist 80 or 120, or the literal 11 — and which depends on what [[Q-002-listing-lifecycle]] decides about reconstitution.
+- **The count convention for the US index**, which now has three incompatible readings — a period-authentic 90, a specialist 80 or 120, or the literal 11 — and which depends on what [[Q-002-listing-lifecycle]] decides about reconstitution. The user's answer on 2026-09-20: *the world need not be followed so exactly* — period authenticity is not a constraint on the number. `user-originated`; the number itself is still unselected.
+
+On 2026-09-20 the user deferred the category-word question and the `KOCPI` replacement to a later discussion, and asked what a national versus a regional publisher would mean; that answer was given in chat and is not a decision.
 
 ## Related
 
@@ -116,3 +119,4 @@ Three things this round leaves for the user rather than for another round:
 - [[SRC-2026-09-20-institution-naming-glm]] — [raw/surveys/2026-09-20-institution-naming-glm.md](../../raw/surveys/2026-09-20-institution-naming-glm.md)
 - [[SRC-2026-09-20-institution-naming-grok]] — [raw/surveys/2026-09-20-institution-naming-grok.md](../../raw/surveys/2026-09-20-institution-naming-grok.md)
 - [[SRC-2026-09-20-institution-naming-qwen]] — [raw/surveys/2026-09-20-institution-naming-qwen.md](../../raw/surveys/2026-09-20-institution-naming-qwen.md)
+- [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the user's answers on the three questions

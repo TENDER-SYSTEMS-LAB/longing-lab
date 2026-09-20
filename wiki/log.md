@@ -503,3 +503,15 @@ Seven responses to [[SRC-2026-09-20-proxy-sourcing-prompt]] — ChatGPT, Claude,
 **Seven normalisation rules agree on every principle** — one spine per technology never spliced, true reference dates, frozen vintages, no interpolation without a flag, chain-link only with an overlap year — and differ only in the scaling step, which is tabulated as a design choice. What survives any rule: within-country paths and cross-country timing; what survives none: cross-country levels off the harmonised spine, and any cross-country social, messaging or generative-AI comparison.
 
 Source quality is recorded: ChatGPT reports verified coverage only and checks licences edition by edition (Korea's are KOGL Type 4 or Type 1 per file, which matters for a published index); Claude and Grok ran live checks; GLM ran none and says so; Qwen supplies the invented divisors the prompt named as the failure mode and is not used. Evolution notes on [[technology-waves]] and [[data-sources]]; [[current-state]]'s *every number* bullet narrowed. Nothing downloaded, no proxy selected, no registered original modified.
+
+## [2026-09-20] decision | Nine was never the author's number, and most of the rest waits
+
+Registered [[SRC-2026-09-20-round-decisions-and-deferrals]] (hash `384ad1e4945807593df25a4ffb870680a0852375`), `user-originated`: the user's reply to the list of decisions left open after the three syntheses.
+
+**Nine closed as moot.** The fourth round had found that neither [[DEC-005-ledger-resolution-scales-with-universe]] nor its prompt said whether *near nine factor lines* counted priced lines or every line. The user's answer: the nine was not theirs — it was the line count of the assistant's worked example on 2026-09-06, which the user went along with — and **the factor count may be raised as needed**. The rule that the count grows with the universe stands; the starting number was never fixed. Evolution note on DEC-005; the open question struck from [[attribution-ledger]] and [[current-state]]; the prompt-defect paragraph on [[factor-identification-review]] rewritten. This unblocks the Monte Carlo every fourth-round reviewer proposed, since the opening count is now whatever the listing supports rather than a target to interpret.
+
+**The world need not be followed exactly.** On the US index's count convention — 90, 80 or 120, or 11 — the user declined period authenticity as a constraint. Recorded on [[institution-naming-review]]; the number is still unselected.
+
+**Deferred to a later discussion**, listed under Deferred in [[current-state]]: the orthogonalisation order, the measurement boundary, the `KOCPI` replacement, the category word, the three unmeasurable waves, the normalisation's scaling step, the default-cluster size, the zero quote and listing lifecycle, the rename, and tickers, medium, the name check and the periodic observable.
+
+One question was asked back — what a national versus a regional Japanese publisher would mean — and answered in chat as an assessment, not a decision. No registered original was modified.
