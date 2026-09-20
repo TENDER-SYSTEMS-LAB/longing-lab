@@ -45,7 +45,7 @@ The institute's bias is the work's subject ([[Q-003-calibrating-the-bias]]), so 
 
 - **Where the `Joint` line sits in the display**, whether it is a ledger line the viewer sees or an internal diagnostic like `Unexplained`. The same question is open for `Unexplained` on [[attribution-ledger]].
 - **How `Joint` is computed** when more than two lines can be swapped. The experiment swapped two of six; the assistant's example was that single swap. Whether `Joint` is one alternative order, the range over all orders, or something between is unspecified. `llm-proposed` territory.
-- **The internal order of the estimated block** — priced factors, then positioning, then reflexive — is inherited from the reviewers' assumed order, not chosen on its own grounds. The reflexive line is last by construction because it is lagged; the factor-before-positioning position has no argument recorded.
+- **The internal order of the estimated block** — priced factors, then positioning, then reflexive — is inherited from the reviewers' assumed order, not chosen on its own grounds. That positioning belongs to the estimated block at all is settled by [[DEC-007-standard-return-numeraire]]'s `MODELED` tag, noted on [[DEC-011-the-audience-ledger-reads-hearts-cooling]]. The reflexive line is last by construction because it is lagged; the factor-before-positioning position has no argument recorded.
 - **Whether the schedule is one line or one per wave.** [[technology-waves]] carries several waves; part 2 says the measured block goes first, not how the block is ordered inside itself.
 - The exact-sum requirement: adding `Joint` to a ledger that must sum to the week's return needs the finite-change allocation rule [[attribution-ledger]] already lists as unstated.
 
@@ -58,6 +58,7 @@ The institute's bias is the work's subject ([[Q-003-calibrating-the-bias]]), so 
 - [[DEC-007-standard-return-numeraire]]
 - [[technology-waves]]
 - [[Q-003-calibrating-the-bias]]
+- [[DEC-011-the-audience-ledger-reads-hearts-cooling]]
 
 ## Sources
 

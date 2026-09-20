@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-20
 sources:
+  - SRC-2026-09-20-hearts-cooling-line
   - SRC-2026-09-20-orthogonalisation-order
   - SRC-2026-09-06-attribution-resolution-and-universe-scaling
   - SRC-2026-09-06-arbitrage-news-quality-and-next-work-items
@@ -82,7 +83,7 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 
 ## Open questions
 
-- Whether `Unexplained` is ever displayed to the viewer, or used only internally as a design instrument during construction.
+- ~~Whether `Unexplained` is ever displayed to the viewer, or used only internally as a design instrument during construction.~~ Closed 2026-09-20: it is on the audience receipt as *unknown*. See [[DEC-011-the-audience-ledger-reads-hearts-cooling]].
 - How a retracted or corrected report appears in a ledger week that has already been published — an exact-sum problem raised by the news-quality direction. See [[information-quality]].
 - Whether the three-layer allocation rule survives user review, and in what form.
 - Whether a per-factor separability test — a factor earns a ledger line when at least one security in the universe responds to it differently from every other factor — replaces the earlier working ratio of roughly one factor per three securities. Proposed by the assistant; not confirmed. See [[DEC-005-ledger-resolution-scales-with-universe]].
@@ -93,6 +94,10 @@ On examination, the example was mis-framed. Infrastructure viability loads heavi
 ## Evolution — the order is decided (2026-09-20)
 
 [[DEC-010-declared-order-with-a-joint-line]] closes the order question. The split is a recursive orthogonalisation in a published sequence — numeraire, declared schedule, priced factors, positioning, reflexive, `Unexplained` — justified as *measured before estimated* rather than as a causal claim, and the ledger gains a line: `Joint`, the amount the split would move under the alternative order. This is the third distinction the page now draws. Exact accounting is the sum; causal recovery is what returns cannot give; and `Joint` is the size of the gap between them for the week, published rather than assigned. In the generated world it is large early and small late. How `Joint` is computed for more than one swap, and whether it or `Unexplained` is shown to the viewer, stay open.
+
+## Evolution — the audience receipt (2026-09-20)
+
+[[DEC-011-the-audience-ledger-reads-hearts-cooling]] separates the ledger the engine keeps from the receipt the audience reads. The user's position is that the viewer need not know finance and that the work's purpose is recognition of romance leaving the age; the positioning line therefore stays in the engine, where every rally mechanism depends on it, and is published as *the share from hearts cooling* — romance valued less, as against romance diminished. The receipt has five audience lines over the engine's lines: technology, romance itself, hearts cooling, last week's report, unknown. `Unexplained` is displayed. The numeraire line's place on the receipt and the wording are open.
 
 ## Evolution — round 3 tests the ledger's causal language
 
@@ -118,6 +123,7 @@ The seven-response [[factor-identification-review]] gives the ledger its first c
 - [[Q-004-unit-of-account]]
 - [[DEC-005-ledger-resolution-scales-with-universe]]
 - [[DEC-010-declared-order-with-a-joint-line]]
+- [[DEC-011-the-audience-ledger-reads-hearts-cooling]]
 
 ## Sources
 
@@ -125,6 +131,7 @@ The seven-response [[factor-identification-review]] gives the ledger its first c
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); nine closed as moot, the order deferred
 - [[SRC-2026-09-20-orthogonalisation-order]] — [raw/conversations/2026-09-20-orthogonalisation-order.md](../../raw/conversations/2026-09-20-orthogonalisation-order.md); the order decided, the `Joint` line added
+- [[SRC-2026-09-20-hearts-cooling-line]] — [raw/conversations/2026-09-20-hearts-cooling-line.md](../../raw/conversations/2026-09-20-hearts-cooling-line.md); the audience receipt and the hearts-cooling line
 - [[SRC-2026-09-06-arbitrage-news-quality-and-next-work-items]] — [raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md](../../raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-framework]] — [raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md](../../raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md)
 - [[SRC-2026-09-05-pricing-model-v2-factor-review-prompt]] — [raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md](../../raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md)
