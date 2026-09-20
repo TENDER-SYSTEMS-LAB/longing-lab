@@ -427,3 +427,17 @@ The fifth is the user's correction. **Positioning could only be short**, so the 
 All 33 forced long liquidations fall in one episode, left unbalanced on purpose — a mass-participation bubble in these practices recurring several times in thirty years would be less credible than its happening once.
 
 **Nothing is calibrated against anything.** Wave dates are placeholders shaped after the real order of arrival, no statistical series has been collected, no normalisation rule across three national definitions exists, no proxy is selected, and the connection-creating coefficients are judgements. Matching a real index's texture remains a stylistic calibration to [[DEC-002-research-house-form]]'s terminal register. No registered original was modified.
+
+## [2026-09-20] maintenance | Three prompts written and registered before dispatch
+
+Three prompts for external models, registered on authoring rather than on dispatch: [[SRC-2026-09-20-factor-identification-prompt]] (hash `59c082e4ad3699bba93ccd3f36cd3825fdcc4c91`), [[SRC-2026-09-20-proxy-sourcing-prompt]] (`3bdd53cb7dc4c35cf68750123017ccde71ea0318`), and [[SRC-2026-09-20-institution-naming-prompt]] (`a924dcb5b5c50779e451e451809dc92b627f3627`).
+
+Registering them now is a deliberate fix. [[current-state]] has carried a provenance warning since the first review round — the round-1 prompt was never registered, so everything eight surveys say about what was asked is a secondary citation. These three cannot acquire that defect.
+
+**Nothing has been dispatched and no response exists.** Their `Ingested` column is `—`.
+
+The factor prompt opens a fourth round on a question the first three could not settle. Rounds 1 to 3 asked which factors are right and produced one more opinion per round; this one asks what the universe can **identify**, which is a property of the design rather than of the reviewer. [[DEC-009-three-markets-and-convergence]] is what makes it askable — thirty-three securities instead of eleven, and three markets that are weakly correlated early and move as one late. It carries the author's two standing positions as fixed context and forbids ranking the earlier sets.
+
+The sourcing prompt asks whether a thirty-year, three-country diffusion series can actually be assembled, and is written so that an invented figure is the named failure mode rather than a convenience. The naming prompt asks for candidates for the Japanese publisher, the United States ratings house and the three index names, and treats the collision report as the deliverable rather than the names.
+
+No decision, factor, coefficient or name is selected by this entry, and no registered original was modified.

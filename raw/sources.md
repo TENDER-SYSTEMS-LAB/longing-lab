@@ -76,6 +76,9 @@ For a lookup or suspected mismatch, search only the source ID/path and its captu
 | `SRC-2026-09-20-simulation-rebuild` | [raw/conversations/2026-09-20-simulation-rebuild.md](conversations/2026-09-20-simulation-rebuild.md) | conversation | 2026-09-20 | jointly-developed | `2efda6c9420304ee7d1b9d02a600d0e917c37582` | 2026-09-20 | promoted as the third simulation round and the signed-positioning correction |
 | `SRC-2026-09-20-rebuild-findings` | [raw/documents/2026-09-20-rebuild-findings.md](documents/2026-09-20-rebuild-findings.md) | document | 2026-09-20 | llm-proposed | `86e797688fa58159df1d08fc8a0c5d68ea3c023d` | 2026-09-20 | five defects, one of them a test that had been passing for the wrong reason |
 | `SRC-2026-09-20-loop-simulation-harness-v3` | [raw/documents/2026-09-20-loop-simulation-harness-v3.py](documents/2026-09-20-loop-simulation-harness-v3.py) | document | 2026-09-20 | llm-proposed | `442c3e1b7b9c95a14ac7ba2282604334535bb234` | 2026-09-20 | the harness rebuilt on DEC-008 and DEC-009; supersedes v2, which is retained unedited |
+| `SRC-2026-09-20-factor-identification-prompt` | [raw/documents/2026-09-20-factor-identification-prompt.md](documents/2026-09-20-factor-identification-prompt.md) | document | 2026-09-20 | jointly-developed | `59c082e4ad3699bba93ccd3f36cd3825fdcc4c91` | — | registered on authoring, not on dispatch; no round has been run against it |
+| `SRC-2026-09-20-proxy-sourcing-prompt` | [raw/documents/2026-09-20-proxy-sourcing-prompt.md](documents/2026-09-20-proxy-sourcing-prompt.md) | document | 2026-09-20 | jointly-developed | `3bdd53cb7dc4c35cf68750123017ccde71ea0318` | — | registered on authoring; undispatched |
+| `SRC-2026-09-20-institution-naming-prompt` | [raw/documents/2026-09-20-institution-naming-prompt.md](documents/2026-09-20-institution-naming-prompt.md) | document | 2026-09-20 | jointly-developed | `a924dcb5b5c50779e451e451809dc92b627f3627` | — | registered on authoring; undispatched |
 
 ## Hash convention
 
@@ -180,6 +183,24 @@ reversal is kept in the file rather than edited out.
 
 Only one thing in this group is `user-confirmed`, and it is in the conversation,
 not the report: the redefinition of anxiety as trust that never returns.
+
+## Note on the three undispatched prompts
+
+Registered **before** dispatch, on purpose. `current-state` has carried a
+provenance warning since the first review round — *the review prompt is not
+registered, so everything the surveys say about what was asked is a secondary
+citation.* Registering a prompt when it is written rather than when its answers
+arrive removes that class of defect for these rounds.
+
+Their `Ingested` column is `—` because nothing has been ingested: no round has
+been run against any of the three, and no response exists. When responses arrive
+they are registered separately as surveys and cite these hashes.
+
+The three ask for different kinds of work and should not be treated as one round.
+The factor prompt asks what the universe can identify, which is analytic. The
+sourcing prompt asks what is published, which is verifiable and where an invented
+figure is the failure mode. The naming prompt asks for candidates and, more
+importantly, for an honest account of what its collision check could not check.
 
 ## Note on the 2026-09-20 records
 
