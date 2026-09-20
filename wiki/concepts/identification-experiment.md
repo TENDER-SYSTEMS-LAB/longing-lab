@@ -9,6 +9,8 @@ sources:
   - SRC-2026-09-20-identification-experiment-v2
   - SRC-2026-09-20-identification-experiment-findings-v2
   - SRC-2026-09-20-wave-calibration-from-spine
+  - SRC-2026-09-20-identification-experiment-findings-v3
+  - SRC-2026-09-20-wave-calibration-from-national-series
 ---
 
 # Identification Experiment
@@ -41,9 +43,13 @@ No factor names. No calibration: the [[proxy-sourcing-review]] spine retrieved t
 
 The same day the mobile and broadband dates were replaced by logistic fits to the WDI spine ([[SRC-2026-09-20-wave-calibration-from-spine]]) and the run repeated on the v4 harness with the script's harness path made an argument — [[SRC-2026-09-20-identification-experiment-findings-v2]]. The sixteen design tests pass on v4. **Every one of the five readings holds.** The variance shares move by a few points and keep their shape; the early panel still collapses to one or two directions and the late panel still saturates near eight or nine, never thirteen; the calibrated gate's power stays above 0.9; two markets still explain the third only late. One number strengthened: the early order sensitivity rose from 1.45 to **1.85** times the schedule line's own size, because measured waves arrive later and closer together across markets, so in the early window less of the decline is the schedule's on its own and more of what the schedule line claims depends on whether the factor lines were removed first. The *placeholder* qualifier is weakened, not removed: five of seven waves are still guessed.
 
+## Third run — on the v5 world, with the measured and the guessed side by side
+
+Smartphone and social-web dates for Japan and the United States were then fitted from national series — [[SRC-2026-09-20-wave-calibration-from-national-series]] — with Korea left on placeholders, and the run repeated: [[SRC-2026-09-20-identification-experiment-findings-v3]]. Sixteen tests pass. The five readings hold in conclusion, but the early market and common blocks grow (0.10 → 0.14, 0.09 → 0.16), the estimator over-counts a truth of three early, cross-market transportability rises early and falls late, and the largest melt-up moves to 1998. All of it follows from one row: Korea's placeholder social-web date sits sixteen years before Japan's measured one, which itself dates a late survey definition. The v5 numbers are read as partly an artefact of mixing placeholders with measurements inside a wave; **v4 remains the cleaner comparison.** The early order sensitivity is 1.88.
+
 ## What it makes possible next
 
-- Date the remaining waves where a measured series exists in a national survey — smartphones, the social web — under the same rule, and leave dial-up, messaging and AI as declared placeholders.
+- Obtain a Korean smartphone series and a Korean social-web series that contains its own midpoint, so the two newly dated waves are measured in all three markets and the mix goes away; the data.go.kr file, MSIT's attachments and KOSIS all refused the session.
 - Run the rest of the gate battery, and the placebo on permuted arrival labels.
 - Use the order-sensitivity number when the deferred orthogonalisation decision is taken up.
 
@@ -64,3 +70,5 @@ The same day the mobile and broadband dates were replaced by logistic fits to th
 - [[SRC-2026-09-20-identification-experiment-v2]] — [raw/documents/2026-09-20-identification-experiment-v2.py](../../raw/documents/2026-09-20-identification-experiment-v2.py); the script with the harness path as an argument
 - [[SRC-2026-09-20-identification-experiment-findings-v2]] — [raw/documents/2026-09-20-identification-experiment-findings-v2.md](../../raw/documents/2026-09-20-identification-experiment-findings-v2.md); the five readings on v4 beside v3
 - [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); how the two dates were measured
+- [[SRC-2026-09-20-identification-experiment-findings-v3]] — [raw/documents/2026-09-20-identification-experiment-findings-v3.md](../../raw/documents/2026-09-20-identification-experiment-findings-v3.md); the third run, on v5
+- [[SRC-2026-09-20-wave-calibration-from-national-series]] — [raw/documents/2026-09-20-wave-calibration-from-national-series.md](../../raw/documents/2026-09-20-wave-calibration-from-national-series.md); the two further waves

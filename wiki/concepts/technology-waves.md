@@ -12,6 +12,9 @@ sources:
   - SRC-2026-09-20-wdi-spine-csv
   - SRC-2026-09-20-wave-calibration-from-spine
   - SRC-2026-09-20-loop-simulation-harness-v4
+  - SRC-2026-09-20-wave-calibration-from-national-series
+  - SRC-2026-09-20-national-series-retrieval
+  - SRC-2026-09-20-loop-simulation-harness-v5
 ---
 
 # Technology Waves — arrival raises what substitution later takes
@@ -120,6 +123,19 @@ observation and which part is estimate.
   dates; internet use was fitted as a check series and not wired, since it is
   not a dial-up series. The fits are `llm-proposed`; the harness with them is
   [[SRC-2026-09-20-loop-simulation-harness-v4]].
+  **Two more waves are dated in two markets** later the same day —
+  [[SRC-2026-09-20-wave-calibration-from-national-series]]: smartphones in Japan
+  (MIC household ownership) and the United States (Pew adults), the social web in
+  the United States (Pew, share of internet users, 2005–2015) and Japan (OECD
+  `D1B_I`, individuals 16–74, from 2012, ceiling fixed at 100). All four dates
+  are later than the placeholders; Japan's social-web date, 2014.8, dates a
+  survey definition that includes LINE rather than the arrival of the social
+  web. Korea keeps its placeholder in both: no smartphone series was reached,
+  and its OECD social-networking series begins above half its ceiling, so it
+  bounds the midpoint (at or before 2005) without containing it. The harness
+  with them is [[SRC-2026-09-20-loop-simulation-harness-v5]]; mixing a
+  placeholder with measured dates inside one wave is a recorded distortion.
+  Dial-up, messaging and AI remain placeholders.
 - **The lag between arrival and substitution**, per wave. Unselected.
 - **Named events.** Using specific cultural events puts real proper nouns into one
   market's event stream, which obliges comparable density in the other two.
@@ -156,3 +172,5 @@ this market.** See [[loop-simulation]].
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the two open items above draw on the seven responses synthesised in [[proxy-sourcing-review]]
 - [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../../raw/documents/2026-09-20-wdi-spine-retrieval.md); the spine's coverage as retrieved, with the data files it describes
 - [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); the rule and fits that date two waves
+- [[SRC-2026-09-20-wave-calibration-from-national-series]] — [raw/documents/2026-09-20-wave-calibration-from-national-series.md](../../raw/documents/2026-09-20-wave-calibration-from-national-series.md); two more waves, two markets each
+- [[SRC-2026-09-20-national-series-retrieval]] — [raw/documents/2026-09-20-national-series-retrieval.md](../../raw/documents/2026-09-20-national-series-retrieval.md); what was reached and what was not
