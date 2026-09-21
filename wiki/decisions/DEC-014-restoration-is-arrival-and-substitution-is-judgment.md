@@ -1,8 +1,11 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-21
+updated: 2026-09-22
 sources:
+  - SRC-2026-09-22-revision-conditions-a-and-b
+  - SRC-2026-09-22-weight-setting-procedure-prompt
+  - SRC-2026-09-22-exposure-sources-brainstorm-prompt
   - SRC-2026-09-21-weights-sum-to-one-and-conditional-revision
   - SRC-2026-09-21-weights-in-the-definition-exposures-measured
   - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
@@ -67,13 +70,23 @@ Put four things to decide, the user answered each ([[SRC-2026-09-21-weights-sum-
 **Decided, `user-confirmed`:**
 
 - **The two weights are a pair summing to one** — an execution share and a judgment share, so that an ambiguous practice sits near the middle and the position itself is information. The user's own prior intention, matching the assistant's candidate.
-- **A security's weights may be revised, but only under conditions fixed in advance.** There is a revision procedure with principles, and revision happens only when a stated condition is met, never at will. The conditions are not set. The assistant's earlier candidate — that a revision is recorded and past readings are recalculated — was not answered and stays `llm-proposed`.
+- **A security's weights may be revised, but only under conditions fixed in advance.** There is a revision procedure with principles, and revision happens only when a stated condition is met, never at will. ~~The conditions are not set.~~ Set the next day, below. The assistant's earlier candidate — that a revision is recorded and past readings are recalculated — was not answered and stays `llm-proposed`.
 
 **Process set by the user, `user-originated`, the outcome not decided:**
 
 - **The procedure for setting a security's weights** goes to a round of LLM opinions; the user synthesises them and makes the final call. The assistant's two candidates — set directly per security, or split the practice into steps and tag each — are inputs to that round, not a decision.
 - **The exposures' sources** are open, and the user shares the difficulty. The plan: brainstorm, ask other agents and LLMs widely, collect many kinds of data first, then narrow by quantity and quality, and only then fix the sources. Whether an exposure is measured from statistics or derived from the wave curves is inside that plan, unanswered.
 
+
+## Evolution — the revision conditions are (a) and (b); (c) is rejected (2026-09-22)
+
+Offered three candidate conditions, the user chose two and struck one ([[SRC-2026-09-22-revision-conditions-a-and-b]]):
+
+> 1. 개정 조건은 (a)랑 (b)로 가고 (c)는 빼자
+
+**`user-confirmed`:** a security's weights may be revised when **(a)** the security's own definition changes — a step of its practice is added or removed — or **(b)** the same security's weights disagree across the three markets of [[DEC-009-three-markets-and-convergence]]. **Rejected:** (c), revision because the generated record leaves a residual the weights do not explain. The assistant's ground for doubting (c), that it tunes the weights to outcomes, was offered before the choice; the choice is the user's. What a revision record contains, who initiates one, what evidence satisfies each condition and what happens to readings already published are put to the round below, not decided.
+
+Two round prompts were drafted at the user's request and registered as documents, `llm-proposed`, to be run by the user, who will bring the responses into the wiki as before: [[SRC-2026-09-22-weight-setting-procedure-prompt]] for the weight-setting procedure, carrying the five fixed points of this decision and its evolutions as context and asking for the unit of classification, the sorting rule, the counting rule, who sets the pair, cross-market consistency, the revision procedure under (a) and (b), and failure modes; and [[SRC-2026-09-22-exposure-sources-brainstorm-prompt]] for the per-era exposures, a collection round with LETTER as the worked case that asks for breadth, a status per row, the inference from what a source counts to the exposure, and a first sort by quantity and quality without selection. Neither has been run.
 
 ## Related
 
@@ -86,6 +99,9 @@ Put four things to decide, the user answered each ([[SRC-2026-09-21-weights-sum-
 
 ## Sources
 
+- [[SRC-2026-09-22-revision-conditions-a-and-b]] — [raw/conversations/2026-09-22-revision-conditions-a-and-b.md](../../raw/conversations/2026-09-22-revision-conditions-a-and-b.md); the two conditions and the rejection of the third
+- [[SRC-2026-09-22-weight-setting-procedure-prompt]] — [raw/documents/2026-09-22-weight-setting-procedure-prompt.md](../../raw/documents/2026-09-22-weight-setting-procedure-prompt.md); the procedure round's prompt, not yet run
+- [[SRC-2026-09-22-exposure-sources-brainstorm-prompt]] — [raw/documents/2026-09-22-exposure-sources-brainstorm-prompt.md](../../raw/documents/2026-09-22-exposure-sources-brainstorm-prompt.md); the exposure-sources round's prompt, not yet run
 - [[SRC-2026-09-21-weights-sum-to-one-and-conditional-revision]] — [raw/conversations/2026-09-21-weights-sum-to-one-and-conditional-revision.md](../../raw/conversations/2026-09-21-weights-sum-to-one-and-conditional-revision.md); the scale, the revisability and the two processes
 - [[SRC-2026-09-21-weights-in-the-definition-exposures-measured]] — [raw/conversations/2026-09-21-weights-in-the-definition-exposures-measured.md](../../raw/conversations/2026-09-21-weights-in-the-definition-exposures-measured.md); the ontology's shape and the user's condition
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision and the user's qualifications
