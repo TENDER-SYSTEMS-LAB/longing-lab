@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-21
+updated: 2026-09-22
 sources:
   - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
   - SRC-2026-09-21-ai-enablement-and-substitution
@@ -258,7 +258,10 @@ handed over whole — so the boundary is not where the hand stops but where the
 choosing stops. The user proposes a per-security ontology fixing how much
 execution and judgment each security's practice involves and how exposed each
 is, `user-originated`. The design is not redrawn; the four datasets remain
-unverified secondary citations.
+unverified secondary citations. The collection round the user set for the
+exposures' sources was run on 2026-09-22 and is pooled in
+[[exposure-sources-review]]: no source observes either exposure for LETTER as
+defined, and the four datasets reappear there among many others, none selected.
 
 ## Sources
 
