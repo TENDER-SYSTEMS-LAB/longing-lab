@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-20
+updated: 2026-09-21
 sources:
+  - SRC-2026-09-21-ai-enablement-and-substitution
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-06-academic-model-recovered-excerpts
@@ -170,8 +171,82 @@ release and Type 4 for the 2024 report. The ITU DataHub refused the session, so
 WDI's republication is the route. The sentence above — *no series has been
 collected* — is superseded for these nine; the rest of it stands.
 
+## Evolution — measuring enablement apart from substitution (2026-09-21)
+
+Asked by the user what data could measure and chart technology widening what a
+person can do against technology doing what the person already could — the
+split recorded on [[technology-waves]] — the assistant proposed a design. All of
+it is `llm-proposed`; no series is collected, no indicator selected, and the
+four datasets are secondary citations from the assistant's web search,
+unverified here.
+
+**What to measure, and the check that goes with it.** Not adoption. Three
+things, kept apart: whether an act that was out of reach can now be done
+(enablement); what share of an act the person could already do was handed to the
+system (substitution); and who decided the content and the consequential
+choices (retained agency). The third is not proposed as a factor. It is the
+control that stops execution handed off from being read as romance lost.
+
+**Enablement is a difference in goal attainment**, new method minus the method
+the person could realistically use before — not minus nothing — on a task set
+as *make oneself understood in the time available*, not *voice the given
+sentence*. Reach is kept as a separate ratio, people who can sustain use over
+people who need it, and the two are not multiplied into one score: a large
+change for few people and a small change for many must both stay visible.
+**Substitution is counted per act** — one message, one decision, one picture —
+as the share in which the main execution step was delegated, with the threshold
+for *main step* fixed first so a typo fix and a whole draft are not the same
+delegation; and beside each, whether the content was the person's or the
+system's. Pressing the last button does not by itself show the choice was kept.
+
+**Four candidate sources, one per role.**
+
+| Role | Source named | What it carries | The limit the assistant states |
+|---|---|---|---|
+| how AI is used | Anthropic Economic Index, public release of 2026-06 | monthly aggregates for 2026-04 and 2026-05; fields for the automation share, mean AI autonomy on a 1–5 scale, the share classifiable as doable without AI, personal-use share; country cuts for the conversational data | classifier output over conversations, not tested ability; the denominator is Claude conversations, not all acts, so it cannot give the share of human activity delegated |
+| capacity restored | the 2025 instantaneous voice-synthesis neuroprosthesis paper, with its data on Dryad | one ALS participant; processed neural signals, tasks, timing, behavioural measures, decoders | one person, communication restored not ALS treated; shows what opened for one person, not for a society |
+| reach | NIA 디지털정보격차실태조사, annual XLSX with codebook | device ownership, skill, competence, frequency and purpose, efficacy | a base for reach, not enablement itself; more devices are not more capacity |
+| outcomes | American Time Use Survey, microdata 2003–2025 | what people actually spend time on — relationship, leisure, creation | an outcome series to read beside use indicators; cannot attribute change to AI |
+
+**Three chart forms.** First, what can be drawn now: the change in how work is
+handed to AI, from published usage aggregates — titled as that and not as agency
+or romance falling, since selected report dates and changed classifiers do not
+carry the larger claim. The assistant drew one such chart from three points of a
+usage report; the image was not exported. Second, the conceptually central one,
+a scatter with enablement up, judgment delegated across, one dot per group ×
+technology × act, sized by reach — and unmeasured cases such as the ALS decoder
+or an auto-reply service are not to be placed on it by hand, which would make it
+a concept diagram wearing a data chart's clothes. Third, the time charts this
+work publishes, one for each action, keeping the rule this page already carries:
+**observations as points, model estimates as a separate line, unmeasured spans
+blank**; annual surveys drawn weekly do not become weekly observations. When
+either feeds the pricing model, the date the datum refers to and the date it was
+published are stored apart, the same point-in-time discipline as
+[[information-quality]].
+
+**What public data cannot give** — the same person, the same act, prior
+capacity, actual success, what was delegated and who decided — the assistant
+would fill with a repeated activity diary rather than a survey on whether AI
+harms humanity: for each recent act, what was intended and whether it was
+achieved; whether the old method would have done it in realistic time and cost;
+whether the system executed only or also decided; whether the result was
+understood, alterable and refusable. Acts done without AI are collected too, or
+the delegated share has no denominator. The suggested first scope is
+communication and self-expression, where the user's four cases — speech
+restored, translation, drafting, replying — can be compared under one set of
+questions.
+
+**Order of promotion**, as proposed: data, then an observed indicator, then a
+test that the change is common across acts, then a factor candidate, then a
+reading per security. An automation share is not declared a substitution factor
+on its own, and *enablement − substitution = net romance* is not a formula,
+since the units differ. Enablement rising and a security's price rising are also
+kept separate: easier expression is a gain for the person and may do something
+else to the scarcity of a practice, depending on the price rule adopted.
+
 ## Sources
 
+- [[SRC-2026-09-21-ai-enablement-and-substitution]] — [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](../../raw/conversations/2026-09-21-ai-enablement-and-substitution.md); the measurement design and the four candidate datasets, all `llm-proposed`; the user's turns are the two questions
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact current design request; application choices and tests remain LLM proposals

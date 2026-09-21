@@ -31,7 +31,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Fictional research house built from authored historical data, abstract or concrete subjects, and accumulated market records · `working` (2026-09-15)
-- [[current-state]] — Latest numeraire, perpetual-bond, technology-wave, three-market and attribution-order decisions, aggregate market scope, inherited typographic voice, the capped requisition rate, and unresolved severity, proxy, naming and forecast rules · `working` (2026-09-20)
+- [[current-state]] — Latest numeraire, perpetual-bond, technology-wave, three-market and attribution-order decisions, aggregate market scope, inherited typographic voice, the capped requisition rate, and unresolved severity, proxy, naming and forecast rules, and whether AI that restores a capacity counts as arrival · `working` (2026-09-21)
 
 ## Concepts
 
@@ -40,7 +40,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[worldbuilding-roadmap]] — Revised history-first resume point with earlier world/LETTER stages retained as conditional proposals · `working` (2026-09-07)
 - [[world-rules]] — Adopted historical and aggregate-market scope, internal definitions, the added backing layer, and the preserved unadopted city/cohort trial · `working` (2026-09-15)
 - [[reserve-instruments]] — The absorbed backing layer: BEARER BOND and BLIND TRUST, sign reversal instead of depletion, transfer to AI against a falling total, and a decline made of early calls rather than defaults · `working` (2026-09-20)
-- [[technology-waves]] — Arrival raises what substitution later takes, so every wave is a rise followed by a decline; thirty years 1996–2026, a connection-creating coefficient per wave, and a driver measured where statistics exist, with the WDI spine collected, two waves dated from it and two more partly from national series, and a boundary that is one per series · `working` (2026-09-20)
+- [[technology-waves]] — Arrival raises what substitution later takes, so every wave is a rise followed by a decline; thirty years 1996–2026, a connection-creating coefficient per wave, and a driver measured where statistics exist, with the WDI spine collected, two waves dated from it and two more partly from national series, and a boundary that is one per series; the AI wave also restores, raised as a question, with substitution of execution distinguished from judgment as a proposal · `working` (2026-09-21)
 - [[loop-simulation]] — The executable check on the design: three rounds, rebuilt on DEC-008 and DEC-009, with a real index's texture inverted, three converging markets, and twelve places where the design was wrong or underspecified, the requisition-rate gap now decided, the v3 world used as generator for the identification test, a v4 build with two waves dated from the spine and a v5 with two more dated in two markets, both passing all sixteen tests · `working` (2026-09-20)
 - [[identification-experiment]] — The fourth round's Section 7 procedure run on the v3 world: the handover through the interaction block, a recovered count that saturates near nine, a promotion gate calibrated on a planted null, cross-market transportability, and the order's stake measured, then rerun on the v4 and v5 worlds — every reading holds on v4, v5 shows what mixing placeholders with measurements does, and of the full gate battery only the held-out gate and the support floor carry power — no factor named · `working` (2026-09-20)
 - [[letter-practice-dynamics]] — LETTER-specific unadopted practice model, feedback and consistency examples; not a universal security template · `working` (2026-09-07)
@@ -60,7 +60,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[attribution-ledger]] — The weekly decomposition, its three layers, unrouted events, the distinction between exact accounting and causal recovery, and the line count the listing can carry · `working` (2026-09-21)
 - [[arbitrage]] — Open world-specific arbitrage interest under aggregate market scope; no investor-story or full-exchange prerequisite · `working` (2026-09-07)
 - [[information-quality]] — Imperfect reports and proposed contemporaneous-information controls for the fictional research history · `working` (2026-09-07)
-- [[data-sources]] — Selected fictional historical-data basis, layered state and information, and a driver measured where national statistics exist and extrapolated beyond, now tested against what is published and with the nine WDI series in hand · `working` (2026-09-20)
+- [[data-sources]] — Selected fictional historical-data basis, layered state and information, and a driver measured where national statistics exist and extrapolated beyond, now tested against what is published and with the nine WDI series in hand, plus a proposed design for measuring enablement apart from substitution with four candidate datasets · `working` (2026-09-21)
 - [[analyst-system]] — Dated historical outlooks and targets, desired HOLD/SHORT advantage, per-analyst attribution orders inside the house constraint, and open scoring and coverage rules · `working` (2026-09-20)
 - [[system-grammar]] — The series rule shared with OTHER GOODS: human things processed by systems never made for them · `working` (2026-09-07)
 - [[design-application]] — The inherited institutional rule that typeface identifies the speaker, with proposed LONGING surface assignments, counter-examples, and open local design questions · `working` (2026-09-15)
@@ -91,7 +91,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-20)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-21)
 
 ## Repository Control
 

@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: user-confirmed
-updated: 2026-09-20
+updated: 2026-09-21
 sources:
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-proxy-sourcing-prompt
@@ -16,6 +16,7 @@ sources:
   - SRC-2026-09-20-national-series-retrieval
   - SRC-2026-09-20-loop-simulation-harness-v5
   - SRC-2026-09-20-no-korean-time-series
+  - SRC-2026-09-21-ai-enablement-and-substitution
 ---
 
 # Technology Waves — arrival raises what substitution later takes
@@ -149,6 +150,10 @@ observation and which part is estimate.
   record of what mixing does. The Japanese and US smartphone and social-web
   dates stay on file in [[SRC-2026-09-20-wave-calibration-from-national-series]].
 - **The lag between arrival and substitution**, per wave. Unselected.
+- **Whether restoration counts as arrival, and whether substitution distinguishes
+  execution from judgment.** Raised 2026-09-21 by the user's ALS speech-decoder
+  case; the AI wave's connection coefficient was set without it. See the
+  evolution note below. Undecided.
 - **Named events.** Using specific cultural events puts real proper nouns into one
   market's event stream, which obliges comparable density in the other two.
   Unresearched.
@@ -168,6 +173,53 @@ run's mean arrival intensity; every advance after 2010 runs below a third of it
 and is short covering. **The century's turn is the last time buying itself lifted
 this market.** See [[loop-simulation]].
 
+## Evolution — the AI wave also restores (2026-09-21)
+
+The user put a case to the assistant that the page's two phases had not named:
+a person who lost speech to ALS, given it back by a decoder that reads the jaw
+and mouth motor signals and says what they meant to say. The user's reading —
+put as a question, not a decision — is that this runs in the direction of
+**more** romance, not less:
+
+> 루게릭병에 걸려서 말을 못하는 사람이 있었는데 인공지능을 사용해서 말을 하려고 할 때 …
+> 이런건 낭만이 증가하는 방향이 아닐까?
+
+That is an arrival-phase effect inside the AI wave, and it is a different kind
+from the ones this page lists. The internet's arrival *made* new ways to reach a
+person; this *restores* a way that illness had taken. Both put issuance up. The
+page's coefficient for AI — a tenth of the social web's — was set from the
+substitution half alone and has never counted this. The user has not decided
+whether it should, and the coefficient is unchanged.
+
+Three refinements from the assistant, all `llm-proposed`, none adopted:
+
+- **Enablement and substitution are two actions of one technology, not two
+  technologies.** The same speech-generating capability is restoration when it
+  carries a person's own words and substitution when it writes the letter for
+  them. Sorting technologies into good and bad is therefore the wrong
+  classification; the same technology can sit in both places depending on who
+  uses it for what, and can move from one to the other as it spreads — restoring
+  at first, deciding what everyone says later.
+- **Substitution of execution is not substitution of judgment.** Corrected by the
+  assistant against its own first answer: less done by hand does not mean less
+  decided by the person. A synthesiser that voices what one chose to say takes
+  the execution and leaves the choice. The channel this page calls substitution
+  would then need to say which it measures; the assistant proposes recording
+  beside every substituted act whether the content and the consequential choice
+  were the person's or the system's, as a check that keeps execution handed off
+  from being read as agency lost.
+- **The work's premise, restated.** From *technology takes romance* to: technology
+  widens what a person can do, and reduces the value and room of an act only
+  when it starts doing what the person already could. The assistant ties this to
+  [[reflection]]'s definition of 사유 as room for one's own judgment — the
+  measured object becomes the change in human agency, not the amount of
+  technology in use. The conceptual sign rule *romance effect ≈ agency restored
+  − agency displaced* was offered and then withdrawn as a measurement formula by
+  the same assistant: the two sides are in different units.
+
+How either action might be measured is on [[data-sources]]. The user's question
+stands as the open item below.
+
 ## Related
 
 - [[DEC-008-bearer-bond-is-perpetual]]
@@ -175,6 +227,7 @@ this market.** See [[loop-simulation]].
 - [[DEC-007-standard-return-numeraire]]
 - [[DEC-004-secular-decline-with-rallies]]
 - [[data-sources]]
+- [[reflection]]
 - [[loop-simulation]]
 - [[proxy-sourcing-review]]
 
@@ -187,3 +240,4 @@ this market.** See [[loop-simulation]].
 - [[SRC-2026-09-20-wave-calibration-from-national-series]] — [raw/documents/2026-09-20-wave-calibration-from-national-series.md](../../raw/documents/2026-09-20-wave-calibration-from-national-series.md); two more waves, two markets each
 - [[SRC-2026-09-20-national-series-retrieval]] — [raw/documents/2026-09-20-national-series-retrieval.md](../../raw/documents/2026-09-20-national-series-retrieval.md); what was reached and what was not
 - [[SRC-2026-09-20-no-korean-time-series]] — [raw/conversations/2026-09-20-no-korean-time-series.md](../../raw/conversations/2026-09-20-no-korean-time-series.md); no Korean series to add, and the rule that follows
+- [[SRC-2026-09-21-ai-enablement-and-substitution]] — [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](../../raw/conversations/2026-09-21-ai-enablement-and-substitution.md); the ALS case is the user's, put as a question; the two-action split and the execution/judgment distinction are the assistant's

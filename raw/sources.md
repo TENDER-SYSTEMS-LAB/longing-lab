@@ -115,6 +115,7 @@ For a lookup or suspected mismatch, search only the source ID/path and its captu
 | `SRC-2026-09-20-order-constraint-retained` | [raw/conversations/2026-09-20-order-constraint-retained.md](conversations/2026-09-20-order-constraint-retained.md) | conversation | 2026-09-20 | user-originated | `bba15c412e88b547ec3df9f6a1f25634f1658df9` | 2026-09-20 | promoted as DEC-012; the order constraint kept for analysts' own orders, lifting it left for a later reading of the record |
 | `SRC-2026-09-20-analyst-orders-are-a-proposal` | [raw/conversations/2026-09-20-analyst-orders-are-a-proposal.md](conversations/2026-09-20-analyst-orders-are-a-proposal.md) | conversation | 2026-09-20 | user-originated | `f65d6e13dbe0192d02d7336a49565955c0e7c8d6` | 2026-09-20 | promoted onto DEC-012; per-analyst orders are the user's proposal, the constraint is the decision |
 | `SRC-2026-09-21-joint-shown-and-blocks-fitted-jointly` | [raw/conversations/2026-09-21-joint-shown-and-blocks-fitted-jointly.md](conversations/2026-09-21-joint-shown-and-blocks-fitted-jointly.md) | conversation | 2026-09-21 | user-originated | `c3301ac598198c99c3b4c729dee2e836006630e6` | 2026-09-21 | promoted as DEC-013; the `Joint` width is shown to the audience and the ledger's blocks are fitted jointly |
+| `SRC-2026-09-21-ai-enablement-and-substitution` | [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](conversations/2026-09-21-ai-enablement-and-substitution.md) | conversation | 2026-09-21 | jointly-developed | `8bf70c3a269ec11fd55701891b8bc9dcdbeabd43` | 2026-09-21 | promoted; the user asks whether AI that restores a lost capacity — an ALS speech decoder — raises romance rather than lowers it, and how enablement and substitution could be measured and charted; the two-effect split and the measurement design are `llm-proposed` and extend [[technology-waves]] and [[data-sources]] |
 | `SRC-2026-09-20-japanese-publisher-is-national` | [raw/conversations/2026-09-20-japanese-publisher-is-national.md](conversations/2026-09-20-japanese-publisher-is-national.md) | conversation | 2026-09-20 | user-originated | `e28dc2f95cfc92705684d51595864d1126be0f3b` | 2026-09-20 | promoted; the Japanese publisher is a national paper |
 | `SRC-2026-09-20-round-decisions-and-deferrals` | [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](conversations/2026-09-20-round-decisions-and-deferrals.md) | conversation | 2026-09-20 | user-originated | `384ad1e4945807593df25a4ffb870680a0852375` | 2026-09-20 | promoted; nine was an LLM proposal and the count may grow, real-world naming conventions need not be followed, eight items deferred |
 | `SRC-2026-09-20-requisition-cap-decision` | [raw/conversations/2026-09-20-requisition-cap-decision.md](conversations/2026-09-20-requisition-cap-decision.md) | conversation | 2026-09-20 | user-originated | `ce91289ea8e39fbb8134505b5a83169bd29de932` | 2026-09-20 | promoted as the `s(t)` cap decision in DEC-007; closes one of the four simulation gaps |
@@ -319,3 +320,14 @@ becomes selected by having produced a convincing chart.
 ## Note on the 2026-09-15 reserve-absorption record — naming survey
 
 The naming survey prompt drafted in turn 18 was never dispatched and no external model was consulted. `JOINT CUSTODY`, `BEARER ASSURANCE`, `BLIND CUSTODY`, and the separate holding institution they belonged to are withdrawn proposals, superseded within the same conversation by the fold into LONGING. Nothing in the transcript establishes a market model, a coefficient, a date series, or an implementation.
+
+## Note on the 2026-09-21 enablement-and-substitution record
+
+The file is a ChatGPT export renamed to the registry convention; its header keeps
+the export's own title, `AI와 낭만 비교`, and link. The example chart the assistant
+says it drew — `sandbox:/mnt/data/longing_directive_proxy_example.png`, three
+points from a third-party usage report — was not exported and is **not
+registered**; the three figures it plotted are the assistant's citation of that
+report, not verified here. The four datasets named in the response are secondary
+citations from the assistant's web search, unverified in this repository. The
+user's two turns are questions; nothing in the transcript is a decision.
