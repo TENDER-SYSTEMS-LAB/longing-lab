@@ -17,6 +17,7 @@ sources:
   - SRC-2026-09-20-loop-simulation-harness-v5
   - SRC-2026-09-20-no-korean-time-series
   - SRC-2026-09-21-ai-enablement-and-substitution
+  - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
 ---
 
 # Technology Waves — arrival raises what substitution later takes
@@ -150,10 +151,13 @@ observation and which part is estimate.
   record of what mixing does. The Japanese and US smartphone and social-web
   dates stay on file in [[SRC-2026-09-20-wave-calibration-from-national-series]].
 - **The lag between arrival and substitution**, per wave. Unselected.
-- **Whether restoration counts as arrival, and whether substitution distinguishes
-  execution from judgment.** Raised 2026-09-21 by the user's ALS speech-decoder
-  case; the AI wave's connection coefficient was set without it. See the
-  evolution note below. Undecided.
+- ~~**Whether restoration counts as arrival, and whether substitution distinguishes
+  execution from judgment.**~~ Decided 2026-09-21: restoration counts as arrival
+  and the substitution channel counts substitution of judgment,
+  [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]. What remains
+  is **the AI wave's reset connection coefficient**, and **the rule that sorts an
+  act between execution and judgment** — the user names an ambiguous middle and
+  proposes a per-security ontology to carry the rule, `user-originated`.
 - **Named events.** Using specific cultural events puts real proper nouns into one
   market's event stream, which obliges comparable density in the other two.
   Unresearched.
@@ -217,8 +221,21 @@ Three refinements from the assistant, all `llm-proposed`, none adopted:
   − agency displaced* was offered and then withdrawn as a measurement formula by
   the same assistant: the two sides are in different units.
 
-How either action might be measured is on [[data-sources]]. The user's question
-stands as the open item below.
+How either action might be measured is on [[data-sources]].
+
+## Evolution — restoration is arrival; substitution is of judgment (2026-09-21)
+
+The user decided the question the same day
+([[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]],
+[[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]): restoration
+counts as arrival, so the arrival phase is *new or recovered* modes of
+connection, and the substitution channel counts substitution of judgment, not
+of execution. The AI coefficient above is therefore wrong by construction and
+must be reset; its value is not set. The user's qualifications — some execution
+restores (voicing a chosen sentence, reading in a learned voice), some execution
+substitutes because it hands over the deliberation whole (letting AI translate a
+greeting), the middle may be ambiguous — and the proposal of a per-security
+ontology of execution and judgment are `user-originated`, not decided.
 
 ## Related
 
@@ -233,6 +250,7 @@ stands as the open item below.
 
 ## Sources
 
+- [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision, DEC-014
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the two open items above draw on the seven responses synthesised in [[proxy-sourcing-review]]
 - [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../../raw/documents/2026-09-20-wdi-spine-retrieval.md); the spine's coverage as retrieved, with the data files it describes

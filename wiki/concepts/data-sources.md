@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-21
 sources:
+  - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
   - SRC-2026-09-21-ai-enablement-and-substitution
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-06-world-rules-letter-spec-request
@@ -244,8 +245,24 @@ since the units differ. Enablement rising and a security's price rising are also
 kept separate: easier expression is a gain for the person and may do something
 else to the scarcity of a practice, depending on the price rule adopted.
 
+## Evolution — the channel counts judgment (2026-09-21)
+
+[[DEC-014-restoration-is-arrival-and-substitution-is-judgment]] decides that
+the substitution channel counts substitution of judgment. The design above
+counted the share of the main execution step delegated and kept who decided as
+a control beside it; under the decision the control becomes the measured
+quantity and the delegated share is not, by itself, substitution. The user
+also moved one of the assistant's examples: a greeting sent and translated by
+AI is substitution, because the deliberation over how to ask after someone is
+handed over whole — so the boundary is not where the hand stops but where the
+choosing stops. The user proposes a per-security ontology fixing how much
+execution and judgment each security's practice involves and how exposed each
+is, `user-originated`. The design is not redrawn; the four datasets remain
+unverified secondary citations.
+
 ## Sources
 
+- [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision that the channel counts judgment, and the per-security ontology proposal
 - [[SRC-2026-09-21-ai-enablement-and-substitution]] — [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](../../raw/conversations/2026-09-21-ai-enablement-and-substitution.md); the measurement design and the four candidate datasets, all `llm-proposed`; the user's turns are the two questions
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
