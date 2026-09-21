@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-21
 sources:
+  - SRC-2026-09-21-weights-in-the-definition-exposures-measured
   - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
   - SRC-2026-09-21-ai-enablement-and-substitution
 ---
@@ -38,8 +39,20 @@ Stated as observations and a *should*, `user-originated`, not decided:
 ## What this does not decide
 
 - The AI wave's reset connection coefficient, and whether any earlier wave's coefficient changes once restoration is counted — the alumni-finding boom of 1999 is described on [[technology-waves]] as restoring severed relationships.
-- The rule that sorts an act between execution and judgment, including the ambiguous middle the user names; the per-security ontology that would carry it.
+- The rule that sorts an act between execution and judgment, including the ambiguous middle the user names. ~~The per-security ontology that would carry it~~ — its shape is decided below; its contents are not.
 - How substitution of judgment is measured per act, and from what data.
+
+## Evolution — the ontology's shape: two weights defined, two exposures measured (2026-09-21)
+
+Told that the split has ambiguous cases and shown a sketch of the per-security ontology as five columns — the security, its execution share, its judgment share, its exposure to execution restored, its exposure to judgment substituted — the user decided which columns are decisions and which are measurements ([[SRC-2026-09-21-weights-in-the-definition-exposures-measured]]):
+
+> 비중 둘은 종목 정의, 노출 둘은 시대별 측정으로 가자. 내가 생각한것도 그게 맞았어. 대신 아주 신중하고 정확하게 결정해야할거야.
+
+**`user-confirmed`:** the two weights — how much of a security's practice is execution and how much is judgment — are part of the security's definition, fixed when the security is defined and not varying with the era. The two exposures — how much of that execution is currently restored by technology, how much of that judgment is currently substituted — are measured per era, and are where the waves of [[technology-waves]] act on a security. The user states this matched their own view. **The user's condition:** the weights must be decided very carefully and precisely; a definition set loosely would carry its error into every era's reading.
+
+What follows, the assistant's reading, `llm-proposed`: a wave's arrival and substitution effects on a security are then the security's fixed weights times the era's exposures, so the AI wave's single connection coefficient is replaced per security by its exposures; and the ambiguous cases — execution that carries deliberation, restoration that leaks judgment, judgment kept but narrowed — are absorbed by the weights as a split rather than a label, so that a practice is *mostly judgment* rather than *judgment*. The three kinds of ambiguous case the assistant named are proposals.
+
+Not decided: the weights of any security, the scale they are set on, the rule for sorting an act, the exposures' sources, and whether a security's weights may ever be revised.
 
 ## Related
 
@@ -52,5 +65,6 @@ Stated as observations and a *should*, `user-originated`, not decided:
 
 ## Sources
 
+- [[SRC-2026-09-21-weights-in-the-definition-exposures-measured]] — [raw/conversations/2026-09-21-weights-in-the-definition-exposures-measured.md](../../raw/conversations/2026-09-21-weights-in-the-definition-exposures-measured.md); the ontology's shape and the user's condition
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision and the user's qualifications
 - [[SRC-2026-09-21-ai-enablement-and-substitution]] — [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](../../raw/conversations/2026-09-21-ai-enablement-and-substitution.md); the question it answers and the proposals it draws on
