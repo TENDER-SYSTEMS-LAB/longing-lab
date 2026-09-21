@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-09-21
 sources:
+  - SRC-2026-09-21-weights-sum-to-one-and-conditional-revision
   - SRC-2026-09-21-weights-in-the-definition-exposures-measured
   - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
   - SRC-2026-09-21-ai-enablement-and-substitution
@@ -52,7 +53,27 @@ Told that the split has ambiguous cases and shown a sketch of the per-security o
 
 What follows, the assistant's reading, `llm-proposed`: a wave's arrival and substitution effects on a security are then the security's fixed weights times the era's exposures, so the AI wave's single connection coefficient is replaced per security by its exposures; and the ambiguous cases — execution that carries deliberation, restoration that leaks judgment, judgment kept but narrowed — are absorbed by the weights as a split rather than a label, so that a practice is *mostly judgment* rather than *judgment*. The three kinds of ambiguous case the assistant named are proposals.
 
-Not decided: the weights of any security, the scale they are set on, the rule for sorting an act, the exposures' sources, and whether a security's weights may ever be revised.
+~~Not decided: the weights of any security, the scale they are set on, the rule for sorting an act, the exposures' sources, and whether a security's weights may ever be revised.~~ The scale and the revisability are decided below; the rest stands.
+
+## Evolution — the weights sum to one and are revised only under conditions set in advance (2026-09-21)
+
+Put four things to decide, the user answered each ([[SRC-2026-09-21-weights-sum-to-one-and-conditional-revision]]):
+
+> 1. 응 너가 말한것 처럼 비중의 합이 1인 한쌍으로 가려고 했어.
+> 2. 이부분은 LLM들에게 의견을 받아서 종합한뒤 내가 최종 판단해서 정할게.
+> 3. 개정 가능 여부를 둘거야. 근데, 개정 절차 라는것을 두고 개정하기 위한 원칙을 세워서 맘대로 개정하는게 아니라 특정 조건을 만족하는 경우에만 개정하도록 변경
+> 4. 노출의 출저의 경우 나도 고민이야. 브레인스토밍을 통해서 여러 데이터 셋을 찾아봐야해. …
+
+**Decided, `user-confirmed`:**
+
+- **The two weights are a pair summing to one** — an execution share and a judgment share, so that an ambiguous practice sits near the middle and the position itself is information. The user's own prior intention, matching the assistant's candidate.
+- **A security's weights may be revised, but only under conditions fixed in advance.** There is a revision procedure with principles, and revision happens only when a stated condition is met, never at will. The conditions are not set. The assistant's earlier candidate — that a revision is recorded and past readings are recalculated — was not answered and stays `llm-proposed`.
+
+**Process set by the user, `user-originated`, the outcome not decided:**
+
+- **The procedure for setting a security's weights** goes to a round of LLM opinions; the user synthesises them and makes the final call. The assistant's two candidates — set directly per security, or split the practice into steps and tag each — are inputs to that round, not a decision.
+- **The exposures' sources** are open, and the user shares the difficulty. The plan: brainstorm, ask other agents and LLMs widely, collect many kinds of data first, then narrow by quantity and quality, and only then fix the sources. Whether an exposure is measured from statistics or derived from the wave curves is inside that plan, unanswered.
+
 
 ## Related
 
@@ -65,6 +86,7 @@ Not decided: the weights of any security, the scale they are set on, the rule fo
 
 ## Sources
 
+- [[SRC-2026-09-21-weights-sum-to-one-and-conditional-revision]] — [raw/conversations/2026-09-21-weights-sum-to-one-and-conditional-revision.md](../../raw/conversations/2026-09-21-weights-sum-to-one-and-conditional-revision.md); the scale, the revisability and the two processes
 - [[SRC-2026-09-21-weights-in-the-definition-exposures-measured]] — [raw/conversations/2026-09-21-weights-in-the-definition-exposures-measured.md](../../raw/conversations/2026-09-21-weights-in-the-definition-exposures-measured.md); the ontology's shape and the user's condition
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision and the user's qualifications
 - [[SRC-2026-09-21-ai-enablement-and-substitution]] — [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](../../raw/conversations/2026-09-21-ai-enablement-and-substitution.md); the question it answers and the proposals it draws on
