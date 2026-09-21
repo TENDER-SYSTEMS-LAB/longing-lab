@@ -188,13 +188,13 @@ The round said smartphones and the social web exist as national surveys, good fo
 ## Sources
 
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md)
-- [[SRC-2026-09-20-proxy-sourcing-chatgpt]] — [raw/surveys/2026-09-20-proxy-sourcing-chatgpt.md](../../raw/surveys/2026-09-20-proxy-sourcing-chatgpt.md)
-- [[SRC-2026-09-20-proxy-sourcing-claude]] — [raw/surveys/2026-09-20-proxy-sourcing-claude.md](../../raw/surveys/2026-09-20-proxy-sourcing-claude.md)
-- [[SRC-2026-09-20-proxy-sourcing-deepseek]] — [raw/surveys/2026-09-20-proxy-sourcing-deepseek.md](../../raw/surveys/2026-09-20-proxy-sourcing-deepseek.md)
-- [[SRC-2026-09-20-proxy-sourcing-gemini]] — [raw/surveys/2026-09-20-proxy-sourcing-gemini.md](../../raw/surveys/2026-09-20-proxy-sourcing-gemini.md)
-- [[SRC-2026-09-20-proxy-sourcing-glm]] — [raw/surveys/2026-09-20-proxy-sourcing-glm.md](../../raw/surveys/2026-09-20-proxy-sourcing-glm.md)
-- [[SRC-2026-09-20-proxy-sourcing-grok]] — [raw/surveys/2026-09-20-proxy-sourcing-grok.md](../../raw/surveys/2026-09-20-proxy-sourcing-grok.md)
-- [[SRC-2026-09-20-proxy-sourcing-qwen]] — [raw/surveys/2026-09-20-proxy-sourcing-qwen.md](../../raw/surveys/2026-09-20-proxy-sourcing-qwen.md)
+- [[SRC-2026-09-20-proxy-sourcing-chatgpt]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-chatgpt.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-chatgpt.md)
+- [[SRC-2026-09-20-proxy-sourcing-claude]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-claude.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-claude.md)
+- [[SRC-2026-09-20-proxy-sourcing-deepseek]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-deepseek.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-deepseek.md)
+- [[SRC-2026-09-20-proxy-sourcing-gemini]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-gemini.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-gemini.md)
+- [[SRC-2026-09-20-proxy-sourcing-glm]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-glm.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-glm.md)
+- [[SRC-2026-09-20-proxy-sourcing-grok]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-grok.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-grok.md)
+- [[SRC-2026-09-20-proxy-sourcing-qwen]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-qwen.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-qwen.md)
 - [[SRC-2026-09-20-wdi-spine-retrieval]] — [raw/documents/2026-09-20-wdi-spine-retrieval.md](../../raw/documents/2026-09-20-wdi-spine-retrieval.md); the spine as retrieved
 - [[SRC-2026-09-20-national-series-retrieval]] — [raw/documents/2026-09-20-national-series-retrieval.md](../../raw/documents/2026-09-20-national-series-retrieval.md); the national series reached and not reached
 - [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]] — [raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md](../../raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md); the 2025 microdata the user fetched, and what one year can and cannot give

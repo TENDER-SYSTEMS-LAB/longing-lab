@@ -122,7 +122,7 @@ sources:
 - Decisions: `wiki/decisions/DEC-NNN-short-slug.md`
 - Questions: `wiki/questions/Q-NNN-short-slug.md`
 - Concepts: `wiki/concepts/short-slug.md`
-- Raw sources: `raw/<type>/YYYY-MM-DD-short-slug.md`, registered with the source ID `SRC-YYYY-MM-DD-short-slug`
+- Raw sources: `raw/<type>/YYYY-MM-DD-short-slug.md`, registered with the source ID `SRC-YYYY-MM-DD-short-slug`. Multi-model survey rounds nest one level deeper, `raw/surveys/YYYY-MM-DD-short-slug/YYYY-MM-DD-short-slug-<model>.md`, with the same source ID rule.
 
 Cross-link pages with `[[wikilink]]` syntax.
 

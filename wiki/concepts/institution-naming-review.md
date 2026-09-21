@@ -120,13 +120,13 @@ With the publisher decided national, the eight surviving forms were put side by 
 ## Sources
 
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md)
-- [[SRC-2026-09-20-institution-naming-chatgpt]] — [raw/surveys/2026-09-20-institution-naming-chatgpt.md](../../raw/surveys/2026-09-20-institution-naming-chatgpt.md)
-- [[SRC-2026-09-20-institution-naming-claude]] — [raw/surveys/2026-09-20-institution-naming-claude.md](../../raw/surveys/2026-09-20-institution-naming-claude.md)
-- [[SRC-2026-09-20-institution-naming-deepseek]] — [raw/surveys/2026-09-20-institution-naming-deepseek.md](../../raw/surveys/2026-09-20-institution-naming-deepseek.md)
-- [[SRC-2026-09-20-institution-naming-gemini]] — [raw/surveys/2026-09-20-institution-naming-gemini.md](../../raw/surveys/2026-09-20-institution-naming-gemini.md)
-- [[SRC-2026-09-20-institution-naming-glm]] — [raw/surveys/2026-09-20-institution-naming-glm.md](../../raw/surveys/2026-09-20-institution-naming-glm.md)
-- [[SRC-2026-09-20-institution-naming-grok]] — [raw/surveys/2026-09-20-institution-naming-grok.md](../../raw/surveys/2026-09-20-institution-naming-grok.md)
-- [[SRC-2026-09-20-institution-naming-qwen]] — [raw/surveys/2026-09-20-institution-naming-qwen.md](../../raw/surveys/2026-09-20-institution-naming-qwen.md)
+- [[SRC-2026-09-20-institution-naming-chatgpt]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-chatgpt.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-chatgpt.md)
+- [[SRC-2026-09-20-institution-naming-claude]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-claude.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-claude.md)
+- [[SRC-2026-09-20-institution-naming-deepseek]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-deepseek.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-deepseek.md)
+- [[SRC-2026-09-20-institution-naming-gemini]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-gemini.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-gemini.md)
+- [[SRC-2026-09-20-institution-naming-glm]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-glm.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-glm.md)
+- [[SRC-2026-09-20-institution-naming-grok]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-grok.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-grok.md)
+- [[SRC-2026-09-20-institution-naming-qwen]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-qwen.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-qwen.md)
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the user's answers on the three questions
 - [[SRC-2026-09-20-japanese-publisher-is-national]] — [raw/conversations/2026-09-20-japanese-publisher-is-national.md](../../raw/conversations/2026-09-20-japanese-publisher-is-national.md); national, decided
 - [[SRC-2026-09-20-japanese-publisher-clearance-shortlist]] — [raw/documents/2026-09-20-japanese-publisher-clearance-shortlist.md](../../raw/documents/2026-09-20-japanese-publisher-clearance-shortlist.md); the eight, side by side

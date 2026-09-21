@@ -97,12 +97,12 @@ Treat the unanimous findings as strong evidence and the splits as an open decisi
 
 ## Sources
 
-- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-claude-critic-of-model.md)
-- [[SRC-2026-09-05-deepseek-critic-of-model]] — [raw/surveys/2026-09-05-deepseek-critic-of-model.md](../../raw/surveys/2026-09-05-deepseek-critic-of-model.md)
-- [[SRC-2026-09-05-gemini-critic-of-model]] — [raw/surveys/2026-09-05-gemini-critic-of-model.md](../../raw/surveys/2026-09-05-gemini-critic-of-model.md)
-- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-glm-critic-of-model.md](../../raw/surveys/2026-09-05-glm-critic-of-model.md)
-- [[SRC-2026-09-05-grok-critic-of-model]] — [raw/surveys/2026-09-05-grok-critic-of-model.md](../../raw/surveys/2026-09-05-grok-critic-of-model.md)
-- [[SRC-2026-09-05-kimi-critic-of-model]] — [raw/surveys/2026-09-05-kimi-critic-of-model.md](../../raw/surveys/2026-09-05-kimi-critic-of-model.md)
-- [[SRC-2026-09-05-qwen-critic-of-model]] — [raw/surveys/2026-09-05-qwen-critic-of-model.md](../../raw/surveys/2026-09-05-qwen-critic-of-model.md)
+- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-claude-critic-of-model.md)
+- [[SRC-2026-09-05-deepseek-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-deepseek-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-deepseek-critic-of-model.md)
+- [[SRC-2026-09-05-gemini-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-gemini-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-gemini-critic-of-model.md)
+- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-glm-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-glm-critic-of-model.md)
+- [[SRC-2026-09-05-grok-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-grok-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-grok-critic-of-model.md)
+- [[SRC-2026-09-05-kimi-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-kimi-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-kimi-critic-of-model.md)
+- [[SRC-2026-09-05-qwen-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-qwen-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-qwen-critic-of-model.md)
 
 The shared review prompt behind all seven surveys is not registered in this repository. Statements here about what was asked are secondary citations through the surveys themselves.

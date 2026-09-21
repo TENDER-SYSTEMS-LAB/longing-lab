@@ -277,7 +277,7 @@ unverified secondary citations.
 - [[SRC-2026-09-06-dataset-backtesting-research]] — [raw/surveys/2026-09-06-dataset-backtesting-research.md](../../raw/surveys/2026-09-06-dataset-backtesting-research.md)
 
 - [[SRC-2026-09-05-price-formation-market-model]] — [raw/conversations/2026-09-05-price-formation-market-model.md](../../raw/conversations/2026-09-05-price-formation-market-model.md)
-- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-claude-critic-of-model.md)
-- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-glm-critic-of-model.md](../../raw/surveys/2026-09-05-glm-critic-of-model.md)
+- [[SRC-2026-09-05-claude-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-claude-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-claude-critic-of-model.md)
+- [[SRC-2026-09-05-glm-critic-of-model]] — [raw/surveys/2026-09-05-critic-of-model/2026-09-05-glm-critic-of-model.md](../../raw/surveys/2026-09-05-critic-of-model/2026-09-05-glm-critic-of-model.md)
 
 The platform capabilities and statistical series described above reach this repository only through the source conversation, which cited them from web search during the discussion. They are secondary citations and have not been independently verified here.

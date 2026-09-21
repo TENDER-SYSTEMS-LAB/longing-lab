@@ -6,7 +6,7 @@ This directory is the Source of Truth. It preserves originals unchanged: convers
 
 - `conversations/` — exported conversation transcripts
 - `documents/` — standalone documents
-- `surveys/` — survey or evaluation outputs collected from multiple models
+- `surveys/` — survey or evaluation outputs collected from multiple models. When one prompt is answered by several models, the responses sit together in a subdirectory named after the prompt (`surveys/YYYY-MM-DD-short-slug/`), one file per model, keeping the flat filename form so the source ID is unchanged.
 - `inbox/` — material that has arrived but has not been classified yet
 
 ## Adding a Source

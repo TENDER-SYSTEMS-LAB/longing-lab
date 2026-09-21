@@ -170,12 +170,12 @@ On the user's instruction the Section 7 procedure was run on 2026-09-20 against 
 ## Sources
 
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md)
-- [[SRC-2026-09-20-factor-identification-chatgpt]] — [raw/surveys/2026-09-20-factor-identification-chatgpt.md](../../raw/surveys/2026-09-20-factor-identification-chatgpt.md)
-- [[SRC-2026-09-20-factor-identification-claude]] — [raw/surveys/2026-09-20-factor-identification-claude.md](../../raw/surveys/2026-09-20-factor-identification-claude.md)
-- [[SRC-2026-09-20-factor-identification-deepseek]] — [raw/surveys/2026-09-20-factor-identification-deepseek.md](../../raw/surveys/2026-09-20-factor-identification-deepseek.md)
-- [[SRC-2026-09-20-factor-identification-gemini]] — [raw/surveys/2026-09-20-factor-identification-gemini.md](../../raw/surveys/2026-09-20-factor-identification-gemini.md)
-- [[SRC-2026-09-20-factor-identification-glm]] — [raw/surveys/2026-09-20-factor-identification-glm.md](../../raw/surveys/2026-09-20-factor-identification-glm.md)
-- [[SRC-2026-09-20-factor-identification-grok]] — [raw/surveys/2026-09-20-factor-identification-grok.md](../../raw/surveys/2026-09-20-factor-identification-grok.md)
-- [[SRC-2026-09-20-factor-identification-qwen]] — [raw/surveys/2026-09-20-factor-identification-qwen.md](../../raw/surveys/2026-09-20-factor-identification-qwen.md)
+- [[SRC-2026-09-20-factor-identification-chatgpt]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-chatgpt.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-chatgpt.md)
+- [[SRC-2026-09-20-factor-identification-claude]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md)
+- [[SRC-2026-09-20-factor-identification-deepseek]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-deepseek.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-deepseek.md)
+- [[SRC-2026-09-20-factor-identification-gemini]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-gemini.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-gemini.md)
+- [[SRC-2026-09-20-factor-identification-glm]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-glm.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-glm.md)
+- [[SRC-2026-09-20-factor-identification-grok]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-grok.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-grok.md)
+- [[SRC-2026-09-20-factor-identification-qwen]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-qwen.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-qwen.md)
 - [[SRC-2026-09-20-round-decisions-and-deferrals]] — [raw/conversations/2026-09-20-round-decisions-and-deferrals.md](../../raw/conversations/2026-09-20-round-decisions-and-deferrals.md); the user's answer on the counting convention
 - [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the Section 7 procedure, run
