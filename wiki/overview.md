@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-15
+updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-15-longing-research-rename
   - SRC-2026-09-07-artwork-brainstorm-v2
   - SRC-2026-09-04-longing-concept-brainstorm
@@ -52,8 +53,17 @@ Securities may be abstract conditions as well as concrete practices. The author 
 
 The user wants the aggregate form of a financial **market**, without making exchange operation or investor personas' bets and profits into the content. Financial amplification remains open for convincing designs. [[world-rules]] owns the revised scope; [[data-sources]], [[analyst-system]], and [[DEC-004-secular-decline-with-rallies]] own the historical data, research record, and bias respectively.
 
+## Evolution — precision for two readers (2026-10-01)
+
+The user set two standards for how precise the model must be ([[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]], `user-confirmed`):
+- **For the audience:** the engine needs only as much precision as the experience requires.
+- **For GitHub:** someone who finds the repository should feel that the model is genuinely precise. Ideally that includes people who have worked in financial markets.
+
+In the same turn the user decided that the world is fictional and its markets are not real countries ([[DEC-009-three-markets-and-convergence]]). Real data is a reference for when events happen and how strong they are ([[technology-waves]]).
+
 ## Sources
 
+- [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); precision for two readers; fictional markets; real data as reference
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../raw/conversations/2026-09-04-longing-concept-brainstorm.md)

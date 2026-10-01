@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-22
+updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
   - SRC-2026-09-21-ai-enablement-and-substitution
   - SRC-2026-09-07-artwork-brainstorm-v2
@@ -263,8 +264,15 @@ exposures' sources was run on 2026-09-22 and is pooled in
 [[exposure-sources-review]]: no source observes either exposure for LETTER as
 defined, and the four datasets reappear there among many others, none selected.
 
+## Evolution — real data is a reference for timing and strength (2026-10-01)
+
+The user decided that real data serves as a reference for when events happen in the world and how strong they are, and that the world may keep its own timeline ([[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]], `user-confirmed`). This narrows the role recorded under *measured where measurement exists* above; [[technology-waves]] owns the detail.
+
+The assistant reads one consequence for work item 5, `llm-proposed`: the candidate sources in [[exposure-sources-review]] become references for the shape and strength of the exposures, not measurements of them. Whether the narrowing by quantity and quality continues is open.
+
 ## Sources
 
+- [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); real data as a reference for timing and strength
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision that the channel counts judgment, and the per-security ontology proposal
 - [[SRC-2026-09-21-ai-enablement-and-substitution]] — [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](../../raw/conversations/2026-09-21-ai-enablement-and-substitution.md); the measurement design and the four candidate datasets, all `llm-proposed`; the user's turns are the two questions
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status

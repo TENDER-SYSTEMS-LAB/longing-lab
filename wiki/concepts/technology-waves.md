@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: user-confirmed
-updated: 2026-09-21
+updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-proxy-sourcing-prompt
   - SRC-2026-09-20-wdi-spine-retrieval
@@ -237,6 +238,34 @@ substitutes because it hands over the deliberation whole (letting AI translate a
 greeting), the middle may be ambiguous — and the proposal of a per-security
 ontology of execution and judgment are `user-originated`, not decided.
 
+## Evolution — real data is a reference, and the world keeps its own timeline (2026-10-01)
+
+The user changed what real data does in the work ([[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]]).
+
+**`user-confirmed`:**
+- **Real data is a reference** for when events happen in the world and how strong they are. The world may run its own separate timeline.
+- **The time scale may be adjusted** if needed.
+- **The Luddite movement belongs in the world.** It began in 1811.
+
+**`user-originated`, proposed rather than settled:** a logarithmic time scale. Recent time runs slower and the distant past runs faster, so the Luddites can sit on the same chart as the present. The user expects this to give the graph a good shape.
+
+**What this replaces.** Two parts of this page no longer hold as written:
+- *The span is thirty years, 1996 to 2026.* The world now reaches back at least to the Luddites.
+- *The driver is measured where measurement exists.* This section said the early history becomes "a record of what the world actually did", and that the institute publishes the boundary between measured and extrapolated years. In-world, the history now follows its own timeline, with real series as reference points. What the published boundary means in the new arrangement is open.
+
+The four- and three-wave measurability findings in [[proxy-sourcing-review]] and the WDI spine stay valid as reference material.
+
+**The assistant's illustration, `llm-proposed`.** Let *t* be the number of years before the present, and place each year at log(*t* + *c*). With *c* = 1:
+- 1811 sits at about 5.38, 1996 at about 3.43, and 2025 at about 0.69.
+- So the 185 years from 1811 to 1996 take about 1.95 units, and the 29 years from 1996 to 2025 take about 2.74.
+
+The offset *c* sets how much the last few years are stretched.
+
+**Open questions, as the assistant reads them:**
+- Where the present is anchored, and the value of *c*.
+- Whether the world's calendar shows real-looking dates.
+- How the weekly price and monthly research rhythm of [[DEC-003-weekly-market-monthly-research]] works when time is compressed. For example, whether a far-past week is a longer span of world time, or whether prices simply start later.
+
 ## Related
 
 - [[DEC-008-bearer-bond-is-perpetual]]
@@ -250,6 +279,7 @@ ontology of execution and judgment are `user-originated`, not decided.
 
 ## Sources
 
+- [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); real data as a reference, the world's own timeline, logarithmic time, the Luddites
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision, DEC-014
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md); the two open items above draw on the seven responses synthesised in [[proxy-sourcing-review]]

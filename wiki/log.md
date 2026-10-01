@@ -677,3 +677,21 @@ Registered [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]]
 - MatrAIx persona simulation is used to check the published model's prices, never to produce them.
 
 These are recorded as a fourth evolution on [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], `user-confirmed`, with a pointer in [[weight-setting-procedure-review]]. The user set the present stage as the concepts above securities. The assistant listed four gaps, `llm-proposed`, recorded only, in [[current-state]]'s Unknown. The user set their order: G3 (who agrees to and publishes the method) and G4 (securities and the trust bonds) first, then G2 (what may become a security), then G1 (kinds of security). The assistant's re-classification of the round's agreed points was not contested. No registered original modified.
+
+## [2026-10-01] decision | The markets are not real countries; real data is a reference on the world's own timeline
+
+The user asked to review why each piece of work so far had been done. From this log and the decision pages, the assistant grouped the work into thirteen strands and gave the trigger for each. Its reading, `llm-proposed`, has five points:
+- Some strands began from the user's questions; others from the previous step's output, such as the review rounds and the factor count of nine.
+- Fictional history, chosen on 2026-09-07, sits in tension with the later real-data work.
+- Much of the engine's precision is invisible to the audience.
+- Early basic questions are still open: what one unit is, listing and delisting, a periodic observable, and how to generate the history.
+- The concepts above securities correct the order.
+
+The user's answer is registered as [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]], `user-originated`, together with the review. The user decided:
+- The markets are not designated as real countries ([[DEC-009-three-markets-and-convergence]]).
+- Real data is a reference for when events happen and how strong they are. The world may keep its own timeline and adjust its time scale.
+- The Luddite movement (1811) belongs in the world. A logarithmic time scale is the user's proposal for reaching it ([[technology-waves]], with the assistant's numerical illustration, `llm-proposed`).
+- The engine needs only as much precision as the audience's experience requires, but the GitHub repository should convince even former financial-market practitioners ([[overview]]).
+- A one-issue publication sample is premature.
+
+Evolution notes were added to DEC-009, technology-waves, data-sources and overview. In [[current-state]], the three affected Confirmed bullets were annotated rather than rewritten, two Unknown items were added, and work item 5's continuation was marked open. No registered original modified.

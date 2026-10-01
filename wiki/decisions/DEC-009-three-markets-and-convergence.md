@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-20
+updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-factor-identification-prompt
   - SRC-2026-09-20-institution-naming-prompt
@@ -167,6 +168,22 @@ schedule costs no explanatory power. The stagger this page relies on is, for the
 two measured waves, smaller than the placeholders assumed; the naming of local
 versus common survives, the estimation from timing does not, for those waves.
 
+## Evolution — the markets are not real countries (2026-10-01)
+
+The user decided that the world is fictional and its markets are not to be designated as real countries ([[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]]):
+
+> 시장을 미국과 한국 일본등으로 정의했지만, 실제로는 가상의 세계관으로 따로 나라를 지정하지는 말자.
+
+**`user-confirmed`:** the markets are not the United States, Korea and Japan. Real data still serves as a reference for when events happen and how strong they are; see the evolution note on [[technology-waves]].
+
+What this leaves open, as the assistant reads it, `llm-proposed`:
+- **How many markets there are.** The user did not restate the number three.
+- **What the markets are called**, and whether they are fictional countries or simply unnamed places.
+- **The convergence story.** It does not depend on the markets being real countries, so it can stand as it is.
+- **The publisher structure.** The idea that each market's index is published by a different kind of institution (a state, a newspaper, a ratings house) can survive as a set of institution types without the countries.
+- **The Japanese publisher decisions.** The national and evening-paper choices were made for Japan. Whether a fictional market keeps that form is open.
+- **Name checks still matter.** The collision checks in [[institution-naming-review]] are still needed to keep the fictional names clear of real ones.
+
 ## Related
 
 - [[technology-waves]]
@@ -180,6 +197,7 @@ versus common survives, the estimation from timing does not, for those waves.
 
 ## Sources
 
+- [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); markets are not real countries
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md); the naming note draws on the seven responses synthesised in [[institution-naming-review]]
