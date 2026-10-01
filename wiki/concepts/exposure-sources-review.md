@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-22
+updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-exposure-sources-existence-check
   - SRC-2026-09-22-exposure-sources-brainstorm-prompt
   - SRC-2026-09-22-exposure-sources-chatgpt
   - SRC-2026-09-22-exposure-sources-claude
@@ -96,6 +97,36 @@ The same source is scored very differently:
 
 **Status words do not mean the same thing across files.** *Verified* ranges from "I am confident it exists with that name" (Claude, stated) to a mark on a series the file has projected forward to 2026 (Gemini, second run, stated).
 
+## Existence check (2026-10-01)
+
+The first step of the narrowing was done on 2026-10-01 by web search ([[SRC-2026-10-01-exposure-sources-existence-check]], `llm-proposed`). It covered the ten suspect series above and twenty-six of the sources ranked highest. The rest of the pool is unchecked. A verdict of *not found* means these searches did not find the series, not that it is proven absent.
+
+- **Four suspect series were not found:** the ALS Association AAC registry, the "NIPA" autocomplete reports, the AI-generation transparency reports from Meta, LINE and Kakao, and the "National AAC & AT Utilization Database". A fifth, the Japanese Google Books corpus, does not exist: the Ngram Viewer has no Japanese or Korean corpus.
+- **The other suspect series point to something real but narrower than claimed.** The NHIS assistive-technology items were fielded in 1990 and 1994–95, not every year. ASHA NOMS is a voluntary outcomes registry with no published "percentage restored". The Tobii Dynavox reports start at its 2021 listing and give no Japan or Korea split. No Japanese postal statistic separates handwritten mail.
+- **Correction to the warning above:** the Korean half of the inmate e-messaging claim is not invented. The Corrections Headquarters ran an internet-letter service from 2005 to October 2023: letters typed online and delivered to inmates on paper, 4.3 million in 2022, 48.2% of all letters received. No Japanese counterpart was found. Whether Korea publishes an annual series is unknown. This is an unusual case for LETTER: a letter whose marks were not made by hand, sent on a route that later closed.
+- **The Medicare start-year conflict is resolved to 2001.** Speech-generating devices were covered as DME from 1 January 2001 (NCD 50.1), so the files that claim 1996 are wrong.
+- **Most core sources exist:**
+  - FCC TRS minutes.
+  - The CMS DME tables.
+  - 電話リレーサービス, from FY2021.
+  - 福祉行政報告例 補装具 tables. The device-type split is indicated but unopened.
+  - NATADS, from FY2013.
+  - The Household Diary Study's personal-correspondence table.
+  - Korea Post volumes, 2006–2020 on data.go.kr.
+  - 디지털정보격차 실태조사, from 2002.
+  - 年賀郵便 volumes.
+  - The Anthropic Economic Index.
+  - NBER w34255.
+  - Liang et al.
+  - CoAuthor.
+  - Willett 2021.
+  - The OHSU 2021 survey.
+  - Moonpig's attach rate, UK only.
+- **Some sources are single points, not series:** the Greeting Card Association's 6.5 billion and the Smart Reply 10%.
+- **Two Korean sources have no national annual counts:** the relay centre and the NIA device programme. Both services exist. The Osaka 2024 AAC survey was not found under that name.
+
+Existence was the gate. Quantity and quality, the next step, have not been scored.
+
 ## What this round does not decide
 
 - Which sources are carried into the narrowing by quantity and quality, which the user set as the next step and which has not begun.
@@ -114,6 +145,7 @@ The same source is scored very differently:
 
 ## Sources
 
+- [[SRC-2026-10-01-exposure-sources-existence-check]] — [raw/documents/2026-10-01-exposure-sources-existence-check.md](../../raw/documents/2026-10-01-exposure-sources-existence-check.md); the existence check, web search, 36 items
 - [[SRC-2026-09-22-exposure-sources-brainstorm-prompt]] — [raw/documents/2026-09-22-exposure-sources-brainstorm-prompt.md](../../raw/documents/2026-09-22-exposure-sources-brainstorm-prompt.md); the brief
 - [[SRC-2026-09-22-exposure-sources-chatgpt]] — [raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-chatgpt.md](../../raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-chatgpt.md); 48 rows, live search, the 93-cell correction
 - [[SRC-2026-09-22-exposure-sources-claude]] — [raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-claude.md](../../raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-claude.md); first run
