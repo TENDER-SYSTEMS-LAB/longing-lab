@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-weights-first-securities-later
   - SRC-2026-10-01-exposure-sources-existence-check
   - SRC-2026-09-21-ai-enablement-and-substitution
   - SRC-2026-09-20-factor-identification-prompt
@@ -232,6 +233,8 @@ Two further work items set by the user on 2026-09-21, `user-originated`, neither
 
 4. **Put the weight-setting procedure to a round of LLM opinions**, synthesise them, and the user decides. Run 2026-09-22, seven responses synthesised in [[weight-setting-procedure-review]]: the seven agree on a definition-induced step unit, a consequence-qualified sorting test, the three hard cases and immutable history, and split on the counting rule (equal count, importance weighting, time weighting), the tolerance and mixed steps; illustrative LETTER pairs run from 0.25 to 0.50 execution, so the pair is only as precise as the definition sentence. The user's synthesis and final call have not begun.
 5. **Collect candidate sources for the per-era exposures** by brainstorming and asking other agents and LLMs widely, then narrow by quantity and quality before fixing any. Run 2026-09-22, twelve responses pooled in [[exposure-sources-review]]: no source in any market observes either exposure for LETTER as defined; the nearest material restores speech, typing or calling, not handwriting; judgment substituted before the AI era is unmeasured; Korea is the thinnest market; and four files mark as verified series the others say do not exist. The existence check was done on 2026-10-01 for the ten suspect series and twenty-six core sources ([[SRC-2026-10-01-exposure-sources-existence-check]]). Four suspect series were not found and the Japanese Google Books corpus does not exist; the rest are narrower than claimed. One is real in Korea: the internet-letter service of 2005–2023. Medicare SGD coverage starts in 2001. Most core sources exist. Scoring by quantity and quality has not begun, and the rest of the pool is unchecked. The four datasets on [[data-sources]] reappear there, none selected.
+
+Order set by the user on 2026-10-01, `user-originated` ([[SRC-2026-10-01-weights-first-securities-later]]): **decide item 4 first; decide the securities later.** The user said the choice of securities needs deliberation about the ontology, because the securities carry a very important part of the work, and they must be chosen with great care. The assistant had argued that exposures cannot be told apart by era with LETTER alone. That argument, its two cautions and its candidate practices are `llm-proposed`, and none is adopted. The first caution: choosing practices because data reaches them would tilt the universe toward what is measurable. The second: each new security needs a weight pair, so it depends on item 4. No security beyond LETTER is defined.
 
 An initial dataset investigation requested by the user is now recorded in [[dataset-backtesting-survey]]. Collection priorities and experimental designs remain LLM proposals. The survey distinguishes behavior validation, observation-layer checks and external mechanism benchmarks from an empirical LONGING RESEARCH price backtest; the price unit and valuation bridge remain unresolved.
 
