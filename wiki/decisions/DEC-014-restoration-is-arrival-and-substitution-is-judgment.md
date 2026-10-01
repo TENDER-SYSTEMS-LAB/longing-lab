@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-22
+updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-importance-weighting-and-concepts-above-securities
   - SRC-2026-09-22-revision-conditions-a-and-b
   - SRC-2026-09-22-weight-setting-procedure-prompt
   - SRC-2026-09-22-exposure-sources-brainstorm-prompt
@@ -88,6 +89,19 @@ Offered three candidate conditions, the user chose two and struck one ([[SRC-202
 
 Two round prompts were drafted at the user's request and registered as documents, `llm-proposed`, to be run by the user, who will bring the responses into the wiki as before: [[SRC-2026-09-22-weight-setting-procedure-prompt]] for the weight-setting procedure, carrying the five fixed points of this decision and its evolutions as context and asking for the unit of classification, the sorting rule, the counting rule, who sets the pair, cross-market consistency, the revision procedure under (a) and (b), and failure modes; and [[SRC-2026-09-22-exposure-sources-brainstorm-prompt]] for the per-era exposures, a collection round with LETTER as the worked case that asks for breadth, a status per row, the inference from what a source counts to the exposure, and a first sort by quantity and quality without selection. Both were run the same day; the responses are synthesised in [[weight-setting-procedure-review]] and [[exposure-sources-review]], `llm-synthesis`. The user's synthesis and final call on the procedure, and the narrowing of the sources, have not begun.
 
+## Evolution — steps are counted by importance, and importance belongs to the definition (2026-10-01)
+
+The user first had the round's "step" explained with LETTER as the example, and saw how the three counting rules move LETTER's execution share between about 0.25 and 0.70. The user then made the following decisions ([[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]]).
+
+**`user-confirmed`:**
+- **Steps differ by security.** Each security's steps are derived from its own definition.
+- **Steps are counted by importance**, not by equal count or by time. The user will set each step's importance after the securities are chosen. Each setting is checked against as many LLMs as possible before it is agreed.
+- **Importance is part of the security's definition.** Changing a step's importance is therefore a change of definition and falls under revision condition (a). The user's only lever on a pair is the definition, and the definition now includes the importance scores. The user first answered "definition only" and then chose this reading when the conflict with setting importance was pointed out.
+- **Mixed steps are forbidden.** A step that is partly execution and partly judgment is resolved by splitting the definition further. A step that cannot be split counts as judgment.
+- **Inside the fiction, the procedure is the agreed method of setting prices.** Who in the world agrees to it and publishes it is open. It is recorded as gap G3 in [[current-state]].
+
+The round's other agreed points were classified by the assistant, `llm-proposed`, and the user did not contest it. The sorting test and the one-pair-for-three-markets rule move into the work on concepts above securities. The definition-induced unit waits on whether every security is a practice with steps. The hard cases wait until securities are chosen. The independent-classifier rule is replaced by the user's own setting and LLM check. The immutable history is already covered by the revision rules above. Tolerance, cross-market detection and restating history after a revision are not decided.
+
 ## Related
 
 - [[technology-waves]]
@@ -99,6 +113,7 @@ Two round prompts were drafted at the user's request and registered as documents
 
 ## Sources
 
+- [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]] — [raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md](../../raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md); importance weighting, importance in the definition, mixed steps forbidden, the agreed method inside the fiction
 - [[SRC-2026-09-22-revision-conditions-a-and-b]] — [raw/conversations/2026-09-22-revision-conditions-a-and-b.md](../../raw/conversations/2026-09-22-revision-conditions-a-and-b.md); the two conditions and the rejection of the third
 - [[SRC-2026-09-22-weight-setting-procedure-prompt]] — [raw/documents/2026-09-22-weight-setting-procedure-prompt.md](../../raw/documents/2026-09-22-weight-setting-procedure-prompt.md); the procedure round's prompt, not yet run
 - [[SRC-2026-09-22-exposure-sources-brainstorm-prompt]] — [raw/documents/2026-09-22-exposure-sources-brainstorm-prompt.md](../../raw/documents/2026-09-22-exposure-sources-brainstorm-prompt.md); the exposure-sources round's prompt, not yet run

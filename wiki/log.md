@@ -665,3 +665,15 @@ On the user's instruction, the first step of work item 5 was done: a web existen
 ## [2026-10-01] decision | Weights first; securities later, after deliberation on the ontology
 
 Registered [[SRC-2026-10-01-weights-first-securities-later]], `user-originated`. The user had asked whether securities beyond LETTER are needed to tell the exposures apart by era. The assistant answered that they are, with two cautions: a universe chosen by where data reaches, and each new security's dependence on the weight procedure. The user then set the order: decide the weight-setting procedure (work item 4) first, and decide the securities later. Securities need deliberation about the ontology, because they carry a very important part of the work, and must be chosen with great care. Recorded in [[current-state]]'s next steps. The assistant's argument and candidate practices stay `llm-proposed`. No security is defined. No registered original modified.
+
+## [2026-10-01] decision | Steps counted by importance; the concepts above securities come first
+
+Registered [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]], `user-originated`. The assistant explained what a step is and why a counting rule is needed, using LETTER as the example. The user then decided:
+- Steps differ by security.
+- Steps are counted by importance. The user sets each step's importance after the securities are chosen and checks it against as many LLMs as possible.
+- Importance is part of the security's definition. The user chose this, option (가), over a separate numeric lever; it replaced the earlier answer "definition only".
+- Mixed steps are forbidden.
+- Inside the fiction the procedure is the agreed method of setting prices.
+- MatrAIx persona simulation is used to check the published model's prices, never to produce them.
+
+These are recorded as a fourth evolution on [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], `user-confirmed`, with a pointer in [[weight-setting-procedure-review]]. The user set the present stage as the concepts above securities. The assistant listed four gaps, `llm-proposed`, recorded only, in [[current-state]]'s Unknown. The user set their order: G3 (who agrees to and publishes the method) and G4 (securities and the trust bonds) first, then G2 (what may become a security), then G1 (kinds of security). The assistant's re-classification of the round's agreed points was not contested. No registered original modified.

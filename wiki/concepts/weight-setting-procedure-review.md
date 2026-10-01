@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-22
+updated: 2026-10-01
 sources:
+  - SRC-2026-10-01-importance-weighting-and-concepts-above-securities
   - SRC-2026-09-22-weight-setting-procedure-prompt
   - SRC-2026-09-22-weight-setting-procedure-chatgpt
   - SRC-2026-09-22-weight-setting-procedure-claude
@@ -72,6 +73,10 @@ Every model puts recipient choice and composition on the judgment side and inscr
 
 Objections were optional. Claude and Qwen object to the second fixed point: Claude that the interpretation-read-before-the-original case is neither substitution nor arrival and so "the model gives it no reading", though it may be the late period's most characteristic change; Qwen that the boundary between doing and choosing is porous, with audience filtering as its example. Gemini objects to the third, that thirty-year immutability strains when a wave redefines the practice. DeepSeek objects to condition (b), as the point most likely to create false revisions if applied mechanically. GLM and Grok object to their own designs — that the procedure measures the rigour of definition-drafting rather than the practice, and that a test fed by the definition sentence is circular in principle — and accept the cost. ChatGPT states none but notes a *harder limit*: a defective pair that agrees across markets under an unchanged definition has no eligible revision trigger.
 
+## The user's call (2026-10-01)
+
+The user chose importance weighting and decided that importance is part of each security's definition. The user also forbade mixed steps and set the procedure as the agreed method of setting prices inside the fiction. Recorded on [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]] ([[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]]). Tolerance, cross-market detection and restating history are still open.
+
 ## Provenance limits
 
 ChatGPT's citations — a NASA systems-engineering process document, the OECD/JRC composite-indicator handbook, GOV.UK Green Book guidance on multi-criteria analysis, and the GRRAS reporting guidelines — are unverified here and are precedent for method, not evidence about the practice. Claude and Grok assert facts about Korean and Japanese greeting and honorific practice; these are claims from training, not sourced. Qwen assumes a 1996 median duration per step is measurable; nothing in the record supports that. Every mechanism name on this page — responsibility ledger, anchor phrase, definitional load, criticality weight, canonical step — is one model's coinage and carries no standing.
@@ -94,6 +99,7 @@ ChatGPT's citations — a NASA systems-engineering process document, the OECD/JR
 
 ## Sources
 
+- [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]] — [raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md](../../raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md); the user's call on the counting rule and mixed steps
 - [[SRC-2026-09-22-weight-setting-procedure-prompt]] — [raw/documents/2026-09-22-weight-setting-procedure-prompt.md](../../raw/documents/2026-09-22-weight-setting-procedure-prompt.md); the brief and its five fixed points
 - [[SRC-2026-09-22-weight-setting-procedure-chatgpt]] — [raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md](../../raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md); responsibility ledger, 100-point budget, no illustrative pair
 - [[SRC-2026-09-22-weight-setting-procedure-claude]] — [raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-claude.md](../../raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-claude.md); clause and unit layers, quarter grid, objection on hard case 3
