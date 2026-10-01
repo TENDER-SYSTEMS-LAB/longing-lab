@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-01
+updated: 2026-10-02
 sources:
+  - SRC-2026-10-02-one-market-and-a-price-nobody-agrees
   - SRC-2026-10-01-importance-weighting-and-concepts-above-securities
   - SRC-2026-09-22-revision-conditions-a-and-b
   - SRC-2026-09-22-weight-setting-procedure-prompt
@@ -102,6 +103,24 @@ The user first had the round's "step" explained with LETTER as the example, and 
 
 The round's other agreed points were classified by the assistant, `llm-proposed`, and the user did not contest it. The sorting test and the one-pair-for-three-markets rule move into the work on concepts above securities. The definition-induced unit waits on whether every security is a practice with steps. The hard cases wait until securities are chosen. The independent-classifier rule is replaced by the user's own setting and LLM check. The immutable history is already covered by the revision rules above. Tolerance, cross-market detection and restating history after a revision are not decided.
 
+## Evolution — nobody agrees a market price, and condition (b) is reopened (2026-10-02)
+
+The assistant argued that gap G3 — who inside the world agrees to the weight method and publishes it — had to be decided, and gave four grounds from earlier decisions. The user did not accept the argument ([[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]]):
+
+> 세계 안에서는 "합의된" 가격 결정 방식이 있긴 하지만, 나는 최대한 금융시장의  모습을 다루고 싶었어.
+> 금융시장에서는 누군가 가격에 대해서 합의 하지 않잖아? 모두가 가진 생각들과 심리, 유동성의 상황, 매크로 등등이 모두 모여서 하나의 가격으로 표현되는거지. 따라서 나는 물론 관객 경험을 위해서 가격 결정 모델을 만들고 가격을 정의한 뒤 그래프로 나타내야겠지만 그 모델은 실제 금융시장처럼 동작하기를 바라는거야.
+
+**The user's position, `user-originated`:**
+- **Nobody agrees a market price.** The work is to show a financial market as closely as possible. A price there is everyone's thoughts, psychology, the state of liquidity, macro conditions and the rest, expressed as one number.
+- **The price model is made for the audience and is to behave as a real financial market does.** A model has to be built, prices defined and drawn as a graph, so that there is something to experience. That does not make the price an agreed quantity.
+- The user grants that an "agreed" method of setting prices exists inside the world. How that statement of 2026-10-01 fits with a price nobody agrees is not settled by this reply.
+
+**Revision condition (b) is reopened, by the user.** There is one market ([[DEC-009-three-markets-and-convergence]]), so weights cannot disagree across markets, and the user says the condition must be thought through again. Condition (a), a change of the security's definition, is untouched. Cross-market detection, listed above as undecided, has no object while there is one market.
+
+**Gap G3 stands open and its grounds are withdrawn in part.** Two of the assistant's four grounds rested on three markets and fall with them. A third cited the published coefficients of [[DEC-007-standard-return-numeraire]] only by their symbols, which the user could not follow; it was not accepted. The candidates "each market's index publisher" and "both" no longer exist as worded. Whether G3 is a question at all is open.
+
+**Later the same day, G3 was closed without an answer of its own.** The user decided that listing is not a concept of the world and that the institution's side is coverage ([[DEC-015-no-listing-and-a-stopped-price-stays]]). In the proposal the user accepted, the weights sit in LONGING RESEARCH's own description of a security it covers, and the price is formed apart from it by the market; that reading is the assistant's wording, uncontested. How this fits the 2026-10-01 statement that the procedure is the agreed method of setting prices was not taken up again.
+
 ## Related
 
 - [[technology-waves]]
@@ -113,6 +132,7 @@ The round's other agreed points were classified by the assistant, `llm-proposed`
 
 ## Sources
 
+- [[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]] — [raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md](../../raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md); nobody agrees a market price, condition (b) reopened, G3's grounds withdrawn in part
 - [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]] — [raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md](../../raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md); importance weighting, importance in the definition, mixed steps forbidden, the agreed method inside the fiction
 - [[SRC-2026-09-22-revision-conditions-a-and-b]] — [raw/conversations/2026-09-22-revision-conditions-a-and-b.md](../../raw/conversations/2026-09-22-revision-conditions-a-and-b.md); the two conditions and the rejection of the third
 - [[SRC-2026-09-22-weight-setting-procedure-prompt]] — [raw/documents/2026-09-22-weight-setting-procedure-prompt.md](../../raw/documents/2026-09-22-weight-setting-procedure-prompt.md); the procedure round's prompt, not yet run

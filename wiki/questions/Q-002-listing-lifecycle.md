@@ -1,14 +1,27 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-20
+updated: 2026-10-02
 sources:
+  - SRC-2026-10-02-no-listing-and-a-stopped-price
   - SRC-2026-09-19-market-texture-findings
   - SRC-2026-09-06-world-rules-letter-spec-request
   - SRC-2026-09-04-longing-concept-brainstorm
 ---
 
 # Q-002 — Who lists a romance, and what happens when it dies?
+
+## Nobody lists it (2026-10-02)
+
+The first half of this page's title is answered by removing it. The user decided that listing is not a concept of the world: a romantic thing existed from before, and a security is there when the record begins. See [[DEC-015-no-listing-and-a-stopped-price-stays]].
+
+What that decision settles here, `user-confirmed`:
+- Disappearance and return are handled through the BEARER BOND, with no committee admitting or re-admitting anything.
+- The institution's side is coverage: LONGING RESEARCH covers a security or stops covering it.
+- A security whose coverage has ended keeps its graph and its trading volume in front of the audience.
+- A price that stops because trading ended is not moved to zero. It stays at a level that is not zero.
+
+What stays open on this page: what a return does to a stopped price, whether a price can reach zero while still traded, what ends coverage, and what a stopped security does to an index. The question *if one person begins a vanished practice again, has it still vanished?* stands, now asked of a stopped price and a new bond. The sections below are kept as the record of how the question was worked; where they speak of listing, delisting, relisting or a committee, they describe rejected material.
 
 ## Issuance is answered (2026-09-20)
 
@@ -73,7 +86,7 @@ Delisting is also where the work's quiet bias is placed. In [[system-grammar]], 
 
 ## Evolution — separate practice, evidence, coverage, and listing (2026-09-06)
 
-**Previous state:** the source raised disappearance and one person's return as questions; no operational rule existed. **Transition:** the current user request explicitly asks to distinguish extinction, stopped observation, ended coverage, delisting, and reappearance. **Current state:** the following rules are `llm-proposed` trial specifications alongside [[world-rules]] and [[letter-practice-dynamics]], not institutional policy selected by the user.
+**Previous state:** the source raised disappearance and one person's return as questions; no operational rule existed. **Transition:** the current user request explicitly asks to distinguish extinction, stopped observation, ended coverage, delisting, and reappearance. **Current state:** the following rules are `llm-proposed` trial specifications alongside [[world-rules]] and [[letter-practice-dynamics]], not institutional policy selected by the user. *2026-10-02: the listing and quotation states, the committee, the admission test, the delisting review and re-admission below are `rejected`; see Why rejected. The separation of practice, observation and coverage is not.*
 
 One status cannot carry all these meanings. Keep four separate fields and preserve their effective dates and reasons:
 
@@ -142,8 +155,13 @@ The archive retains discontinued LONG and SHORT research without rewriting their
 4. A resident who had stopped sends a qualifying letter. The underlying state records a restart and one dispatch. A source may report it late or fail to see it; the institution changes its record only when evidence arrives.
 5. Four valid releases and a valid quote/prospectus route support re-admission. One person's act preceded administrative return and remains visible in the dated record. This is a return of evidence and eligibility, not an assertion that the practice has recovered to its former scale.
 
+## Why rejected
+
+Listing, the Methodology and Listings Committee, the four-release admission test, the thirteen-week delisting review and re-admission were trial proposals and were never selected. The user rejected listing as a concept on 2026-10-02: nobody listed a romantic thing, and the people who look at a market ignore the day a security was listed. See [[DEC-015-no-listing-and-a-stopped-price-stays]].
+
 ## Related
 
+- [[DEC-015-no-listing-and-a-stopped-price-stays]]
 - [[world-rules]]
 - [[letter-practice-dynamics]]
 - [[Q-004-unit-of-account]]
@@ -154,5 +172,6 @@ The archive retains discontinued LONG and SHORT research without rewriting their
 
 ## Sources
 
+- [[SRC-2026-10-02-no-listing-and-a-stopped-price]] — [raw/conversations/2026-10-02-no-listing-and-a-stopped-price.md](../../raw/conversations/2026-10-02-no-listing-and-a-stopped-price.md); listing is not a concept of the world
 - [[SRC-2026-09-06-world-rules-letter-spec-request]] — [raw/documents/2026-09-06-world-rules-letter-spec-request.md](../../raw/documents/2026-09-06-world-rules-letter-spec-request.md); exact request for concrete lifecycle distinctions; thresholds and authority rules above are unconfirmed task proposals
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)

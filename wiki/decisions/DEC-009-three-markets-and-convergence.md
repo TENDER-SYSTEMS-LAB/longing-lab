@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-01
+updated: 2026-10-02
 sources:
+  - SRC-2026-10-02-one-market-and-a-price-nobody-agrees
   - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-factor-identification-prompt
@@ -184,6 +185,26 @@ What this leaves open, as the assistant reads it, `llm-proposed`:
 - **The Japanese publisher decisions.** The national and evening-paper choices were made for Japan. Whether a fictional market keeps that form is open.
 - **Name checks still matter.** The collision checks in [[institution-naming-review]] are still needed to keep the fictional names clear of real ones.
 
+## Evolution — there is one market (2026-10-02)
+
+Asked why gap G3 had to be decided, the assistant argued from three markets: from the revision condition for weights that disagree across markets, and from this page's statement that an index's name records who held the right to measure. The user answered ([[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]]):
+
+> 그리고 "세 시장에서 비중이 서로 어긋나면 개정" 항목도 일단 시장을 다 없에고 하나로 만들었잖아. 따라서 이것도 다시 새로 고민해야해.
+>
+> "지수 이름은 그 시장에서 누가 잴 권리를 가졌는지를 기록한다" 이것도 위와 마찬가지. 시장을 다 없에고 하나로 만들었어.
+
+**`user-confirmed`:** there is one market. The separate markets are removed. The 2026-10-01 note above recorded only that the markets are not real countries and, as the assistant's reading, left their number open; that reading was narrower than the user's intent, and the number is no longer open.
+
+**Also the user's judgment:** what rested on several markets must be thought through again. The user names two things: the revision condition for weights that disagree across markets, on [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], and the statement that an index's name records who held the right to measure.
+
+What this touches, as the assistant reads it, `llm-proposed`. Nothing here is decided, and nothing is rejected by the user beyond the count of markets:
+- **Separate listings and convergence.** One practice listed in several markets, dying at different speeds, and the markets converging: there is no second market for any of it to happen between. Whether some difference inside the one market replaces it is open.
+- **The publisher structure.** A different kind of institution for each market's index, the composite that absorbs the local indices, and the peak marked by the last week a local index was cited. Whether the one market has one index, and who publishes it, is open.
+- **The Japanese publisher decisions and the two institutions to be named.** They were made for a market that no longer exists separately. [[institution-naming-review]] keeps the candidates.
+- **Model parts built on three markets.** [[loop-simulation]] and [[identification-experiment]] run three converging markets. They are not redrawn.
+
+The title and the text above stay as the record of the earlier decision.
+
 ## Related
 
 - [[technology-waves]]
@@ -197,6 +218,7 @@ What this leaves open, as the assistant reads it, `llm-proposed`:
 
 ## Sources
 
+- [[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]] — [raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md](../../raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md); there is one market
 - [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); markets are not real countries
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); the evolution note draws on the seven responses synthesised in [[factor-identification-review]]

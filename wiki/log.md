@@ -695,3 +695,32 @@ The user's answer is registered as [[SRC-2026-10-01-fictional-markets-and-a-refe
 - A one-issue publication sample is premature.
 
 Evolution notes were added to DEC-009, technology-waves, data-sources and overview. In [[current-state]], the three affected Confirmed bullets were annotated rather than rewritten, two Unknown items were added, and work item 5's continuation was marked open. No registered original modified.
+
+## [2026-10-02] decision | There is one market; nobody agrees a market price
+
+Asked to proceed, the assistant listed the open decisions and put gap G3 first. The user asked why G3 had to be decided. The assistant gave four grounds from earlier decisions; two rested on three markets, and one cited the published coefficients of [[DEC-007-standard-return-numeraire]] only by their symbols. The user's reply is registered as [[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]], `user-originated`, together with both answers. The user stated:
+- There is one market. The separate markets are removed. The 2026-10-01 record had left the number open as the assistant's reading, which was narrower than the user's intent.
+- What rested on several markets must be thought through again. The user names revision condition (b) and the statement that an index's name records who held the right to measure.
+- Nobody agrees a market price. The price model is built for the audience's experience and is to behave as a real financial market does.
+- Abbreviations must always be explained.
+
+Evolution notes were added to [[DEC-009-three-markets-and-convergence]] and [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]. In [[current-state]], two Confirmed bullets were added, the three-market bullets were annotated rather than rewritten, the market-count Unknown item was replaced by what the one market keeps, condition (b) was added to Unknown, and G3 was marked as not accepted and possibly not a question. Other pages that describe three markets — [[technology-waves]], [[loop-simulation]], [[identification-experiment]], [[institution-naming-review]] among them — are not redrawn. No registered original modified.
+
+## [2026-10-02] decision | Nothing is listed; a price that stops stays where it stopped
+
+The assistant withdrew three of its four grounds for gap G3 and proposed folding G3 into the question of who lists a security. The user questioned listing itself: romantic things were listed by nobody, and a market's securities are simply there. The assistant proposed dropping listing, handling disappearance and return through the BEARER BOND and the institution's side as coverage. The user accepted and added three things. Registered as [[SRC-2026-10-02-no-listing-and-a-stopped-price]], `user-originated`, and recorded as [[DEC-015-no-listing-and-a-stopped-price-stays]], `user-confirmed`:
+- Listing is not a concept of the world. A security is there when the record begins.
+- Disappearance and return go through the BEARER BOND. The institution's side is coverage.
+- A security whose coverage has ended keeps its graph and trading volume in front of the audience.
+- A price that stops because trading ended is not moved to zero. It rests at a level that is not zero.
+- Volume is shown beneath the price as a secondary indicator.
+
+Accepted inside the proposal and recorded as the assistant's wording, uncontested: G3 needs no separate answer, G2 is the user's criterion and not a rule of the world, G4 absorbs the listing question, and a price of 100 is set where the record begins. On [[Q-002-listing-lifecycle]] the listing, committee, admission, delisting and re-admission proposals of 2026-09-06 are marked `rejected` with the user's reason; the page keeps its open questions. [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]] and [[current-state]] were annotated, and the catalog gained DEC-015. Not decided: what volume counts, given that [[DEC-003-weekly-market-monthly-research]] rejected fabricated volume; when a price stops; a zero reached while still traded; how coverage ending relates to a price stopping; what a return does. [[system-grammar]]'s `Coverage Discontinued` page is not redrawn. No registered original modified.
+
+## [2026-10-02] maintenance | The open questions above securities restated without the gap labels
+
+After the day's two decisions the four-gap list in [[current-state]]'s Unknown was mostly overtaken: two gaps are no longer questions and the other two changed scope. A plain-language list of what is open now was added above it. The labels G1–G4 stay in the older entries and pages only for tracing. No decision changed.
+
+## [2026-10-02] query | The whole frame read in seven layers; a new resume point
+
+Asked to look over the whole frame again, the assistant read it in seven layers: subject and form, the world, securities, what sits under the price, how the market moves, what the audience sees, and engine detail. The reading is `llm-proposed`: the layer under the price stands, the world and the securities are mostly empty, and much engine detail assumes three markets. It recommends filling the world layer first; no layer was chosen. The reading is recorded as a new resume point in [[current-state]], above the 2026-09-07 one. No decision changed.
