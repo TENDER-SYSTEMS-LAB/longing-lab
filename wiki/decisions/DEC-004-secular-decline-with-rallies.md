@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-20
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-top-down-securities-and-liquidity
   - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-15-numeraire-and-standard-return
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
@@ -147,8 +148,30 @@ measured where national statistics exist and extrapolated beyond, the early hist
 records what the world actually did. *Calculated against the world's current
 direction, it keeps falling* stops being a figure of speech.
 
+## Evolution — liquidity between people dries up, and melt-ups are not required (2026-10-03)
+
+Reviewing a summary of the decided world, the user restated why the market declines and loosened the inversion this page named ([[SRC-2026-10-03-top-down-securities-and-liquidity]]):
+
+> 3. 작가의 입장에서 낭만을 사라지고 사람과 사람사이의 빚이 사라지면서 사람과 사람사이에서 형성되었던 금융시장의 유동성이 말라가고 있다고 생각함.
+> 6. 급등을 내가 예시로 들긴했지만 꼭 급등일 필요는 없고 장기 횡보나 중기적인 우상향일 수도 있음. 우리의 진짜 금융시장과 같은 느낌이 최대한 들도록 하면 좋겠어.
+
+**`user-originated`, the author's position:** as romance disappears and the debts between people disappear, the liquidity of the financial market that formed between people is drying up.
+
+**`user-confirmed`:**
+- **Melt-ups were an example, not a requirement.** The inversion recorded above — melt-ups where a real market has crashes, "the mirror is exact" — no longer binds. Long sideways periods and medium-term upward trends are equally possible moves inside the decline.
+- **The market should feel as much as possible like a real financial market.** This joins the 2026-10-02 position that the price model is to behave as a real market does ([[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]).
+
+Unchanged: the long-run decline, the rule that it must not be hard-coded, and the capped requisition rate's condition that the whole graph still declines.
+
+How the assistant reads the position, `llm-proposed`, not decided:
+- **The debts between people are the BEARER BONDs.** [[DEC-008-bearer-bond-is-perpetual]] already makes reliance between people a debt and the decline a series of calls. The user's statement names what that does to the market: the float is the market's liquidity, so calls drain liquidity rather than only lowering a price.
+- **It reinforces two earlier readings.** The 2026-09-15 proposal above — the market does not crash; volume thins, the spread widens and quotes stand unfilled — and [[DEC-015-no-listing-and-a-stopped-price-stays]], where volume beneath the price lets the audience see that trading dried up.
+- **What trading volume counts is still open.** The position says what volume should show over the long run; it does not say how a week's volume is formed.
+- **The rally mechanisms recorded above stay as possible mechanisms, not as required ones.** Default clusters and short covering can still produce sharp rises; they no longer have to be the only shape of an advance.
+
 ## Sources
 
+- [[SRC-2026-10-03-top-down-securities-and-liquidity]] — [raw/conversations/2026-10-03-top-down-securities-and-liquidity.md](../../raw/conversations/2026-10-03-top-down-securities-and-liquidity.md); liquidity between people dries up; melt-ups not required
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the requisition cap that keeps the disagreement test alive after the tipping point
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
 

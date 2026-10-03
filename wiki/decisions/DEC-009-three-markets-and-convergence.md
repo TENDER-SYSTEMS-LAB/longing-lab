@@ -1,8 +1,9 @@
 ---
-status: confirmed
+status: rejected
 attribution: user-confirmed
-updated: 2026-10-02
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-10-02-one-market-and-a-price-nobody-agrees
   - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-20-bearer-bond-issuance
@@ -15,6 +16,33 @@ sources:
 ---
 
 # DEC-009 — Three markets, and the convergence that erases them
+
+> **Rejected on 2026-10-03 by the user.** The three-market world is erased. The project returns to one market, as at its beginning. Everything below is kept as the record of the earlier decision and is not current. See `## Why rejected`.
+
+## Why rejected
+
+The user decided ([[SRC-2026-10-03-three-markets-erased]]):
+
+> 기존에 구상했던 세개의 국가에 있는 시장 3개에 대한 세계관을 완전히 지우려고 해.
+> 즉, 프로젝트 초반에 하나의 시장만 고려했던 상태처럼 변경하는거야.
+
+**`user-confirmed`:** the three-market world is erased, not only reduced in number. The 2026-10-02 note below had left open what the one market keeps from the three. The answer is: nothing that exists only because there were several markets. The following are rejected and are not current anywhere in the Wiki:
+
+- separate listings of one practice in several markets, and a practice dying at different speeds in different places;
+- convergence, `global share of events = ψ(A(t))`, the `DISPERSION` series, the local/common split in the weekly ledger, and the invisible peaks of the last disagreeing week and the last cited local index;
+- a different kind of institution publishing each market's index, the `KOCPI` placeholder, the Japanese national evening paper, the US ratings house, and the composite absorbing the local indices;
+- symmetric research across three markets, and normalising three countries' statistics;
+- the separability claim this page made for factor identification.
+
+What the user chose at the same time, from options the assistant wrote:
+
+- **The one market's structure is to be decided again.** How many indices it has and who publishes them are open. The user did not choose a return to the early index family on [[index-architecture]]; that family stays as earlier material, neither confirmed nor rejected by this decision.
+- **Real data already collected stays as a reference, without countries.** The series fetched for Korea, Japan and the United States remain a reference for when events happen and how strong they are, as on [[technology-waves]]. Their division into three countries carries no meaning in the world.
+- **Revision condition (b) is dropped.** See [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]].
+
+Unchanged: one STANDARD RETURN, which this page had already defined once for all markets; the BEARER BOND; weekly prices and monthly research; [[DEC-015-no-listing-and-a-stopped-price-stays]].
+
+The material below is the record of the earlier decision.
 
 ## The decision
 
@@ -218,6 +246,7 @@ The title and the text above stay as the record of the earlier decision.
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]] — [raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md](../../raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md); there is one market
 - [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); markets are not real countries
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)

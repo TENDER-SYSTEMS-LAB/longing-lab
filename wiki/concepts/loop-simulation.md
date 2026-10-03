@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-proposed
-updated: 2026-09-20
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-20-simulation-rebuild
   - SRC-2026-09-20-rebuild-findings
@@ -23,6 +24,8 @@ sources:
 ---
 
 # Loop Simulation — the first thing in this project that runs
+
+> **2026-10-03.** The v3 to v5 builds run three converging markets. That premise is rejected: the three-market world is erased and the project returns to one market ([[DEC-009-three-markets-and-convergence]]). The builds stay as the record of what they found; their market-level readings — convergence, dispersion, stagger between markets — do not carry over, and the harness is not redrawn.
 
 The project has three review rounds, eight accepted model reviews, a 120-entry
 cross-domain survey, and a dataset survey. Until 2026-09-16 it had never executed
@@ -269,6 +272,7 @@ The v3 harness was used unmodified as the generator for [[identification-experim
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the v3 world as generator for the identification test
 - [[SRC-2026-09-20-loop-simulation-harness-v4]] — [raw/documents/2026-09-20-loop-simulation-harness-v4.py](../../raw/documents/2026-09-20-loop-simulation-harness-v4.py); the fourth build
 - [[SRC-2026-09-20-wave-calibration-from-spine]] — [raw/documents/2026-09-20-wave-calibration-from-spine.md](../../raw/documents/2026-09-20-wave-calibration-from-spine.md); how the two dates were measured

@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-20
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-institution-naming-prompt
   - SRC-2026-09-20-institution-naming-chatgpt
   - SRC-2026-09-20-institution-naming-claude
@@ -19,6 +20,8 @@ sources:
 ---
 
 # Institution Naming Review
+
+> **2026-10-03.** The two institutions this round named — a Japanese evening economic paper and a US ratings house — and the per-market index names, `KOCPI` among them, belong to the three-market world, which is erased ([[DEC-009-three-markets-and-convergence]], now `rejected`). They are not current. What still bears on the one market is the occupied ground for the name LONGING RESEARCH, the flagship index and the tickers.
 
 The naming round asked seven models for candidates for the two fictional institutions [[DEC-009-three-markets-and-convergence]] requires — a Japanese economic paper that computes the Japanese index, and a United States ratings house of two surnames — plus three national index names and four tickers, and made the **collision report** the deliverable rather than the names. `LONGING COMPOSITE` was given as fixed. Seven responses were collected: ChatGPT, Claude, DeepSeek, Gemini, GLM, Grok and Qwen. Kimi was not consulted.
 
@@ -119,6 +122,7 @@ With the publisher decided national, the eight surviving forms were put side by 
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md)
 - [[SRC-2026-09-20-institution-naming-chatgpt]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-chatgpt.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-chatgpt.md)
 - [[SRC-2026-09-20-institution-naming-claude]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-claude.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-claude.md)

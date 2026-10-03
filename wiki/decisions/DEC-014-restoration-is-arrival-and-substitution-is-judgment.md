@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-02
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-10-02-one-market-and-a-price-nobody-agrees
   - SRC-2026-10-01-importance-weighting-and-concepts-above-securities
   - SRC-2026-09-22-revision-conditions-a-and-b
@@ -121,6 +122,12 @@ The assistant argued that gap G3 — who inside the world agrees to the weight m
 
 **Later the same day, G3 was closed without an answer of its own.** The user decided that listing is not a concept of the world and that the institution's side is coverage ([[DEC-015-no-listing-and-a-stopped-price-stays]]). In the proposal the user accepted, the weights sit in LONGING RESEARCH's own description of a security it covers, and the price is formed apart from it by the market; that reading is the assistant's wording, uncontested. How this fits the 2026-10-01 statement that the procedure is the agreed method of setting prices was not taken up again.
 
+## Evolution — condition (b) is dropped (2026-10-03)
+
+The user erased the three-market world ([[DEC-009-three-markets-and-convergence]], now `rejected`) and, choosing from options the assistant wrote, dropped revision condition (b) ([[SRC-2026-10-03-three-markets-erased]]).
+
+**`user-confirmed`:** a security's weights may be revised only when **(a)** the security's own definition changes, which includes a change of a step's importance. Condition (b), weights that disagree across markets, no longer exists. Cross-market detection is removed from the undecided list above with it. Still undecided: the tolerance and restating history after a revision. The one-pair-for-three-markets rule, moved above into the work on concepts above securities, has no object.
+
 ## Related
 
 - [[technology-waves]]
@@ -132,6 +139,7 @@ The assistant argued that gap G3 — who inside the world agrees to the weight m
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); condition (b) dropped with the three-market world
 - [[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]] — [raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md](../../raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md); nobody agrees a market price, condition (b) reopened, G3's grounds withdrawn in part
 - [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]] — [raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md](../../raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md); importance weighting, importance in the definition, mixed steps forbidden, the agreed method inside the fiction
 - [[SRC-2026-09-22-revision-conditions-a-and-b]] — [raw/conversations/2026-09-22-revision-conditions-a-and-b.md](../../raw/conversations/2026-09-22-revision-conditions-a-and-b.md); the two conditions and the rejection of the third

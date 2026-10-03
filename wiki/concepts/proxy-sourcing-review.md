@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-20
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-proxy-sourcing-prompt
   - SRC-2026-09-20-proxy-sourcing-chatgpt
   - SRC-2026-09-20-proxy-sourcing-claude
@@ -29,6 +30,8 @@ sources:
 ---
 
 # Proxy Sourcing Review
+
+> **2026-10-03.** This round asked for three countries' series because there were three markets. The three-market world is erased ([[DEC-009-three-markets-and-convergence]], now `rejected`). The series collected stay as a reference for the timing and strength of events, without countries, the user's choice of 2026-10-03; normalising them across three countries is no longer a question.
 
 [[technology-waves]] rests on one claim about the world outside the fiction: that the driver behind the decline can be *measured where measurement exists and extrapolated beyond*, with the institute publishing the boundary. The sourcing round asked seven models whether the measurement half of that claim is true — whether a continuous, comparable series of communication-technology adoption in Japan, Korea and the United States from 1996 to 2026 can be assembled from published statistics, and on what terms. It was written as a sourcing and documentation task, with an invented figure named as the failure mode. Seven responses were collected: ChatGPT, Claude, DeepSeek, Gemini, GLM, Grok and Qwen. Kimi was not consulted.
 
@@ -187,6 +190,7 @@ The round said smartphones and the social web exist as national surveys, good fo
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-proxy-sourcing-prompt]] — [raw/documents/2026-09-20-proxy-sourcing-prompt.md](../../raw/documents/2026-09-20-proxy-sourcing-prompt.md)
 - [[SRC-2026-09-20-proxy-sourcing-chatgpt]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-chatgpt.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-chatgpt.md)
 - [[SRC-2026-09-20-proxy-sourcing-claude]] — [raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-claude.md](../../raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-claude.md)

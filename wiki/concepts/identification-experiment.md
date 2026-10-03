@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-proposed
-updated: 2026-09-20
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-identification-experiment
   - SRC-2026-09-20-identification-experiment-findings
   - SRC-2026-09-20-factor-identification-prompt
@@ -18,6 +19,8 @@ sources:
 ---
 
 # Identification Experiment
+
+> **2026-10-03.** The experiment runs three markets and asks what convergence lets a factor model identify. That premise is rejected: the three-market world is erased and the project returns to one market ([[DEC-009-three-markets-and-convergence]]). The market contrasts, the practice × market block and the placebo on market labels have no object in the one market. The page stays as the record of the run.
 
 The executable check on [[factor-identification-review]]. Seven reviewers proposed the same procedure in that round's Section 7 — generate the panel this world produces, strip the lines the institute measures, and see what the listing can identify — and none ran it. On the user's instruction it was run on 2026-09-20 against the v3 harness of [[loop-simulation]], unmodified, with five seeds. Script and findings are registered; this page records what came out and what it does not establish.
 
@@ -73,6 +76,7 @@ The five gates the first run left untested were run on the working build, each c
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-identification-experiment]] — [raw/documents/2026-09-20-identification-experiment.py](../../raw/documents/2026-09-20-identification-experiment.py); the script
 - [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the tables and their reading
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md); Section 7, the procedure as asked for

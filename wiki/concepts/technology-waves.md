@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: user-confirmed
-updated: 2026-10-01
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-20-proxy-sourcing-prompt
@@ -22,6 +23,8 @@ sources:
 ---
 
 # Technology Waves — arrival raises what substitution later takes
+
+> **2026-10-03.** The three-market world is erased ([[DEC-009-three-markets-and-convergence]], now `rejected`). Where this page dates a wave per market or requires every market to be measured, the per-country series are now a reference without countries, the user's choice of 2026-10-03. How a reference series informs the one market's timeline is part of the open timeline question.
 
 ## The correction this page exists for
 
@@ -279,6 +282,7 @@ The offset *c* sets how much the last few years are stretched.
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); real data as a reference, the world's own timeline, logarithmic time, the Luddites
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision, DEC-014
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md)

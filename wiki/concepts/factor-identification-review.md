@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-20
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-factor-identification-prompt
   - SRC-2026-09-20-factor-identification-chatgpt
   - SRC-2026-09-20-factor-identification-claude
@@ -17,6 +18,8 @@ sources:
 ---
 
 # Factor Identification Review
+
+> **2026-10-03.** This round answered against a three-market universe. That universe is rejected: the three-market world is erased and the project returns to one market ([[DEC-009-three-markets-and-convergence]]). Its readings about market contrasts and convergence have no object now; its general points on identification, time-series length and promotion gates may still apply to one market, as the assistant reads it, `llm-proposed`.
 
 Round 4 asks a different question from the first three. Rounds 1 to 3 asked which factors are right and produced one more opinion per round. This round fixes the universe of [[DEC-009-three-markets-and-convergence]] — eleven practices listed in three markets, thirty-three securities, weekly strikes over 1996–2026 — and asks what that universe can **identify**, which is a property of the design rather than of the reviewer. Seven responses were collected: ChatGPT, Claude, DeepSeek, Gemini, GLM, Grok and Qwen. Kimi was not consulted. The prompt forbade recommendations, rankings and preferred sets, and carried the author's two positions from [[DEC-005-ledger-resolution-scales-with-universe]] as fixed context.
 
@@ -169,6 +172,7 @@ On the user's instruction the Section 7 procedure was run on 2026-09-20 against 
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-factor-identification-prompt]] — [raw/documents/2026-09-20-factor-identification-prompt.md](../../raw/documents/2026-09-20-factor-identification-prompt.md)
 - [[SRC-2026-09-20-factor-identification-chatgpt]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-chatgpt.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-chatgpt.md)
 - [[SRC-2026-09-20-factor-identification-claude]] — [raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md](../../raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md)

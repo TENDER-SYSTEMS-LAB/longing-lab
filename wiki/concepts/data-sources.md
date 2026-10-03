@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-10-01
+updated: 2026-10-03
 sources:
+  - SRC-2026-10-03-three-markets-erased
   - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment
   - SRC-2026-09-21-ai-enablement-and-substitution
@@ -23,6 +24,8 @@ sources:
 ---
 
 # Data Sources
+
+> **2026-10-03.** The three-market world is erased ([[DEC-009-three-markets-and-convergence]], now `rejected`). Series collected for three countries stay as a reference without countries, and no normalisation across three countries is needed, the user's choice of 2026-10-03.
 
 ## Current production basis — fictional historical data (2026-09-07)
 
@@ -272,6 +275,7 @@ The assistant reads one consequence for work item 5, `llm-proposed`: the candida
 
 ## Sources
 
+- [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); real data as a reference for timing and strength
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision that the channel counts judgment, and the per-security ontology proposal
 - [[SRC-2026-09-21-ai-enablement-and-substitution]] — [raw/conversations/2026-09-21-ai-enablement-and-substitution.md](../../raw/conversations/2026-09-21-ai-enablement-and-substitution.md); the measurement design and the four candidate datasets, all `llm-proposed`; the user's turns are the two questions
