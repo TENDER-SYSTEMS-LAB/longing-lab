@@ -1,8 +1,10 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-20
+updated: 2026-10-04
 sources:
+  - SRC-2026-10-04-romance-remaining-decisions
+  - SRC-2026-10-04-romance-round-decisions
   - SRC-2026-09-20-bearer-bond-issuance
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
 ---
@@ -132,6 +134,19 @@ explained from inside the world.
   that is still being serviced is one that has not been called. No separate coupon
   series exists, and none is needed yet.
 
+## Evolution — repayment, forgiveness and asymmetric bonds (2026-10-04)
+
+In the romance analysis ([[romance-analysis]]) the author decided how bonds are repaid ([[SRC-2026-10-04-romance-round-decisions]]), `user-confirmed`:
+- **Granting a favour repays a bond, and the stock does not shrink by it.** New requests and a continuing relationship keep issuing bonds.
+- **Forgiveness** is on its surface a write-off. Unless one side is out to exploit the other, it makes the tie closer and adds romance, so it may need to read as a repayment that issues a new bond.
+- **Asymmetric bonds accumulate on one side** over a long span: a parent caring for a young child issues bonds to the child unconditionally.
+
+As the assistant reads it, `llm-proposed`: repayment by a favour is this page's coupon, and the call remains the decline. Forgiveness adds a path beside coupon, call, write-down and default: a write-down in form, recorded as repayment with fresh issuance — the opposite of the write-down above, which answers withdrawal. How forgiveness and asymmetric issuance are represented in the model is not decided.
+
+## Evolution — gatherings issue bilateral bonds; exploitation stays outside (2026-10-04, later)
+
+The author decided ([[SRC-2026-10-04-romance-remaining-decisions]], `user-confirmed`): **a bond stays between two people.** People gather on the belief that people will gather again and that someone will help; a gathering creates new relationships and strengthens existing ones, and that happens through new bilateral issuance. **Exploitative relations are outside the market:** defined as romantic and issuing bonds, they would not read as normal to the audience.
+
 ## Related
 
 - [[reserve-instruments]]
@@ -142,5 +157,7 @@ explained from inside the world.
 
 ## Sources
 
+- [[SRC-2026-10-04-romance-remaining-decisions]] — [raw/conversations/2026-10-04-romance-remaining-decisions.md](../../raw/conversations/2026-10-04-romance-remaining-decisions.md); gatherings issue bilateral bonds; exploitative relations outside the market
+- [[SRC-2026-10-04-romance-round-decisions]] — [raw/conversations/2026-10-04-romance-round-decisions.md](../../raw/conversations/2026-10-04-romance-round-decisions.md); repayment by a favour, forgiveness as repayment that issues a new bond, asymmetric bonds
 - [[SRC-2026-09-20-bearer-bond-issuance]] — [raw/conversations/2026-09-20-bearer-bond-issuance.md](../../raw/conversations/2026-09-20-bearer-bond-issuance.md); registered `user-originated`, because every framing the assistant offered was rejected and the model that replaced it is the user's
 - [[SRC-2026-09-15-reserve-absorption-and-trust-instruments]] — [raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md](../../raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md); the instrument definitions this decision fills in

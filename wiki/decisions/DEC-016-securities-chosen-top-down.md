@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-03
+updated: 2026-10-04
 sources:
+  - SRC-2026-10-04-romance-analysis-author-view
   - SRC-2026-10-03-top-down-securities-and-liquidity
 ---
 
@@ -43,6 +44,10 @@ The following is the assistant's review of how the decision meets earlier record
 - Which securities follow, how many, and whether LETTER is among them.
 - How states without steps receive execution and judgment weights.
 
+## Evolution — the analysis begins from the author's view (2026-10-04)
+
+The user started the analysis and chose its method: the author's own view first, then checked against thought ([[SRC-2026-10-04-romance-analysis-author-view]]). The author's answers to the three questions, and the assistant's abstractions of them, are on [[romance-analysis]]. The check against thought and the history of what modernization took before AI are to be researched, by the assistant directly and through a round of LLM opinions, both chosen by the user. No ontology or security follows yet.
+
 ## Related
 
 - [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]
@@ -55,4 +60,5 @@ The following is the assistant's review of how the decision meets earlier record
 
 ## Sources
 
+- [[SRC-2026-10-04-romance-analysis-author-view]] — [raw/conversations/2026-10-04-romance-analysis-author-view.md](../../raw/conversations/2026-10-04-romance-analysis-author-view.md); the analysis begins; method chosen
 - [[SRC-2026-10-03-top-down-securities-and-liquidity]] — [raw/conversations/2026-10-03-top-down-securities-and-liquidity.md](../../raw/conversations/2026-10-03-top-down-securities-and-liquidity.md); the user's six-point review; points 1, 2, 4 and 5

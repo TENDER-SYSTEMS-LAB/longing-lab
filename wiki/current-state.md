@@ -1,8 +1,15 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-10-03
+updated: 2026-10-05
 sources:
+  - SRC-2026-10-05-blind-trust-shakes-and-scope
+  - SRC-2026-10-04-romance-remaining-decisions
+  - SRC-2026-10-04-romance-study-decisions
+  - SRC-2026-10-04-romance-round-decisions
+  - SRC-2026-10-04-public-delivery-architecture-request
+  - SRC-2026-10-04-romance-analysis-author-view
+  - SRC-2026-09-23-circe-and-the-sense-of-loss
   - SRC-2026-10-03-top-down-securities-and-liquidity
   - SRC-2026-10-03-three-markets-erased
   - SRC-2026-10-02-no-listing-and-a-stopped-price
@@ -126,6 +133,8 @@ The 2026-09-15 numeraire decision is the largest structural change since the bac
 ## Confirmed
 
 - **Nothing is listed, and a price that stops stays where it stopped (2026-10-02).** Listing is not a concept of the world: a security is there when the record begins. Disappearance and return are handled through the BEARER BOND, and the institution's side is coverage. A security whose coverage has ended keeps its graph and trading volume in front of the audience. A price that stops because trading ended is not moved to zero; it rests at a level that is not zero. Volume is shown beneath the price as a secondary indicator, so the audience reads for itself that trading dried up. See [[DEC-015-no-listing-and-a-stopped-price-stays]].
+- **What romance is, decided in part (2026-10-04).** Origin lies in choosing, sending and standing behind words; medium, body and place do not matter. Chosen friction is human and romantic, imposed friction is not. Bonds can be repaid by granting a favour without the stock shrinking, because the relationship keeps issuing bonds; forgiveness reads as repayment that issues a new bond unless the tie is exploitative; asymmetric bonds accumulate on one side, as a parent's unconditional issuance to a young child. Comfort, designed by a few companies and their people without malice, gives up even the sense of what is forgotten. Technology's gifts of romance, such as a restored voice, are events placed on the world's own timeline at moments the work chooses. Later the same day: belief between people is the market's origin and its form shifted to confidence in the system built on it; hostility is a separate quantity beside the balances and misunderstanding a low understanding balance; loss is centred on the loss of its sense, shown through differences between records, with practice, capacity, occasion, balance and sense as indicators; power and class are excluded; AI care is BLIND TRUST; tacit knowledge and ritual are borrowed, a thoughtless ritual gathering not being human. See [[romance-analysis]], [[DEC-008-bearer-bond-is-perpetual]], [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]] and [[DEC-004-secular-decline-with-rallies]]. Latest: BLIND TRUST stays trust in AI with AI's special position kept, a period-varying scope and a change to never-default to be discussed; body and place are attributes, not the condition; exploitative relations are outside the market; gatherings issue bilateral bonds; ritual rhythm enters prices as seasonality. On 2026-10-05: BLIND TRUST never refuses but is shaken by trust events and by service retirement; its scope is trust in a non-human counterpart facing a person in a person's place, whose counterpart changes by period across the history; attention as a gift, unsettled debt and promise, and the device paradigm with deskilling are borrowed as grounds.
+- **The market stands on belief and credit (2026-10-04).** The author's position, `user-originated`, to be reflected in the world: the origin of the financial market is mutual belief and credit, and all of its complex, mathematical structure stands on it. In the same analysis the author set out what romance is — origin in a person's own judgment and reflection, the medium irrelevant; exchange as people issuing bonds to each other; love, understanding, trust and belief as balances; solitary reflection romantic and shared reflection larger — what is human, and that the handing-over is a drift through comfort, as on Circe's island. The assistant's abstractions are `llm-proposed`. See [[romance-analysis]].
 - **Securities are chosen top-down (2026-10-03).** LETTER was an LLM proposal the user accepted, and why it came up was not explained well enough; the world is not to be built up from it. Before any security is chosen, the work analyses and abstracts what romance is, what is human, and what we are handing over to AI and to modernization; an ontology is then built from those concepts, and the securities follow from it. LETTER is not rejected; it is no longer the reference the world grows from. See [[DEC-016-securities-chosen-top-down]].
 - **There is one market, and the three-market world is erased (2026-10-03).** The user removed the separate markets on 2026-10-02 and on 2026-10-03 erased the world built on them: the project returns to one market, as at its beginning. Separate listings, convergence, `DISPERSION`, the local/common ledger split, a different publisher for each market's index, the `KOCPI` placeholder, the Japanese evening paper and the US ratings house, symmetric research and the normalising of three countries' statistics are rejected. The one market's structure — its name, how many indices it has and who publishes them — is to be decided again; the early index family on [[index-architecture]] is not thereby restored. Real data already collected stays as a reference without countries. See [[DEC-009-three-markets-and-convergence]], now `rejected`, and [[SRC-2026-10-03-three-markets-erased]].
 - **Nobody agrees a market price (2026-10-02).** The user's position, `user-originated`: the work is to show a financial market as closely as possible, where a price is everyone's thoughts, psychology, the state of liquidity and macro conditions expressed as one number. A price model is built and drawn for the audience's experience, and it is to behave as a real financial market does. The user grants that an "agreed" method of setting prices exists inside the world; how the two fit is not settled. See [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]].
@@ -185,9 +194,39 @@ The 2026-09-15 numeraire decision is the largest structural change since the bac
 - **The identification procedure has been run once, on placeholders.** [[identification-experiment]] executes the fourth round's Section 7 on the v3 world: the handover is visible through the interaction block, an estimator recovers at most nine directions late and one or two early, a promotion gate must be calibrated on a planted null per window, two markets explain the third only late, and the orthogonalisation order moves the schedule line more than its own size early. `llm-proposed`; no factor named. Rerun the same day on a v4 harness with mobile and broadband dated from the spine: all sixteen design tests pass, every reading holds, and the early order sensitivity rises to 1.85. A v5 harness adds smartphone and social-web dates for Japan and the United States with Korea on placeholders; it passes sixteen tests, but mixing a placeholder with measured dates inside a wave distorts its early history, so v4 stays the cleaner comparison and is the working build. The rest of the gate battery was then run on v4: only the held-out gate and the support floor carry power; bulk clearance is at half power, sign stability has none, the placebo on arrival labels does not reject because the measured stagger is small, and the Unexplained monitor is unreliable early — see [[identification-experiment]]. Korea's national series could not be reached by the session; the user then fetched the data.go.kr file by hand, which is 2025 microdata — one measured point, not a series — see [[SRC-2026-09-20-nia-internet-usage-survey-2025-record]]. The user reports that the rates by year are not available, so the two waves stay on placeholders in all markets under a proposed rule that a wave is wired only when every market is measured — see [[technology-waves]]. *2026-10-03: the experiment runs three converging markets, a premise now rejected ([[DEC-009-three-markets-and-convergence]]); its readings about markets do not carry over to the one market.*
 - **Cross-domain model discovery.** The later academic pass collected 120 works/projects: 117 substantive systems, one bibliographic lead, and two adjacent data mappings. It covers social behavior, designed institutions, natural systems, engineering, music, and art, with one-sentence targets and source links. It is not a full-text review, validation exercise, or adopted LONGING RESEARCH architecture. See [[academic-model-survey]].
 
+## Resume point — BLIND TRUST settled; the analysis stage closes (2026-10-05)
+
+This is the latest checkpoint. The section after it is the checkpoint of 2026-10-04 and is kept as history.
+
+The author settled BLIND TRUST's shakes and its scope by period and borrowed the remaining concepts ([[romance-analysis]] section 9). The analysis of [[DEC-016-securities-chosen-top-down]] has its decisions; what remains before securities is the abstraction method and the ontology's form. The one market's structure is still open behind it.
+
+## Resume point — the remaining judgments decided (2026-10-04)
+
+This was the latest checkpoint until 2026-10-05 and is kept as history.
+
+The author decided the five remaining judgments ([[romance-analysis]] section 8). Next: discuss how BLIND TRUST's never-default property changes and how its scope varies by period, and explain three concepts again; then the ontology.
+
+## Resume point — the studied items decided (2026-10-04, later)
+
+This was the latest checkpoint until later on 2026-10-04 and is kept as history.
+
+The author decided the four studied items ([[romance-analysis]] section 7). Next: the assistant explains the BLIND TRUST scope question and lists the judgments the borrowing of core candidate concepts needs; the author decides; then the ontology.
+
+## Resume point — the author's decisions on the round (2026-10-04, later)
+
+This was the latest checkpoint until later on 2026-10-04 and is kept as history.
+
+The author answered the round's nine decisions ([[romance-analysis]] section 6): five decided, one provisional, three deferred to study. Next: the assistant prepares study material on the four items the author asked to review — the research on rising hostility, the objection to the market's floor, what "loss" can mean, and the candidate ontology concepts — for the author to decide.
+
+## Resume point — the romance analysis, the author's view (2026-10-04)
+
+This was the latest checkpoint until later on 2026-10-04 and is kept as history. The section after it is the checkpoint of 2026-10-03.
+
+The analysis of [[DEC-016-securities-chosen-top-down]] has begun ([[romance-analysis]]). The author answered what romance is, what is human, and how things are handed over; the market's floor is belief and credit. Next: the assistant researches the literature and the history of modernization before AI, and a prompt for a round of LLM opinions is registered for the user to dispatch. The one market's structure remains open behind it.
+
 ## Resume point — the three-market world erased (2026-10-03)
 
-This is the latest checkpoint. The section after it is the checkpoint of 2026-10-02 and is kept as history.
+This was the latest checkpoint until 2026-10-04 and is kept as history. The section after it is the checkpoint of 2026-10-02.
 
 The user took up the second open item, what the one market keeps, and erased the three-market world: the project returns to one market, as at its beginning ([[DEC-009-three-markets-and-convergence]], now `rejected`). Revision condition (b) is dropped ([[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]). Real data already collected stays as a reference without countries. The one market's structure — its name, how many indices it has, who publishes them — is to be decided again; the user did not choose to restore the early index family on [[index-architecture]].
 
@@ -227,7 +266,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 
 - **The world's timeline and time scale (2026-10-01).** Where the present is anchored, how the logarithmic scale is set, how far back the world reaches (the Luddites at least), whether its calendar shows real-looking dates, and how weekly prices work when time is compressed. See [[technology-waves]].
 - **The one market's structure (2026-10-03).** The three-market world is erased and nothing in it carries over. Open, to be decided again by the user: the market's name; how many indices it has and who publishes them; and whether the early index family on [[index-architecture]] returns in any form. The simulation parts built on three markets — [[loop-simulation]] and [[identification-experiment]] — rest on a rejected premise and are not redrawn. See [[DEC-009-three-markets-and-convergence]].
-- **The analysis behind the securities (2026-10-03).** What romance is, what is human, and what we are handing over to AI and to modernization; how these are abstracted; the form of the ontology built from them; which securities follow and whether LETTER is among them. Not begun. See [[DEC-016-securities-chosen-top-down]].
+- **The analysis behind the securities (2026-10-03, begun 2026-10-04).** The author's view, research, a seven-model round and four study notes are on [[romance-analysis]] and [[romance-analysis-round-review]]; the author decided the round's items and the studied items on 2026-10-04. Open: which non-human counterparts BLIND TRUST covers in each period, and when its shakes occur; whether a new organisation is added (needs review); then the abstraction method, the ontology's form and the securities. See [[DEC-016-securities-chosen-top-down]].
 - **What is open above securities now, in plain words (2026-10-02).** The day's decisions overtook most of the four-gap list below, so the open questions are restated here without its labels:
   - **How a security's price relates to its outstanding BEARER BONDs.** When a price stops, what trading volume counts, whether a price can reach zero while still traded, and what a new bond does to a stopped price.
   - **How coverage ending relates to a price stopping** — one event or two, and what ends coverage.
@@ -257,7 +296,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 - **Whether the repository, and the social accounts, follow the rename.** The work is now LONGING RESEARCH, but the Lab is still `longing-lab` and the institution's public-surfaces page records accounts under `LONGING`. The repository convention would give `longing-research-lab`; renaming a published repository breaks existing links, including the cross-repository URLs written into THE RESERVE's conclusion decision. Not done, and needing a decision. See [[DEC-001-project-name-longing]].
 - **Flagship index ticker** (`LNGI` / `LX` / `LCI`), the security-code scheme, and the currency. The naming round adds four composite codes to the field and the rule that every purely alphabetic three- or four-letter code should be assumed occupied; `LNG`, `LONG`, `COMP` and `LGC` are taken. See [[institution-naming-review]].
 - **Trademark, domain, and existing-work collision check on the name** — planned in the first conversation, never carried out for `LONGING` and not carried out for `LONGING RESEARCH` either. See [[DEC-001-project-name-longing]].
-- **Medium and delivery**: mobile-first was the starting assumption; no platform, technology, or exhibition context has been decided.
+- **Medium and delivery**: mobile-first was the starting assumption; no platform, technology, or exhibition context has been decided. *2026-10-04: the user asked for an infrastructure design that stays up under a sudden surge; the assistant proposed static files built at the weekly strike and served from a CDN edge, `llm-proposed`, not adopted. Domain, whether the market runs past its present, and any audience input are open. See [[delivery-architecture]].*
 
 ## Proposed world-building scope and roadmap
 
@@ -315,6 +354,12 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 ## Sources
 
 - [[SRC-2026-10-02-no-listing-and-a-stopped-price]] — [raw/conversations/2026-10-02-no-listing-and-a-stopped-price.md](../raw/conversations/2026-10-02-no-listing-and-a-stopped-price.md); no listing, coverage, a stopped price that is not zero, volume beneath the price
+- [[SRC-2026-10-05-blind-trust-shakes-and-scope]] — [raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md](../raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md); BLIND TRUST's shakes and scope by period; three concepts borrowed
+- [[SRC-2026-10-04-romance-remaining-decisions]] — [raw/conversations/2026-10-04-romance-remaining-decisions.md](../raw/conversations/2026-10-04-romance-remaining-decisions.md); the author's decisions on the remaining judgments
+- [[SRC-2026-10-04-romance-study-decisions]] — [raw/conversations/2026-10-04-romance-study-decisions.md](../raw/conversations/2026-10-04-romance-study-decisions.md); the author's decisions on the studied items
+- [[SRC-2026-10-04-romance-round-decisions]] — [raw/conversations/2026-10-04-romance-round-decisions.md](../raw/conversations/2026-10-04-romance-round-decisions.md); the author's answers to the round's nine decisions
+- [[SRC-2026-10-04-romance-analysis-author-view]] — [raw/conversations/2026-10-04-romance-analysis-author-view.md](../raw/conversations/2026-10-04-romance-analysis-author-view.md); the author's view on romance, the human and what is handed over; the market stands on belief and credit
+- [[SRC-2026-09-23-circe-and-the-sense-of-loss]] — [raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md](../raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md); ChatGPT export: the sense of loss given up, Circe's island, gathering and deliberating
 - [[SRC-2026-10-03-top-down-securities-and-liquidity]] — [raw/conversations/2026-10-03-top-down-securities-and-liquidity.md](../raw/conversations/2026-10-03-top-down-securities-and-liquidity.md); securities chosen top-down from an ontology; LETTER no longer the starting point; liquidity between people dries up; melt-ups not required
 - [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased, the one market's structure is to be decided again, real data stays as a reference without countries, revision condition (b) is dropped
 - [[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]] — [raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md](../raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md); one market, a price nobody agrees, condition (b) reopened

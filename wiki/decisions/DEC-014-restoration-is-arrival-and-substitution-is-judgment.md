@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-03
+updated: 2026-10-04
 sources:
+  - SRC-2026-10-04-romance-round-decisions
   - SRC-2026-10-03-three-markets-erased
   - SRC-2026-10-02-one-market-and-a-price-nobody-agrees
   - SRC-2026-10-01-importance-weighting-and-concepts-above-securities
@@ -128,6 +129,10 @@ The user erased the three-market world ([[DEC-009-three-markets-and-convergence]
 
 **`user-confirmed`:** a security's weights may be revised only when **(a)** the security's own definition changes, which includes a change of a step's importance. Condition (b), weights that disagree across markets, no longer exists. Cross-market detection is removed from the undecided list above with it. Still undecided: the tolerance and restating history after a revision. The one-pair-for-three-markets rule, moved above into the work on concepts above securities, has no object.
 
+## Evolution — restoration as authored events (2026-10-04)
+
+In the romance analysis the author said technology also gives romance — the example is technology restoring the voice of someone who had lost it — and decided that such gifts are reflected in the world as **events**, whose timing is adjustable: the work has its own time and flow so that it reads like a financial-market graph, and events can occur at moments the work chooses ([[SRC-2026-10-04-romance-round-decisions]]). `user-confirmed`. As the assistant reads it, `llm-proposed`: this is restoration counted as arrival, given a form on the world's own timeline ([[technology-waves]]); how such events enter prices is not decided.
+
 ## Related
 
 - [[technology-waves]]
@@ -139,6 +144,7 @@ The user erased the three-market world ([[DEC-009-three-markets-and-convergence]
 
 ## Sources
 
+- [[SRC-2026-10-04-romance-round-decisions]] — [raw/conversations/2026-10-04-romance-round-decisions.md](../../raw/conversations/2026-10-04-romance-round-decisions.md); restoration as events placed on the world's own timeline
 - [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); condition (b) dropped with the three-market world
 - [[SRC-2026-10-02-one-market-and-a-price-nobody-agrees]] — [raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md](../../raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md); nobody agrees a market price, condition (b) reopened, G3's grounds withdrawn in part
 - [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]] — [raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md](../../raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md); importance weighting, importance in the definition, mixed steps forbidden, the agreed method inside the fiction

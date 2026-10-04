@@ -1,8 +1,11 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-20
+updated: 2026-10-05
 sources:
+  - SRC-2026-10-05-blind-trust-shakes-and-scope
+  - SRC-2026-10-04-romance-remaining-decisions
+  - SRC-2026-10-04-romance-study-decisions
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
 ---
 
@@ -159,6 +162,25 @@ the total to fall.
 - No factor. Whether transfer-to-AI becomes a published factor line, a macro variable, or stays outside the ledger is untouched. See [[attribution-ledger]] and [[index-architecture]].
 - No claim about real AI systems, real trust, or any measured quantity. Every number in this world is authored.
 
+## Evolution — AI care is BLIND TRUST (2026-10-04)
+
+In the romance analysis the author decided that care received from AI is BLIND TRUST: it comes from a non-human being, carries no obligation to return, and forms no relationship with a person ([[SRC-2026-10-04-romance-study-decisions]], `user-confirmed`). In the same analysis the author fixed the market's floor as a shift in form from chosen belief between people to confidence in the system built on it, and asked for a review of whether BLIND TRUST's scope should widen from AI to systems in general ([[romance-analysis]]). The scope is not changed.
+
+## Evolution — BLIND TRUST stays AI, and may change by period (2026-10-04, later)
+
+Asked whether BLIND TRUST should widen from AI to systems in general, the author decided ([[SRC-2026-10-04-romance-remaining-decisions]], `user-confirmed`): BLIND TRUST points to trust in AI for now, because systems are made between people and their root is a human origin; AI's special position is kept. The author wants a BLIND TRUST curve across the whole history from the Luddites and so wants a scope that differs by period considered, and thinks "never defaults" may need fixing, to be discussed. Neither change is made yet.
+
+## Evolution — BLIND TRUST never refuses but is shaken, and its counterpart changes by period (2026-10-05)
+
+From options the assistant wrote, the author decided ([[SRC-2026-10-05-blind-trust-shakes-and-scope]], `user-confirmed`):
+- **"Never defaults" becomes "never refuses to respond".** Two shakes are added: trust events (wrong answers, leaks, suspicions of manipulation), in which people briefly lean on people again and BEARER BOND rises; and service retirement or replacement, in which accumulated conversations and memory disappear and the balance is written down at once.
+- **The scope is a rule:** trust placed in a non-human counterpart that responds, decides or cares in place of a person, with no obligation to return and no relationship formed. The test is whether the counterpart faced in that moment is a person, not who made it. The counterpart changes by period on the world's timeline, so BLIND TRUST has a curve across the whole history, rising most at generative AI, the first counterpart that converses. AI's special position is kept. Which counterpart belongs to which period is not selected.
+
+The definition above — "never defaults; low yield, no risk" — is the earlier one.
+
 ## Sources
 
+- [[SRC-2026-10-05-blind-trust-shakes-and-scope]] — [raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md](../../raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md); BLIND TRUST never refuses but is shaken; its counterpart changes by period
+- [[SRC-2026-10-04-romance-remaining-decisions]] — [raw/conversations/2026-10-04-romance-remaining-decisions.md](../../raw/conversations/2026-10-04-romance-remaining-decisions.md); BLIND TRUST stays trust in AI; never-default and a period-varying scope to be discussed
+- [[SRC-2026-10-04-romance-study-decisions]] — [raw/conversations/2026-10-04-romance-study-decisions.md](../../raw/conversations/2026-10-04-romance-study-decisions.md); AI care is BLIND TRUST
 - [[SRC-2026-09-15-reserve-absorption-and-trust-instruments]] — [raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md](../../raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md) — operator-captured transcript; user turns verbatim, assistant turns condensed

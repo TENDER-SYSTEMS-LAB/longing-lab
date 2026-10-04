@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-03
+updated: 2026-10-04
 sources:
+  - SRC-2026-10-04-romance-round-decisions
   - SRC-2026-10-03-top-down-securities-and-liquidity
   - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-15-numeraire-and-standard-return
@@ -169,8 +170,13 @@ How the assistant reads the position, `llm-proposed`, not decided:
 - **What trading volume counts is still open.** The position says what volume should show over the long run; it does not say how a week's volume is formed.
 - **The rally mechanisms recorded above stay as possible mechanisms, not as required ones.** Default clusters and short covering can still produce sharp rises; they no longer have to be the only shape of an advance.
 
+## Evolution — comfort is designed without malice (2026-10-04)
+
+In the romance analysis the author said what drives the handing-over ([[SRC-2026-10-04-romance-round-decisions]]), `user-confirmed`: comfort, in which people give up even the sense of what they are forgetting. Comfort is designed by many systems, built by a few companies and the people working in them, entirely without malice, to make places more convenient and places people want to stay longer. The Circe image the author had used is a metaphor, not to be reflected literally ([[romance-analysis]]). As the assistant reads it, `llm-proposed`: this extends this page's rule that nobody in the world argues the decline to the designers of comfort — they too act correctly on their own facts.
+
 ## Sources
 
+- [[SRC-2026-10-04-romance-round-decisions]] — [raw/conversations/2026-10-04-romance-round-decisions.md](../../raw/conversations/2026-10-04-romance-round-decisions.md); comfort designed without malice
 - [[SRC-2026-10-03-top-down-securities-and-liquidity]] — [raw/conversations/2026-10-03-top-down-securities-and-liquidity.md](../../raw/conversations/2026-10-03-top-down-securities-and-liquidity.md); liquidity between people dries up; melt-ups not required
 - [[SRC-2026-09-20-requisition-cap-decision]] — [raw/conversations/2026-09-20-requisition-cap-decision.md](../../raw/conversations/2026-09-20-requisition-cap-decision.md); the requisition cap that keeps the disagreement test alive after the tipping point
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status
