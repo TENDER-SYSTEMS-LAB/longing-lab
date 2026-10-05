@@ -780,3 +780,15 @@ At the user's request to proceed, the assistant drafted [[romance-ontology]], `l
 ## [2026-10-05] decision | The romance ontology reviewed; securities are practices
 
 The author reviewed the first draft of [[romance-ontology]] ([[SRC-2026-10-05-ontology-draft-decisions]]): the placement is accepted; securities are practices, and balances and layers are read through indices over them; reflection is a security priced through the practices it makes possible; trust and belief are separate balances; hostility is an indicator beside the balances, outside the bond ledger, which analysts consult — the analyst use being the author's addition. The page moves from `draft` to `working`; recorded as evolutions of [[reflection]] and [[DEC-016-securities-chosen-top-down]]; [[current-state]] gains a Confirmed bullet and a resume point.
+
+## [2026-10-05] maintenance | First proposal for the security universe
+
+At the user's request, the assistant drafted [[security-universe]], `llm-proposed`: four selection tests and three coverage rules taken from [[romance-ontology]], definition by act or by form, three opening counts, thirty act-defined candidate practices with their balances, channels and loss layers, and state-securities priced through them. Five questions are put to the author. Linked from the ontology and the [[current-state]] resume point.
+
+## [2026-10-05] decision | How the securities are chosen
+
+The author decided on [[security-universe]] ([[SRC-2026-10-05-security-universe-method]]): the four selection tests and three coverage rules are accepted; practices are defined by act, with medium, body and place as attributes; there is no fixed count, each security to be easy for the audience to understand and meaningful inside the work — the author's condition; and the thirty candidates are widened by an LLM round before the author chooses. The round's prompt is registered before dispatch as [[SRC-2026-10-05-security-universe-round-prompt]]. Whether waiting and serendipity become state-securities awaits an explanation. Recorded as an evolution of [[DEC-016-securities-chosen-top-down]]; [[current-state]] gains a Confirmed bullet and a resume point.
+
+## [2026-10-05] decision | State-securities decided after the round
+
+After the assistant explained state-securities — conditions without steps priced through the practices that make them possible, with the risks of double counting, resemblance to an index, nearness to emotion tickers and a missing combination rule — the author chose to decide waiting and serendipity after the LLM round ([[SRC-2026-10-05-state-securities-after-the-round]]). The author's idea of making them somewhat like an ETF is recorded on [[security-universe]] as `user-originated`, not adopted.

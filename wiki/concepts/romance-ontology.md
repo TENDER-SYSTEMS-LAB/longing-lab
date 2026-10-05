@@ -156,6 +156,7 @@ Kept as asked; the answers are in the section above.
 
 ## Related
 
+- [[security-universe]]
 - [[romance-analysis]]
 - [[DEC-016-securities-chosen-top-down]]
 - [[DEC-008-bearer-bond-is-perpetual]]

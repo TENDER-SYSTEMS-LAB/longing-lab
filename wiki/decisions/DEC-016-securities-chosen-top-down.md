@@ -3,6 +3,7 @@ status: confirmed
 attribution: user-confirmed
 updated: 2026-10-05
 sources:
+  - SRC-2026-10-05-security-universe-method
   - SRC-2026-10-05-ontology-draft-decisions
   - SRC-2026-10-05-abstraction-method-and-ontology-form
   - SRC-2026-10-04-romance-analysis-author-view
@@ -58,6 +59,10 @@ The analysis closed on 2026-10-05 with BLIND TRUST settled. The author then chos
 
 The assistant drafted [[romance-ontology]] and the author reviewed it ([[SRC-2026-10-05-ontology-draft-decisions]]): the placement is accepted; securities are practices, and balances and layers are read through indices over them; reflection is a security priced through the practices it makes possible; trust and belief are separate balances; hostility is an indicator analysts consult, outside the bond ledger. The last open item above — how states without steps receive weights — now goes through the practices behind a state. Which practices are securities is open.
 
+## Evolution — how the securities are chosen (2026-10-05, latest)
+
+The author decided the selection method on [[security-universe]] ([[SRC-2026-10-05-security-universe-method]]): four tests and three coverage rules taken from the ontology; practices defined by act, with medium, body and place as attributes; no fixed count, each security to be easy for the audience to understand and meaningful inside the work; and the candidate list widened by a round of LLM opinions before the author chooses.
+
 ## Related
 
 - [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]
@@ -70,6 +75,7 @@ The assistant drafted [[romance-ontology]] and the author reviewed it ([[SRC-202
 
 ## Sources
 
+- [[SRC-2026-10-05-security-universe-method]] — [raw/conversations/2026-10-05-security-universe-method.md](../../raw/conversations/2026-10-05-security-universe-method.md); the selection method, definition by act, no fixed count
 - [[SRC-2026-10-05-ontology-draft-decisions]] — [raw/conversations/2026-10-05-ontology-draft-decisions.md](../../raw/conversations/2026-10-05-ontology-draft-decisions.md); the ontology reviewed; securities are practices
 - [[SRC-2026-10-05-abstraction-method-and-ontology-form]] — [raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md](../../raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md); the abstraction method and the ontology's form chosen
 - [[SRC-2026-10-04-romance-analysis-author-view]] — [raw/conversations/2026-10-04-romance-analysis-author-view.md](../../raw/conversations/2026-10-04-romance-analysis-author-view.md); the analysis begins; method chosen
