@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-05
 sources:
+  - SRC-2026-10-05-abstraction-method-and-ontology-form
   - SRC-2026-10-05-blind-trust-shakes-and-scope
   - SRC-2026-10-04-romance-remaining-decisions
   - SRC-2026-10-04-romance-study-decisions
@@ -191,12 +192,24 @@ From options the assistant wrote, the author chose ([[SRC-2026-10-05-blind-trust
 - **BLIND TRUST's scope is a rule whose counterpart changes by period.** BLIND TRUST is trust placed in a non-human counterpart that responds, decides or cares in place of a person, carrying no obligation to return and forming no relationship with a person. What divides is not who made the thing but whether the counterpart faced in that moment is a person: a bank counter faces a person, a search box does not. The counterparts are placed on the world's timeline, so the curve rises in steps across the whole history and jumps most at generative AI, the first non-human counterpart that converses. The page's examples — the pattern-programmed loom, broadcast voices, the search engine, navigation and recommendation, generative AI — are the assistant's, `llm-proposed`, and not selected.
 - **"A new institution needs review" meant an organisation.** Adding a new organisation to the world needs review; nothing here adds one.
 
+## 10. The abstraction method and the ontology's form (2026-10-05)
+
+From options the assistant wrote, the author chose ([[SRC-2026-10-05-abstraction-method-and-ontology-form]]), `user-confirmed`:
+
+- **The four layers are the work's official frame.** Origin → exchange → balances → handed over, first written as the assistant's abstraction in section 1 and in the ontology study note's map, is adopted as the frame of the ontology.
+- **Abstraction places concepts by layer and tests them against loss.** Each concept is placed in one layer. It is then tested against the five loss layers — practice, capacity, occasion, balance, sense (section 7): a concept that makes no difference between records in at least one loss layer becomes a ground, not a part of the ontology. This is how the three concepts borrowed in section 9 were already treated.
+- **The ontology is a layered graph.** Concepts are nodes placed in the four layers, joined by named relations — issue, repay, accumulate, hide, hand over. Only the balances and BLIND TRUST are marked as quantities, so rules that are not quantities, such as the origin test, stay in the ontology.
+
+Rejected options, as the page stated them: a concept list per DEC-016 question, abstraction starting from loss alone, a classification tree, and a stock-and-flow ledger. The relation names are the assistant's examples, `llm-proposed`, and are not a closed list.
+
+**What follows, as the assistant reads it, `llm-proposed`:** the next questions are what a security is in this graph — a node, a relation, a quantity or more than one — which restates the open question of kinds of security; how states without steps receive execution and judgment weights; and where LETTER, defined by its medium, stands against a frame in which the medium is not the condition.
+
 ## Open
 
 - **The check against thought.** The assistant's research is in section 5. The LLM round was run on 2026-10-04 with seven services and is synthesised in [[romance-analysis-round-review]], which ends with nine decisions put to the author. The author answered on 2026-10-04 (sections 6 and 7). Still open: which counterparts BLIND TRUST covers in each period, and how its shakes are dated; then the abstraction method, the ontology's form and the securities.
 - **What modernization took before AI**, back to the Luddites ([[technology-waves]]). The user asked for academic sources and other people's opinions. On 2026-10-04 the user chose both routes the assistant offered: the assistant researching directly, and a round of LLM opinions. The round's prompt is registered before dispatch as [[SRC-2026-10-04-romance-analysis-round-prompt]] ([raw/documents/2026-10-04-romance-analysis-round-prompt.md](../../raw/documents/2026-10-04-romance-analysis-round-prompt.md)); it carries the author's view as eight points and asks for sources marked by verification status.
 - Whether trust and belief are distinct balances.
-- The abstraction method, the form of the ontology, and the securities that follow ([[DEC-016-securities-chosen-top-down]]).
+- ~~The abstraction method and the form of the ontology~~ — decided 2026-10-05 (section 10). Still open: the ontology itself and the securities that follow ([[DEC-016-securities-chosen-top-down]]).
 
 ## Related
 
@@ -211,6 +224,7 @@ From options the assistant wrote, the author chose ([[SRC-2026-10-05-blind-trust
 
 ## Sources
 
+- [[SRC-2026-10-05-abstraction-method-and-ontology-form]] — [raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md](../../raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md); the four-layer frame adopted; concepts placed by layer and tested against loss; the ontology as a layered graph
 - [[SRC-2026-10-05-blind-trust-shakes-and-scope]] — [raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md](../../raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md); three concepts borrowed; BLIND TRUST's shakes and scope by period
 - [[SRC-2026-10-04-romance-remaining-decisions]] — [raw/conversations/2026-10-04-romance-remaining-decisions.md](../../raw/conversations/2026-10-04-romance-remaining-decisions.md); the author's decisions on the remaining judgments
 - [[SRC-2026-10-04-romance-study-decisions]] — [raw/conversations/2026-10-04-romance-study-decisions.md](../../raw/conversations/2026-10-04-romance-study-decisions.md); the author's decisions on the studied items

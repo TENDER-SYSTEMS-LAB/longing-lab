@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-04
+updated: 2026-10-05
 sources:
+  - SRC-2026-10-05-abstraction-method-and-ontology-form
   - SRC-2026-10-04-romance-analysis-author-view
   - SRC-2026-10-03-top-down-securities-and-liquidity
 ---
@@ -48,6 +49,10 @@ The following is the assistant's review of how the decision meets earlier record
 
 The user started the analysis and chose its method: the author's own view first, then checked against thought ([[SRC-2026-10-04-romance-analysis-author-view]]). The author's answers to the three questions, and the assistant's abstractions of them, are on [[romance-analysis]]. The check against thought and the history of what modernization took before AI are to be researched, by the assistant directly and through a round of LLM opinions, both chosen by the user. No ontology or security follows yet.
 
+## Evolution — the abstraction method and the ontology's form chosen (2026-10-05)
+
+The analysis closed on 2026-10-05 with BLIND TRUST settled. The author then chose, from the assistant's options ([[SRC-2026-10-05-abstraction-method-and-ontology-form]]): the four layers origin → exchange → balances → handed over are the official frame; concepts are placed by layer and tested against the five loss layers, a concept making no difference between records becoming a ground; and the ontology is a layered graph with named relations, only the balances and BLIND TRUST marked as quantities. The second item under "What remains open" above is therefore decided. The ontology itself and the securities are still open. See [[romance-analysis]] section 10.
+
 ## Related
 
 - [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]
@@ -60,5 +65,6 @@ The user started the analysis and chose its method: the author's own view first,
 
 ## Sources
 
+- [[SRC-2026-10-05-abstraction-method-and-ontology-form]] — [raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md](../../raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md); the abstraction method and the ontology's form chosen
 - [[SRC-2026-10-04-romance-analysis-author-view]] — [raw/conversations/2026-10-04-romance-analysis-author-view.md](../../raw/conversations/2026-10-04-romance-analysis-author-view.md); the analysis begins; method chosen
 - [[SRC-2026-10-03-top-down-securities-and-liquidity]] — [raw/conversations/2026-10-03-top-down-securities-and-liquidity.md](../../raw/conversations/2026-10-03-top-down-securities-and-liquidity.md); the user's six-point review; points 1, 2, 4 and 5
