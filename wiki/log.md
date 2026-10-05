@@ -772,3 +772,11 @@ From options the assistant wrote, the author decided ([[SRC-2026-10-05-blind-tru
 ## [2026-10-05] decision | The abstraction method and the ontology's form chosen
 
 From options the assistant wrote, the author decided ([[SRC-2026-10-05-abstraction-method-and-ontology-form]]): the four layers origin → exchange → balances → handed over are adopted as the work's official frame; concepts are placed by layer and tested against the five loss layers, a concept making no difference between records becoming a ground; and the ontology is a layered graph with named relations, only the balances and BLIND TRUST marked as quantities. Recorded in section 10 of [[romance-analysis]] and as an evolution of [[DEC-016-securities-chosen-top-down]]; [[current-state]] gains a Confirmed bullet and a resume point.
+
+## [2026-10-05] maintenance | First draft of the romance ontology
+
+At the user's request to proceed, the assistant drafted [[romance-ontology]], `llm-proposed`, in the form decided the same day: decided concepts placed in the four layers, joined by named relations and put through the loss test, with three readings of what a security is and five questions for the author — hostility as a quantity, trust and belief, reflection, the security reading, and placement. Linked from [[romance-analysis]] and the [[current-state]] resume point.
+
+## [2026-10-05] decision | The romance ontology reviewed; securities are practices
+
+The author reviewed the first draft of [[romance-ontology]] ([[SRC-2026-10-05-ontology-draft-decisions]]): the placement is accepted; securities are practices, and balances and layers are read through indices over them; reflection is a security priced through the practices it makes possible; trust and belief are separate balances; hostility is an indicator beside the balances, outside the bond ledger, which analysts consult — the analyst use being the author's addition. The page moves from `draft` to `working`; recorded as evolutions of [[reflection]] and [[DEC-016-securities-chosen-top-down]]; [[current-state]] gains a Confirmed bullet and a resume point.

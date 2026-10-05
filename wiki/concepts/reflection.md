@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-10-05
 sources:
+  - SRC-2026-10-05-ontology-draft-decisions
   - SRC-2026-09-07-artwork-brainstorm-v2
 ---
 
@@ -26,6 +27,11 @@ The operational boundary needs a measurable or modeled specification: which cond
 
 This is an independent abstract-condition example alongside [[letter-practice-dynamics]]. LETTER's dispatches, episodes, and starts/stops are not a universal template. The wider presentation and market scope are in [[world-rules]].
 
+## Evolution — priced through the practices it makes possible (2026-10-05)
+
+In the romance ontology ([[romance-ontology]]) the author decided that reflection is a security priced through the practices it makes possible ([[SRC-2026-10-05-ontology-draft-decisions]]), `user-confirmed`. It stays a state without steps in the origin layer; its execution and judgment weights are carried by those practices. Which practices, and how they are combined, are not decided.
+
 ## Sources
 
+- [[SRC-2026-10-05-ontology-draft-decisions]] — [raw/conversations/2026-10-05-ontology-draft-decisions.md](../../raw/conversations/2026-10-05-ontology-draft-decisions.md); reflection priced through practices
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); direct user turns at 14:29, 18:41, 20:34, and 21:06; surrounding assistant comparisons remain proposals

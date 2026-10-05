@@ -209,10 +209,11 @@ Rejected options, as the page stated them: a concept list per DEC-016 question, 
 - **The check against thought.** The assistant's research is in section 5. The LLM round was run on 2026-10-04 with seven services and is synthesised in [[romance-analysis-round-review]], which ends with nine decisions put to the author. The author answered on 2026-10-04 (sections 6 and 7). Still open: which counterparts BLIND TRUST covers in each period, and how its shakes are dated; then the abstraction method, the ontology's form and the securities.
 - **What modernization took before AI**, back to the Luddites ([[technology-waves]]). The user asked for academic sources and other people's opinions. On 2026-10-04 the user chose both routes the assistant offered: the assistant researching directly, and a round of LLM opinions. The round's prompt is registered before dispatch as [[SRC-2026-10-04-romance-analysis-round-prompt]] ([raw/documents/2026-10-04-romance-analysis-round-prompt.md](../../raw/documents/2026-10-04-romance-analysis-round-prompt.md)); it carries the author's view as eight points and asks for sources marked by verification status.
 - Whether trust and belief are distinct balances.
-- ~~The abstraction method and the form of the ontology~~ — decided 2026-10-05 (section 10). Still open: the ontology itself and the securities that follow ([[DEC-016-securities-chosen-top-down]]).
+- ~~The abstraction method and the form of the ontology~~ — decided 2026-10-05 (section 10). Still open: the ontology itself — a first draft is [[romance-ontology]], not reviewed — and the securities that follow ([[DEC-016-securities-chosen-top-down]]).
 
 ## Related
 
+- [[romance-ontology]]
 - [[DEC-016-securities-chosen-top-down]]
 - [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]
 - [[DEC-008-bearer-bond-is-perpetual]]
