@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-universe-round-decisions-5-to-7
   - SRC-2026-10-10-security-universe-round-decisions
   - SRC-2026-10-05-security-universe-round-prompt
   - SRC-2026-10-05-security-universe-round-chatgpt
@@ -110,6 +111,8 @@ The assistant's reading, `llm-proposed`: the author's ETF idea ([[SRC-2026-10-05
 
 *2026-10-10: decisions 1 to 4 answered — see [[security-universe]] and [[SRC-2026-10-10-security-universe-round-decisions]]. In short: 1 kept as written, in tension with the origin rule; 2 reviewed one by one, 26, 22, 28 and 8 recast; 3 both sides kept; 4 kept. Decisions 5 to 7 are open.*
 
+*2026-10-10, later: decisions 5 to 7 answered — see [[security-universe]] and [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]]. Twenty candidates added and five held, provisionally, pending an analysis that abstracts and merges them; a non-technological channel added; the nineteenth century left thin; civic acts through the gathering rule; waiting and serendipity priced by a carrier fund plus a measure of the state.*
+
 1. **"In one's own words."** Rephrase 4 and 5 so that composition is not the condition, as decided on 2026-10-04?
 2. **Recasts.** Accept the agreed recasts of 17, 26, 22, 28 and 8; recast or drop 7 and 10?
 3. **Pairs.** Merge each mirror pair (13/14, 3/19, 6/26, 12/27, 23/24) into one practice, or keep both sides?
@@ -127,6 +130,7 @@ The assistant's reading, `llm-proposed`: the author's ETF idea ([[SRC-2026-10-05
 
 ## Sources
 
+- [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] — [raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md](../../raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md); the author's answers to decisions 5–7 and T1
 - [[SRC-2026-10-10-security-universe-round-decisions]] — [raw/conversations/2026-10-10-security-universe-round-decisions.md](../../raw/conversations/2026-10-10-security-universe-round-decisions.md); the author's answers to decisions 1–4
 - [[SRC-2026-10-05-security-universe-round-prompt]] — [raw/documents/2026-10-05-security-universe-round-prompt.md](../../raw/documents/2026-10-05-security-universe-round-prompt.md); the prompt
 - [[SRC-2026-10-05-security-universe-round-chatgpt]] — [raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-chatgpt.md](../../raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-chatgpt.md)

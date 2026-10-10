@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-10-05
+updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-universe-round-decisions-5-to-7
   - SRC-2026-10-05-ontology-draft-decisions
   - SRC-2026-10-05-abstraction-method-and-ontology-form
   - SRC-2026-10-05-blind-trust-shakes-and-scope
@@ -96,6 +97,7 @@ Exploitative relations are outside the graph ([[SRC-2026-10-04-romance-remaining
 | Offloading | event | People hand over more. | same |
 | Substitution of judgment | event | The system decides what the person could have decided; raises calls. | [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]] |
 | Restoration and arrival | event | A new or recovered way of reaching a person; raises issuance. Technology's gifts are events on the world's timeline. | [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], [[SRC-2026-10-04-romance-round-decisions]] (8) |
+| Non-technological rise | event | A rise in practice not caused by technology — longer lives, smaller families, shorter hours, love marriage; raises issuance through its own channel so that it is not credited to a technological one. Added 2026-10-10. | [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] |
 
 ## Named relations
 
@@ -112,6 +114,7 @@ The relation names are the assistant's, not a closed list.
  Device ──hides──▶ effort ──▶ Deskilling ──▶ Offloading ──removes──▶ Occasion
  Substitution of judgment ──raises──▶ Call ──moves reliance to──▶ BLIND TRUST
  Restoration / arrival ──raises──▶ Issue
+ Non-technological rise ──raises──▶ Issue   (its own channel, 2026-10-10)
  Trust event ──raises briefly──▶ Issue      Service retirement ──writes down──▶ BLIND TRUST
 ```
 
@@ -167,6 +170,7 @@ Kept as asked; the answers are in the section above.
 
 ## Sources
 
+- [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] — [raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md](../../raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md); a non-technological channel added; civic acts as gatherings
 - [[SRC-2026-10-05-ontology-draft-decisions]] — [raw/conversations/2026-10-05-ontology-draft-decisions.md](../../raw/conversations/2026-10-05-ontology-draft-decisions.md); the author's review: hostility an analyst indicator, trust and belief separate, reflection priced through practices, securities as practices with indices over balances and layers
 - [[SRC-2026-10-05-abstraction-method-and-ontology-form]] — [raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md](../../raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md); the frame and form this page follows
 - [[SRC-2026-10-05-blind-trust-shakes-and-scope]] — [raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md](../../raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md); BLIND TRUST, its shakes and scope; borrowed concepts

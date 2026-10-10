@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-universe-round-decisions-5-to-7
   - SRC-2026-10-10-security-universe-round-decisions
   - SRC-2026-10-05-state-securities-after-the-round
   - SRC-2026-10-05-security-universe-method
@@ -45,7 +46,27 @@ On decisions 1 to 4 of [[security-universe-round-review]] ([[SRC-2026-10-10-secu
 | 3 | Mirror pairs | **Both sides kept** for 13/14, 3/19, 6/26, 12/27 and 23/24. |
 | 4 | 29 | **Kept**, for arrival coverage. |
 
-Decisions 5 to 7 — new candidates, coverage gaps and states — are still open.
+Decisions 5 to 7 are recorded in the next section.
+
+## The author's decisions on the round, 5 to 7 (2026-10-10)
+
+Chosen on a decision page the assistant wrote ([[SRC-2026-10-10-security-universe-round-decisions-5-to-7]]); the options and recommendations were the assistant's, the choices `user-confirmed`.
+
+**5 — New candidates, provisional.** The author's instruction, `user-originated`: the selection is kept but **may not be final**; the candidates' ontology should be analysed so that they are abstracted further and merged; securities should have simple names, chosen with ticker names in mind. Neither list below is final.
+
+- *Added:* sitting with someone who is grieving; making music or singing together; praying with someone; playing a game with someone; forgiving or reconciling; asking a colleague for help, covering a shift; leaving a key with or watching a neighbour's home; vouching for someone with your own name; keeping vigil with the dying; minding each other's children; letting a child go out on their own; walking someone home; checking on someone who lives alone; restoring conversation with someone losing speech or hearing; commissioning something from its maker; studying or working through a question together; working a neighbour's field in turn; sending money home; keeping a secret; talking with someone about what you no longer do together.
+- *Held:* bargaining over a price in person; hosting a traveller; interpreting or practising a language with someone; asking someone out, telling someone you love them first; finding others with the same rare condition.
+
+The instruction to merge may reopen decision 3 of 2026-10-10, which kept both sides of the mirror pairs; the assistant reads it so, and that reading is not a decision.
+
+| # | Question | Decision |
+|---|---|---|
+| 6-1 | Rises not caused by technology (longer lives, smaller families, shorter hours, love marriage) | **A non-technological channel is added to the ontology** — see [[romance-ontology]]. |
+| 6-2 | The thin nineteenth century | **Left thin.** A quiet early history is accepted as part of the work. |
+| 6-3 | Civic and public life against the two-person rule | **Taken through the gathering rule:** a civic act is a gathering, which issues bilateral bonds between participants ([[SRC-2026-10-04-romance-remaining-decisions]]). The two-person rule is unchanged. |
+| 7-1 | Which states | **Waiting and serendipity** both become state-securities, beside reflection. |
+| 7-2 | How a state is priced | **A carrier fund plus a measure of the state itself** — for waiting, the volume of its carrying practices and reply latency. This adopts the author's ETF idea in that form; a fund alone was rejected because a state can vanish while its carriers hold. |
+| T1 | "In one's own words" and the origin rule | **Wording kept, with a reading:** "one's own words" are words one chooses, sends and stands behind, whether or not one composed them. The rule and the wording both stand; the tension recorded earlier the same day is resolved. |
 
 ## Constraints already decided
 
@@ -105,8 +126,8 @@ Thirty act-defined candidates. Balance is where the practice mostly issues; chan
 | 1 | Asking a stranger the way | belief | − device: navigation removes the occasion | occasion |
 | 2 | Asking someone for a recommendation | trust | − substitution: recommendation systems | occasion |
 | 3 | Confiding a personal matter and asking advice | understanding | − substitution: AI counsel → BLIND TRUST | balance |
-| 4 | Writing to someone in one's own words | love, understanding | + post, email, messaging; − AI drafting | practice, capacity |
-| 5 | Apologising in one's own words | understanding, trust | − substitution: drafted apologies | capacity |
+| 4 | Writing to someone in one's own words (own words: words one stands behind, T1) | love, understanding | + post, email, messaging; − AI drafting | practice, capacity |
+| 5 | Apologising in one's own words (own words: words one stands behind, T1) | understanding, trust | − substitution: drafted apologies | capacity |
 | 6 | Choosing a gift for someone | love | − substitution: recommendation, registries | practice |
 | 7 | Remembering someone's day unprompted | love | − device: reminders | capacity |
 | 8 | Reaching out for no reason (was: calling someone without a reason) | love | + telephone, mobile; − asynchronous messages | practice |
@@ -159,6 +180,7 @@ Practices 4, 8, 10, 28, 29 and 30 have strong arrival phases; 21 and 29 have a r
 
 ## Sources
 
+- [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] — [raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md](../../raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md); round decisions 5–7 and T1: provisional new candidates, a non-technological channel, states with a carrier fund and their own measure
 - [[SRC-2026-10-10-security-universe-round-decisions]] — [raw/conversations/2026-10-10-security-universe-round-decisions.md](../../raw/conversations/2026-10-10-security-universe-round-decisions.md); round decisions 1–4: wording kept, four recasts, pairs and 29 kept
 - [[SRC-2026-10-05-state-securities-after-the-round]] — [raw/conversations/2026-10-05-state-securities-after-the-round.md](../../raw/conversations/2026-10-05-state-securities-after-the-round.md); state-securities explained; decided after the round; the ETF idea
 - [[SRC-2026-10-05-security-universe-method]] — [raw/conversations/2026-10-05-security-universe-method.md](../../raw/conversations/2026-10-05-security-universe-method.md); method accepted, definition by act, no fixed count, a round then the author's choice

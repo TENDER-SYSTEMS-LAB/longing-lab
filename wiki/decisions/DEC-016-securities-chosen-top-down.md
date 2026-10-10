@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-10-05
+updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-universe-round-decisions-5-to-7
   - SRC-2026-10-05-security-universe-method
   - SRC-2026-10-05-ontology-draft-decisions
   - SRC-2026-10-05-abstraction-method-and-ontology-form
@@ -63,6 +64,10 @@ The assistant drafted [[romance-ontology]] and the author reviewed it ([[SRC-202
 
 The author decided the selection method on [[security-universe]] ([[SRC-2026-10-05-security-universe-method]]): four tests and three coverage rules taken from the ontology; practices defined by act, with medium, body and place as attributes; no fixed count, each security to be easy for the audience to understand and meaningful inside the work; and the candidate list widened by a round of LLM opinions before the author chooses.
 
+## Evolution — the round's decisions (2026-10-10)
+
+After the LLM round, the author decided on [[security-universe]] ([[SRC-2026-10-10-security-universe-round-decisions]], [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]]): four candidates recast by act; mirror pairs and candidate 29 kept; twenty new candidates added and five held, **provisionally** — the author asks for an analysis of the candidates' ontology that abstracts and merges them, and for simple, ticker-ready names; a non-technological channel added to the ontology; civic acts taken through the gathering rule; waiting and serendipity become state-securities priced by a carrier fund plus a measure of the state.
+
 ## Related
 
 - [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]
@@ -75,6 +80,8 @@ The author decided the selection method on [[security-universe]] ([[SRC-2026-10-
 
 ## Sources
 
+- [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] — [raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md](../../raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md); round decisions 5–7: provisional candidates, the merge instruction, states
+- [[SRC-2026-10-10-security-universe-round-decisions]] — [raw/conversations/2026-10-10-security-universe-round-decisions.md](../../raw/conversations/2026-10-10-security-universe-round-decisions.md); round decisions 1–4
 - [[SRC-2026-10-05-security-universe-method]] — [raw/conversations/2026-10-05-security-universe-method.md](../../raw/conversations/2026-10-05-security-universe-method.md); the selection method, definition by act, no fixed count
 - [[SRC-2026-10-05-ontology-draft-decisions]] — [raw/conversations/2026-10-05-ontology-draft-decisions.md](../../raw/conversations/2026-10-05-ontology-draft-decisions.md); the ontology reviewed; securities are practices
 - [[SRC-2026-10-05-abstraction-method-and-ontology-form]] — [raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md](../../raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md); the abstraction method and the ontology's form chosen
