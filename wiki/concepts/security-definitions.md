@@ -3,6 +3,9 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-weights-round-setup
+  - SRC-2026-10-10-security-weights-round-prompt-part1
+  - SRC-2026-10-10-security-weights-round-prompt-part2
   - SRC-2026-10-10-classification-rule-decision
   - SRC-2026-10-10-security-weights-decisions
   - SRC-2026-10-10-fund-construction-decisions
@@ -418,7 +421,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 1. **GIFT and IOU funds** — *equal weights, decided.* Do they follow the smaller form, as the leg families follow the smaller leg, or weight their two forms equally?
 2. **Definitions and classes.** Accept, reword, or change the class of any step.
 3. **Importance.** Set each step's importance, on a 1–5 scale proposed by the assistant.
-4. **The LLM check.** After the importance is set, the assistant drafts a round prompt so that each setting is checked against as many LLMs as possible, as decided on 2026-10-01.
+4. **The LLM check** — *set up 2026-10-10 ([[SRC-2026-10-10-security-weights-round-setup]]): two parts, Part 1 blind ([[SRC-2026-10-10-security-weights-round-prompt-part1]]) and Part 2 with the author's values ([[SRC-2026-10-10-security-weights-round-prompt-part2]]), sections A–D, sent to seven services; TRET's Korean name is not asked and stays open.* After the importance is set, the assistant drafts a round prompt so that each setting is checked against as many LLMs as possible, as decided on 2026-10-01.
 
 ## Related
 
@@ -430,6 +433,9 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 ## Sources
 
+- [[SRC-2026-10-10-security-weights-round-setup]] — [raw/conversations/2026-10-10-security-weights-round-setup.md](../../raw/conversations/2026-10-10-security-weights-round-setup.md); the round set up
+- [[SRC-2026-10-10-security-weights-round-prompt-part1]] — [raw/documents/2026-10-10-security-weights-round-prompt-part1.md](../../raw/documents/2026-10-10-security-weights-round-prompt-part1.md); round prompt, Part 1
+- [[SRC-2026-10-10-security-weights-round-prompt-part2]] — [raw/documents/2026-10-10-security-weights-round-prompt-part2.md](../../raw/documents/2026-10-10-security-weights-round-prompt-part2.md); round prompt, Part 2
 - [[SRC-2026-10-10-classification-rule-decision]] — [raw/conversations/2026-10-10-classification-rule-decision.md](../../raw/conversations/2026-10-10-classification-rule-decision.md); the narrow rule adopted
 - [[SRC-2026-10-10-security-weights-decisions]] — [raw/conversations/2026-10-10-security-weights-decisions.md](../../raw/conversations/2026-10-10-security-weights-decisions.md); importance set; CARE step 5; the rule review; TRET's Korean name
 - [[SRC-2026-10-10-fund-construction-decisions]] — [raw/conversations/2026-10-10-fund-construction-decisions.md](../../raw/conversations/2026-10-10-fund-construction-decisions.md); funds follow the smaller leg; families without legs are securities

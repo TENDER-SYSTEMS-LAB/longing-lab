@@ -840,3 +840,11 @@ The assistant wrote the review the author asked for on [[security-definitions]],
 ## [2026-10-10] decision | The classification rule narrowed
 
 The author adopted the narrow rule ([[SRC-2026-10-10-classification-rule-decision]]): a choice of means is judgment when the other person reads it as part of the message; other manner stays execution. Five steps change class — WRIT 4, RECH 3, CHSE 5, MAKE 4, VIST 3 — and their execution shares fall (WRIT 0.11, RECH 0.29, CHSE 0.26, MAKE 0.19, VIST 0.41). Recorded on [[security-definitions]]; [[current-state]] is updated. Next: the LLM check, with TRET's Korean name in the same round.
+
+## [2026-10-10] decision | The weights check round set up
+
+The author chose the round's form on a decision page ([[SRC-2026-10-10-security-weights-round-setup]]): two parts in one conversation — Part 1 without the author's importance, so each model gives its own, and Part 2 with the author's values, asking about definitions, steps, classes and importance differences; sent to ChatGPT, Claude, DeepSeek, Gemini, GLM, Grok and Qwen. The question on TRET's Korean name and Kimi were left out. Both parts are registered before dispatch ([[SRC-2026-10-10-security-weights-round-prompt-part1]], [[SRC-2026-10-10-security-weights-round-prompt-part2]]).
+
+## [2026-10-10] maintenance | Survey row labels corrected
+
+In `raw/sources.md` the note column of the six 2026-10-05 security-universe round rows named the wrong service, shifted by one row; the earlier correction of the Grok row the same day fixed one symptom only. All six now name their own service. The files and the attributions in [[security-universe-round-review]] were checked against the files' opening text and are unaffected.
