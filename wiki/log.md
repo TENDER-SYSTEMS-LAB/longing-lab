@@ -860,3 +860,7 @@ Fourteen answers — Part 1 and Part 2 from ChatGPT, Claude, DeepSeek, Gemini, G
 ## [2026-10-10] decision | The weights round's decisions
 
 The author decided on the round's five questions ([[SRC-2026-10-10-security-weights-round-decisions]]): the seven multi-branch definitions are split into forms, against the assistant's recommendation to narrow them; the assistant drafts revised step lists and a rule for keeping steps for review; WRIT 4, RECH 3, CHSE 5 and MAKE 4 are reworded to state that the other person reads the means and stay judgment, while VIST 3 returns to execution (VIST back to 0.47); importance is revisited only on the steps six or seven models disputed, after the steps are revised. Recorded on [[security-weights-round-review]] and [[security-definitions]].
+
+## [2026-10-10] ingest | The medium changes uptake
+
+The author reported, at second hand, a modified prisoner's dilemma in which a partner's position sent by note or by light was taken with different seriousness, and asked that the world show that the medium affects the choice ([[SRC-2026-10-10-medium-changes-uptake]], `user-originated`). Recorded on [[romance-ontology]] as an idea, not adopted, with the assistant's reading: it fits beside the decided rule that the medium is not the condition of romance, differs from the narrow rule because it concerns the receiver, and would enter as an uptake attribute scaling the attention a bond carries. The study is unverified.

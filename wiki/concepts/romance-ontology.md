@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-medium-changes-uptake
   - SRC-2026-10-10-security-universe-round-decisions-5-to-7
   - SRC-2026-10-05-ontology-draft-decisions
   - SRC-2026-10-05-abstraction-method-and-ontology-form
@@ -99,6 +100,20 @@ Exploitative relations are outside the graph ([[SRC-2026-10-04-romance-remaining
 | Restoration and arrival | event | A new or recovered way of reaching a person; raises issuance. Technology's gifts are events on the world's timeline. | [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], [[SRC-2026-10-04-romance-round-decisions]] (8) |
 | Non-technological rise | event | A rise in practice not caused by technology — longer lives, smaller families, shorter hours, love marriage; raises issuance through its own channel so that it is not credited to a technological one. Added 2026-10-10. | [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] |
 
+## The medium changes uptake — an idea, not adopted (2026-10-10)
+
+The author's idea, `user-originated` ([[SRC-2026-10-10-medium-changes-uptake]]): in a modified prisoner's dilemma the author heard of, a partner's position sent by a written note or by a light was taken with different seriousness; the medium of an opinion affects the choice, and the world should show this. The study is unidentified and unverified. Related work the assistant knows of, not checked in this session, `probable`: meta-analyses of communication in social dilemmas (Sally 1995; Balliet 2010) report that face-to-face communication raises cooperation more than written messages.
+
+**How it sits with decided rules, the assistant's reading, `llm-proposed`:**
+
+- It does not contradict "medium, body and place are not the condition of romance" ([[SRC-2026-10-04-romance-round-decisions]]). That rule says *whether* something is romantic; the idea says *how strongly* it is received.
+- It is not the narrow rule ([[SRC-2026-10-10-classification-rule-decision]]). The narrow rule classifies the sender's step when the sender chooses a means the other reads. The idea is about the receiver: the medium changes uptake even when nobody chose it as a message.
+- In this graph it would be a new **attribute of an issue or coupon** — call it *uptake* — scaling the attention the receiver credits, beside resonance. Attention is the BEARER BOND principal, so the same act sent through a thinner medium would issue a smaller bond.
+
+**What it would add to the world:** a decline that does not need fewer acts. When the media people use shift — letter, telephone, text, a drafted message — the same number of acts carries less weight. This answers the round's warning that a state can vanish while its carrying practices hold ([[security-universe-round-review]]), and gives WAIT and the other states a mechanism.
+
+**Open for the author:** whether to adopt uptake as an attribute; whether it acts on issuance (principal), on coupons, or on both; whether each medium in [[technology-waves]] carries an uptake level; and whether the experiment should be found and verified before the idea enters the world.
+
 ## Named relations
 
 The relation names are the assistant's, not a closed list.
@@ -170,6 +185,7 @@ Kept as asked; the answers are in the section above.
 
 ## Sources
 
+- [[SRC-2026-10-10-medium-changes-uptake]] — [raw/conversations/2026-10-10-medium-changes-uptake.md](../../raw/conversations/2026-10-10-medium-changes-uptake.md); the medium changes uptake, an idea
 - [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] — [raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md](../../raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md); a non-technological channel added; civic acts as gatherings
 - [[SRC-2026-10-05-ontology-draft-decisions]] — [raw/conversations/2026-10-05-ontology-draft-decisions.md](../../raw/conversations/2026-10-05-ontology-draft-decisions.md); the author's review: hostility an analyst indicator, trust and belief separate, reflection priced through practices, securities as practices with indices over balances and layers
 - [[SRC-2026-10-05-abstraction-method-and-ontology-form]] — [raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md](../../raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md); the frame and form this page follows
