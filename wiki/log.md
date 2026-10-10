@@ -832,3 +832,11 @@ With the securities chosen, the assistant began the task the author set on 2026-
 ## [2026-10-10] decision | The importance of each step set
 
 The author set the importance of every step of the twenty-two weighted securities ([[SRC-2026-10-10-security-weights-decisions]]); with the drafted classes, execution shares run from 0.20 (INTR, TELL) to 0.76 (GTHR). GIFT and IOU weight their two forms equally. CARE step 5 is rewritten as a change over time. A memo on RECH led the author to put the classification rule itself — that manner is never judgment — to review; opinions are to be gathered on TRET's Korean name. Recorded on [[security-definitions]] and [[security-families]]; [[current-state]] is updated. The author also asked that every task description state why the task is needed.
+
+## [2026-10-10] maintenance | The classification rule reviewed
+
+The assistant wrote the review the author asked for on [[security-definitions]], `llm-proposed`: the current rule (manner is never judgment), a narrow rule (a choice of means the other person reads is judgment) and a wide rule (every step of saying, handing over or going), each run with the author's importance values. The narrow rule moves five securities and is read by the assistant as closest to the decided idea of chosen friction; the wide rule moves eleven and leaves TELL with no execution.
+
+## [2026-10-10] decision | The classification rule narrowed
+
+The author adopted the narrow rule ([[SRC-2026-10-10-classification-rule-decision]]): a choice of means is judgment when the other person reads it as part of the message; other manner stays execution. Five steps change class — WRIT 4, RECH 3, CHSE 5, MAKE 4, VIST 3 — and their execution shares fall (WRIT 0.11, RECH 0.29, CHSE 0.26, MAKE 0.19, VIST 0.41). Recorded on [[security-definitions]]; [[current-state]] is updated. Next: the LLM check, with TRET's Korean name in the same round.

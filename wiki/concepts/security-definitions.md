@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-classification-rule-decision
   - SRC-2026-10-10-security-weights-decisions
   - SRC-2026-10-10-fund-construction-decisions
   - SRC-2026-10-10-security-legs-and-tickers
@@ -18,25 +19,25 @@ The task the author set on 2026-10-01 and left until the securities were chosen:
 
 ## The author's settings (2026-10-10)
 
-The author set every step's importance on a decision page ([[SRC-2026-10-10-security-weights-decisions]]), `user-confirmed`. Values are in step order; no class was changed. Execution share = importance of execution steps ÷ total importance.
+The author set every step's importance on a decision page ([[SRC-2026-10-10-security-weights-decisions]]), `user-confirmed`. Values are in step order; no class was changed. *Pairs updated after the narrow rule was adopted later the same day ([[SRC-2026-10-10-classification-rule-decision]]); five securities moved.* Execution share = importance of execution steps ÷ total importance.
 
 | Code | Importance by step | Execution | Judgment |
 |---|---|---|---|
 | STRG | 5,1,4,3,2 | 0.47 | 0.53 |
 | INTR | 5,4,3,2,1 | 0.20 | 0.80 |
-| WRIT | 5,5,5,2,2 | 0.21 | 0.79 |
-| RECH | 5,4,3,2,3 | 0.47 | 0.53 |
+| WRIT | 5,5,5,2,2 | 0.11 | 0.89 |
+| RECH | 5,4,3,2,3 | 0.29 | 0.71 |
 | TELL | 5,2,4,3,1 | 0.20 | 0.80 |
 | LSTN | 5,4,2,3,1 | 0.67 | 0.33 |
 | MEND | 3,5,2,5,4,3 | 0.36 | 0.64 |
 | DEC | 5,2,4,3,4 | 0.33 | 0.67 |
-| CHSE | 3,5,5,2,4 | 0.47 | 0.53 |
-| MAKE | 5,4,3,4 | 0.44 | 0.56 |
+| CHSE | 3,5,5,2,4 | 0.26 | 0.74 |
+| MAKE | 5,4,3,4 | 0.19 | 0.81 |
 | LERN | 3,1,2,4,2 | 0.58 | 0.42 |
 | TCHR | 5,3,2,4,1 | 0.33 | 0.67 |
 | CARE | 5,4,3,1,4 | 0.24 | 0.76 |
 | VGIL | 3,5,2,4 | 0.64 | 0.36 |
-| VIST | 5,3,1,4,2,2 | 0.47 | 0.53 |
+| VIST | 5,3,1,4,2,2 | 0.41 | 0.59 |
 | GTHR | 3,4,5,4,1 | 0.76 | 0.24 |
 | PLAY | 3,2,5,4,3 | 0.59 | 0.41 |
 | ASK | 5,3,4,5,4 | 0.62 | 0.38 |
@@ -53,6 +54,40 @@ The author set every step's importance on a decision page ([[SRC-2026-10-10-secu
 
 Pairs are not final until the rule review and the LLM check are done.
 
+## Review of the classification rule — proposed, decided 2026-10-10
+
+**Decided** ([[SRC-2026-10-10-classification-rule-decision]]), `user-confirmed`: **the narrow rule.** A choice of means is judgment when the other person reads the means as part of the message; other manner stays execution. Five steps change class — WRIT 4, RECH 3, CHSE 5, MAKE 4, VIST 3 — and no importance changed. The medium itself is still not the condition of romance; the choice of it, when read, is judgment, as with chosen friction. The analysis below is kept as the proposal it was.
+
+`llm-proposed`. The author put the rule to review after the memo on RECH ([[SRC-2026-10-10-security-weights-decisions]]).
+
+**Why the review comes first.** The rule decides every step's class, so a change can move all twenty-two pairs. An LLM check run before the review would check classes under a rule that may change.
+
+**The current rule.** A step is judgment only when its options differ in the practice's product or meaning; manner — medium, route, handwriting — is never judgment. This came from the weight round's consensus ([[weight-setting-procedure-review]]) and agrees with the decision that medium, body and place are not the condition of romance ([[SRC-2026-10-04-romance-round-decisions]]).
+
+**What argues against it.** The ontology already holds that *chosen friction* — a slow path chosen for a reason — is romantic, and imposed friction is not ([[romance-ontology]], Layer 1). A chosen path is a choice of manner that carries meaning. A handwritten birthday letter and an auto-sent message can say different things to the one who receives them.
+
+**What a change would do.** Under [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], only judgment steps are exposed to substitution. If choosing the means becomes judgment, a system that picks the means for a person — a default channel, an auto-sent greeting — counts as substitution and raises calls. Under the current rule it is only the doing handed over.
+
+**Three rules compared, with the author's importance values.** "Narrow" makes a step judgment when it is a choice of means that the other person reads as part of the message; "wide" adds every step of saying, handing over or going.
+
+| Code | Steps that change class | Execution, current | Narrow | Wide |
+|---|---|---|---|---|
+| STRG | 3 (wide only) | 0.47 | 0.47 | 0.20 |
+| INTR | 4 (wide only) | 0.20 | 0.20 | 0.07 |
+| WRIT | 4 | 0.21 | 0.11 | 0.11 |
+| RECH | 3 | 0.47 | 0.29 | 0.29 |
+| TELL | 4 (wide only) | 0.20 | 0.20 | 0.00 |
+| CHSE | 5 | 0.47 | 0.26 | 0.26 |
+| MAKE | 4 | 0.44 | 0.19 | 0.19 |
+| VIST | 3 | 0.47 | 0.41 | 0.41 |
+| GTHR | 2 (wide only) | 0.76 | 0.76 | 0.53 |
+| ASK | 3 (wide only) | 0.62 | 0.62 | 0.43 |
+| ETRS | 3 (wide only) | 0.35 | 0.35 | 0.18 |
+
+The wide rule leaves TELL with no execution at all and moves eleven securities; nearly every practice would become fully exposed to substitution. The narrow rule moves five (RECH, WRIT, CHSE, MAKE, VIST).
+
+**The assistant's reading.** The narrow rule fits the decided ontology best: the medium is still not the condition of romance, but *the choice of it*, when the other person reads it, is judgment — the same reasoning as chosen friction. Which steps fall under it is the author's call.
+
 ## Why this is needed
 
 - **The price model needs the pair.** Under [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], what raises calls is a system deciding what a person could have decided. A security's judgment share is how much of it AI can take by substitution; its execution share is what can be handed over with the choice kept. Without the pair, no security can be priced through the AI wave.
@@ -62,7 +97,7 @@ Pairs are not final until the rule review and the LLM check are done.
 ## The procedure, as decided
 
 - The unit is a step of the practice, induced from the definition sentence.
-- A step is **judgment** when it contains more than one live option that differs in the practice's product or meaning; otherwise it is **execution**. Manner — medium, route, handwriting — is not judgment.
+- A step is **judgment** when it contains more than one live option that differs in the practice's product or meaning; otherwise it is **execution**. Manner — medium, route, handwriting — is execution, **except a choice of means that the other person reads as part of the message, which is judgment** (narrow rule, decided 2026-10-10, [[SRC-2026-10-10-classification-rule-decision]]).
 - Mixed steps are forbidden: every step is one or the other.
 - Each step gets an importance set by the author; the execution share is the importance of execution steps over the total.
 - Importance is part of the definition, so changing it is a revision under condition (a).
@@ -110,10 +145,10 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 | 1 | Choose the recipient | judgment | a different letter |
 | 2 | Decide what to say | judgment | the content |
 | 3 | Choose the words | judgment | words differing in meaning |
-| 4 | Put it into a medium | execution | medium is an attribute; manner is not judgment |
+| 4 | Put it into a medium | judgment | the chosen medium is read by the recipient (narrow rule, 2026-10-10) |
 | 5 | Send it | execution | release; the choice to send is in the steps above |
 
-Equal-count pair: execution 0.40 / judgment 0.60.
+Equal-count pair: execution 0.20 / judgment 0.80 (after the narrow rule).
 
 ### RECH — REACH (안부)
 
@@ -123,11 +158,11 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 |---|---|---|---|
 | 1 | Think of the person unprompted | judgment | whom one thinks of |
 | 2 | Choose the moment | judgment | a day remembered or not changes the meaning |
-| 3 | Choose the means | execution | medium is an attribute |
+| 3 | Choose the means | judgment | the chosen means is read by the other person (narrow rule, 2026-10-10) |
 | 4 | Make contact or send | execution | manner only |
 | 5 | Keep the thread over time | execution | repetition, no new option |
 
-Equal-count pair: execution 0.60 / judgment 0.40.
+Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 
 ### TELL — CONFIDE · leg (털어놓기) · CNFD 기대는 다리
 
@@ -196,9 +231,9 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 | 2 | Consider what they would value | judgment | reading the person |
 | 3 | Choose the thing | judgment | a different gift |
 | 4 | Obtain it | execution | manner only |
-| 5 | Give it | execution | manner only |
+| 5 | Give it | judgment | how it is given is read by the receiver (narrow rule, 2026-10-10) |
 
-Equal-count pair: execution 0.60 / judgment 0.40.
+Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 
 ### MAKE — GIFT · form (만든 선물) · GIFT 형태
 
@@ -209,9 +244,9 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 | 1 | Decide what to make for them | judgment | a different object |
 | 2 | Shape its particular form | judgment | form differing in meaning for that person |
 | 3 | Make it | execution | doing |
-| 4 | Give it | execution | manner only |
+| 4 | Give it | judgment | how it is given is read by the receiver (narrow rule, 2026-10-10) |
 
-Equal-count pair: execution 0.50 / judgment 0.50.
+Equal-count pair: execution 0.25 / judgment 0.75 (after the narrow rule).
 
 ### LERN — TEACH · leg (배우기) · TCH 기대는 다리
 
@@ -276,12 +311,12 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 |---|---|---|---|
 | 1 | Decide to go | judgment | go or call |
 | 2 | Arrange the time | execution | scheduling |
-| 3 | Travel | execution | route is manner |
+| 3 | Travel | judgment | going in body rather than calling, and how, is read by the other person (narrow rule, 2026-10-10) |
 | 4 | Choose what to do together | judgment | the time's content |
 | 5 | Spend the time | execution | presence |
 | 6 | See them back | execution | doing |
 
-Equal-count pair: execution 0.67 / judgment 0.33.
+Equal-count pair: execution 0.50 / judgment 0.50 (after the narrow rule).
 
 ### GTHR — GATHER (모임)
 
@@ -395,6 +430,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 ## Sources
 
+- [[SRC-2026-10-10-classification-rule-decision]] — [raw/conversations/2026-10-10-classification-rule-decision.md](../../raw/conversations/2026-10-10-classification-rule-decision.md); the narrow rule adopted
 - [[SRC-2026-10-10-security-weights-decisions]] — [raw/conversations/2026-10-10-security-weights-decisions.md](../../raw/conversations/2026-10-10-security-weights-decisions.md); importance set; CARE step 5; the rule review; TRET's Korean name
 - [[SRC-2026-10-10-fund-construction-decisions]] — [raw/conversations/2026-10-10-fund-construction-decisions.md](../../raw/conversations/2026-10-10-fund-construction-decisions.md); funds follow the smaller leg; families without legs are securities
 - [[SRC-2026-10-10-security-legs-and-tickers]] — [raw/conversations/2026-10-10-security-legs-and-tickers.md](../../raw/conversations/2026-10-10-security-legs-and-tickers.md); legs, forms and ticker codes
