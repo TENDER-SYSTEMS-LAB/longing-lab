@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-weights-round-decisions
   - SRC-2026-10-10-security-weights-round-setup
   - SRC-2026-10-10-security-weights-round-prompt-part1
   - SRC-2026-10-10-security-weights-round-prompt-part2
@@ -22,7 +23,7 @@ The task the author set on 2026-10-01 and left until the securities were chosen:
 
 ## The author's settings (2026-10-10)
 
-The author set every step's importance on a decision page ([[SRC-2026-10-10-security-weights-decisions]]), `user-confirmed`. Values are in step order; no class was changed. *Pairs updated after the narrow rule was adopted later the same day ([[SRC-2026-10-10-classification-rule-decision]]); five securities moved.* Execution share = importance of execution steps ÷ total importance.
+The author set every step's importance on a decision page ([[SRC-2026-10-10-security-weights-decisions]]), `user-confirmed`. Values are in step order; no class was changed. *VIST returned to 0.47 when step 3 went back to execution ([[SRC-2026-10-10-security-weights-round-decisions]]).* *Pairs updated after the narrow rule was adopted later the same day ([[SRC-2026-10-10-classification-rule-decision]]); five securities moved.* Execution share = importance of execution steps ÷ total importance.
 
 | Code | Importance by step | Execution | Judgment |
 |---|---|---|---|
@@ -40,7 +41,7 @@ The author set every step's importance on a decision page ([[SRC-2026-10-10-secu
 | TCHR | 5,3,2,4,1 | 0.33 | 0.67 |
 | CARE | 5,4,3,1,4 | 0.24 | 0.76 |
 | VGIL | 3,5,2,4 | 0.64 | 0.36 |
-| VIST | 5,3,1,4,2,2 | 0.41 | 0.59 |
+| VIST | 5,3,1,4,2,2 | 0.47 | 0.53 |
 | GTHR | 3,4,5,4,1 | 0.76 | 0.24 |
 | PLAY | 3,2,5,4,3 | 0.59 | 0.41 |
 | ASK | 5,3,4,5,4 | 0.62 | 0.38 |
@@ -148,7 +149,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 | 1 | Choose the recipient | judgment | a different letter |
 | 2 | Decide what to say | judgment | the content |
 | 3 | Choose the words | judgment | words differing in meaning |
-| 4 | Put it into a medium | judgment | the chosen medium is read by the recipient (narrow rule, 2026-10-10) |
+| 4 | Choose the medium the recipient will read (rewritten 2026-10-10; was "Put it into a medium") | judgment | the chosen medium is read by the recipient (narrow rule, 2026-10-10) |
 | 5 | Send it | execution | release; the choice to send is in the steps above |
 
 Equal-count pair: execution 0.20 / judgment 0.80 (after the narrow rule).
@@ -161,7 +162,7 @@ Equal-count pair: execution 0.20 / judgment 0.80 (after the narrow rule).
 |---|---|---|---|
 | 1 | Think of the person unprompted | judgment | whom one thinks of |
 | 2 | Choose the moment | judgment | a day remembered or not changes the meaning |
-| 3 | Choose the means | judgment | the chosen means is read by the other person (narrow rule, 2026-10-10) |
+| 3 | Choose a means the other person will read (rewritten 2026-10-10; was "Choose the means") | judgment | the chosen means is read by the other person (narrow rule, 2026-10-10) |
 | 4 | Make contact or send | execution | manner only |
 | 5 | Keep the thread over time | execution | repetition, no new option |
 
@@ -234,7 +235,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 | 2 | Consider what they would value | judgment | reading the person |
 | 3 | Choose the thing | judgment | a different gift |
 | 4 | Obtain it | execution | manner only |
-| 5 | Give it | judgment | how it is given is read by the receiver (narrow rule, 2026-10-10) |
+| 5 | Choose how to give it, as the recipient will read it (rewritten 2026-10-10; was "Give it") | judgment | how it is given is read by the receiver (narrow rule, 2026-10-10) |
 
 Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 
@@ -247,7 +248,7 @@ Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 | 1 | Decide what to make for them | judgment | a different object |
 | 2 | Shape its particular form | judgment | form differing in meaning for that person |
 | 3 | Make it | execution | doing |
-| 4 | Give it | judgment | how it is given is read by the receiver (narrow rule, 2026-10-10) |
+| 4 | Choose how to give it, as the recipient will read it (rewritten 2026-10-10; was "Give it") | judgment | how it is given is read by the receiver (narrow rule, 2026-10-10) |
 
 Equal-count pair: execution 0.25 / judgment 0.75 (after the narrow rule).
 
@@ -314,12 +315,12 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 |---|---|---|---|
 | 1 | Decide to go | judgment | go or call |
 | 2 | Arrange the time | execution | scheduling |
-| 3 | Travel | judgment | going in body rather than calling, and how, is read by the other person (narrow rule, 2026-10-10) |
+| 3 | Travel | execution | returned to execution 2026-10-10: the choice between going and calling is already step 1 |
 | 4 | Choose what to do together | judgment | the time's content |
 | 5 | Spend the time | execution | presence |
 | 6 | See them back | execution | doing |
 
-Equal-count pair: execution 0.50 / judgment 0.50 (after the narrow rule).
+Equal-count pair: execution 0.67 / judgment 0.33 (VIST 3 returned to execution).
 
 ### GTHR — GATHER (모임)
 
@@ -425,6 +426,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 ## Related
 
+- [[security-weights-round-review]]
 - [[security-families]]
 - [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]
 - [[weight-setting-procedure-review]]
@@ -433,6 +435,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 ## Sources
 
+- [[SRC-2026-10-10-security-weights-round-decisions]] — [raw/conversations/2026-10-10-security-weights-round-decisions.md](../../raw/conversations/2026-10-10-security-weights-round-decisions.md); four narrow-rule steps rewritten, VIST 3 returned, forms to be split
 - [[SRC-2026-10-10-security-weights-round-setup]] — [raw/conversations/2026-10-10-security-weights-round-setup.md](../../raw/conversations/2026-10-10-security-weights-round-setup.md); the round set up
 - [[SRC-2026-10-10-security-weights-round-prompt-part1]] — [raw/documents/2026-10-10-security-weights-round-prompt-part1.md](../../raw/documents/2026-10-10-security-weights-round-prompt-part1.md); round prompt, Part 1
 - [[SRC-2026-10-10-security-weights-round-prompt-part2]] — [raw/documents/2026-10-10-security-weights-round-prompt-part2.md](../../raw/documents/2026-10-10-security-weights-round-prompt-part2.md); round prompt, Part 2

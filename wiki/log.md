@@ -848,3 +848,15 @@ The author chose the round's form on a decision page ([[SRC-2026-10-10-security-
 ## [2026-10-10] maintenance | Survey row labels corrected
 
 In `raw/sources.md` the note column of the six 2026-10-05 security-universe round rows named the wrong service, shifted by one row; the earlier correction of the Grok row the same day fixed one symptom only. All six now name their own service. The files and the attributions in [[security-universe-round-review]] were checked against the files' opening text and are unaffected.
+
+## [2026-10-10] ingest | The reason typeface identifies the speaker
+
+Imported [[SRC-2026-10-10-typeface-as-persona]] byte-for-byte from the institution (hash `29f63bed088860c2eba4e44cb916ef876248e6de`). It is one user message: if the text is the speech, the typeface is its manner and its speaker's persona, and the works are to reflect that. Added it to [[design-application]] beside the inherited rule, with a local reading marked `llm-proposed`. No typeface assignment changed. The institutional DEC-006 stays canonical.
+
+## [2026-10-10] ingest | The security-weights round
+
+Fourteen answers — Part 1 and Part 2 from ChatGPT, Claude, DeepSeek, Gemini, GLM, Grok and Qwen — were moved to `raw/surveys/2026-10-10-security-weights-round/`, registered and synthesised in [[security-weights-round-review]]: computed from their own blind values, the models put more weight on choosing than the author does in 15 of 22 securities, which decides which channel carries the decline; all seven name GTHR and five LSTN among the least credible splits; several steps are counted twice, switch sides or are missing; six models read VIST 3 as execution under the narrow rule. ChatGPT and DeepSeek agree on 78% of blind values and may not be independent. Five decisions are put to the author; nothing is adopted.
+
+## [2026-10-10] decision | The weights round's decisions
+
+The author decided on the round's five questions ([[SRC-2026-10-10-security-weights-round-decisions]]): the seven multi-branch definitions are split into forms, against the assistant's recommendation to narrow them; the assistant drafts revised step lists and a rule for keeping steps for review; WRIT 4, RECH 3, CHSE 5 and MAKE 4 are reworded to state that the other person reads the means and stay judgment, while VIST 3 returns to execution (VIST back to 0.47); importance is revisited only on the steps six or seven models disputed, after the steps are revised. Recorded on [[security-weights-round-review]] and [[security-definitions]].

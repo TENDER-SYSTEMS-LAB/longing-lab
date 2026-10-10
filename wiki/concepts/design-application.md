@@ -1,9 +1,10 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-15
+updated: 2026-10-10
 sources:
   - SRC-2026-09-14-typographic-voice
+  - SRC-2026-10-10-typeface-as-persona
   - SRC-2026-09-14-design-principles-draft
   - SRC-2026-09-04-longing-concept-brainstorm
   - SRC-2026-09-07-artwork-brainstorm-v2
@@ -28,6 +29,15 @@ How LONGING applies the institution's typographic rule and reads the unconfirmed
 | A person | Source Serif | Reports, essays, interpretation, commentary — long text a human wrote |
 
 Inconsolata is the base voice. Departure Mono was considered as a replacement for it and deliberately was not adopted as one; it carries the narrower role above. The canonical record is institutional: [DEC-006 — Typeface Identifies the Speaker](https://github.com/TENDER-SYSTEMS-LAB/tender-systems/blob/main/wiki/decisions/DEC-006-typographic-voice.md).
+
+**Inherited and user-originated (institutional), 2026-10-10.** The user stated why typeface matters, and directed that it reach the works:
+
+> "글꼴이 중요한 이유는 글이 말 그 자체라면 글꼴은 말투나 말하는 화자에 대한 페르소나 이기 때문이라고 생각한다.
+> 이 철학이 작품들에게 반영되어야 한다."
+
+If the text is the speech, the typeface is its manner and its speaker's persona. No assignment above changed.
+
+**Proposed reading for LONGING (`llm-proposed`).** In LONGING every word is authored fiction, so the typefaces cast the personas of that fiction. Inconsolata is an institution that publishes a number and does not explain it. Departure Mono is a market that is running right now. Source Serif is an analyst arguing a position under their own name. The test for a surface becomes stronger: it must sound like the persona in question, not only belong to the right class. This raises, but does not answer, whether named analysts with different temperaments — Vale, Kessler, Seo — need anything in type beyond one shared human face.
 
 **Unconfirmed at institutional level.** The ten TENDER SYSTEMS design principles, the three-layer scheme (institutional principles → per-work principles → implementation guide), and the conflict ordering are draft v0.1 in [Design Principles](https://github.com/TENDER-SYSTEMS-LAB/tender-systems/blob/main/wiki/concepts/design-principles.md). The user asked for an abstract layer that each work specialises; the draft answering that request ends with no user reply. What the user originated is the *layering intent*, not the ten principles.
 
@@ -104,6 +114,7 @@ A theoretical limit is never a licence for a broken screen. Draft principle 3 di
 ## Sources
 
 - [[SRC-2026-09-14-typographic-voice]] — [raw/conversations/2026-09-14-typographic-voice.md](../../raw/conversations/2026-09-14-typographic-voice.md); derivative import of the institutional original, byte-identical and registered under the same source ID. The user's acceptances are quoted from their own messages; candidate comparisons, the density table, the English formulation, and all glyph and licensing claims are the source assistant's unverified proposals
+- [[SRC-2026-10-10-typeface-as-persona]] — [raw/conversations/2026-10-10-typeface-as-persona.md](../../raw/conversations/2026-10-10-typeface-as-persona.md); derivative import of the institutional original, byte-identical and registered under the same source ID. One verbatim user message
 - [[SRC-2026-09-14-design-principles-draft]] — [raw/conversations/2026-09-14-design-principles-draft.md](../../raw/conversations/2026-09-14-design-principles-draft.md); derivative import, byte-identical. Only the request for an abstract layer is the user's; the ten principles, the three-layer table, and the conflict ordering are an unanswered draft
 - [[SRC-2026-09-04-longing-concept-brainstorm]] — [raw/conversations/2026-09-04-longing-concept-brainstorm.md](../../raw/conversations/2026-09-04-longing-concept-brainstorm.md)
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md)
