@@ -816,3 +816,11 @@ The author answered the questions on [[security-families]] ([[SRC-2026-10-10-sec
 ## [2026-10-10] decision | Legs for the mirror pairs and the ticker codes
 
 On a second decision page the author decided ([[SRC-2026-10-10-security-legs-and-tickers]]): the long/short idea is adopted as two legs of one contract, issued together and listed apart — TELL / LSTN, LERN / TCHR, ASK / HELP — with each family a fund of its legs and a lean/give ratio for analysts, not as opposite prices; the GIFT and IOU forms are listed apart, keeping decision 3; the ticker codes are accepted with DECIDE as DEC and ENTRUST as ETRS. Recorded on [[security-families]]; [[current-state]] is updated.
+
+## [2026-10-10] maintenance | Fund construction proposed
+
+At the user's request, the assistant proposed on [[security-families]], `llm-proposed`, how the funds are built: the leaning leg counts acts of leaning and the giving leg counts giving by people, so that the gap is reliance that formed no bond; equal leg weights as in the headline index; the lean/give ratio as leaning acts over human giving acts, published monthly in research; families without legs as securities of their own; a state's own measure multiplying its equally weighted carrier fund. Six questions are put to the author.
+
+## [2026-10-10] decision | How the funds are built
+
+On the fund-construction page the author decided ([[SRC-2026-10-10-fund-construction-decisions]]): a family fund follows its smaller leg, against the assistant's recommendation of equal weights; the lean/give ratio is leaning acts over giving acts by people, published monthly in research; a family without legs is a security of its own; a state's own measure multiplies its carrier fund; carriers are equally weighted. Recorded on [[security-families]]; [[current-state]] is updated. Open: how GIFT and IOU combine their two forms.

@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-fund-construction-decisions
   - SRC-2026-10-10-security-legs-and-tickers
   - SRC-2026-10-10-security-families-decisions
   - SRC-2026-10-10-security-universe-round-decisions-5-to-7
@@ -84,6 +85,36 @@ From a second decision page ([[SRC-2026-10-10-security-legs-and-tickers]]), `use
 
 The securities are now seventeen family funds and three states, with ten listed legs and forms beneath five families. Whether a family without legs is a fund of one security or a security of its own is not yet stated; the assistant reads it as a security of its own.
 
+## Fund construction — proposed, decided 2026-10-10
+
+`llm-proposed`, after the decisions above. Two rules already decided bound it: the headline index is equal-weighted so that prevalence does not enter both the fundamental and the weight, and float is outstanding BEARER BONDs, estimated and tagged `MODELED` ([[current-state]], Confirmed). The market's positioning already has real longs and shorts ([[loop-simulation]]), so the legs are named by act, never L and S.
+
+**What a leg measures.** A bond forms only where a leaning act meets a giving person. If the legs counted bonds, both legs of a pair would count the same bonds and always be equal. The assistant therefore proposes: the leaning leg (TELL, LERN, ASK) counts **acts of leaning**, whoever answers; the giving leg (LSTN, TCHR, HELP) counts **giving by people**. Where AI answers, leaning goes on while human giving falls; the difference is reliance that formed no bond, the side of the ledger where BLIND TRUST grows.
+
+| # | Question | Options | Assistant's recommendation |
+|---|---|---|---|
+| 1 | Leg weights in a family fund | equal; follow the smaller leg (only what met); decide later | **Equal**, as the headline index is |
+| 2 | Lean/give ratio | leaning acts ÷ human giving acts; price of one leg ÷ the other; bonds issued ÷ leaning acts | **Leaning acts ÷ human giving acts.** Above 1, leaning is unmet by people |
+| 3 | When the ratio is published | weekly beside prices; monthly in research | **Monthly in research**, as an analyst indicator like hostility |
+| 4 | Families without legs | a security of its own; a fund of one | **A security of its own** |
+| 5 | How a state's carrier fund and its own measure combine | fixed split; the measure multiplies the carrier fund; the measure alone moves and carriers set the level | **The measure multiplies the carrier fund.** If waiting vanishes while people still write, the price falls — the risk the round found |
+| 6 | Carrier weights in a state fund | equal; by how strongly each carrier makes the state | **Equal** |
+
+These were proposals; the author decided them the same day.
+
+**The author's decisions (2026-10-10)** ([[SRC-2026-10-10-fund-construction-decisions]]), `user-confirmed`; the options were the assistant's:
+
+| # | Decision |
+|---|---|
+| 1 | **A family fund follows its smaller leg** — only what met. Leaning that no person answers does not raise the fund. Against the assistant's recommendation of equal weights. |
+| 2 | **Lean/give ratio = leaning acts ÷ giving acts by people.** Above 1, leaning is unmet by people. |
+| 3 | **Published monthly in research**, as an indicator for analysts. |
+| 4 | **A family without legs is a security of its own.** "Fund" is used only for a family with legs or forms. |
+| 5 | **A state's own measure multiplies its carrier fund**, so a state that vanishes while its carriers hold takes the price down. |
+| 6 | **Carriers are equally weighted** in a state fund. |
+
+The assistant's reading, `llm-proposed`: with decision 1 the fund moves with the bonds that actually formed, and the unmet part shows only in the ratio — the fund and the ratio together say what was met and what was not. Whether GIFT and IOU, which have forms rather than legs, follow the smaller form or are equally weighted is not yet decided.
+
 ## The axis of abstraction
 
 In [[romance-ontology]], every practice is an **issue**: the one who leans issues a BEARER BOND to the one leaned on, and attention is the principal ([[DEC-008-bearer-bond-is-perpetual]]). The assistant therefore groups practices by **what one person leans on the other for**. Medium, body, place, which side one stands on, and the occasion are attributes of a family, not separate securities — the same move the author made when practices were defined by act.
@@ -148,6 +179,7 @@ The proposal follows the names the work already uses — LETTER, BLIND TRUST —
 
 ## Related
 
+- [[loop-simulation]]
 - [[security-universe]]
 - [[security-universe-round-review]]
 - [[romance-ontology]]
@@ -158,6 +190,7 @@ The proposal follows the names the work already uses — LETTER, BLIND TRUST —
 
 ## Sources
 
+- [[SRC-2026-10-10-fund-construction-decisions]] — [raw/conversations/2026-10-10-fund-construction-decisions.md](../../raw/conversations/2026-10-10-fund-construction-decisions.md); fund construction decided
 - [[SRC-2026-10-10-security-legs-and-tickers]] — [raw/conversations/2026-10-10-security-legs-and-tickers.md](../../raw/conversations/2026-10-10-security-legs-and-tickers.md); legs, family funds, the lean/give ratio, ticker codes
 - [[SRC-2026-10-10-security-families-decisions]] — [raw/conversations/2026-10-10-security-families-decisions.md](../../raw/conversations/2026-10-10-security-families-decisions.md); the families accepted, names and tickers, the long/short idea
 - [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] — [raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md](../../raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md); the twenty provisional candidates and the instruction to abstract, merge and name
