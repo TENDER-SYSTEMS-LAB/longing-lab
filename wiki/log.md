@@ -824,3 +824,11 @@ At the user's request, the assistant proposed on [[security-families]], `llm-pro
 ## [2026-10-10] decision | How the funds are built
 
 On the fund-construction page the author decided ([[SRC-2026-10-10-fund-construction-decisions]]): a family fund follows its smaller leg, against the assistant's recommendation of equal weights; the lean/give ratio is leaning acts over giving acts by people, published monthly in research; a family without legs is a security of its own; a state's own measure multiplies its carrier fund; carriers are equally weighted. Recorded on [[security-families]]; [[current-state]] is updated. Open: how GIFT and IOU combine their two forms.
+
+## [2026-10-10] maintenance | Draft definitions and steps for the weights
+
+With the securities chosen, the assistant began the task the author set on 2026-10-01 — importance-weighted execution and judgment shares, set by the author and checked by LLMs — and drafted [[security-definitions]], `llm-proposed`: a definition sentence and four to six steps for each of the twenty-two weighted securities (twelve families, six legs, four forms), each step classed by the decided test, with equal-count pairs as a reference. Four questions are put to the author, including how GIFT and IOU combine their forms.
+
+## [2026-10-10] decision | The importance of each step set
+
+The author set the importance of every step of the twenty-two weighted securities ([[SRC-2026-10-10-security-weights-decisions]]); with the drafted classes, execution shares run from 0.20 (INTR, TELL) to 0.76 (GTHR). GIFT and IOU weight their two forms equally. CARE step 5 is rewritten as a change over time. A memo on RECH led the author to put the classification rule itself — that manner is never judgment — to review; opinions are to be gathered on TRET's Korean name. Recorded on [[security-definitions]] and [[security-families]]; [[current-state]] is updated. The author also asked that every task description state why the task is needed.

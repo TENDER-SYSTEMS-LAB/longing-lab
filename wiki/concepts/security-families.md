@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-weights-decisions
   - SRC-2026-10-10-fund-construction-decisions
   - SRC-2026-10-10-security-legs-and-tickers
   - SRC-2026-10-10-security-families-decisions
@@ -113,7 +114,7 @@ These were proposals; the author decided them the same day.
 | 5 | **A state's own measure multiplies its carrier fund**, so a state that vanishes while its carriers hold takes the price down. |
 | 6 | **Carriers are equally weighted** in a state fund. |
 
-The assistant's reading, `llm-proposed`: with decision 1 the fund moves with the bonds that actually formed, and the unmet part shows only in the ratio — the fund and the ratio together say what was met and what was not. Whether GIFT and IOU, which have forms rather than legs, follow the smaller form or are equally weighted is not yet decided.
+The assistant's reading, `llm-proposed`: with decision 1 the fund moves with the bonds that actually formed, and the unmet part shows only in the ratio — the fund and the ratio together say what was met and what was not. Whether GIFT and IOU, which have forms rather than legs, follow the smaller form or are equally weighted was decided later the same day: **equally weighted** ([[SRC-2026-10-10-security-weights-decisions]]).
 
 ## The axis of abstraction
 
@@ -179,6 +180,7 @@ The proposal follows the names the work already uses — LETTER, BLIND TRUST —
 
 ## Related
 
+- [[security-definitions]]
 - [[loop-simulation]]
 - [[security-universe]]
 - [[security-universe-round-review]]
@@ -190,6 +192,7 @@ The proposal follows the names the work already uses — LETTER, BLIND TRUST —
 
 ## Sources
 
+- [[SRC-2026-10-10-security-weights-decisions]] — [raw/conversations/2026-10-10-security-weights-decisions.md](../../raw/conversations/2026-10-10-security-weights-decisions.md); GIFT and IOU forms equally weighted; TRET's Korean name reopened
 - [[SRC-2026-10-10-fund-construction-decisions]] — [raw/conversations/2026-10-10-fund-construction-decisions.md](../../raw/conversations/2026-10-10-fund-construction-decisions.md); fund construction decided
 - [[SRC-2026-10-10-security-legs-and-tickers]] — [raw/conversations/2026-10-10-security-legs-and-tickers.md](../../raw/conversations/2026-10-10-security-legs-and-tickers.md); legs, family funds, the lean/give ratio, ticker codes
 - [[SRC-2026-10-10-security-families-decisions]] — [raw/conversations/2026-10-10-security-families-decisions.md](../../raw/conversations/2026-10-10-security-families-decisions.md); the families accepted, names and tickers, the long/short idea
