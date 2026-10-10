@@ -57,7 +57,7 @@ Chosen on a decision page the assistant wrote ([[SRC-2026-10-10-security-univers
 - *Added:* sitting with someone who is grieving; making music or singing together; praying with someone; playing a game with someone; forgiving or reconciling; asking a colleague for help, covering a shift; leaving a key with or watching a neighbour's home; vouching for someone with your own name; keeping vigil with the dying; minding each other's children; letting a child go out on their own; walking someone home; checking on someone who lives alone; restoring conversation with someone losing speech or hearing; commissioning something from its maker; studying or working through a question together; working a neighbour's field in turn; sending money home; keeping a secret; talking with someone about what you no longer do together.
 - *Held:* bargaining over a price in person; hosting a traveller; interpreting or practising a language with someone; asking someone out, telling someone you love them first; finding others with the same rare condition.
 
-The instruction to merge may reopen decision 3 of 2026-10-10, which kept both sides of the mirror pairs; the assistant reads it so, and that reading is not a decision.
+The instruction to merge may reopen decision 3 of 2026-10-10, which kept both sides of the mirror pairs; the assistant reads it so, and that reading is not a decision. The assistant's first analysis, merging the fifty into seventeen families, is on [[security-families]], `llm-proposed`.
 
 | # | Question | Decision |
 |---|---|---|
@@ -168,6 +168,7 @@ Practices 4, 8, 10, 28, 29 and 30 have strong arrival phases; 21 and 29 have a r
 
 ## Related
 
+- [[security-families]]
 - [[security-universe-round-review]]
 - [[romance-ontology]]
 - [[DEC-016-securities-chosen-top-down]]
