@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-10-05
+updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-security-universe-round-decisions
   - SRC-2026-10-05-state-securities-after-the-round
   - SRC-2026-10-05-security-universe-method
   - SRC-2026-10-05-security-universe-round-prompt
@@ -29,9 +30,22 @@ From the assistant's questions ([[SRC-2026-10-05-security-universe-method]]), `u
 | 1 | Selection method | **Accepted:** the four tests and the three coverage rules below. |
 | 2 | Definition rule | **By act.** Medium, body and place are attributes or variants. LETTER, as the assistant reads it, becomes the handwritten form of "writing to someone in one's own words". |
 | 3 | Count | **No limit and no absolute number.** The author's condition, `user-originated`: each security should be easy for the audience to understand and meaningful inside the work. |
-| 4 | How to choose | **Both:** the list is widened by a round of LLM opinions, then the author chooses. The prompt is registered before dispatch as [[SRC-2026-10-05-security-universe-round-prompt]]. |
+| 4 | How to choose | **Both:** the list is widened by a round of LLM opinions, then the author chooses. The prompt is registered before dispatch as [[SRC-2026-10-05-security-universe-round-prompt]]; six responses are synthesised in [[security-universe-round-review]]. |
 | 5 | Waiting and serendipity as state-securities | **Needs further explanation** before the author decides. After the explanation: **decided after the LLM round** ([[SRC-2026-10-05-state-securities-after-the-round]]). The author added an idea, `user-originated`, not adopted: making state-securities somewhat like an ETF — a fund that holds the practices behind a state. |
 
+
+## The author's decisions on the round (2026-10-10)
+
+On decisions 1 to 4 of [[security-universe-round-review]] ([[SRC-2026-10-10-security-universe-round-decisions]]), `user-confirmed`; the options were the assistant's:
+
+| # | Question | Decision |
+|---|---|---|
+| 1 | "In one's own words" in 4 and 5 | **Kept as written.** This stands in tension with the 2026-10-04 rule that origin lies in choosing, sending and standing behind words, not in composing them ([[SRC-2026-10-04-romance-round-decisions]]). The tension is recorded and put back to the author; neither the rule nor the wording is changed. |
+| 2 | Recasts | **Reviewed one by one.** Recast: 26 → "Making something for someone"; 22 → "Exchanging words with a stranger in passing"; 28 → "Asking a question of people you don't know"; 8 → "Reaching out for no reason". Kept: 17, 10, and 7, which the author reads as the verb "to remember", `user-originated`. |
+| 3 | Mirror pairs | **Both sides kept** for 13/14, 3/19, 6/26, 12/27 and 23/24. |
+| 4 | 29 | **Kept**, for arrival coverage. |
+
+Decisions 5 to 7 — new candidates, coverage gaps and states — are still open.
 
 ## Constraints already decided
 
@@ -95,7 +109,7 @@ Thirty act-defined candidates. Balance is where the practice mostly issues; chan
 | 5 | Apologising in one's own words | understanding, trust | − substitution: drafted apologies | capacity |
 | 6 | Choosing a gift for someone | love | − substitution: recommendation, registries | practice |
 | 7 | Remembering someone's day unprompted | love | − device: reminders | capacity |
-| 8 | Calling someone without a reason | love | + telephone, mobile; − asynchronous messages | practice |
+| 8 | Reaching out for no reason (was: calling someone without a reason) | love | + telephone, mobile; − asynchronous messages | practice |
 | 9 | Visiting someone (place as attribute) | love, belief | + transport; − video calls | occasion |
 | 10 | Talking until late | understanding | + mobile, messaging; − feeds | practice |
 | 11 | Introducing two people | belief, trust | − substitution: matching platforms | occasion |
@@ -109,13 +123,13 @@ Thirty act-defined candidates. Balance is where the practice mostly issues; chan
 | 19 | Listening to someone's trouble | understanding | − AI companions → BLIND TRUST | balance |
 | 20 | Passing down a family story | understanding, love | − archives, generated memory | sense |
 | 21 | Reading aloud to someone | love | − audio; + restoration of voice | practice |
-| 22 | Small talk at a counter | belief | − device: self-service | occasion |
+| 22 | Exchanging words with a stranger in passing (was: small talk at a counter) | belief | − device: self-service | occasion |
 | 23 | Treating someone, "next time it's on me" | trust, love | − exact settlement: split-payment apps | practice |
 | 24 | Lending to a friend informally | trust | − credit services | occasion |
 | 25 | Sharing a meal arranged together | belief, love | − delivery, individual schedules | practice |
-| 26 | Making something by hand for someone | love | − generated content | capacity |
+| 26 | Making something for someone (was: by hand) | love | − generated content | capacity |
 | 27 | Helping someone move or carry | trust | − services | occasion |
-| 28 | Asking a question of strangers in a public forum | belief | + social web; − AI answers | occasion |
+| 28 | Asking a question of people you don't know (was: of strangers in a public forum) | belief | + social web; − AI answers | occasion |
 | 29 | Keeping a friendship at a distance | love, belief | + messaging, video, social web; restoration | practice |
 | 30 | Joining a gathering of people who share an interest | belief | + social web; − personalised feeds | occasion |
 
@@ -133,6 +147,7 @@ Practices 4, 8, 10, 28, 29 and 30 have strong arrival phases; 21 and 29 have a r
 
 ## Related
 
+- [[security-universe-round-review]]
 - [[romance-ontology]]
 - [[DEC-016-securities-chosen-top-down]]
 - [[DEC-005-ledger-resolution-scales-with-universe]]
@@ -144,6 +159,7 @@ Practices 4, 8, 10, 28, 29 and 30 have strong arrival phases; 21 and 29 have a r
 
 ## Sources
 
+- [[SRC-2026-10-10-security-universe-round-decisions]] — [raw/conversations/2026-10-10-security-universe-round-decisions.md](../../raw/conversations/2026-10-10-security-universe-round-decisions.md); round decisions 1–4: wording kept, four recasts, pairs and 29 kept
 - [[SRC-2026-10-05-state-securities-after-the-round]] — [raw/conversations/2026-10-05-state-securities-after-the-round.md](../../raw/conversations/2026-10-05-state-securities-after-the-round.md); state-securities explained; decided after the round; the ETF idea
 - [[SRC-2026-10-05-security-universe-method]] — [raw/conversations/2026-10-05-security-universe-method.md](../../raw/conversations/2026-10-05-security-universe-method.md); method accepted, definition by act, no fixed count, a round then the author's choice
 - [[SRC-2026-10-05-security-universe-round-prompt]] — [raw/documents/2026-10-05-security-universe-round-prompt.md](../../raw/documents/2026-10-05-security-universe-round-prompt.md); the LLM round's prompt, not yet dispatched

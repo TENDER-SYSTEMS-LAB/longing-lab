@@ -792,3 +792,11 @@ The author decided on [[security-universe]] ([[SRC-2026-10-05-security-universe-
 ## [2026-10-05] decision | State-securities decided after the round
 
 After the assistant explained state-securities — conditions without steps priced through the practices that make them possible, with the risks of double counting, resemblance to an index, nearness to emotion tickers and a missing combination rule — the author chose to decide waiting and serendipity after the LLM round ([[SRC-2026-10-05-state-securities-after-the-round]]). The author's idea of making them somewhat like an ETF is recorded on [[security-universe]] as `user-originated`, not adopted.
+
+## [2026-10-05] ingest | The security-universe round
+
+Six responses to [[SRC-2026-10-05-security-universe-round-prompt]] — ChatGPT, Claude, DeepSeek, Gemini, GLM and Grok — were moved to `raw/surveys/2026-10-05-security-universe-round/`, registered and synthesised in [[security-universe-round-review]]: "in one's own words" in candidates 4 and 5 conflicts with the decided origin rule; several phrasings break definition by act; five mirror pairs; about 180 new candidates with twenty convergent themes; restoration the thinnest channel, trust fed mostly by declining practices and no channel for non-technological rises; and two opposite risks for state-securities, one of which the ETF idea meets directly. Seven decisions are put to the author; nothing is adopted.
+
+## [2026-10-10] decision | The round's first decisions
+
+The author answered decisions 1 to 4 of [[security-universe-round-review]] ([[SRC-2026-10-10-security-universe-round-decisions]]): "in one's own words" in candidates 4 and 5 is kept, in tension with the 2026-10-04 origin rule, which is put back to the author; 26, 22, 28 and 8 are recast by act; 17, 10 and 7 are kept, the author reading 7 as the verb "to remember"; mirror pairs keep both sides; 29 is kept. Recorded on [[security-universe]]; [[current-state]] gains a resume point. The Grok row in `raw/sources.md` was corrected from "GLM response" to "Grok response". Decisions 5 to 7 are open.
