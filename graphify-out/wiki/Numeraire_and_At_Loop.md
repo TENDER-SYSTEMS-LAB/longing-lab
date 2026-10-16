@@ -36,15 +36,15 @@
 - [Reserve Instruments](Reserve_Instruments.md) (11 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (11 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (9 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (7 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (7 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (7 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (7 shared connections)
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (6 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (6 shared connections)
-- [Secular Bear Market (2)](Secular_Bear_Market_2.md) (6 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (6 shared connections)
+- [DEC-007 Loop Findings](DEC-007_Loop_Findings.md) (6 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (5 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (4 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (4 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (3 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (3 shared connections)
 
 ## Source Files
 

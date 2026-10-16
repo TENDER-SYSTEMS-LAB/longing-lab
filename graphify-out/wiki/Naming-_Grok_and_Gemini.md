@@ -36,8 +36,8 @@
 - [Japanese Publisher Shortlist](Japanese_Publisher_Shortlist.md) (16 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (7 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (6 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (6 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (6 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (6 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (6 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (1 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (1 shared connections)
 

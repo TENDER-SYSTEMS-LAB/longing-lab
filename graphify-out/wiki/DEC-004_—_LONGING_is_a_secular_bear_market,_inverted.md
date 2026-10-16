@@ -47,7 +47,7 @@
 - [DEC-014 — Restoration counts as arrival, and substitution counts judgment](DEC-014_—_Restoration_counts_as_arrival,_and_substitution_counts_judgment.md) `EXTRACTED`
 - [Pricing Model](Pricing_Model.md) `EXTRACTED`
 - [Technology Waves — arrival raises what substitution later takes](Technology_Waves_—_arrival_raises_what_substitution_later_takes.md) `EXTRACTED`
-- [Data Sources](Data_Sources.md) `EXTRACTED`
+- Data Sources `EXTRACTED`
 - DEC-007 — STANDARD RETURN is the numeraire `EXTRACTED`
 - DEC-008 — A BEARER BOND is perpetual, and what it measures is attention `EXTRACTED`
 - Index Architecture `EXTRACTED`

@@ -35,14 +35,14 @@
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (16 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (14 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (12 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (7 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (7 shared connections)
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (6 shared connections)
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (5 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (5 shared connections)
 - [First Critic Reviews](First_Critic_Reviews.md) (4 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (4 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (4 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (3 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (3 shared connections)
 - [Reflection (사유)](Reflection_사유.md) (3 shared connections)
 
 ## Source Files

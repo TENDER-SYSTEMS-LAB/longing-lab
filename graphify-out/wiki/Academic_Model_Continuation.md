@@ -21,13 +21,13 @@
 - [Analyst Personas](Analyst_Personas.md) (2 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Data Sources](Data_Sources.md) (1 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (1 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (1 shared connections)
 - [Prior Art](Prior_Art.md) (1 shared connections)
 - [Artwork Brainstorm](Artwork_Brainstorm.md) (1 shared connections)
 - [Backtesting Datasets Page](Backtesting_Datasets_Page.md) (1 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (1 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (1 shared connections)
 
 ## Source Files
 

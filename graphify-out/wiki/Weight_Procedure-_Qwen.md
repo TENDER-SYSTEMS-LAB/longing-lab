@@ -39,7 +39,7 @@
 - [Weight Procedure and Exposures](Weight_Procedure_and_Exposures.md) (2 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (2 shared connections)
 - [Korean Romance Study Notes](Korean_Romance_Study_Notes.md) (1 shared connections)
-- [Exposure Sources Review (2)](Exposure_Sources_Review_2.md) (1 shared connections)
+- [Exposure Gaps and Proposals](Exposure_Gaps_and_Proposals.md) (1 shared connections)
 
 ## Source Files
 

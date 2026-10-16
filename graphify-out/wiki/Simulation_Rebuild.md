@@ -30,15 +30,15 @@
 ## Relationships
 
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (5 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (4 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (4 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (4 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (4 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (3 shared connections)
 - [Execution and Judgment Weights](Execution_and_Judgment_Weights.md) (3 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (3 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (3 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (3 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (2 shared connections)
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (1 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (1 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (1 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
 

@@ -32,12 +32,12 @@
 - [Prior Art](Prior_Art.md) (7 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (3 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (3 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (2 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (1 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (2 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (2 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (1 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (1 shared connections)
 - [Pricing v2 Review: Qwen](Pricing_v2_Review-_Qwen.md) (1 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (1 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (1 shared connections)
 - [Academic Survey Scope](Academic_Survey_Scope.md) (1 shared connections)
 
 ## Source Files

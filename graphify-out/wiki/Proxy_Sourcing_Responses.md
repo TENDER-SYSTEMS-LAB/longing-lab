@@ -33,14 +33,14 @@
 
 ## Relationships
 
-- [Technology Waves and Simulation (3)](Technology_Waves_and_Simulation_3.md) (10 shared connections)
+- [Proxy Sourcing and WDI Spine](Proxy_Sourcing_and_WDI_Spine.md) (10 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (9 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (8 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (8 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (3 shared connections)
-- [Data Sources](Data_Sources.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (8 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (8 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (3 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (1 shared connections)
 - [Japanese Publisher Shortlist](Japanese_Publisher_Shortlist.md) (1 shared connections)
 
 ## Source Files

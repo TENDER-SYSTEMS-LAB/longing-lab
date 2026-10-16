@@ -36,14 +36,14 @@
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (11 shared connections)
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (11 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (9 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (8 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (8 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (6 shared connections)
 - [Name, Form and Delivery](Name,_Form_and_Delivery.md) (6 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (5 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (5 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (5 shared connections)
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (5 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (4 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (4 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (4 shared connections)
 - [Simulation Rebuild](Simulation_Rebuild.md) (3 shared connections)
 
 ## Source Files

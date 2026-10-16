@@ -23,17 +23,17 @@
 
 ## Relationships
 
-- [Security Universe Round (4)](Security_Universe_Round_4.md) (3 shared connections)
-- [Universe Round: Claude and GLM (2)](Universe_Round-_Claude_and_GLM_2.md) (3 shared connections)
-- [Universe Round: ChatGPT (3)](Universe_Round-_ChatGPT_3.md) (2 shared connections)
-- [Universe Round: ChatGPT (2)](Universe_Round-_ChatGPT_2.md) (2 shared connections)
-- [Universe Round: Claude and GLM](Universe_Round-_Claude_and_GLM.md) (2 shared connections)
+- [Universe Round Review](Universe_Round_Review.md) (3 shared connections)
+- [Universe Round: Claude](Universe_Round-_Claude.md) (3 shared connections)
+- [Game Candidates](Game_Candidates.md) (2 shared connections)
+- [Music Candidates](Music_Candidates.md) (2 shared connections)
+- [Universe Round: GLM](Universe_Round-_GLM.md) (2 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Security Universe Round](Security_Universe_Round.md) (1 shared connections)
-- [Security Universe Round (2)](Security_Universe_Round_2.md) (1 shared connections)
-- [Universe Round: Claude and GLM (3)](Universe_Round-_Claude_and_GLM_3.md) (1 shared connections)
-- [Security Universe Round (5)](Security_Universe_Round_5.md) (1 shared connections)
-- [Security Universe Round (3)](Security_Universe_Round_3.md) (1 shared connections)
+- [Universe Round: Grok](Universe_Round-_Grok.md) (1 shared connections)
+- [Universe Round: DeepSeek](Universe_Round-_DeepSeek.md) (1 shared connections)
+- [Prayer Candidates](Prayer_Candidates.md) (1 shared connections)
+- [Bargaining Candidates](Bargaining_Candidates.md) (1 shared connections)
+- [Universe Round: Gemini](Universe_Round-_Gemini.md) (1 shared connections)
 - [Reflection (사유)](Reflection_사유.md) (1 shared connections)
 
 ## Source Files

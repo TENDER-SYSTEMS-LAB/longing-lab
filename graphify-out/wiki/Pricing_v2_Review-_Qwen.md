@@ -35,15 +35,15 @@
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (3 shared connections)
 - [Dataset Backtesting Research](Dataset_Backtesting_Research.md) (3 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (2 shared connections)
-- [Factor Architecture Consensus (2)](Factor_Architecture_Consensus_2.md) (2 shared connections)
+- [Factor Review Consensus](Factor_Review_Consensus.md) (2 shared connections)
 - [Security Universe Selection](Security_Universe_Selection.md) (1 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (1 shared connections)
 - [Cross-domain Model Survey](Cross-domain_Model_Survey.md) (1 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (1 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (1 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (1 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (1 shared connections)
 
 ## Source Files
 

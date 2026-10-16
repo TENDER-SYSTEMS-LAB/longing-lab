@@ -33,12 +33,12 @@
 
 ## Relationships
 
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (2 shared connections)
 - [System Trust Study](System_Trust_Study.md) (1 shared connections)
 - [Modernization and Credit History](Modernization_and_Credit_History.md) (1 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (1 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (1 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
 - [What Modernization Took](What_Modernization_Took.md) (1 shared connections)
 

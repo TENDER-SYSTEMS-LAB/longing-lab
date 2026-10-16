@@ -34,16 +34,16 @@
 ## Relationships
 
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (14 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (14 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (14 shared connections)
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (11 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (10 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (9 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (9 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (9 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (8 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (7 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (7 shared connections)
 - [Academic Recovered Excerpts](Academic_Recovered_Excerpts.md) (7 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (6 shared connections)
-- [Data Sources](Data_Sources.md) (6 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (6 shared connections)
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (6 shared connections)
 
 ## Source Files

@@ -33,18 +33,18 @@
 
 ## Relationships
 
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (12 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (12 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (12 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (10 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (10 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (8 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (8 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (8 shared connections)
+- [Attribution Order and Joint](Attribution_Order_and_Joint.md) (8 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (8 shared connections)
 - [Design and Typography](Design_and_Typography.md) (8 shared connections)
 - [Security Definitions](Security_Definitions.md) (7 shared connections)
 - [Wiki Schema](Wiki_Schema.md) (7 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (7 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (6 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (7 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (6 shared connections)
 
 ## Source Files
 

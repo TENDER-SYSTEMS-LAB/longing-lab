@@ -58,7 +58,7 @@
 - [State History — earlier resume points](State_History_—_earlier_resume_points.md) `EXTRACTED`
 - [DEC-004 — LONGING is a secular bear market, inverted](DEC-004_—_LONGING_is_a_secular_bear_market,_inverted.md) `EXTRACTED`
 - Attribution Ledger `EXTRACTED`
-- [Data Sources](Data_Sources.md) `EXTRACTED`
+- Data Sources `EXTRACTED`
 - Index Architecture `EXTRACTED`
 - LETTER Practice Dynamics `EXTRACTED`
 - LONGING RESEARCH Wiki Index `EXTRACTED`

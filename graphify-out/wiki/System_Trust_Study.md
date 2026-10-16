@@ -40,7 +40,7 @@
 - [Affective Polarization Study](Affective_Polarization_Study.md) (1 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (1 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (1 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
 

@@ -17,14 +17,14 @@
 - [Three Markets and Naming](Three_Markets_and_Naming.md) — 59 nodes
 - [Factor Identification Round 4](Factor_Identification_Round_4.md) — 59 nodes
 - [Naming: Grok and Gemini](Naming-_Grok_and_Gemini.md) — 58 nodes
-- [Security Families](Security_Families.md) — 56 nodes
+- [Security Families and Rules](Security_Families_and_Rules.md) — 56 nodes
 - [Exposure Sources: Claude v2](Exposure_Sources-_Claude_v2.md) — 52 nodes
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) — 51 nodes
 - [System Trust Study](System_Trust_Study.md) — 50 nodes
 - [Design and Typography](Design_and_Typography.md) — 48 nodes
 - [Modernization and Credit History](Modernization_and_Credit_History.md) — 48 nodes
 - [World Rules and LETTER](World_Rules_and_LETTER.md) — 46 nodes
-- [Information Quality and Texture](Information_Quality_and_Texture.md) — 46 nodes
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) — 46 nodes
 - [Security Definitions](Security_Definitions.md) — 46 nodes
 - [First Critic Reviews](First_Critic_Reviews.md) — 43 nodes
 - [Index Architecture and Units](Index_Architecture_and_Units.md) — 42 nodes
@@ -34,27 +34,27 @@
 - [What Modernization Took](What_Modernization_Took.md) — 40 nodes
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) — 39 nodes
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) — 39 nodes
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) — 38 nodes
-- [Exposure Sources: Device Data](Exposure_Sources-_Device_Data.md) — 36 nodes
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) — 38 nodes
+- [Exposure Sources: Gemini](Exposure_Sources-_Gemini.md) — 36 nodes
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) — 35 nodes
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) — 35 nodes
+- [Identification Review and Gates](Identification_Review_and_Gates.md) — 35 nodes
 - [Wiki Entry Points](Wiki_Entry_Points.md) — 32 nodes
 - [Weight Procedure: Qwen](Weight_Procedure-_Qwen.md) — 32 nodes
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) — 31 nodes
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) — 31 nodes
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) — 31 nodes
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) — 31 nodes
 - [Pricing Model v2 Blocks](Pricing_Model_v2_Blocks.md) — 31 nodes
 - [Artwork Brainstorm](Artwork_Brainstorm.md) — 30 nodes
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) — 30 nodes
-- [Security Families (2)](Security_Families_2.md) — 30 nodes
+- [Family Decisions and Legs](Family_Decisions_and_Legs.md) — 30 nodes
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) — 29 nodes
 - [Current State and Decisions](Current_State_and_Decisions.md) — 29 nodes
 - [Prior Art](Prior_Art.md) — 28 nodes
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) — 28 nodes
+- [Attribution Order and Joint](Attribution_Order_and_Joint.md) — 28 nodes
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) — 27 nodes
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) — 27 nodes
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) — 27 nodes
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) — 26 nodes
-- [Simulation Harness v1 Code](Simulation_Harness_v1_Code.md) — 25 nodes
+- [Romance Analysis](Romance_Analysis.md) — 27 nodes
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) — 27 nodes
+- [Loop Simulation](Loop_Simulation.md) — 26 nodes
+- [Simulation Harness v1–v2 Code](Simulation_Harness_v1–v2_Code.md) — 25 nodes
 - [Price Formation Dialogue](Price_Formation_Dialogue.md) — 25 nodes
 - [Pricing v2 Review: Qwen](Pricing_v2_Review-_Qwen.md) — 25 nodes
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) — 25 nodes
@@ -62,79 +62,79 @@
 - [Identification Experiment v2 Code](Identification_Experiment_v2_Code.md) — 24 nodes
 - [Secular Bear Market](Secular_Bear_Market.md) — 24 nodes
 - [Security Universe Selection](Security_Universe_Selection.md) — 24 nodes
-- [Listing Lifecycle and Gaps (2)](Listing_Lifecycle_and_Gaps_2.md) — 23 nodes
+- [Concepts Above Securities](Concepts_Above_Securities.md) — 23 nodes
 - [Japanese Publisher Shortlist](Japanese_Publisher_Shortlist.md) — 23 nodes
 - [Factor Architecture v2](Factor_Architecture_v2.md) — 23 nodes
 - [Simulation Rebuild](Simulation_Rebuild.md) — 22 nodes
 - [State-securities](State-securities.md) — 22 nodes
 - [Failure Profile: Qwen](Failure_Profile-_Qwen.md) — 22 nodes
 - [Academic Model Survey](Academic_Model_Survey.md) — 21 nodes
-- [Attribution Ledger Decisions (2)](Attribution_Ledger_Decisions_2.md) — 21 nodes
+- [Hearts Cooling Receipt](Hearts_Cooling_Receipt.md) — 21 nodes
 - [Reflection (사유)](Reflection_사유.md) — 21 nodes
 - [Failure Profile Review](Failure_Profile_Review.md) — 21 nodes
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) — 21 nodes
+- [Identification Findings and History](Identification_Findings_and_History.md) — 21 nodes
 - [Pricing v2 Three Layers](Pricing_v2_Three_Layers.md) — 21 nodes
 - [Failure Profile Prompt](Failure_Profile_Prompt.md) — 21 nodes
 - [Exposure Sources: DeepSeek v2](Exposure_Sources-_DeepSeek_v2.md) — 21 nodes
 - [Pricing v2 Framework](Pricing_v2_Framework.md) — 20 nodes
-- [Romance Abstraction Dialogue](Romance_Abstraction_Dialogue.md) — 20 nodes
+- [Circe and the Sense of Loss](Circe_and_the_Sense_of_Loss.md) — 20 nodes
 - [DEC-016 Top-down Securities](DEC-016_Top-down_Securities.md) — 20 nodes
 - [Cross-domain Model Survey](Cross-domain_Model_Survey.md) — 20 nodes
-- [Exposure Sources: Device Data (2)](Exposure_Sources-_Device_Data_2.md) — 20 nodes
-- [Data Sources](Data_Sources.md) — 19 nodes
-- [Exposure Sources Review](Exposure_Sources_Review.md) — 19 nodes
-- [Exposure Sources Review (2)](Exposure_Sources_Review_2.md) — 19 nodes
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) — 18 nodes
-- [Romance Abstraction Dialogue (2)](Romance_Abstraction_Dialogue_2.md) — 18 nodes
+- [Exposure Sources: ChatGPT](Exposure_Sources-_ChatGPT.md) — 20 nodes
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) — 19 nodes
+- [Exposure Existence Check](Exposure_Existence_Check.md) — 19 nodes
+- [Exposure Gaps and Proposals](Exposure_Gaps_and_Proposals.md) — 19 nodes
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) — 18 nodes
+- [Romance Abstraction Dialogue](Romance_Abstraction_Dialogue.md) — 18 nodes
 - [Identification Gates Code](Identification_Gates_Code.md) — 17 nodes
 - [Factor Count and Resolution](Factor_Count_and_Resolution.md) — 17 nodes
 - [Name, Form and Delivery](Name,_Form_and_Delivery.md) — 17 nodes
-- [Data Sources (2)](Data_Sources_2.md) — 17 nodes
-- [Technology Waves and Simulation (3)](Technology_Waves_and_Simulation_3.md) — 17 nodes
+- [AI Restoration Cases](AI_Restoration_Cases.md) — 17 nodes
+- [Proxy Sourcing and WDI Spine](Proxy_Sourcing_and_WDI_Spine.md) — 17 nodes
 - [Failure Profile: GLM](Failure_Profile-_GLM.md) — 16 nodes
 - [Universe Round: ChatGPT](Universe_Round-_ChatGPT.md) — 16 nodes
 - [Weights Round: GLM and ChatGPT](Weights_Round-_GLM_and_ChatGPT.md) — 16 nodes
-- [Simulation Harness v3 Code](Simulation_Harness_v3_Code.md) — 15 nodes
-- [Factor Architecture Consensus](Factor_Architecture_Consensus.md) — 15 nodes
+- [Simulation Harness v4 Code](Simulation_Harness_v4_Code.md) — 15 nodes
+- [Pricing v2 Factor Families](Pricing_v2_Factor_Families.md) — 15 nodes
 - [Failure Profile Sets](Failure_Profile_Sets.md) — 15 nodes
 - [Market Floor and Trust](Market_Floor_and_Trust.md) — 15 nodes
 - [Pricing v2 Review: Grok](Pricing_v2_Review-_Grok.md) — 14 nodes
 - [Pricing v2 Review: GLM](Pricing_v2_Review-_GLM.md) — 14 nodes
 - [Failure Profile: ChatGPT](Failure_Profile-_ChatGPT.md) — 14 nodes
 - [Failure Profile: Gemini and Grok](Failure_Profile-_Gemini_and_Grok.md) — 14 nodes
-- [Simulation Harness v3 Code (2)](Simulation_Harness_v3_Code_2.md) — 13 nodes
-- [Simulation Harness v4 Code](Simulation_Harness_v4_Code.md) — 13 nodes
-- [Technology Waves and Simulation (4)](Technology_Waves_and_Simulation_4.md) — 13 nodes
-- [Security Universe Round](Security_Universe_Round.md) — 13 nodes
-- [Universe Round: Claude and GLM](Universe_Round-_Claude_and_GLM.md) — 13 nodes
-- [Factor Architecture Consensus (2)](Factor_Architecture_Consensus_2.md) — 13 nodes
-- [Secular Bear Market (2)](Secular_Bear_Market_2.md) — 12 nodes
-- [Security Universe Round (2)](Security_Universe_Round_2.md) — 12 nodes
-- [Universe Round: Claude and GLM (2)](Universe_Round-_Claude_and_GLM_2.md) — 12 nodes
-- [Security Universe Round (3)](Security_Universe_Round_3.md) — 12 nodes
+- [Simulation Harness v3 Code](Simulation_Harness_v3_Code.md) — 13 nodes
+- [Simulation Harness v5 Code](Simulation_Harness_v5_Code.md) — 13 nodes
+- [Wave Calibration](Wave_Calibration.md) — 13 nodes
+- [Universe Round: Grok](Universe_Round-_Grok.md) — 13 nodes
+- [Universe Round: GLM](Universe_Round-_GLM.md) — 13 nodes
+- [Factor Review Consensus](Factor_Review_Consensus.md) — 13 nodes
+- [DEC-007 Loop Findings](DEC-007_Loop_Findings.md) — 12 nodes
+- [Universe Round: DeepSeek](Universe_Round-_DeepSeek.md) — 12 nodes
+- [Universe Round: Claude](Universe_Round-_Claude.md) — 12 nodes
+- [Universe Round: Gemini](Universe_Round-_Gemini.md) — 12 nodes
 - [Real Data as Reference](Real_Data_as_Reference.md) — 12 nodes
 - [LNGI Index Family](LNGI_Index_Family.md) — 11 nodes
 - [Analyst Personas](Analyst_Personas.md) — 11 nodes
 - [Wiki Schema](Wiki_Schema.md) — 10 nodes
 - [Academic Recovered Excerpts](Academic_Recovered_Excerpts.md) — 10 nodes
 - [Execution and Judgment Weights](Execution_and_Judgment_Weights.md) — 10 nodes
-- [Security Universe Round (4)](Security_Universe_Round_4.md) — 10 nodes
+- [Universe Round Review](Universe_Round_Review.md) — 10 nodes
 - [Academic Model Continuation](Academic_Model_Continuation.md) — 9 nodes
-- [Attribution Ledger Decisions (3)](Attribution_Ledger_Decisions_3.md) — 9 nodes
+- [Joint Width Display](Joint_Width_Display.md) — 9 nodes
 - [Origin Rule and LETTER](Origin_Rule_and_LETTER.md) — 9 nodes
 - [Factor Round 4: Gemini](Factor_Round_4-_Gemini.md) — 8 nodes
 - [Backtesting Datasets Page](Backtesting_Datasets_Page.md) — 8 nodes
 - [Debt and Forgiveness](Debt_and_Forgiveness.md) — 7 nodes
 - [Academic Survey Scope](Academic_Survey_Scope.md) — 6 nodes
 - [Cyrano Objection](Cyrano_Objection.md) — 6 nodes
-- [Universe Round: ChatGPT (2)](Universe_Round-_ChatGPT_2.md) — 6 nodes
+- [Music Candidates](Music_Candidates.md) — 6 nodes
 - [Networked Individualism](Networked_Individualism.md) — 5 nodes
-- [Universe Round: ChatGPT (3)](Universe_Round-_ChatGPT_3.md) — 5 nodes
-- [Security Universe Round (5)](Security_Universe_Round_5.md) — 5 nodes
-- [Pricing Model v2 Blocks (2)](Pricing_Model_v2_Blocks_2.md) — 4 nodes
-- [Pricing Model v2 Blocks (3)](Pricing_Model_v2_Blocks_3.md) — 4 nodes
+- [Game Candidates](Game_Candidates.md) — 5 nodes
+- [Bargaining Candidates](Bargaining_Candidates.md) — 5 nodes
+- [Pricing v2 Pipeline Factors](Pricing_v2_Pipeline_Factors.md) — 4 nodes
+- [Attribution Ledger Variants](Attribution_Ledger_Variants.md) — 4 nodes
 - [Focal Practice](Focal_Practice.md) — 4 nodes
-- [Universe Round: Claude and GLM (3)](Universe_Round-_Claude_and_GLM_3.md) — 4 nodes
+- [Prayer Candidates](Prayer_Candidates.md) — 4 nodes
 
 ## God Nodes
 (most connected concepts — the load-bearing abstractions)

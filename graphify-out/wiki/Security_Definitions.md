@@ -34,7 +34,7 @@
 ## Relationships
 
 - [Weights Round Review](Weights_Round_Review.md) (65 shared connections)
-- [Security Families](Security_Families.md) (35 shared connections)
+- [Security Families and Rules](Security_Families_and_Rules.md) (35 shared connections)
 - [Weights Round: GLM and ChatGPT](Weights_Round-_GLM_and_ChatGPT.md) (18 shared connections)
 - [Current State and Decisions](Current_State_and_Decisions.md) (12 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (7 shared connections)
@@ -42,9 +42,9 @@
 - [Weight Procedure and Exposures](Weight_Procedure_and_Exposures.md) (5 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (3 shared connections)
 - [Weight Procedure: Qwen](Weight_Procedure-_Qwen.md) (3 shared connections)
-- [Exposure Sources Review](Exposure_Sources_Review.md) (2 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
-- [Security Families (2)](Security_Families_2.md) (2 shared connections)
+- [Exposure Existence Check](Exposure_Existence_Check.md) (2 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (2 shared connections)
+- [Family Decisions and Legs](Family_Decisions_and_Legs.md) (2 shared connections)
 
 ## Source Files
 

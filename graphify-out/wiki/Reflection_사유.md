@@ -28,18 +28,18 @@
 
 ## Relationships
 
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (9 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (9 shared connections)
 - [DEC-016 Top-down Securities](DEC-016_Top-down_Securities.md) (6 shared connections)
 - [Security Universe Selection](Security_Universe_Selection.md) (6 shared connections)
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (5 shared connections)
-- [Security Families](Security_Families.md) (5 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (5 shared connections)
+- [Security Families and Rules](Security_Families_and_Rules.md) (5 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (4 shared connections)
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (4 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (4 shared connections)
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (4 shared connections)
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (3 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (3 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (3 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (3 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (3 shared connections)
 
 ## Source Files
 

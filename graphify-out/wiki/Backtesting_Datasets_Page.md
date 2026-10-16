@@ -15,17 +15,17 @@
 
 ## Relationships
 
-- [Data Sources](Data_Sources.md) (2 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (2 shared connections)
 - [Academic Model Survey](Academic_Model_Survey.md) (2 shared connections)
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (2 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (2 shared connections)
 - [Dataset Backtesting Research](Dataset_Backtesting_Research.md) (1 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (1 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (1 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (1 shared connections)
 - [Failure Profile Review](Failure_Profile_Review.md) (1 shared connections)
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (1 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (1 shared connections)
-- [Technology Waves and Simulation (3)](Technology_Waves_and_Simulation_3.md) (1 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (1 shared connections)
+- [Proxy Sourcing and WDI Spine](Proxy_Sourcing_and_WDI_Spine.md) (1 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
 
 ## Source Files

@@ -30,14 +30,14 @@
 - [Price Formation Dialogue](Price_Formation_Dialogue.md) (3 shared connections)
 - [LNGI Index Family](LNGI_Index_Family.md) (2 shared connections)
 - [Analyst Personas](Analyst_Personas.md) (2 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (2 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (2 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (2 shared connections)
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (2 shared connections)
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (1 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Factor Architecture Consensus (2)](Factor_Architecture_Consensus_2.md) (1 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Factor Review Consensus](Factor_Review_Consensus.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (1 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (1 shared connections)
 - [Pricing v2 Review: Qwen](Pricing_v2_Review-_Qwen.md) (1 shared connections)
 
 ## Source Files

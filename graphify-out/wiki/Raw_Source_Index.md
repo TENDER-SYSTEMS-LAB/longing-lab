@@ -35,7 +35,7 @@
 ### references
 - [Activity Log](Activity_Log.md) `EXTRACTED`
 - [Technology Waves — arrival raises what substitution later takes](Technology_Waves_—_arrival_raises_what_substitution_later_takes.md) `EXTRACTED`
-- [Data Sources](Data_Sources.md) `EXTRACTED`
+- Data Sources `EXTRACTED`
 - LONGING RESEARCH Wiki Index `EXTRACTED`
 - Design and Typographic Application `EXTRACTED`
 - LONGING Wiki — Agent Instructions `EXTRACTED`

@@ -33,15 +33,15 @@
 - [Naming: Grok and Gemini](Naming-_Grok_and_Gemini.md) (16 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (11 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (3 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (3 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (3 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (3 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (3 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (2 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (1 shared connections)
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (1 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (1 shared connections)
 - [Proxy Sourcing Responses](Proxy_Sourcing_Responses.md) (1 shared connections)
 - [Name, Form and Delivery](Name,_Form_and_Delivery.md) (1 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (1 shared connections)
+- [Attribution Order and Joint](Attribution_Order_and_Joint.md) (1 shared connections)
 
 ## Source Files
 

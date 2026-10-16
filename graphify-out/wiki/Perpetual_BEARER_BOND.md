@@ -34,15 +34,15 @@
 ## Relationships
 
 - [Reserve Instruments](Reserve_Instruments.md) (11 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (10 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (10 shared connections)
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (9 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (7 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (6 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (6 shared connections)
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (6 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (6 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (6 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (6 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (6 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (5 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (5 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (5 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (5 shared connections)
 - [Simulation Rebuild](Simulation_Rebuild.md) (5 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (4 shared connections)
 

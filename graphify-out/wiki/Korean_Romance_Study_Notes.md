@@ -33,11 +33,11 @@
 
 ## Relationships
 
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (6 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (5 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (6 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (5 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (4 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (4 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (2 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (2 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (2 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (2 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (1 shared connections)

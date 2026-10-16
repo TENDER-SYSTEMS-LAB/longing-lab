@@ -39,10 +39,10 @@
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (5 shared connections)
 - [Reflection (사유)](Reflection_사유.md) (4 shared connections)
 - [Design and Typography](Design_and_Typography.md) (4 shared connections)
-- [Data Sources](Data_Sources.md) (2 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (2 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (2 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (2 shared connections)
 - [Prior Art](Prior_Art.md) (2 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (2 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (2 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (2 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 

@@ -41,7 +41,7 @@
 - [DEC-004 — LONGING is a secular bear market, inverted](DEC-004_—_LONGING_is_a_secular_bear_market,_inverted.md) `EXTRACTED`
 - Romance Ontology — the first draft of the layered graph `EXTRACTED`
 - Attribution Ledger `EXTRACTED`
-- [Data Sources](Data_Sources.md) `EXTRACTED`
+- Data Sources `EXTRACTED`
 - DEC-007 — STANDARD RETURN is the numeraire `EXTRACTED`
 - Index Architecture `EXTRACTED`
 - Security Families — fifty candidates merged into seventeen `EXTRACTED`

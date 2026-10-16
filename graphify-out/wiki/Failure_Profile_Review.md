@@ -30,15 +30,15 @@
 
 - [Failure Profile: Gemini and Grok](Failure_Profile-_Gemini_and_Grok.md) (6 shared connections)
 - [Failure Profile: Qwen](Failure_Profile-_Qwen.md) (6 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (5 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (5 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (4 shared connections)
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (4 shared connections)
 - [Failure Profile Prompt](Failure_Profile_Prompt.md) (4 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (3 shared connections)
-- [Factor Architecture Consensus](Factor_Architecture_Consensus.md) (2 shared connections)
-- [Factor Architecture Consensus (2)](Factor_Architecture_Consensus_2.md) (2 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (3 shared connections)
+- [Pricing v2 Factor Families](Pricing_v2_Factor_Families.md) (2 shared connections)
+- [Factor Review Consensus](Factor_Review_Consensus.md) (2 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (2 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (2 shared connections)
 - [Failure Profile: ChatGPT](Failure_Profile-_ChatGPT.md) (2 shared connections)
 
 ## Source Files

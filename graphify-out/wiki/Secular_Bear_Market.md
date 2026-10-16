@@ -32,16 +32,16 @@
 ## Relationships
 
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (11 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (9 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (9 shared connections)
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (8 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (7 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (6 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (6 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (5 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (5 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (4 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (4 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (4 shared connections)
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (3 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (4 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (3 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
 
 ## Source Files

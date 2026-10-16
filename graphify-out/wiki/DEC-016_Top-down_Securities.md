@@ -27,14 +27,14 @@
 
 ## Relationships
 
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (7 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (7 shared connections)
 - [Reflection (사유)](Reflection_사유.md) (6 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (5 shared connections)
 - [Security Universe Selection](Security_Universe_Selection.md) (4 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (4 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (4 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (4 shared connections)
-- [Romance Abstraction Dialogue (2)](Romance_Abstraction_Dialogue_2.md) (3 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (4 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (4 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (4 shared connections)
+- [Romance Abstraction Dialogue](Romance_Abstraction_Dialogue.md) (3 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (3 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
 - [State-securities](State-securities.md) (2 shared connections)

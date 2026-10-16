@@ -24,16 +24,16 @@
 
 ## Relationships
 
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (7 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (2 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (7 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (2 shared connections)
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (2 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (1 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Failure Profile Review](Failure_Profile_Review.md) (1 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (1 shared connections)
 - [Academic Recovered Excerpts](Academic_Recovered_Excerpts.md) (1 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (1 shared connections)
 

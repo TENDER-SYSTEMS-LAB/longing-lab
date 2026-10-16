@@ -15,10 +15,10 @@
 
 ## Relationships
 
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (2 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (2 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (1 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (1 shared connections)
 - [Factor Identification Round 4](Factor_Identification_Round_4.md) (1 shared connections)
 - [Failure Profile: Qwen](Failure_Profile-_Qwen.md) (1 shared connections)
 

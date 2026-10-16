@@ -30,11 +30,11 @@
 - [Artwork Brainstorm](Artwork_Brainstorm.md) (3 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
 - [Prior Art](Prior_Art.md) (2 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (2 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (2 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (2 shared connections)
 - [Design and Typography](Design_and_Typography.md) (2 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (1 shared connections)
 - [Japanese Publisher Shortlist](Japanese_Publisher_Shortlist.md) (1 shared connections)
 
 ## Source Files

@@ -33,8 +33,8 @@
 
 ## Relationships
 
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (13 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (7 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (13 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (7 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (5 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (2 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (2 shared connections)
@@ -43,7 +43,7 @@
 - [What Modernization Took](What_Modernization_Took.md) (1 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (1 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (1 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (1 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (1 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (1 shared connections)
 
 ## Source Files

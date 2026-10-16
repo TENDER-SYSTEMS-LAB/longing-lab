@@ -33,18 +33,18 @@
 
 ## Relationships
 
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (9 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (9 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (8 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (6 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (5 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (5 shared connections)
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (4 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (3 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (3 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (3 shared connections)
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (3 shared connections)
 - [Name, Form and Delivery](Name,_Form_and_Delivery.md) (2 shared connections)
 - [Current State and Decisions](Current_State_and_Decisions.md) (2 shared connections)
 - [Artwork Brainstorm](Artwork_Brainstorm.md) (2 shared connections)
-- [Data Sources](Data_Sources.md) (2 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (2 shared connections)
 
 ## Source Files
 

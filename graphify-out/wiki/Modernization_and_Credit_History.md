@@ -34,7 +34,7 @@
 ## Relationships
 
 - [Market Floor and Trust](Market_Floor_and_Trust.md) (3 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (2 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (2 shared connections)
 - [Focal Practice](Focal_Practice.md) (2 shared connections)
 - [Cyrano Objection](Cyrano_Objection.md) (2 shared connections)
 - [Debt and Forgiveness](Debt_and_Forgiveness.md) (2 shared connections)
@@ -42,7 +42,7 @@
 - [System Trust Study](System_Trust_Study.md) (1 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Romance Analysis Round](Romance_Analysis_Round.md) (1 shared connections)
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (1 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (1 shared connections)
 - [What Modernization Took](What_Modernization_Took.md) (1 shared connections)
 - [Affective Polarization Study](Affective_Polarization_Study.md) (1 shared connections)
 

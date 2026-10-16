@@ -18,16 +18,16 @@
 ## Relationships
 
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (6 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (3 shared connections)
-- [Data Sources (2)](Data_Sources_2.md) (3 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (3 shared connections)
+- [AI Restoration Cases](AI_Restoration_Cases.md) (3 shared connections)
 - [Simulation Rebuild](Simulation_Rebuild.md) (3 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (2 shared connections)
+- [Loop Simulation](Loop_Simulation.md) (2 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (2 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Data Sources](Data_Sources.md) (1 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (1 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (1 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (1 shared connections)
 - [Security Definitions](Security_Definitions.md) (1 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
 
 ## Source Files

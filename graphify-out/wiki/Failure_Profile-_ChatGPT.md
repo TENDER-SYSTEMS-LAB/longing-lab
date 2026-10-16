@@ -25,14 +25,14 @@
 - [Failure Profile: GLM](Failure_Profile-_GLM.md) (9 shared connections)
 - [Failure Profile: Gemini and Grok](Failure_Profile-_Gemini_and_Grok.md) (9 shared connections)
 - [Failure Profile Sets](Failure_Profile_Sets.md) (5 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (2 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (2 shared connections)
 - [Failure Profile Review](Failure_Profile_Review.md) (2 shared connections)
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (2 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Factor Architecture Consensus (2)](Factor_Architecture_Consensus_2.md) (1 shared connections)
+- [Factor Review Consensus](Factor_Review_Consensus.md) (1 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (1 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (1 shared connections)
 
 ## Source Files
 

@@ -35,8 +35,8 @@
 - [Failure Profile Review](Failure_Profile_Review.md) (4 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (2 shared connections)
 - [Security Universe Selection](Security_Universe_Selection.md) (1 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (1 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (1 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (1 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (1 shared connections)
 
 ## Source Files
 

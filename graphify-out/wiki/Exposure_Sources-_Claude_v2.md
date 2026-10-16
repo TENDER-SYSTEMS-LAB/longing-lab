@@ -33,14 +33,14 @@
 
 ## Relationships
 
-- [Exposure Sources: Device Data](Exposure_Sources-_Device_Data.md) (22 shared connections)
-- [Exposure Sources: Device Data (2)](Exposure_Sources-_Device_Data_2.md) (18 shared connections)
+- [Exposure Sources: Gemini](Exposure_Sources-_Gemini.md) (22 shared connections)
+- [Exposure Sources: ChatGPT](Exposure_Sources-_ChatGPT.md) (18 shared connections)
 - [Exposure Sources: DeepSeek v2](Exposure_Sources-_DeepSeek_v2.md) (15 shared connections)
-- [Exposure Sources Review (2)](Exposure_Sources_Review_2.md) (7 shared connections)
+- [Exposure Gaps and Proposals](Exposure_Gaps_and_Proposals.md) (7 shared connections)
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (7 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (3 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (3 shared connections)
-- [Exposure Sources Review](Exposure_Sources_Review.md) (3 shared connections)
+- [Exposure Existence Check](Exposure_Existence_Check.md) (3 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (3 shared connections)
 
 ## Source Files

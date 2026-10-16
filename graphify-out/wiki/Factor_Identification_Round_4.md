@@ -33,10 +33,10 @@
 
 ## Relationships
 
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (12 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (12 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (6 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (6 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (6 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (6 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (6 shared connections)
 - [Factor Round 4: Gemini](Factor_Round_4-_Gemini.md) (1 shared connections)
 
 ## Source Files

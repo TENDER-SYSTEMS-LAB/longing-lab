@@ -6,132 +6,132 @@
 ## Summary
 - 3182 nodes · 8488 edges · 126 communities (109 shown, 17 thin omitted)
 - Extraction: 84% EXTRACTED · 16% INFERRED · 0% AMBIGUOUS · INFERRED: 1331 edges (avg confidence: 0.86)
-- Token cost: 606,653 input · 0 output
+- Token cost: 5,130,484 input · 0 output
 
 ## Community Hubs (Navigation)
+- Simulation Harness v1–v2 Code
+- Simulation Harness v4 Code
+- Simulation Harness v3 Code
+- Simulation Harness v5 Code
+- Identification Experiment Code
+- Identification Experiment v2 Code
+- Identification Gates Code
 - Weight Procedure and Exposures
 - Korean Romance Study Notes
-- Romance Analysis Round
-- Proxy Sourcing Responses
-- Weights Round Review
-- Three Markets and Naming
-- Factor Identification Round 4
-- Naming: Grok and Gemini
-- Security Families
-- Exposure Sources: Claude v2
 - Pricing Model Critiques
-- System Trust Study
-- Design and Typography
-- Modernization and Credit History
-- World Rules and LETTER
-- Information Quality and Texture
-- Security Definitions
-- First Critic Reviews
-- Index Architecture and Units
-- Dataset Backtesting Research
-- Affective Polarization Study
-- Reserve Instruments
-- What Modernization Took
-- DEC-014 Restoration and Revision
-- Analysts, Bias and Overview
-- Listing Lifecycle and Gaps
-- Exposure Sources: Device Data
-- Numeraire and A(t) Loop
-- Factor Identification Experiment
-- Wiki Entry Points
-- Weight Procedure: Qwen
-- Information Quality and Texture (2)
-- Romance Ontology and Analysis
-- Pricing Model v2 Blocks
-- Artwork Brainstorm
-- Perpetual BEARER BOND
-- Security Families (2)
-- BLIND TRUST Decisions
-- Current State and Decisions
-- Prior Art
-- Attribution Ledger Decisions
-- Brainstorm v2 Decisions
-- Romance Ontology and Analysis (2)
-- Factor Identification Experiment (2)
-- Technology Waves and Simulation
-- Simulation Harness v1 Code
-- Price Formation Dialogue
-- Pricing v2 Review: Qwen
-- Arbitrage and News Quality
-- Identification Experiment Code
-- Secular Bear Market
-- Security Universe Selection
-- Identification Experiment v2 Code
-- Listing Lifecycle and Gaps (2)
-- Japanese Publisher Shortlist
-- Factor Architecture v2
-- Simulation Rebuild
-- State-securities
-- Failure Profile: Qwen
-- Academic Model Survey
-- Attribution Ledger Decisions (2)
-- Reflection (사유)
-- Failure Profile Review
-- Factor Identification Experiment (3)
-- Pricing v2 Three Layers
-- Failure Profile Prompt
-- Exposure Sources: DeepSeek v2
-- Pricing v2 Framework
-- Romance Abstraction Dialogue
-- DEC-016 Top-down Securities
-- Cross-domain Model Survey
-- Exposure Sources: Device Data (2)
-- Data Sources
-- Exposure Sources Review
-- Exposure Sources Review (2)
-- Technology Waves and Simulation (2)
-- Romance Abstraction Dialogue (2)
-- Identification Gates Code
-- Factor Count and Resolution
-- Name, Form and Delivery
-- Data Sources (2)
-- Technology Waves and Simulation (3)
-- Failure Profile: GLM
-- Universe Round: ChatGPT
-- Weights Round: GLM and ChatGPT
-- Simulation Harness v3 Code
-- Factor Architecture Consensus
-- Failure Profile Sets
-- Market Floor and Trust
-- Pricing v2 Review: Grok
-- Pricing v2 Review: GLM
-- Failure Profile: ChatGPT
-- Failure Profile: Gemini and Grok
-- Technology Waves and Simulation (4)
-- Simulation Harness v3 Code (2)
-- Simulation Harness v4 Code
-- Security Universe Round
-- Universe Round: Claude and GLM
-- Factor Architecture Consensus (2)
-- Real Data as Reference
-- Secular Bear Market (2)
-- Security Universe Round (2)
-- Universe Round: Claude and GLM (2)
-- Security Universe Round (3)
+- DEC-007 Loop Findings
+- Universe Round: DeepSeek
+- Universe Round: Claude
+- Universe Round: Gemini
 - LNGI Index Family
 - Analyst Personas
 - Wiki Schema
 - Academic Recovered Excerpts
 - Execution and Judgment Weights
-- Security Universe Round (4)
+- Universe Round Review
+- System Trust Study
 - Academic Model Continuation
-- Attribution Ledger Decisions (3)
+- Joint Width Display
 - Origin Rule and LETTER
 - Factor Round 4: Gemini
 - Backtesting Datasets Page
 - Debt and Forgiveness
 - Academic Survey Scope
 - Cyrano Objection
-- Universe Round: ChatGPT (2)
+- Music Candidates
 - Networked Individualism
-- Universe Round: ChatGPT (3)
-- Pricing Model v2 Blocks (2)
+- Design and Typography
+- Game Candidates
+- Pricing v2 Pipeline Factors
 - Focal Practice
+- Modernization and Credit History
+- World Rules and LETTER
+- Weekly Cadence and Texture
+- Security Definitions
+- First Critic Reviews
+- Index Architecture and Units
+- Dataset Backtesting Research
+- Romance Analysis Round
+- Affective Polarization Study
+- Reserve Instruments
+- What Modernization Took
+- DEC-014 Restoration and Revision
+- Analysts, Bias and Overview
+- Listing and Stopped Prices
+- Exposure Sources: Gemini
+- Numeraire and A(t) Loop
+- Identification Review and Gates
+- Wiki Entry Points
+- Proxy Sourcing Responses
+- Weight Procedure: Qwen
+- Information Quality and Arbitrage
+- Romance Ontology and Uptake
+- Pricing Model v2 Blocks
+- Artwork Brainstorm
+- Perpetual BEARER BOND
+- Family Decisions and Legs
+- BLIND TRUST Decisions
+- Current State and Decisions
+- Prior Art
+- Weights Round Review
+- Attribution Order and Joint
+- Brainstorm v2 Decisions
+- Romance Analysis
+- Ledger Resolution (DEC-005)
+- Loop Simulation
+- Price Formation Dialogue
+- Pricing v2 Review: Qwen
+- Arbitrage and News Quality
+- Three Markets and Naming
+- Secular Bear Market
+- Security Universe Selection
+- Concepts Above Securities
+- Japanese Publisher Shortlist
+- Factor Architecture v2
+- Simulation Rebuild
+- State-securities
+- Failure Profile: Qwen
+- Academic Model Survey
+- Factor Identification Round 4
+- Hearts Cooling Receipt
+- Reflection (사유)
+- Failure Profile Review
+- Identification Findings and History
+- Pricing v2 Three Layers
+- Failure Profile Prompt
+- Exposure Sources: DeepSeek v2
+- Pricing v2 Framework
+- Circe and the Sense of Loss
+- DEC-016 Top-down Securities
+- Naming: Grok and Gemini
+- Cross-domain Model Survey
+- Exposure Sources: ChatGPT
+- Data Sources and Korean Series
+- Exposure Existence Check
+- Exposure Gaps and Proposals
+- Technology Waves and Restoration
+- Romance Abstraction Dialogue
+- Factor Count and Resolution
+- Name, Form and Delivery
+- Security Families and Rules
+- AI Restoration Cases
+- Proxy Sourcing and WDI Spine
+- Failure Profile: GLM
+- Universe Round: ChatGPT
+- Weights Round: GLM and ChatGPT
+- Pricing v2 Factor Families
+- Failure Profile Sets
+- Market Floor and Trust
+- Pricing v2 Review: Grok
+- Exposure Sources: Claude v2
+- Pricing v2 Review: GLM
+- Failure Profile: ChatGPT
+- Failure Profile: Gemini and Grok
+- Wave Calibration
+- Universe Round: Grok
+- Universe Round: GLM
+- Factor Review Consensus
+- Real Data as Reference
 
 ## God Nodes (most connected - your core abstractions)
 1. `Raw Source Index` - 232 edges
@@ -146,15 +146,15 @@
 10. `DEC-004 — LONGING is a secular bear market, inverted` - 94 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `Hawkes (1971) self-exciting point processes (M096)` --conceptually_related_to--> `Information Quality`  [AMBIGUOUS]
-  raw/surveys/2026-09-06-cross-domain-model-survey.md → wiki/concepts/information-quality.md
 - `CASH (physical exchange)` --conceptually_related_to--> `Security Definitions — steps for the execution and judgment weights`  [AMBIGUOUS]
   raw/surveys/2026-09-06-dataset-backtesting-research.md → wiki/concepts/security-definitions.md
+- `Hawkes (1971) self-exciting point processes (M096)` --conceptually_related_to--> `Information Quality`  [AMBIGUOUS]
+  raw/surveys/2026-09-06-cross-domain-model-survey.md → wiki/concepts/information-quality.md
+- `Abrams–Strogatz competition model` --semantically_similar_to--> `Abrams-Strogatz language death model (x, s, c, a)`  [INFERRED] [semantically similar]
+  wiki/concepts/academic-model-survey.md → raw/conversations/2026-09-06-academic-model-dialogue.md
 - `Bass adoption model` --semantically_similar_to--> `Bass diffusion model (p, q, m)`  [INFERRED] [semantically similar]
   wiki/concepts/academic-model-survey.md → raw/conversations/2026-09-06-academic-model-dialogue.md
 - `Loewenstein anticipation model` --semantically_similar_to--> `Loewenstein anticipation and delayed consumption model (alpha, delta, r, L)`  [INFERRED] [semantically similar]
-  wiki/concepts/academic-model-survey.md → raw/conversations/2026-09-06-academic-model-dialogue.md
-- `Rinaldi linear feedback model` --semantically_similar_to--> `Rinaldi love dynamics model (alpha, beta, gamma, A)`  [INFERRED] [semantically similar]
   wiki/concepts/academic-model-survey.md → raw/conversations/2026-09-06-academic-model-dialogue.md
 
 ## Import Cycles
@@ -251,381 +251,49 @@
 
 ## Communities (126 total, 17 thin omitted)
 
-### Community 0 - "Weight Procedure and Exposures"
-Cohesion: 0.06
-Nodes (48): LONGING RESEARCH — Setting a Security's Execution and Judgment Weights, Counting rule: turning classified units into a pair summing to one, Sorting rule: a step is judgment if it handed over more than one live option, Exposure sources survey: GLM, AAC stored-phrase vs novel-composition split, FCC TRS/VRS relay minutes, Gmail Smart Reply / Smart Compose share, LETTER (reference practice) (+40 more)
-
-### Community 1 - "Korean Romance Study Notes"
-Cohesion: 0.06
-Nodes (15): AI 이전에 근대화가 사람들에게서 가져간 것 — 1800–2020 기술 물결 연구 노트, Mapping of author axes to literature (interpretation, not decision), Modernization waves timeline 1770s–2020 (gave / took), 저자 관점 대조 문헌 조사 — LONGING RESEARCH "로맨스" 관점, Eight author viewpoints on romance (관점 1–8), Ontology candidate abstract concepts (24 candidates), "상실"이란 무엇인가 — 7번 질문을 위한 조사, Five kinds of loss (+7 more)
-
-### Community 2 - "Romance Analysis Round"
-Cohesion: 0.03
-Nodes (82): LONGING RESEARCH — Collection and Critique Round, Algorithmic collectivism, Algorithmic drift, Attention economy, Aura, Filter bubble, Focal practice, Friction (+74 more)
-
-### Community 3 - "Proxy Sourcing Responses"
-Cohesion: 0.11
-Nodes (54): LONGING — Technology Diffusion Proxy Sourcing, Cross-country normalisation rule request, LONGING — Technology Diffusion Proxy Sourcing (ChatGPT), Anthropic Economic Index, FCC Form 477 / Internet Access Services reports, ITU/WDI Fixed broadband subscriptions per 100 (IT.NET.BBND.P2), ITU/WDI Individuals using the Internet (IT.NET.USER.ZS), ITU/WDI Mobile cellular subscriptions per 100 (IT.CEL.SETS.P2) (+46 more)
-
-### Community 4 - "Weights Round Review"
-Cohesion: 0.06
-Nodes (19): Raw Source Index, Security weights round — ChatGPT Part 1 step importances, Security weights round — ChatGPT Part 2 critique, Security weights round — Claude Part 1 step importances, Security weights round — Claude Part 2 critique, Security weights round — DeepSeek Part 1 step importances, Security weights round — DeepSeek Part 2 critique, Security weights round — Gemini Part 1 step importances (+11 more)
-
-### Community 5 - "Three Markets and Naming"
-Cohesion: 0.06
-Nodes (45): KOCPI (placeholder candidate), LONGING COMPOSITE, Conversation — The Japanese publisher is an evening paper, Japanese index publisher is an evening paper (夕刊), Eight-name Japanese publisher shortlist, Conversation — The Japanese publisher is a national paper, Japanese index publisher is a national paper, Conversation — Evening is a setting, the masthead is free (+37 more)
-
-### Community 6 - "Factor Identification Round 4"
-Cohesion: 0.05
-Nodes (6): Factor Identification Round 4 (ChatGPT), LONGING: Factor Identification Round 4, Factor Identification Round 4 (DeepSeek), Factor Identification Round 4 (GLM), Factor Identification Round 4 (Grok), Factor Identification Round 4 (Qwen)
-
-### Community 7 - "Naming: Grok and Gemini"
-Cohesion: 0.06
-Nodes (49): LONGING — Naming and Collision Screen, Barden & Rusk (ratings house; Barden & Rusk 11), 中央経済新聞 / Chūō Keizai Shimbun, Hollis & Mercer (rejected), 関東経済新聞 / Kantō Keizai Shimbun (rejected), 京浜経済新聞 / Keihin Keizai Shimbun, KOPCI — Korea Practice Composite Index (한국행위종합지수), LNG ticker (Cheniere Energy) collision (+41 more)
-
-### Community 8 - "Security Families"
-Cohesion: 0.07
-Nodes (38): BLIND TRUST: trust in a non-human counterpart; never refuses but is shaken; scope by period, Hostility is a separate quantity beside the balances, Execution/judgment pair (execution share = importance of execution steps over total), Security Families — fifty candidates merged into seventeen, ASK — FAVR leg (asking leg, leaning), CARE — CARE (돌봄), CHSE — GIFT form (chosen gift form), CNFD — CONFIDE (털어놓기) (+30 more)
-
-### Community 9 - "Exposure Sources: Claude v2"
-Cohesion: 0.07
-Nodes (49): ITU ICT DataHub / World Telecommunication Indicators, 디지털정보격차 실태조사 Digital Divide Survey (MSIT/NIA), 電話リレーサービス Japan Telephone Relay Service, UPU Postal Statistics, Anthropic Economic Index, How People Use ChatGPT (OpenAI / NBER 2025), Google Smart Reply (and Smart Compose) disclosures, Letter/greeting template software (筆まめ, 筆王, The Print Shop) (+41 more)
-
-### Community 10 - "Pricing Model Critiques"
-Cohesion: 0.08
-Nodes (11): LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology, LONGING Critical Review (Grok, untitled), LONGING: Critical Review of Market Structure, Pricing Model, and Index Methodology, LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology, Pricing Model, Analyst Target Price as forecast of market price, Dual anchor M = (1-w)F + wN, Limits to arbitrage (crowding-limited reversion) (+3 more)
-
-### Community 11 - "System Trust Study"
-Cohesion: 0.08
-Nodes (43): 시장의 바닥: 사람 사이의 믿음인가, 체계에 대한 신뢰인가, Access points and facework (Giddens), Akerlof & Shiller 2009 — Animal Spirits, Bank run as self-fulfilling expectation, BEARER BOND, BLIND TRUST, Calculativeness (Williamson), Callon 1998 — The Laws of the Markets (+35 more)
-
-### Community 12 - "Design and Typography"
-Cohesion: 0.08
-Nodes (30): 좋은 디자인 원칙, Dieter Rams' ten principles of good design, Form follows function (Louis Sullivan), Less, but better, TENDER SYSTEMS Design Principles v0.1, 글꼴 스타일 요청, Departure Mono (machine voice), IBM Plex Mono (+22 more)
-
-### Community 13 - "Modernization and Credit History"
-Cohesion: 0.07
-Nodes (43): LONGING RESEARCH, Adaptive preference and articulable loss, Allcott et al. 2020 — Welfare Effects of Social Media, Arendt 1958 — The Human Condition, Authority over activity, Baier 1986 — Trust and Antitrust, Bakshy et al. 2015, Bastani et al. 2025 — GenAI without guardrails (+35 more)
-
-### Community 14 - "World Rules and LETTER"
-Cohesion: 0.08
-Nodes (40): World-building assessment and next-session handoff, LETTER practice change specification (step 2), LETTER (Handwritten Letter) security, Six-step world-building roadmap, World basic rules draft (step 1), World rules and LETTER practice-change specification request, LETTER practice-change specification, Draft of the world's basic rules (region, population, era, listing, unit, actors, delisting) (+32 more)
-
-### Community 15 - "Information Quality and Texture"
-Cohesion: 0.06
-Nodes (36): Weekly prices and monthly formal research, Conversation — Making the simulation read as a market, Event layer (weekly events, monthly research pull), Inverted S&P 500 weekly texture target, LTR candle chart, Scheduled market-scale revival period, Three-state Markov regime process, Multi-week short-cover cascade (+28 more)
-
-### Community 16 - "Security Definitions"
-Cohesion: 0.10
-Nodes (29): Conversation — the weights check round set up, LONGING RESEARCH — Checking the Execution/Judgment Split of 22 Securities (Part 1 of 2), Legs (TELL/LSTN, LERN/TCHR, ASK/HELP) and forms (CHSE/MAKE, TRET/LEND), ASK — FAVOR (leg), CARE — CARE, CHSE — GIFT (form), DEC — DECIDE, ETRS — ENTRUST (+21 more)
-
-### Community 17 - "First Critic Reviews"
-Cohesion: 0.08
-Nodes (21): LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology, Per-security duration D, Equal-weighted headline LNGI with divisor continuity, Friction Premium q, Implied Fundamental (market-implied value), Mediation factor m, Neutral-drift comparison index LNGI-N (g = 0), Quarterly Practice Report (periodic observable) (+13 more)
-
-### Community 18 - "Index Architecture and Units"
-Cohesion: 0.07
-Nodes (29): Index Architecture, Contrast indicators (Efficiency, Optimization, Automation, Predictability, Mediation), Fictional historical data as production basis, FRX — Human Friction Index, LNGI — LONGING Index, LTR LETTER (security), LTY — Latency Index, MAT — Materiality Index (+21 more)
-
-### Community 19 - "Dataset Backtesting Research"
-Cohesion: 0.08
-Nodes (42): Falsification tests (film revival, structural winner, collinearity, attribution integrity, model-vs-artist), Factor independence scenario tests, Observed / Modeled / Editorial input tagging, Weekly price attribution ledger (Qwen), Abrams-Strogatz (2003) language-death competition model, Bass (1969) adoption and saturation model, Lux-Marchesi (1999) multi-agent financial market (M047), Dataset research for LONGING backtesting (+34 more)
-
-### Community 20 - "Affective Polarization Study"
-Cohesion: 0.08
-Nodes (35): 정서적 양극화 연구 검토: 잔액은 0 아래로 내려가는가, Abramowitz & Webster 2016 — negative partisanship, Avoidance rather than hatred among acquaintances, Affective polarization, Ahler & Sood 2018 — The Parties in Our Heads, Boxell, Gentzkow & Shapiro 2022 — Cross-Country Trends, Broockman, Kalla & Westwood 2022, Cacioppo & Berntson 1994 (+27 more)
-
-### Community 21 - "Reserve Instruments"
-Cohesion: 0.07
-Nodes (31): Conversation — Reserve absorption, trust instruments, and the naming of the holding institution, AI as clearing house, BOND and TRUST folded into LONGING RESEARCH, JOINT CUSTODY (holding institution), THE RESERVE retired from ACTIVE SYSTEMS, Trust accumulates in AI while the total falls, Invisible peak / tipping point, Reserve Instruments — what backs a romantic good (+23 more)
-
-### Community 22 - "What Modernization Took"
-Cohesion: 0.08
-Nodes (34): LONGING RESEARCH — What Modernization Took (Collection & Critique Round), Attention as gift, Bastani et al. (probable), Boxell, Gentzkow & Shapiro (probable 2024), Boym 2001 — The Future of Nostalgia, Comfort vs stimulation (Scitovsky), Disintermediation of dating, Dunbar 1996 — Grooming, Gossip (+26 more)
-
-### Community 23 - "DEC-014 Restoration and Revision"
-Cohesion: 0.09
-Nodes (12): Conversation — the two weights are the security's definition; the two exposures are measured per era, Conversation — the weights are a pair summing to one; revision only under conditions set in advance, LETTER as trial security, Conversation — revision conditions are (a) and (b); two round prompts requested, Translation post-editing edit-distance (HTER) figures, Substitution channel counts judgment, Judgment substituted exposure, DEC-014 — Restoration counts as arrival, and substitution counts judgment (+4 more)
-
-### Community 24 - "Analysts, Bias and Overview"
-Cohesion: 0.08
-Nodes (20): Analyst panel of five schools, Analyst System, Adrian Kessler — Structural Research (SHORT-biased), Analysts with recorded outlooks in the fictional past, Conviction-weighted target-price consensus as monthly anchor, Eleanor Vale — Human Value Research (LONG-biased), Julian Hart — Quantitative Strategy, Mina Seo — Behavioral Research (+12 more)
-
-### Community 25 - "Listing Lifecycle and Gaps"
-Cohesion: 0.09
-Nodes (20): Conversation — nothing is listed, and a price that stops stays where it stopped, Methodology and Listings Committee, High-beta securities reach numerical zero, The market dries up rather than crashes, Four independent statuses: practice, observation, coverage, quotation, Current State, Concepts above securities: gaps G1-G4, Positioning published as hearts cooling (+12 more)
-
-### Community 26 - "Exposure Sources: Device Data"
-Cohesion: 0.07
-Nodes (32): Predictive keyboard / IME histories (T9, ATOK, POBox), Translation transaction histories (Google Translate, Papago, DeepL), NTIA Internet Use Survey / CPS Computer and Internet Use Supplement, 通信利用動向調査 Communications Usage Trend Survey (MIC), American Time Use Survey (ATUS), Medicare DME / speech-generating device claims (CMS), Telecommunications Relay Services Fund records (FCC), Pew Research AI / ChatGPT surveys (+24 more)
-
-### Community 27 - "Numeraire and A(t) Loop"
-Cohesion: 0.11
-Nodes (34): Conversation — The numeraire, and STANDARD RETURN, Endogenous A(t) reinforcing loop, Basket of AI-returned surplus (time saved + effort), D(t) — anxiety from declining backing, Money that is an appreciating measure, Basket saturation ending (methodology footnote), β — substitution exposure, Equal-weight headline index (+26 more)
-
-### Community 28 - "Factor Identification Experiment"
-Cohesion: 0.07
-Nodes (25): LONGING — Factor Identification Round, Float: total attention placed through a practice, Promotion schedule as a runnable test, STANDARD RETURN numeraire, Three markets (Japan, Korea, US), 33 securities, 1996-2026, Promotion gate must be calibrated on a planted null, Factor Identification Review, Convergence destroys local identification, not common (+17 more)
-
-### Community 29 - "Wiki Entry Points"
-Cohesion: 0.11
-Nodes (17): LONGING Wiki — Agent Instructions, TENDER SYSTEMS (institutional repository), Conversation — Graphify applied, and the wiki restructured from its graph, Core terms table in the index, Fill missing links to weakly linked hub pages, Graphify applied to the repository, security-definitions: current version plus evolution section, Earlier resume points moved to state-history (+9 more)
-
-### Community 30 - "Weight Procedure: Qwen"
-Cohesion: 0.12
-Nodes (4): LONGING RESEARCH — Setting a Security's Execution and Judgment Weights, LETTER (security), Weight-setting procedure — Qwen response (Sections 1–7), LETTER (security)
-
-### Community 31 - "Information Quality and Texture (2)"
-Cohesion: 0.09
-Nodes (22): 2026-09-06 — Arbitrage, News Quality, and Next Work Items, Arbitrage as a world-building element, Clean disclosure, Erroneous reporting (오보), Limits to arbitrage: kappa = kappa0 x (1 - |crowding|) x evidence_arrival, News quality as a modelled layer, Over- and under-reporting, Pre-circulation as rumour (찌라시) (+14 more)
-
-### Community 32 - "Romance Ontology and Analysis"
-Cohesion: 0.11
-Nodes (26): Conversation — the medium changes how seriously a position is taken, The medium of an opinion affects how seriously it is taken, Conversation — uptake adopted; TRET's Korean name dropped, Balliet (2010) meta-analysis: communication and cooperation in social dilemmas, Uptake: medium-dependent weight enters the world at issuance (principal), per-medium values, Resonance, Resonance, Resonance (+18 more)
-
-### Community 33 - "Pricing Model v2 Blocks"
-Cohesion: 0.12
-Nodes (22): LONGING — Pricing Model v2, Block I — Displacement (fair value, secular), Block II — Conditions (fair value, demand side), Block III — Valuation regime (multiple), F10 Commodification / Enclosure, F11 Friction Premium, F12 Status Coding, F2 Functional Substitution (+14 more)
-
-### Community 34 - "Artwork Brainstorm"
-Cohesion: 0.12
-Nodes (19): 작품 브레인스토밍, Adrian Kessler — Structural Research (SHORT bias), Alternative dry-system formats (job posting, romance survey, ROMANCE ARCHIVE, RaaS, delivery tracking), Bloomberg-terminal-like interface, CONSENSUS (name candidate), Maurice Benayoun — Emotional Stock Exchange (e-stock), 2005, HOLD (name candidate), LONGING as an independent research house (no Buy/Sell buttons) (+11 more)
-
-### Community 35 - "Perpetual BEARER BOND"
-Cohesion: 0.11
-Nodes (26): Float = outstanding BEARER BOND, BEARER BOND, Conversation — Who issues a BEARER BOND, and how many markets are there, Both directions kept gross; float is an amount, Contagion melt-up (self-exciting withdrawal), Convergence emerges from A(t), The debt is attention, not a reply owed, The leaning party is the issuer; the institution cannot issue (+18 more)
-
-### Community 36 - "Security Families (2)"
-Cohesion: 0.10
-Nodes (30): Hostility as a separate quantity, Hostility as an indicator analysts consult, Conversation — how the funds are built, Carriers equal-weighted in a state fund, Lean/give ratio = acts of leaning ÷ giving by people, published monthly in research, Twelve legless families are each a single security, Group fund follows the smaller leg, Conversation — the author's answers on the security families (+22 more)
-
-### Community 37 - "BLIND TRUST Decisions"
-Cohesion: 0.12
-Nodes (29): Conversation — the author decides the remaining five romance judgments, BEARER BOND, BLIND TRUST, BLIND TRUST curve across history from the Luddites, BLIND TRUST as a family (system confidence + AI trust), Exploitative relations kept outside the market, Gatherings create bonds between two people, Occasion and origin (borrowed) (+21 more)
-
-### Community 38 - "Current State and Decisions"
-Cohesion: 0.10
-Nodes (29): Chosen friction is romantic; imposed friction is not, Conversation — the classification rule narrowed, Execution/judgment (E/J) step classification, Narrow classification rule, Conversation — the importance of each step, set by the author, Always explain why a task is needed, CARE step 5 rewritten by time, GIFT and IOU funds combine their forms by equal weights (+21 more)
-
-### Community 39 - "Prior Art"
-Cohesion: 0.09
-Nodes (24): Autogena & Portway — Black Shoals Stock Market Planetarium, Cream on Chrome — The Environmentalist Stock Exchange (2022), Soun-Gui Kim — Stock Garden, Emeka Ogboh — The Way Earthly Things Are Going (2017), Retrieved academic-model conversation, R. Luke DuBois - A More Perfect Union, Abrams-Strogatz language death model (x, s, c, a), Maurice Benayoun - Emotions in Space (+16 more)
-
-### Community 40 - "Attribution Ledger Decisions"
-Cohesion: 0.15
-Nodes (26): Conversation — Per-analyst orders are the user's proposal; the constraint is the decision, Per-analyst orders are a user proposal, not a decision, Joint computation options (swap / admissible range / Shapley), Conversation — The `Joint` line is the range over every admissible order, Joint = range over every admissible order, Per-analyst orders inside a single house ledger, Conversation — The order constraint is retained; lifting it is deferred, Order constraint retained; lifting deferred (+18 more)
-
-### Community 41 - "Brainstorm v2 Decisions"
+### Community 45 - "Simulation Harness v1–v2 Code"
 Cohesion: 0.13
-Nodes (8): 브레인스토밍 v2, Brunnermeier & Pedersen - Market Liquidity and Funding Liquidity, Cont, Kukanov & Stoikov - The Price Impact of Order Book Events, 52-week future-practice claim, LETTER (handwritten-letter security), 사유 (Reflection) security, Shleifer & Vishny - The Limits of Arbitrage, Institutional valuation vs analyst target price vs market price
+Nodes (11): Params, Params, report(), run(), saturate(), spark(), tests(), run() (+3 more)
 
-### Community 42 - "Romance Ontology and Analysis (2)"
-Cohesion: 0.11
-Nodes (7): LONGING RESEARCH — What Modernization Took, and How the Literature Reads the Author's View, Romance Analysis — what romance is, what is human, and what is handed over, Loss of the sense of loss, with five layers: practice, capacity, occasion, balance, sense, Ontology as a layered graph with a loss test, The market stands on belief and credit, Handing over as a drift through comfort (Circe as metaphor), Loss centred on the loss of its sense, shown by differences between records
+### Community 85 - "Simulation Harness v4 Code"
+Cohesion: 0.26
+Nodes (8): Params, advances(), _corr(), logistic(), market_corr(), run(), tests(), wave_state()
 
-### Community 43 - "Factor Identification Experiment (2)"
-Cohesion: 0.11
-Nodes (22): Attribution Ledger, Factors may outnumber securities, Film-lab closure routed to security fundamentals, Per-factor separability test, Ledger resolution scales with universe, Three-layer allocation rule (factor / security fundamentals / positioning), Weekly attribution ledger, Exact attribution agreed, method open (Shapley, orthogonalized, bounded residuals) (+14 more)
+### Community 94 - "Simulation Harness v3 Code"
+Cohesion: 0.26
+Nodes (8): Params, advances(), _corr(), logistic(), market_corr(), run(), tests(), wave_state()
 
-### Community 44 - "Technology Waves and Simulation"
-Cohesion: 0.11
-Nodes (20): Conversation — Simulating the DEC-007 loop, Tipping point at ~35% AI share, Default cluster of ~18% float per week, High-β securities reach zero, longing-sim harness (sim.py), Requisition rate s(t) unspecified, Conversation — No Korean time series to add, 2025 single-point estimates from NIA microdata (+12 more)
-
-### Community 45 - "Simulation Harness v1 Code"
-Cohesion: 0.13
-Nodes (11): Params, report(), run(), saturate(), spark(), tests(), Params, run() (+3 more)
-
-### Community 46 - "Price Formation Dialogue"
-Cohesion: 0.15
-Nodes (19): 가격 결정 방식 논의, Structural Expectation and bearish asymmetry (good news under-reflected, bad news over-reflected), Cadence: daily events, weekly close, monthly research, quarterly index review, annual State of Longing, Consensus Strength / Consensus Dominance weakening fundamental pull, Cross-asset / relative-value signal (substitutes such as Instant Messaging), Data layers: Observed Behavior / Revealed Attention / Expressed Interest / LONGING Market, Event Desk (event detection separated from price engine), Google Trends API (revealed attention source) and application text (+11 more)
-
-### Community 47 - "Pricing v2 Review: Qwen"
-Cohesion: 0.12
-Nodes (22): Pricing model v2 factor review (Qwen), Agency Displacement (AD), Attention Scarcity (AS), Coordination Compression (candidate F), Demographic Shift (DS), Five-factor exposure matrix (11 securities), Friction Elimination (FE), Friction / Inconvenience Premium (candidate G) (+14 more)
-
-### Community 48 - "Arbitrage and News Quality"
-Cohesion: 0.12
-Nodes (13): Arbitrage, Aggregate Market scope without investor stories, Who is the arbitrage counterparty?, Fundamental Value vs Market Price discount display, Funded future-practice claim branch, Crowding-scaled mean reversion κ = κ₀(1−|crowding|)·evidence_arrival, Arbitrage needs a finite unit to hold, Arbitrage as a world-building direction (+5 more)
+### Community 95 - "Simulation Harness v5 Code"
+Cohesion: 0.26
+Nodes (8): Params, advances(), _corr(), logistic(), market_corr(), run(), tests(), wave_state()
 
 ### Community 49 - "Identification Experiment Code"
 Cohesion: 0.13
 Nodes (12): eig_ratio_k(), flat(), gate(), loo_market(), main(), order_sensitivity(), panel(), practice_avg() (+4 more)
 
-### Community 50 - "Secular Bear Market"
-Cohesion: 0.12
-Nodes (18): Conversation — The requisition rate is capped, and the decline stays, Requisition rate s(t) is capped, Fictional historical data as production basis, Melt-ups need collapses an order of magnitude larger, The model must be able to disagree with the artist (FILM test), Forced covering and amplification reopened, DEC-004 — LONGING is a secular bear market, inverted, Bearish asymmetry (+10 more)
-
-### Community 51 - "Security Universe Selection"
-Cohesion: 0.11
-Nodes (14): LONGING RESEARCH — Widening the List of Practices That Become Securities, BLIND TRUST (reliance moved to non-human counterparts), Two channels take (device, substitution of judgment), two give (arrival, restoration), Four entry tests: origin, issue, exposure, loss record, Four-layer ontology: Origin, Exchange, Balances, Handed over, States priced through practices (reflection decided), Thirty candidate practices, Security Universe — which practices become securities (+6 more)
-
 ### Community 52 - "Identification Experiment v2 Code"
 Cohesion: 0.13
 Nodes (12): eig_ratio_k(), flat(), gate(), loo_market(), main(), order_sensitivity(), panel(), practice_avg() (+4 more)
-
-### Community 53 - "Listing Lifecycle and Gaps (2)"
-Cohesion: 0.13
-Nodes (7): Conversation — importance weighting; the concepts above securities come first, MatrAIx persona simulation (validation only), Conversation — weights first; securities later, after ontology deliberation, Candidate practices: CALLING, face-to-face conversation, shopping in person, wayfinding, Exposure-source existence check results, Korean inmate internet letters (2005–2023), MatrAIx persona simulation as a check, never a price source
-
-### Community 54 - "Japanese Publisher Shortlist"
-Cohesion: 0.09
-Nodes (19): LONGING — Institution and Index Naming, with Collision Check, Collision check (existence, trademark, domain, confidence), Dry contract-term register (BEARER BOND, BLIND TRUST, STANDARD RETURN), LONGING COMPOSITE (global composite, already named), Japanese publisher — clearance shortlist, 2026-09-20, 秋津経済新報 Akitsu Keizai Shinpō (index 秋経平均), Required clearance checks (J-PlatPat classes 16/41/36/9, NDL catalogue, WHOIS, homophone read), 日本取引新聞 Nihon Torihiki Shimbun (index 日取平均) (+11 more)
-
-### Community 55 - "Factor Architecture v2"
-Cohesion: 0.16
-Nodes (14): F1 Latency Collapse, LONGING — Factor Architecture Review v2, Cohort Transmission fundamental, Counter-secular decade test, Embodied Skill Intensity fundamental, LMC-2 (LONGING Macro Complex v2), Marketization Degree fundamental, P10 Authenticity & Status Cycle (ASC) (+6 more)
-
-### Community 56 - "Simulation Rebuild"
-Cohesion: 0.10
-Nodes (9): Conversation — Rebuilding the simulation, and the long side, CALL (impulsive phone call) security, Simulation rebuild (harness v3), AI reinforcing loop (capability and adoption endogenous), BEARER BOND (perpetual attention debt between two people), Dilution of backing (rejected), No listing; a stopped price rests above zero, Signed positioning (technology brings romance too) (+1 more)
-
-### Community 57 - "State-securities"
-Cohesion: 0.13
-Nodes (22): Tacit knowledge (borrowed), Origin lies in choosing, sending and standing behind words, Reflection as a security priced through practices, Conversation — state-securities explained, decided after the round, ETF idea for state-securities, SERENDIPITY (우연한 만남), State-security, WAITING (기다림) (+14 more)
-
-### Community 59 - "Academic Model Survey"
-Cohesion: 0.15
-Nodes (19): Bass diffusion model (p, q, m), Candia two-layer collective memory model (u, v, p, r, q), Frank - alternative explanation of the same decay curve, Loewenstein anticipation and delayed consumption model (alpha, delta, r, L), Rinaldi love dynamics model (alpha, beta, gamma, A), Rohlfs network demand model (w_ij, q_j, p), Loewenstein applied to film development wait (anticipation vs delay burden), Rohlfs applied to partner availability and relationship meaning (+11 more)
-
-### Community 60 - "Attribution Ledger Decisions (2)"
-Cohesion: 0.13
-Nodes (19): Conversation — Positioning stays in the engine; the audience reads it as hearts cooling, Five-line audience receipt, The share from hearts cooling, Positioning stays in the engine, off the public receipt, Audience receipt and the hearts-cooling line, Unexplained as a vocabulary gap, Sequence: numeraire, substitution, priced factors, positioning, reflexive, Unexplained, Measured lines removed before estimated lines (+11 more)
-
-### Community 61 - "Reflection (사유)"
-Cohesion: 0.12
-Nodes (18): Belief between people is the origin; system trust replaced it, Belief shifts form into confidence in the system, Conversation — the abstraction method and the ontology's form, Four-layer frame: origin → exchange → balances → handed over, Layered graph as the ontology's form, Conversation — the romance ontology's first draft and the author's answers, Securities are practices; balances and layers read as indices, Trust and belief as two separate balances (+10 more)
-
-### Community 62 - "Failure Profile Review"
-Cohesion: 0.13
-Nodes (16): Round 3 — Completion requests, Complete replacement answer requests (Qwen, Kimi, Gemini), LONGING — Factor Set Failure Profile Review, Security universe fixed at eleven, SET A — 8 factors (Synthetic Substitution ... Physical Grounding), SET B — 12 factors in three blocks (Displacement, Conditions, Valuation regime), SET C — 5 factors (FE, AD, MD, SR, AS), SET D — 9 factors (Temporal Compression ... Social Legibility) (+8 more)
-
-### Community 63 - "Factor Identification Experiment (3)"
-Cohesion: 0.11
-Nodes (17): Opening ledger near nine factor lines, Identification experiment — findings, 2026-09-20, Recovered factor count saturates near nine; thirteen never recovered, Leave-one-market-out transportability, Handover runs through the interaction block, Orthogonalisation order moves the schedule line early, Identification experiment — findings v2, on the v4 world, 2026-09-20, Measured telephony moves CALL's arrival peak from week 365 to 642 (+9 more)
-
-### Community 64 - "Pricing v2 Three Layers"
-Cohesion: 0.19
-Nodes (15): LONGING — Pricing Model v2 Factor Architecture Review, E1 Friction Premium, E2 Physicality Premium, E3 Social Legibility, E4 Economic Time Scarcity, E5 Demographic Cohort Replacement, E6 Attention Scarcity, E7 Institutional Trust / Social Capital (+7 more)
-
-### Community 65 - "Failure Profile Prompt"
-Cohesion: 0.13
-Nodes (6): LONGING — Round 3: Factor Set Failure Profiles, Analog trio (Film Photography, Physical Media, Handmade Object), Contact cluster (Unplanned Phone Call, Unplanned Visit, Live Performance), Eleven-security universe (fixed), SET D (9 factors), Factor Set Failure Profile — Grok response
-
-### Community 66 - "Exposure Sources: DeepSeek v2"
-Cohesion: 0.11
-Nodes (19): Apple Live Speech and Personal Voice / voice banking, State AT Act programme data / CATADA / NATADS, USPS Household Diary Study / Household Mail Survey, Patent records (PATENTSCOPE / USPTO / JPO / KIPO), Team Gleason device and technology grants / service requests, Exposure sources survey — DeepSeek v2 (2026-09-22), ABLEDATA assistive-technology product registry, Act-navi 情報アクセシビリティ支援ナビ (MIC/NICT) (+11 more)
-
-### Community 67 - "Pricing v2 Framework"
-Cohesion: 0.18
-Nodes (13): LONGING — Pricing Model v2: Factor Framework, Coordination Compression (candidate factor), Friction / Inconvenience Premium (candidate, possibly cyclical), Observable indicators -> latent factors -> security exposures -> price effects, Human Substitution (candidate factor), LONGING currency as a separate Monetary System problem, Mediation (candidate factor), Physicality Displacement (candidate factor) (+5 more)
-
-### Community 68 - "Romance Abstraction Dialogue"
-Cohesion: 0.13
-Nodes (4): 작품 메시지 구상, Aristotle, Politics book 1, Chatbot psychosocial studies (arXiv 2503.17473, 2509.19515), Circe's island (Odyssey book 10)
-
-### Community 69 - "DEC-016 Top-down Securities"
-Cohesion: 0.14
-Nodes (6): Conversation — securities from the top down, and liquidity drying up between people, Six-layer world summary (private artifact), DEC-016 — Securities are chosen top-down, from an ontology of what is being handed over, LETTER, LETTER (worked practice security), Securities chosen top-down from a romance analysis and ontology
-
-### Community 70 - "Cross-domain Model Survey"
-Cohesion: 0.16
-Nodes (20): Academic mathematical models: verified research notes, Candia et al. (2019) collective memory and attention decay, Frank (2019) mechanism-identification counterexample, Henrich cultural-loss model (deferred lead), Loewenstein (1987) anticipation and delayed consumption, Rinaldi (1996) linear love dynamics, Rohlfs (1974) interdependent demand for a communications service, Cross-domain Mathematical Models and Designed Systems (+12 more)
-
-### Community 71 - "Exposure Sources: Device Data (2)"
-Cohesion: 0.12
-Nodes (15): Exposure sources survey — ChatGPT (2026-09-22), CRITT Translation Process Research Database, AAC utterance histories (Tobii Dynavox, PRC-Saltillo), Email assistant summary -> draft -> send histories, National Health and Aging Trends Study (NHATS), PIAAC adult competencies assessment (OECD), High-performance brain-to-text communication via handwriting (Willett 2021), A high-performance speech neuroprosthesis (Willett 2023) (+7 more)
-
-### Community 72 - "Data Sources"
-Cohesion: 0.12
-Nodes (15): National series retrieval record — smartphones and the social web, 2026-09-20, Korean smartphone and SNS series not reached (data.go.kr, MSIT, KOSIS, 지표누리), OECD D1B_I social-networking series with definition-differs flag, Korea Internet Usage Survey 2025 — microdata received, one point measured, Korea 2025 weighted estimates (smartphone 96.8%, SNS 16-74 68.1%), Data Sources, Repeated activity diary instrument, Anthropic Economic Index (+7 more)
-
-### Community 73 - "Exposure Sources Review"
-Cohesion: 0.14
-Nodes (15): LONGING RESEARCH — Candidate Sources for Per-Era Exposure, Fixed execution/judgment share pair per security, Exposure to execution restored, Exposure to judgment substituted, LETTER as reference security, Exposure sources existence check — 2026-10-01, Anthropic Economic Index (from 2025), FCC TRS Fund relay minutes by service (+7 more)
-
-### Community 74 - "Exposure Sources Review (2)"
-Cohesion: 0.13
-Nodes (18): Gap: no complete annual LETTER exposure series, Purpose-built act-level diary (E21/J20: barrier/intent -> aid/suggestion -> handwritten LETTER -> dispatch), Gap: no source separates physical writer from composer for handwritten LETTER, Gap: nothing measures restoration of physically handwritten composition, Proposed: aide-assisted communication census, Proposed: composition-authorship survey (who decided what / how / who produced marks), Proposed: disability-specific handwriting-restoration registry, Proposed: platform suggestion-acceptance log (+10 more)
-
-### Community 75 - "Technology Waves and Simulation (2)"
-Cohesion: 0.16
-Nodes (12): No Korean yearly time series available, Technology wave stack with arrival and substitution phases, Seven waves of interest (dial-up/BBS ... generative AI), Restoration and arrival (event), Technology Waves — arrival raises what substitution later takes, ALS speech-restoration case, Luddite movement (1811), Thirty-year span 1996-2026 (+4 more)
 
 ### Community 77 - "Identification Gates Code"
 Cohesion: 0.26
 Nodes (10): bulk_ratio(), count_after(), eig_ratio_k(), flat(), main(), panel(), sign_agreement(), strip_schedule() (+2 more)
 
-### Community 78 - "Factor Count and Resolution"
-Cohesion: 0.19
-Nodes (9): Working session — attribution resolution and universe scaling, Attribution ledger (weekly return decomposition), Declared but unpriced factor device, Write 30-50 events before fixing factors or securities, Exposure matrix scale cost (45 x 15 = 675 judgments), Ground-truth event recovery test, Infrastructure viability (last film-processing chain closes), K <= N/3 factor-to-security ratio (+1 more)
+### Community 0 - "Weight Procedure and Exposures"
+Cohesion: 0.06
+Nodes (48): Counting rule: turning classified units into a pair summing to one, Sorting rule: a step is judgment if it handed over more than one live option, AAC stored-phrase vs novel-composition split, FCC TRS/VRS relay minutes, Gmail Smart Reply / Smart Compose share, LETTER (reference practice), Machine translation usage (Google Translate / Papago / DeepL), Medicare speech-generating device claims (HCPCS E2500-02) (+40 more)
 
-### Community 79 - "Name, Form and Delivery"
+### Community 1 - "Korean Romance Study Notes"
+Cohesion: 0.06
+Nodes (15): Mapping of author axes to literature (interpretation, not decision), Modernization waves timeline 1770s–2020 (gave / took), Eight author viewpoints on romance (관점 1–8), Ontology candidate abstract concepts (24 candidates), Five kinds of loss, Options for defining loss (가 occasions / 나 five layers / 다 second-order / 라 open), Author's structure: origin → exchange (bond issuance) → balances, BEARER BOND (security) (+7 more)
+
+### Community 10 - "Pricing Model Critiques"
+Cohesion: 0.08
+Nodes (11): Analyst Target Price as forecast of market price, Dual anchor M = (1-w)F + wN, Limits to arbitrage (crowding-limited reversion), Randomness in the world, not the price, Unit branches U1 published assessment, U2 funded forecast claim, U3 support entitlement, LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology, LONGING Critical Review (Grok, untitled), LONGING: Critical Review of Market Structure, Pricing Model, and Index Methodology (+3 more)
+
+### Community 100 - "DEC-007 Loop Findings"
 Cohesion: 0.18
-Nodes (14): Conversation — The work is renamed LONGING RESEARCH, Rename LONGING to LONGING RESEARCH, LONGING name collision check (outstanding), DEC-001 — The work is named LONGING RESEARCH, LONGING (one-word title, superseded), LONGING RESEARCH (work title), Trademark, domain and existing-work collision check, OTHER GOODS (sibling work) (+6 more)
-
-### Community 80 - "Data Sources (2)"
-Cohesion: 0.14
-Nodes (7): AI와 낭만 비교, ALS speech decoder case, American Time Use Survey (ATUS), Anthropic Economic Index, NIA Digital Divide Survey, An instantaneous voice-synthesis neuroprosthesis (Nature 2025), ALS (amyotrophic lateral sclerosis)
-
-### Community 81 - "Technology Waves and Simulation (3)"
-Cohesion: 0.13
-Nodes (16): WDI spine retrieval record — 2026-09-20, ITU DataHub unreachable (HTTP 403), Japan WDI internet-use drop (91.06 to 85.01) is a reconciliation problem, WDI spine (internet, mobile, fixed broadband), Proxy Sourcing Review, The measurement boundary is not one week and not one line, Definition mismatches across series, Four waves measured, three not (+8 more)
-
-### Community 83 - "Universe Round: ChatGPT"
-Cohesion: 0.16
-Nodes (6): Security universe round — ChatGPT response, E1 — Penny post: British mail 76M (1839) to 169M (1840), E2 — TTY (1964) and communication supports, E3 — Rosenfeld, Thomas and Hausen 2019: disintermediating friends, E4 — Pew 2011 peer-to-peer health, E5 — Be My Eyes human volunteers and Be My AI (2023)
-
-### Community 85 - "Simulation Harness v3 Code"
-Cohesion: 0.26
-Nodes (8): advances(), _corr(), logistic(), market_corr(), Params, run(), tests(), wave_state()
-
-### Community 86 - "Factor Architecture Consensus"
-Cohesion: 0.16
-Nodes (11): LONGING — Pricing Model v2 Factor Architecture Review Prompt, Falsification tests (film revival, structural winner, collinearity, attribution integrity, model-vs-artist), Friction / Inconvenience Premium, Nine candidate factor families (A Time Compression ... I Social Legibility), Observable indicators -> latent factors -> exposures -> price, Scarcity Revaluation, Seven collinear macro variables (Efficiency ... Optimization), Uncertainty Compression (+3 more)
-
-### Community 87 - "Failure Profile Sets"
-Cohesion: 0.18
-Nodes (3): SET A (8 factors), SET F (10 factors: 8 pressures + 2 valuation regimes), LONGING — Factor Set Failure Profile Review (DeepSeek)
-
-### Community 88 - "Market Floor and Trust"
-Cohesion: 0.13
-Nodes (13): Ingham 2004, Johnstone 2011 — Trust in Ancient Greece, Credit from reputation to scores, Fontaine 2014 — The Moral Economy, Fourcade & Healy 2013 — Classification situations, Giddens 1990, Lauer 2017, Luhmann — Trust and Power (+5 more)
-
-### Community 89 - "Pricing v2 Review: Grok"
-Cohesion: 0.26
-Nodes (11): Pricing Model v2 Factor Architecture Review (Gemini), Attention Scarcity, Eight orthogonal latent macro factors, Friction Premium, Performative Legibility, Physical Grounding, Social Atomization, Synthetic Substitution (+3 more)
-
-### Community 90 - "Pricing v2 Review: GLM"
-Cohesion: 0.25
-Nodes (11): Pricing Model v2 Factor Architecture Review (Grok), F1 Temporal Compression, F2 Human Act Substitution, F3 Intermediation Density, F4 Uncertainty Suppression, F5 Physical Carrier Displacement, F6 Coordination Formalization, F7 Friction Valuation (+3 more)
-
-### Community 92 - "Failure Profile: Gemini and Grok"
-Cohesion: 0.32
-Nodes (5): SET E R1 Positioning / Crowding priced as a common factor, SET C (5 factors), SET E (12 factors in three layers), Factor Set Failure Profile — Gemini response, Factor Set Failure Profile — Gemini response (complete)
-
-### Community 93 - "Technology Waves and Simulation (4)"
-Cohesion: 0.18
-Nodes (10): Identification experiment — findings v3, on the v5 world, 2026-09-20, Korea-Japan social-web stagger is an artefact of mixing placeholder and measurement, Wave calibration from national series — smartphones and the social web, 2026-09-20, Rules 6-7: share ceiling at most 100; a series dates a wave only if it contains the midpoint, v5 mixes placeholder Korean dates with measured Japanese and US dates, Wave calibration from the WDI spine — 2026-09-20, Logistic midpoint as arrival week; median scale as wave width, Measured wave dates are later in every market than placeholders (+2 more)
-
-### Community 94 - "Simulation Harness v3 Code (2)"
-Cohesion: 0.26
-Nodes (8): advances(), _corr(), logistic(), market_corr(), Params, run(), tests(), wave_state()
-
-### Community 95 - "Simulation Harness v4 Code"
-Cohesion: 0.26
-Nodes (8): advances(), _corr(), logistic(), market_corr(), Params, run(), tests(), wave_state()
-
-### Community 98 - "Factor Architecture Consensus (2)"
-Cohesion: 0.17
-Nodes (8): Factor Architecture Review Consensus, Coordination Compression declared but unpriced, Candidate pool too technology-centric (missing demand side), Observables → structural factors → exposures → regimes → positioning hierarchy, Qwen's five-core-factor reduction dissent, Scarcity Revaluation classification dispute, Qwen second-round capture hash mismatch (REVIEW_REQUIRED, re-captured), Seven reviews reject seven-factor macro set, Consensus Strength and kappa(1-S) gate
-
-### Community 99 - "Real Data as Reference"
-Cohesion: 0.23
-Nodes (4): Conversation — why each piece of work was done; fictional markets, a reference timeline, and a rigorous engine, Luddite movement (1811), Real data as reference for timing and strength, Luddite movement (1811) via a logarithmic time scale
-
-### Community 100 - "Secular Bear Market (2)"
-Cohesion: 0.18
-Nodes (9): DEC-007 loop — simulation findings, Undesigned tipping point (backing peaks week 613), Loop gain g governs the work once the loop runs (reversed finding), Melt-ups need very large BEARER BOND default clusters, Loop has no ignition as written, Requisition rate s = req_k * dA decides whether the work can disagree with its author, sim.py (stdlib loop simulation, 2000 weeks, 11 securities), High-beta securities reach zero; delisting becomes a numerical requirement (+1 more)
+Nodes (9): sim.py (stdlib loop simulation, 2000 weeks, 11 securities), Undesigned tipping point (backing peaks week 613), Loop gain g governs the work once the loop runs (reversed finding), Melt-ups need very large BEARER BOND default clusters, Loop has no ignition as written, Requisition rate s = req_k * dA decides whether the work can disagree with its author, High-beta securities reach zero; delisting becomes a numerical requirement, Default clusters follow the dying, not the dead (+1 more)
 
 ### Community 104 - "LNGI Index Family"
 Cohesion: 0.24
@@ -637,39 +305,43 @@ Nodes (8): Contrasting analyst personas covering the same security, Eleanor Vale
 
 ### Community 106 - "Wiki Schema"
 Cohesion: 0.27
-Nodes (4): LONGING Wiki Schema, Five attribution values, Eight status values, Three layers: raw, wiki, schema
+Nodes (4): Five attribution values, Eight status values, Three layers: raw, wiki, schema, LONGING Wiki Schema
 
 ### Community 107 - "Academic Recovered Excerpts"
 Cohesion: 0.33
-Nodes (4): Latest conversation excerpts, Abrams-Strogatz generalization to n items, Natural synthetic data generation (deferred), Next-session handoff prompt
+Nodes (4): Abrams-Strogatz generalization to n items, Natural synthetic data generation (deferred), Latest conversation excerpts, Next-session handoff prompt
 
 ### Community 108 - "Execution and Judgment Weights"
 Cohesion: 0.27
-Nodes (4): Conversation — restoration counts as arrival; substitution counts judgment, AI wave connection coefficient (1/10 of social web), AI connection-creating coefficient at a tenth of other waves, Restoration counts as arrival; substitution counts judgment
+Nodes (4): AI wave connection coefficient (1/10 of social web), AI connection-creating coefficient at a tenth of other waves, Restoration counts as arrival; substitution counts judgment, Conversation — restoration counts as arrival; substitution counts judgment
 
-### Community 109 - "Security Universe Round (4)"
+### Community 109 - "Universe Round Review"
 Cohesion: 0.20
-Nodes (8): Security Universe Round — six models read the thirty candidates, Convergent new candidates (~180 proposed), Mirror pairs that move together, "In one's own words" conflicts with the origin rule, Restoration is the thinnest channel, Security universe LLM round (six models), Two risks of state-securities (moves only with carriers; vanishes while carriers hold), Security universe LLM round
+Nodes (8): Convergent new candidates (~180 proposed), Mirror pairs that move together, "In one's own words" conflicts with the origin rule, Restoration is the thinnest channel, Security universe LLM round (six models), Two risks of state-securities (moves only with carriers; vanishes while carriers hold), Security universe LLM round, Security Universe Round — six models read the thirty candidates
+
+### Community 11 - "System Trust Study"
+Cohesion: 0.08
+Nodes (43): Access points and facework (Giddens), Bank run as self-fulfilling expectation, BEARER BOND, BLIND TRUST, Calculativeness (Williamson), Chartalism, Disembedding (Giddens), Embeddedness (Granovetter) (+35 more)
 
 ### Community 110 - "Academic Model Continuation"
 Cohesion: 0.36
-Nodes (7): Academic-model discussion: compiled continuation and summary, Abrams–Strogatz model limited to two options; n-item extension possible, Bass model: treat new starts and discontinuation separately, Loewenstein anticipation model applied to waiting (film development example), Resume point: what the equation computes, what moves it, how to set effect strengths without data, Rohlfs network model applied to meaningful counterparties (spontaneous calls), Active participation = prior stock + starts - stops; chain conditions -> entry/exit -> participation -> price
+Nodes (7): Abrams–Strogatz model limited to two options; n-item extension possible, Bass model: treat new starts and discontinuation separately, Loewenstein anticipation model applied to waiting (film development example), Resume point: what the equation computes, what moves it, how to set effect strengths without data, Rohlfs network model applied to meaningful counterparties (spontaneous calls), Active participation = prior stock + starts - stops; chain conditions -> entry/exit -> participation -> price, Academic-model discussion: compiled continuation and summary
 
-### Community 111 - "Attribution Ledger Decisions (3)"
+### Community 111 - "Joint Width Display"
 Cohesion: 0.36
-Nodes (4): Conversation — `Joint` is shown to the audience; blocks are fitted jointly, Five-line audience receipt, DEC-013 — The `Joint` width is shown to the audience, and the ledger's blocks are fitted jointly, Joint width shown beside each audience line
+Nodes (4): Five-line audience receipt, Joint width shown beside each audience line, Conversation — `Joint` is shown to the audience; blocks are fitted jointly, DEC-013 — The `Joint` width is shown to the audience, and the ledger's blocks are fitted jointly
 
 ### Community 112 - "Origin Rule and LETTER"
 Cohesion: 0.25
-Nodes (8): Body and place: condition separated from attribute, Conversation — the security universe's selection method, definition and count, Four selection tests (origin, issue, exposure, loss record), LETTER, LLM round widens the list, then the author chooses, No fixed security count; securities easy to understand and meaningful, Practices defined by act; medium, body and place as attributes, Three coverage rules
+Nodes (8): Body and place: condition separated from attribute, Four selection tests (origin, issue, exposure, loss record), LETTER, LLM round widens the list, then the author chooses, No fixed security count; securities easy to understand and meaningful, Practices defined by act; medium, body and place as attributes, Three coverage rules, Conversation — the security universe's selection method, definition and count
 
 ### Community 114 - "Backtesting Datasets Page"
 Cohesion: 0.32
-Nodes (7): Measuring enablement apart from substitution, Datasets for Model Backtesting, BLS American Time Use Survey, Proposed collection priorities, 23 dataset families and six Kaggle routes, Korean-first routes (Korea Media Panel, Time Use Survey, KOBIS), USPS correspondence reports
+Nodes (7): Measuring enablement apart from substitution, BLS American Time Use Survey, Proposed collection priorities, 23 dataset families and six Kaggle routes, Korean-first routes (Korea Media Panel, Time Use Survey, KOBIS), USPS correspondence reports, Datasets for Model Backtesting
 
 ### Community 115 - "Debt and Forgiveness"
 Cohesion: 0.29
-Nodes (5): Graeber 2011 — Debt, Arendt 1958, Forgiveness and write-off, Graeber 2011 — Debt, Promise
+Nodes (5): Forgiveness and write-off, Promise, Graeber 2011 — Debt, Arendt 1958, Graeber 2011 — Debt
 
 ### Community 117 - "Cyrano Objection"
 Cohesion: 0.33
@@ -677,29 +349,363 @@ Nodes (4): Clark & Chalmers 1998 — The Extended Mind, Kant 1784, Plato — Pha
 
 ### Community 119 - "Networked Individualism"
 Cohesion: 0.40
-Nodes (5): Networked individualism and bounded solidarity, Rainie & Wellman 2012 — Networked, Ling 2008 — New Tech, New Ties, Networked individualism, Rainie & Wellman 2012
+Nodes (5): Networked individualism and bounded solidarity, Networked individualism, Rainie & Wellman 2012 — Networked, Ling 2008 — New Tech, New Ties, Rainie & Wellman 2012
 
-### Community 122 - "Pricing Model v2 Blocks (2)"
+### Community 12 - "Design and Typography"
+Cohesion: 0.08
+Nodes (30): Dieter Rams' ten principles of good design, Form follows function (Louis Sullivan), Less, but better, TENDER SYSTEMS Design Principles v0.1, Departure Mono (machine voice), IBM Plex Mono, Inconsolata (system voice), Source Serif 4 (human voice) (+22 more)
+
+### Community 122 - "Pricing v2 Pipeline Factors"
 Cohesion: 0.50
 Nodes (3): F13 Positioning / Consensus Crowding, v2 pipeline L0-L7, P8 Materiality & Permanence Displacement (MPD)
 
 ### Community 124 - "Focal Practice"
 Cohesion: 0.50
-Nodes (4): Borgmann 1984, Focal practice, Borgmann 1984, Device paradigm
+Nodes (4): Focal practice, Device paradigm, Borgmann 1984, Borgmann 1984
+
+### Community 13 - "Modernization and Credit History"
+Cohesion: 0.07
+Nodes (43): Adaptive preference and articulable loss, Authority over activity, Care and maintenance, Cognitive offloading, Continuity and repair, Conviviality, Credit: from acquaintance to portable evaluation, Legibility and situated knowledge (+35 more)
+
+### Community 14 - "World Rules and LETTER"
+Cohesion: 0.08
+Nodes (40): LETTER practice change specification (step 2), LETTER (Handwritten Letter) security, Six-step world-building roadmap, World basic rules draft (step 1), LETTER practice-change specification, Draft of the world's basic rules (region, population, era, listing, unit, actors, delisting), Assess design progress and set world-building depth before a roadmap, Condition inputs T, E, H, I, S (+32 more)
+
+### Community 15 - "Weekly Cadence and Texture"
+Cohesion: 0.06
+Nodes (36): Weekly prices and monthly formal research, Event layer (weekly events, monthly research pull), Inverted S&P 500 weekly texture target, LTR candle chart, Scheduled market-scale revival period, Three-state Markov regime process, Multi-week short-cover cascade, Stress-driven default cluster timing (+28 more)
+
+### Community 16 - "Security Definitions"
+Cohesion: 0.10
+Nodes (29): Legs (TELL/LSTN, LERN/TCHR, ASK/HELP) and forms (CHSE/MAKE, TRET/LEND), ASK — FAVOR (leg), CARE — CARE, CHSE — GIFT (form), DEC — DECIDE, ETRS — ENTRUST, GTHR — GATHER, HELP — FAVOR (leg) (+21 more)
+
+### Community 17 - "First Critic Reviews"
+Cohesion: 0.08
+Nodes (21): Per-security duration D, Equal-weighted headline LNGI with divisor continuity, Friction Premium q, Implied Fundamental (market-implied value), Mediation factor m, Neutral-drift comparison index LNGI-N (g = 0), Quarterly Practice Report (periodic observable), Substitution Rate r (discount-rate analog) (+13 more)
+
+### Community 18 - "Index Architecture and Units"
+Cohesion: 0.07
+Nodes (29): Contrast indicators (Efficiency, Optimization, Automation, Predictability, Mediation), Fictional historical data as production basis, FRX — Human Friction Index, LNGI — LONGING Index, LTR LETTER (security), LTY — Latency Index, MAT — Materiality Index, Securities first, aggregated upward with divisor continuity (+21 more)
+
+### Community 19 - "Dataset Backtesting Research"
+Cohesion: 0.08
+Nodes (42): Falsification tests (film revival, structural winner, collinearity, attribution integrity, model-vs-artist), Factor independence scenario tests, Observed / Modeled / Editorial input tagging, Weekly price attribution ledger (Qwen), Abrams-Strogatz (2003) language-death competition model, Bass (1969) adoption and saturation model, Lux-Marchesi (1999) multi-agent financial market (M047), Proposed backtesting pilots 1-5 (Seattle substitution, ATUS time, RIAA revival, attention adds information, information/positioning mechanics) (+34 more)
+
+### Community 2 - "Romance Analysis Round"
+Cohesion: 0.03
+Nodes (82): Algorithmic collectivism, Algorithmic drift, Attention economy, Aura, Filter bubble, Focal practice, Friction, Impersonal trust (+74 more)
+
+### Community 20 - "Affective Polarization Study"
+Cohesion: 0.08
+Nodes (35): Avoidance rather than hatred among acquaintances, Affective polarization, Evaluative space model, Feeling thermometer, Generalized trust decline, Ideological polarization, Measurement artefacts in polarization research, Meta-perception / misperception (+27 more)
+
+### Community 21 - "Reserve Instruments"
+Cohesion: 0.07
+Nodes (31): AI as clearing house, BOND and TRUST folded into LONGING RESEARCH, JOINT CUSTODY (holding institution), THE RESERVE retired from ACTIVE SYSTEMS, Trust accumulates in AI while the total falls, Invisible peak / tipping point, AI as clearing house, BEARER BOND (+23 more)
+
+### Community 22 - "What Modernization Took"
+Cohesion: 0.08
+Nodes (34): Attention as gift, Comfort vs stimulation (Scitovsky), Disintermediation of dating, Ontology groups: origination, bond, occasion, erosion, Romance as a product of modernization, Shifting baseline, Third place, Thirteen modernization waves (incl. online dating) (+26 more)
+
+### Community 23 - "DEC-014 Restoration and Revision"
+Cohesion: 0.09
+Nodes (12): LETTER as trial security, Translation post-editing edit-distance (HTER) figures, Substitution channel counts judgment, Judgment substituted exposure, Revision condition (a): the definition changes, Revision condition (c): residual the weights do not explain, Execution and judgment weights in the security definition (sum to one), Steps counted by importance as part of the definition (+4 more)
+
+### Community 24 - "Analysts, Bias and Overview"
+Cohesion: 0.08
+Nodes (20): Analyst panel of five schools, Adrian Kessler — Structural Research (SHORT-biased), Analysts with recorded outlooks in the fictional past, Conviction-weighted target-price consensus as monthly anchor, Eleanor Vale — Human Value Research (LONG-biased), Julian Hart — Quantitative Strategy, Mina Seo — Behavioral Research, Sparse uneven coverage and NO COVERAGE (+12 more)
+
+### Community 25 - "Listing and Stopped Prices"
+Cohesion: 0.09
+Nodes (20): Methodology and Listings Committee, High-beta securities reach numerical zero, The market dries up rather than crashes, Four independent statuses: practice, observation, coverage, quotation, Concepts above securities: gaps G1-G4, Positioning published as hearts cooling, MatrAIx persona simulation for checking, not pricing, Nobody agrees a market price (+12 more)
+
+### Community 26 - "Exposure Sources: Gemini"
+Cohesion: 0.07
+Nodes (32): Predictive keyboard / IME histories (T9, ATOK, POBox), Translation transaction histories (Google Translate, Papago, DeepL), NTIA Internet Use Survey / CPS Computer and Internet Use Supplement, 通信利用動向調査 Communications Usage Trend Survey (MIC), American Time Use Survey (ATUS), Medicare DME / speech-generating device claims (CMS), Telecommunications Relay Services Fund records (FCC), Pew Research AI / ChatGPT surveys (+24 more)
+
+### Community 27 - "Numeraire and A(t) Loop"
+Cohesion: 0.11
+Nodes (34): Endogenous A(t) reinforcing loop, Basket of AI-returned surplus (time saved + effort), D(t) — anxiety from declining backing, Money that is an appreciating measure, Basket saturation ending (methodology footnote), β — substitution exposure, Equal-weight headline index, SR₀ fixed-scale companion index (+26 more)
+
+### Community 28 - "Identification Review and Gates"
+Cohesion: 0.07
+Nodes (25): Float: total attention placed through a practice, Promotion schedule as a runnable test, STANDARD RETURN numeraire, Three markets (Japan, Korea, US), 33 securities, 1996-2026, Promotion gate must be calibrated on a planted null, Convergence destroys local identification, not common, Market-to-practice handover, Post-publication encompassing gate (+17 more)
+
+### Community 29 - "Wiki Entry Points"
+Cohesion: 0.11
+Nodes (17): TENDER SYSTEMS (institutional repository), Core terms table in the index, Fill missing links to weakly linked hub pages, Graphify applied to the repository, security-definitions: current version plus evolution section, Earlier resume points moved to state-history, Three-market pages marked deprecated in section 7, Index reorganised into seven topical sections (+9 more)
+
+### Community 3 - "Proxy Sourcing Responses"
+Cohesion: 0.11
+Nodes (54): Cross-country normalisation rule request, Anthropic Economic Index, FCC Form 477 / Internet Access Services reports, ITU/WDI Fixed broadband subscriptions per 100 (IT.NET.BBND.P2), ITU/WDI Individuals using the Internet (IT.NET.USER.ZS), ITU/WDI Mobile cellular subscriptions per 100 (IT.CEL.SETS.P2), Korea Open Government Licence (KOGL / 공공누리), Korea fixed broadband subscription statistics (초고속인터넷 가입자) (+46 more)
+
+### Community 30 - "Weight Procedure: Qwen"
+Cohesion: 0.12
+Nodes (4): LETTER (security), LETTER (security), LONGING RESEARCH — Setting a Security's Execution and Judgment Weights, Weight-setting procedure — Qwen response (Sections 1–7)
+
+### Community 31 - "Information Quality and Arbitrage"
+Cohesion: 0.09
+Nodes (22): Arbitrage as a world-building element, Clean disclosure, Erroneous reporting (오보), Limits to arbitrage: kappa = kappa0 x (1 - |crowding|) x evidence_arrival, News quality as a modelled layer, Over- and under-reporting, Pre-circulation as rumour (찌라시), Put 'what is one share?' (Q-004) to the review models (+14 more)
+
+### Community 32 - "Romance Ontology and Uptake"
+Cohesion: 0.11
+Nodes (26): The medium of an opinion affects how seriously it is taken, Uptake: medium-dependent weight enters the world at issuance (principal), per-medium values, Resonance, Resonance, Resonance, Resonance, Resonance, Attention, the BEARER BOND principal (+18 more)
+
+### Community 33 - "Pricing Model v2 Blocks"
+Cohesion: 0.12
+Nodes (22): Block I — Displacement (fair value, secular), Block II — Conditions (fair value, demand side), Block III — Valuation regime (multiple), F10 Commodification / Enclosure, F11 Friction Premium, F12 Status Coding, F2 Functional Substitution, F3 Predictive Pre-selection (+14 more)
+
+### Community 34 - "Artwork Brainstorm"
+Cohesion: 0.12
+Nodes (19): Adrian Kessler — Structural Research (SHORT bias), Alternative dry-system formats (job posting, romance survey, ROMANCE ARCHIVE, RaaS, delivery tracking), Bloomberg-terminal-like interface, CONSENSUS (name candidate), Maurice Benayoun — Emotional Stock Exchange (e-stock), 2005, HOLD (name candidate), LONGING as an independent research house (no Buy/Sell buttons), Periodic LONG / SHORT research reports (+11 more)
+
+### Community 35 - "Perpetual BEARER BOND"
+Cohesion: 0.11
+Nodes (26): Float = outstanding BEARER BOND, BEARER BOND, Both directions kept gross; float is an amount, Contagion melt-up (self-exciting withdrawal), Convergence emerges from A(t), The debt is attention, not a reply owed, The leaning party is the issuer; the institution cannot issue, BEARER BOND is perpetual (+18 more)
+
+### Community 36 - "Family Decisions and Legs"
+Cohesion: 0.10
+Nodes (30): Hostility as a separate quantity, Hostility as an indicator analysts consult, Carriers equal-weighted in a state fund, Lean/give ratio = acts of leaning ÷ giving by people, published monthly in research, Twelve legless families are each a single security, Group fund follows the smaller leg, ENTRUST · 맡김 (ETRS), Grouping by what one person leans on the other for (+22 more)
+
+### Community 37 - "BLIND TRUST Decisions"
+Cohesion: 0.12
+Nodes (29): BEARER BOND, BLIND TRUST, BLIND TRUST curve across history from the Luddites, BLIND TRUST as a family (system confidence + AI trust), Exploitative relations kept outside the market, Gatherings create bonds between two people, Occasion and origin (borrowed), Resonance and uncontrollability (borrowed) (+21 more)
+
+### Community 38 - "Current State and Decisions"
+Cohesion: 0.10
+Nodes (29): Chosen friction is romantic; imposed friction is not, Execution/judgment (E/J) step classification, Narrow classification rule, Always explain why a task is needed, CARE step 5 rewritten by time, GIFT and IOU funds combine their forms by equal weights, Importance-weighted execution/judgment weights for 22 securities, RECH memo: review the classification rule itself (+21 more)
+
+### Community 39 - "Prior Art"
+Cohesion: 0.09
+Nodes (24): Autogena & Portway — Black Shoals Stock Market Planetarium, Cream on Chrome — The Environmentalist Stock Exchange (2022), Soun-Gui Kim — Stock Garden, Emeka Ogboh — The Way Earthly Things Are Going (2017), R. Luke DuBois - A More Perfect Union, Maurice Benayoun - Emotions in Space, Cream on Chrome - The Environmentalist Stock Exchange, David Link - LoveLetters_1.0 (Strachey love-letter generator) (+16 more)
+
+### Community 4 - "Weights Round Review"
+Cohesion: 0.06
+Nodes (19): ChatGPT and DeepSeek may not be independent (78% identical values), The author weights the doing; the models weight the choosing, The gap decides which channel (device or substitution) carries the decline, Inconsistency of keeping steps, Security weights LLM round (seven models, two parts), Raw Source Index, Security weights round — ChatGPT Part 1 step importances, Security weights round — ChatGPT Part 2 critique (+11 more)
+
+### Community 40 - "Attribution Order and Joint"
+Cohesion: 0.15
+Nodes (26): Per-analyst orders are a user proposal, not a decision, Joint computation options (swap / admissible range / Shapley), Joint = range over every admissible order, Per-analyst orders inside a single house ledger, Order constraint retained; lifting deferred, Declared recursive orthogonalisation order, Joint line for order-dependent overlap, Per-analyst attribution orders (+18 more)
+
+### Community 41 - "Brainstorm v2 Decisions"
+Cohesion: 0.13
+Nodes (8): 52-week future-practice claim, LETTER (handwritten-letter security), 사유 (Reflection) security, Institutional valuation vs analyst target price vs market price, 브레인스토밍 v2, Brunnermeier & Pedersen - Market Liquidity and Funding Liquidity, Cont, Kukanov & Stoikov - The Price Impact of Order Book Events, Shleifer & Vishny - The Limits of Arbitrage
+
+### Community 42 - "Romance Analysis"
+Cohesion: 0.11
+Nodes (7): Loss of the sense of loss, with five layers: practice, capacity, occasion, balance, sense, Ontology as a layered graph with a loss test, The market stands on belief and credit, Handing over as a drift through comfort (Circe as metaphor), Loss centred on the loss of its sense, shown by differences between records, LONGING RESEARCH — What Modernization Took, and How the Literature Reads the Author's View, Romance Analysis — what romance is, what is human, and what is handed over
+
+### Community 43 - "Ledger Resolution (DEC-005)"
+Cohesion: 0.11
+Nodes (22): Factors may outnumber securities, Film-lab closure routed to security fundamentals, Per-factor separability test, Ledger resolution scales with universe, Three-layer allocation rule (factor / security fundamentals / positioning), Weekly attribution ledger, Exact attribution agreed, method open (Shapley, orthogonalized, bounded residuals), K ≤ N/3 rule and 40–60 universe expansion (+14 more)
+
+### Community 44 - "Loop Simulation"
+Cohesion: 0.11
+Nodes (20): Tipping point at ~35% AI share, Default cluster of ~18% float per week, High-β securities reach zero, longing-sim harness (sim.py), Requisition rate s(t) unspecified, 2025 single-point estimates from NIA microdata, Market convergence emerges from arrival dates, not a parameter, Per-wave `creates` coefficient (AI 0.12) (+12 more)
+
+### Community 46 - "Price Formation Dialogue"
+Cohesion: 0.15
+Nodes (19): Structural Expectation and bearish asymmetry (good news under-reflected, bad news over-reflected), Cadence: daily events, weekly close, monthly research, quarterly index review, annual State of Longing, Consensus Strength / Consensus Dominance weakening fundamental pull, Cross-asset / relative-value signal (substitutes such as Instant Messaging), Data layers: Observed Behavior / Revealed Attention / Expressed Interest / LONGING Market, Event Desk (event detection separated from price engine), Google Trends API (revealed attention source) and application text, Named historical rallies (The Analog Rebound, Physical Media Rally, The Letter Repricing) (+11 more)
+
+### Community 47 - "Pricing v2 Review: Qwen"
+Cohesion: 0.12
+Nodes (22): Agency Displacement (AD), Attention Scarcity (AS), Coordination Compression (candidate F), Demographic Shift (DS), Five-factor exposure matrix (11 securities), Friction Elimination (FE), Friction / Inconvenience Premium (candidate G), Human Substitution (candidate B) (+14 more)
+
+### Community 48 - "Arbitrage and News Quality"
+Cohesion: 0.12
+Nodes (13): Aggregate Market scope without investor stories, Who is the arbitrage counterparty?, Fundamental Value vs Market Price discount display, Funded future-practice claim branch, Crowding-scaled mean reversion κ = κ₀(1−|crowding|)·evidence_arrival, Arbitrage needs a finite unit to hold, Arbitrage as a world-building direction, A rising price is not a flourishing practice (+5 more)
+
+### Community 5 - "Three Markets and Naming"
+Cohesion: 0.06
+Nodes (45): KOCPI (placeholder candidate), LONGING COMPOSITE, Japanese index publisher is an evening paper (夕刊), Eight-name Japanese publisher shortlist, Japanese index publisher is a national paper, Evening is a setting; masthead need not say evening, Items deferred on 2026-09-20, Nine factor lines was an LLM proposal (+37 more)
+
+### Community 50 - "Secular Bear Market"
+Cohesion: 0.12
+Nodes (18): Requisition rate s(t) is capped, Fictional historical data as production basis, Melt-ups need collapses an order of magnitude larger, The model must be able to disagree with the artist (FILM test), Forced covering and amplification reopened, Bearish asymmetry, Comfort designed without malice, Liquidity between people drying up (+10 more)
+
+### Community 51 - "Security Universe Selection"
+Cohesion: 0.11
+Nodes (14): BLIND TRUST (reliance moved to non-human counterparts), Two channels take (device, substitution of judgment), two give (arrival, restoration), Four entry tests: origin, issue, exposure, loss record, Four-layer ontology: Origin, Exchange, Balances, Handed over, States priced through practices (reflection decided), Thirty candidate practices, Civic acts taken through the gathering rule, Long list of thirty act-defined candidates (+6 more)
+
+### Community 53 - "Concepts Above Securities"
+Cohesion: 0.13
+Nodes (7): MatrAIx persona simulation (validation only), Candidate practices: CALLING, face-to-face conversation, shopping in person, wayfinding, Exposure-source existence check results, Korean inmate internet letters (2005–2023), MatrAIx persona simulation as a check, never a price source, Conversation — importance weighting; the concepts above securities come first, Conversation — weights first; securities later, after ontology deliberation
+
+### Community 54 - "Japanese Publisher Shortlist"
+Cohesion: 0.09
+Nodes (19): Collision check (existence, trademark, domain, confidence), Dry contract-term register (BEARER BOND, BLIND TRUST, STANDARD RETURN), LONGING COMPOSITE (global composite, already named), 秋津経済新報 Akitsu Keizai Shinpō (index 秋経平均), Required clearance checks (J-PlatPat classes 16/41/36/9, NDL catalogue, WHOIS, homophone read), 日本取引新聞 Nihon Torihiki Shimbun (index 日取平均), 商工日報 Shōkō Nippō (index 商工平均), 商況日報 Shōkyō Nippō (index 商況平均) (+11 more)
+
+### Community 55 - "Factor Architecture v2"
+Cohesion: 0.16
+Nodes (14): F1 Latency Collapse, Cohort Transmission fundamental, Counter-secular decade test, Embodied Skill Intensity fundamental, LMC-2 (LONGING Macro Complex v2), Marketization Degree fundamental, P10 Authenticity & Status Cycle (ASC), P1 Time Compression (TC) (+6 more)
+
+### Community 56 - "Simulation Rebuild"
+Cohesion: 0.10
+Nodes (9): CALL (impulsive phone call) security, Simulation rebuild (harness v3), AI reinforcing loop (capability and adoption endogenous), BEARER BOND (perpetual attention debt between two people), Dilution of backing (rejected), No listing; a stopped price rests above zero, Signed positioning (technology brings romance too), Technology raises before it takes (arrival then substitution) (+1 more)
+
+### Community 57 - "State-securities"
+Cohesion: 0.13
+Nodes (22): Tacit knowledge (borrowed), Origin lies in choosing, sending and standing behind words, Reflection as a security priced through practices, ETF idea for state-securities, SERENDIPITY (우연한 만남), State-security, WAITING (기다림), State measure multiplies the carrier fund (+14 more)
+
+### Community 59 - "Academic Model Survey"
+Cohesion: 0.15
+Nodes (19): Loewenstein applied to film development wait (anticipation vs delay burden), Rohlfs applied to partner availability and relationship meaning, Collect papers/projects that model world events mathematically, Bass adoption model, Candia collective attention decay, 120-entry cross-domain model catalog, Frank's equivalent memory curves critique, Loewenstein anticipation model (+11 more)
+
+### Community 6 - "Factor Identification Round 4"
+Cohesion: 0.05
+Nodes (6): Factor Identification Round 4 (ChatGPT), LONGING: Factor Identification Round 4, Factor Identification Round 4 (DeepSeek), Factor Identification Round 4 (GLM), Factor Identification Round 4 (Grok), Factor Identification Round 4 (Qwen)
+
+### Community 60 - "Hearts Cooling Receipt"
+Cohesion: 0.13
+Nodes (19): Five-line audience receipt, The share from hearts cooling, Positioning stays in the engine, off the public receipt, Audience receipt and the hearts-cooling line, Unexplained as a vocabulary gap, Sequence: numeraire, substitution, priced factors, positioning, reflexive, Unexplained, Measured lines removed before estimated lines, The audience need not know finance (+11 more)
+
+### Community 61 - "Reflection (사유)"
+Cohesion: 0.12
+Nodes (18): Belief between people is the origin; system trust replaced it, Belief shifts form into confidence in the system, Four-layer frame: origin → exchange → balances → handed over, Layered graph as the ontology's form, Securities are practices; balances and layers read as indices, Trust and belief as two separate balances, Directional exposure linked initially to 사유 market price, Reflection priced through the practices it makes possible (+10 more)
+
+### Community 62 - "Failure Profile Review"
+Cohesion: 0.13
+Nodes (16): Complete replacement answer requests (Qwen, Kimi, Gemini), Security universe fixed at eleven, SET A — 8 factors (Synthetic Substitution ... Physical Grounding), SET B — 12 factors in three blocks (Displacement, Conditions, Valuation regime), SET C — 5 factors (FE, AD, MD, SR, AS), SET D — 9 factors (Temporal Compression ... Social Legibility), SET F — 10 factors: structural pressures plus valuation regimes, Contrasting event-pair tests (+8 more)
+
+### Community 63 - "Identification Findings and History"
+Cohesion: 0.11
+Nodes (17): Opening ledger near nine factor lines, Recovered factor count saturates near nine; thirteen never recovered, Leave-one-market-out transportability, Handover runs through the interaction block, Orthogonalisation order moves the schedule line early, Measured telephony moves CALL's arrival peak from week 365 to 642, Early order sensitivity rises with measured dates, Bulk clearance gate: about half power (+9 more)
+
+### Community 64 - "Pricing v2 Three Layers"
+Cohesion: 0.19
+Nodes (15): E1 Friction Premium, E2 Physicality Premium, E3 Social Legibility, E4 Economic Time Scarcity, E5 Demographic Cohort Replacement, E6 Attention Scarcity, E7 Institutional Trust / Social Capital, R1 Positioning / Crowding (+7 more)
+
+### Community 65 - "Failure Profile Prompt"
+Cohesion: 0.13
+Nodes (6): Analog trio (Film Photography, Physical Media, Handmade Object), Contact cluster (Unplanned Phone Call, Unplanned Visit, Live Performance), Eleven-security universe (fixed), SET D (9 factors), LONGING — Round 3: Factor Set Failure Profiles, Factor Set Failure Profile — Grok response
+
+### Community 66 - "Exposure Sources: DeepSeek v2"
+Cohesion: 0.11
+Nodes (19): Apple Live Speech and Personal Voice / voice banking, State AT Act programme data / CATADA / NATADS, USPS Household Diary Study / Household Mail Survey, Patent records (PATENTSCOPE / USPTO / JPO / KIPO), Team Gleason device and technology grants / service requests, ABLEDATA assistive-technology product registry, Act-navi 情報アクセシビリティ支援ナビ (MIC/NICT), Chrome / Google autocomplete statistics (+11 more)
+
+### Community 67 - "Pricing v2 Framework"
+Cohesion: 0.18
+Nodes (13): Coordination Compression (candidate factor), Friction / Inconvenience Premium (candidate, possibly cyclical), Observable indicators -> latent factors -> security exposures -> price effects, Human Substitution (candidate factor), LONGING currency as a separate Monetary System problem, Mediation (candidate factor), Physicality Displacement (candidate factor), Reference test universe (Handwritten Letter ... Live Performance, Solitude) (+5 more)
+
+### Community 68 - "Circe and the Sense of Loss"
+Cohesion: 0.13
+Nodes (4): Circe's island (Odyssey book 10), 작품 메시지 구상, Aristotle, Politics book 1, Chatbot psychosocial studies (arXiv 2503.17473, 2509.19515)
+
+### Community 69 - "DEC-016 Top-down Securities"
+Cohesion: 0.14
+Nodes (6): Six-layer world summary (private artifact), LETTER, LETTER (worked practice security), Securities chosen top-down from a romance analysis and ontology, Conversation — securities from the top down, and liquidity drying up between people, DEC-016 — Securities are chosen top-down, from an ontology of what is being handed over
+
+### Community 7 - "Naming: Grok and Gemini"
+Cohesion: 0.06
+Nodes (49): Barden & Rusk (ratings house; Barden & Rusk 11), 中央経済新聞 / Chūō Keizai Shimbun, Hollis & Mercer (rejected), 関東経済新聞 / Kantō Keizai Shimbun (rejected), 京浜経済新聞 / Keihin Keizai Shimbun, KOPCI — Korea Practice Composite Index (한국행위종합지수), LNG ticker (Cheniere Energy) collision, LNGCMP (LONGING COMPOSITE code) (+41 more)
+
+### Community 70 - "Cross-domain Model Survey"
+Cohesion: 0.16
+Nodes (20): Candia et al. (2019) collective memory and attention decay, Frank (2019) mechanism-identification counterexample, Henrich cultural-loss model (deferred lead), Loewenstein (1987) anticipation and delayed consumption, Rinaldi (1996) linear love dynamics, Rohlfs (1974) interdependent demand for a communications service, Black Shoals Stock Market Planetarium (M112), Emotional Stock Exchange / e-stock (M119) (+12 more)
+
+### Community 71 - "Exposure Sources: ChatGPT"
+Cohesion: 0.12
+Nodes (15): CRITT Translation Process Research Database, AAC utterance histories (Tobii Dynavox, PRC-Saltillo), Email assistant summary -> draft -> send histories, National Health and Aging Trends Study (NHATS), PIAAC adult competencies assessment (OECD), High-performance brain-to-text communication via handwriting (Willett 2021), A high-performance speech neuroprosthesis (Willett 2023), Jebsen-Taylor Hand Function Test writing subtest (+7 more)
+
+### Community 72 - "Data Sources and Korean Series"
+Cohesion: 0.12
+Nodes (15): Korean smartphone and SNS series not reached (data.go.kr, MSIT, KOSIS, 지표누리), OECD D1B_I social-networking series with definition-differs flag, Korea 2025 weighted estimates (smartphone 96.8%, SNS 16-74 68.1%), Repeated activity diary instrument, Anthropic Economic Index, Google Trends API (gated), Korea Post domestic letter-post volume, Driver measured where data exists, extrapolated beyond (+7 more)
+
+### Community 73 - "Exposure Existence Check"
+Cohesion: 0.14
+Nodes (15): Fixed execution/judgment share pair per security, Exposure to execution restored, Exposure to judgment substituted, LETTER as reference security, Anthropic Economic Index (from 2025), FCC TRS Fund relay minutes by service, Japan Post New Year card (年賀郵便) volumes, Japanese Google Books corpus (does not exist) (+7 more)
+
+### Community 74 - "Exposure Gaps and Proposals"
+Cohesion: 0.13
+Nodes (18): Gap: no complete annual LETTER exposure series, Purpose-built act-level diary (E21/J20: barrier/intent -> aid/suggestion -> handwritten LETTER -> dispatch), Gap: no source separates physical writer from composer for handwritten LETTER, Gap: nothing measures restoration of physically handwritten composition, Proposed: aide-assisted communication census, Proposed: composition-authorship survey (who decided what / how / who produced marks), Proposed: disability-specific handwriting-restoration registry, Proposed: platform suggestion-acceptance log (+10 more)
+
+### Community 75 - "Technology Waves and Restoration"
+Cohesion: 0.16
+Nodes (12): No Korean yearly time series available, Technology wave stack with arrival and substitution phases, Seven waves of interest (dial-up/BBS ... generative AI), Restoration and arrival (event), ALS speech-restoration case, Luddite movement (1811), Thirty-year span 1996-2026, Each medium carries an uptake value (+4 more)
+
+### Community 78 - "Factor Count and Resolution"
+Cohesion: 0.19
+Nodes (9): Attribution ledger (weekly return decomposition), Declared but unpriced factor device, Write 30-50 events before fixing factors or securities, Exposure matrix scale cost (45 x 15 = 675 judgments), Ground-truth event recovery test, Infrastructure viability (last film-processing chain closes), K <= N/3 factor-to-security ratio, Three-layer event allocation: factor, security fundamentals, positioning (+1 more)
+
+### Community 79 - "Name, Form and Delivery"
+Cohesion: 0.18
+Nodes (14): Rename LONGING to LONGING RESEARCH, LONGING name collision check (outstanding), LONGING (one-word title, superseded), LONGING RESEARCH (work title), Trademark, domain and existing-work collision check, OTHER GOODS (sibling work), Repository rename to longing-research-lab, Two words per work rule (+6 more)
+
+### Community 8 - "Security Families and Rules"
+Cohesion: 0.07
+Nodes (38): BLIND TRUST: trust in a non-human counterpart; never refuses but is shaken; scope by period, Hostility is a separate quantity beside the balances, Execution/judgment pair (execution share = importance of execution steps over total), ASK — FAVR leg (asking leg, leaning), CARE — CARE (돌봄), CHSE — GIFT form (chosen gift form), CNFD — CONFIDE (털어놓기), DEC — DECIDE (결정) (+30 more)
+
+### Community 80 - "AI Restoration Cases"
+Cohesion: 0.14
+Nodes (7): ALS speech decoder case, American Time Use Survey (ATUS), Anthropic Economic Index, NIA Digital Divide Survey, ALS (amyotrophic lateral sclerosis), AI와 낭만 비교, An instantaneous voice-synthesis neuroprosthesis (Nature 2025)
+
+### Community 81 - "Proxy Sourcing and WDI Spine"
+Cohesion: 0.13
+Nodes (16): ITU DataHub unreachable (HTTP 403), Japan WDI internet-use drop (91.06 to 85.01) is a reconciliation problem, WDI spine (internet, mobile, fixed broadband), The measurement boundary is not one week and not one line, Definition mismatches across series, Four waves measured, three not, ITU / World Bank WDI spine (IT.CEL.SETS.P2, IT.NET.BBND.P2, IT.NET.USER.ZS), Korean licence is edition-specific (KOGL types) (+8 more)
+
+### Community 83 - "Universe Round: ChatGPT"
+Cohesion: 0.16
+Nodes (6): E1 — Penny post: British mail 76M (1839) to 169M (1840), E2 — TTY (1964) and communication supports, E3 — Rosenfeld, Thomas and Hausen 2019: disintermediating friends, E4 — Pew 2011 peer-to-peer health, E5 — Be My Eyes human volunteers and Be My AI (2023), Security universe round — ChatGPT response
+
+### Community 86 - "Pricing v2 Factor Families"
+Cohesion: 0.16
+Nodes (11): Falsification tests (film revival, structural winner, collinearity, attribution integrity, model-vs-artist), Friction / Inconvenience Premium, Nine candidate factor families (A Time Compression ... I Social Legibility), Observable indicators -> latent factors -> exposures -> price, Scarcity Revaluation, Seven collinear macro variables (Efficiency ... Optimization), Uncertainty Compression, Weekly market, monthly research cadence (+3 more)
+
+### Community 87 - "Failure Profile Sets"
+Cohesion: 0.18
+Nodes (3): SET A (8 factors), SET F (10 factors: 8 pressures + 2 valuation regimes), LONGING — Factor Set Failure Profile Review (DeepSeek)
+
+### Community 88 - "Market Floor and Trust"
+Cohesion: 0.13
+Nodes (13): Credit from reputation to scores, Personal vs system trust, Ingham 2004, Johnstone 2011 — Trust in Ancient Greece, Fontaine 2014 — The Moral Economy, Fourcade & Healy 2013 — Classification situations, Giddens 1990, Lauer 2017 (+5 more)
+
+### Community 89 - "Pricing v2 Review: Grok"
+Cohesion: 0.26
+Nodes (11): Attention Scarcity, Eight orthogonal latent macro factors, Friction Premium, Performative Legibility, Physical Grounding, Social Atomization, Synthetic Substitution, Temporal Compression (+3 more)
+
+### Community 9 - "Exposure Sources: Claude v2"
+Cohesion: 0.07
+Nodes (49): ITU ICT DataHub / World Telecommunication Indicators, 디지털정보격차 실태조사 Digital Divide Survey (MSIT/NIA), 電話リレーサービス Japan Telephone Relay Service, UPU Postal Statistics, Anthropic Economic Index, How People Use ChatGPT (OpenAI / NBER 2025), Google Smart Reply (and Smart Compose) disclosures, Letter/greeting template software (筆まめ, 筆王, The Print Shop) (+41 more)
+
+### Community 90 - "Pricing v2 Review: GLM"
+Cohesion: 0.25
+Nodes (11): F1 Temporal Compression, F2 Human Act Substitution, F3 Intermediation Density, F4 Uncertainty Suppression, F5 Physical Carrier Displacement, F6 Coordination Formalization, F7 Friction Valuation, F8 Scarcity Revaluation (+3 more)
+
+### Community 92 - "Failure Profile: Gemini and Grok"
+Cohesion: 0.32
+Nodes (5): SET E R1 Positioning / Crowding priced as a common factor, SET C (5 factors), SET E (12 factors in three layers), Factor Set Failure Profile — Gemini response, Factor Set Failure Profile — Gemini response (complete)
+
+### Community 93 - "Wave Calibration"
+Cohesion: 0.18
+Nodes (10): Korea-Japan social-web stagger is an artefact of mixing placeholder and measurement, Rules 6-7: share ceiling at most 100; a series dates a wave only if it contains the midpoint, v5 mixes placeholder Korean dates with measured Japanese and US dates, Logistic midpoint as arrival week; median scale as wave width, Measured wave dates are later in every market than placeholders, MEASURED_UNTIL = week 1461 (end of 2023), Measurement edge: 2023 for all nine series, 2024 for seven, Identification experiment — findings v3, on the v5 world, 2026-09-20 (+2 more)
+
+### Community 98 - "Factor Review Consensus"
+Cohesion: 0.17
+Nodes (8): Coordination Compression declared but unpriced, Candidate pool too technology-centric (missing demand side), Observables → structural factors → exposures → regimes → positioning hierarchy, Qwen's five-core-factor reduction dissent, Scarcity Revaluation classification dispute, Qwen second-round capture hash mismatch (REVIEW_REQUIRED, re-captured), Seven reviews reject seven-factor macro set, Consensus Strength and kappa(1-S) gate, Factor Architecture Review Consensus
+
+### Community 99 - "Real Data as Reference"
+Cohesion: 0.23
+Nodes (4): Luddite movement (1811), Real data as reference for timing and strength, Luddite movement (1811) via a logarithmic time scale, Conversation — why each piece of work was done; fictional markets, a reference timeline, and a rigorous engine
 
 ## Ambiguous Edges - Review These
 - `Inmate digital messaging volumes (JPay / Securus)` → `Execution restored (exposure)`  [AMBIGUOUS]
   raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-qwen-v2.md · relation: conceptually_related_to
 - `Spam filtering as substituted receiving judgment` → `Judgment substituted (exposure)`  [AMBIGUOUS]
   raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-qwen-v2.md · relation: conceptually_related_to
+- `Backing layer (BEARER BOND and BLIND TRUST)` → `Separate fictional clearing trust`  [AMBIGUOUS]
+  wiki/concepts/world-rules.md · relation: conceptually_related_to
+- `Security Definitions — steps for the execution and judgment weights` → `CASH (physical exchange)`  [AMBIGUOUS]
+  raw/surveys/2026-09-06-dataset-backtesting-research.md · relation: conceptually_related_to
 - `Exposure sources survey — Gemini v2 (2026-09-22)` → `USPS Household Diary Study / Household Mail Survey`  [AMBIGUOUS]
   raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-gemini-v2.md · relation: conceptually_related_to
-- `VIST 3 Travel should be execution` → `VIST step 3 Travel correctly judgment`  [AMBIGUOUS]
-  raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-grok-part2.md · relation: semantically_similar_to
+- `Held-out gate calibrated on a planted null` → `Test passing for the wrong reason`  [AMBIGUOUS]
+  wiki/concepts/loop-simulation.md · relation: semantically_similar_to
+- `NTIA/Census CPS Computer and Internet Use Supplement` → `Claimed NTIA CPS supplement suspension 2017-2019`  [AMBIGUOUS]
+  raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-qwen.md · relation: conceptually_related_to
+- `Limits to arbitrage: kappa = kappa0 x (1 - |crowding|) x evidence_arrival` → `K <= N/3 factor-to-security ratio`  [AMBIGUOUS]
+  raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md · relation: conceptually_related_to
 - `Information Quality` → `Hawkes (1971) self-exciting point processes (M096)`  [AMBIGUOUS]
   raw/surveys/2026-09-06-cross-domain-model-survey.md · relation: conceptually_related_to
-- `DEC-009 — Three markets, and the convergence that erases them` → `Research Fair Value vs Market Price vs Analyst Target Price`  [AMBIGUOUS]
-  raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-qwen.md · relation: conceptually_related_to
 - `The medium of an opinion affects how seriously it is taken` → `Origin lies in choosing, sending and standing behind words`  [AMBIGUOUS]
   raw/conversations/2026-10-10-medium-changes-uptake.md · relation: conceptually_related_to
 - `CONSENSUS (name candidate)` → `Institution Naming Review`  [AMBIGUOUS]
@@ -710,37 +716,31 @@ Nodes (4): Borgmann 1984, Focal practice, Borgmann 1984, Device paradigm
   raw/conversations/2026-09-04-longing-concept-brainstorm.md · relation: conceptually_related_to
 - `POSITION (name candidate)` → `Institution Naming Review`  [AMBIGUOUS]
   raw/conversations/2026-09-04-longing-concept-brainstorm.md · relation: conceptually_related_to
-- `NTIA/Census CPS Computer and Internet Use Supplement` → `Claimed NTIA CPS supplement suspension 2017-2019`  [AMBIGUOUS]
-  raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-qwen.md · relation: conceptually_related_to
-- `Limits to arbitrage: kappa = kappa0 x (1 - |crowding|) x evidence_arrival` → `K <= N/3 factor-to-security ratio`  [AMBIGUOUS]
-  raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md · relation: conceptually_related_to
-- `CASH (physical exchange)` → `Security Definitions — steps for the execution and judgment weights`  [AMBIGUOUS]
-  raw/surveys/2026-09-06-dataset-backtesting-research.md · relation: conceptually_related_to
-- `Principle: the work does not explain itself (LONG-ING double reading delayed)` → `Abbreviations must always be explained`  [AMBIGUOUS]
+- `VIST 3 Travel should be execution` → `VIST step 3 Travel correctly judgment`  [AMBIGUOUS]
+  raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-grok-part2.md · relation: semantically_similar_to
+- `Research Fair Value vs Market Price vs Analyst Target Price` → `DEC-009 — Three markets, and the convergence that erases them`  [AMBIGUOUS]
+  raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-qwen.md · relation: conceptually_related_to
+- `Abbreviations must always be explained` → `Principle: the work does not explain itself (LONG-ING double reading delayed)`  [AMBIGUOUS]
   wiki/log.md · relation: conceptually_related_to
-- `Test passing for the wrong reason` → `Held-out gate calibrated on a planted null`  [AMBIGUOUS]
-  wiki/concepts/loop-simulation.md · relation: semantically_similar_to
-- `Backing layer (BEARER BOND and BLIND TRUST)` → `Separate fictional clearing trust`  [AMBIGUOUS]
-  wiki/concepts/world-rules.md · relation: conceptually_related_to
 
 ## Knowledge Gaps
-- **273 isolated node(s):** `Time-use surveys (ATUS / STULA / KTUS)`, `AI-likelihood scores on letters to editors (Science 2026 preprint)`, `Counting-rule families: equal count, importance weighting, time weighting`, `Weight-setting procedure LLM round (seven models)`, `Algorithmic collectivism` (+268 more)
+- **273 isolated node(s):** `Time-use surveys (ATUS / STULA / KTUS)`, `AI-likelihood scores on letters to editors (Science 2026 preprint)`, `Counting-rule families: equal count, importance weighting, time weighting`, `Weight-setting procedure LLM round (seven models)`, `Randomness in the world, not the price` (+268 more)
   These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 463 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **17 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Raw Source Index` connect `Weights Round Review` to `Weight Procedure and Exposures`, `Korean Romance Study Notes`, `Romance Analysis Round`, `Proxy Sourcing Responses`, `Three Markets and Naming`, `Factor Identification Round 4`, `Naming: Grok and Gemini`, `Exposure Sources: Claude v2`, `Pricing Model Critiques`, `System Trust Study`, `Design and Typography`, `Modernization and Credit History`, `World Rules and LETTER`, `Information Quality and Texture`, `Security Definitions`, `First Critic Reviews`, `Dataset Backtesting Research`, `Affective Polarization Study`, `Reserve Instruments`, `What Modernization Took`, `DEC-014 Restoration and Revision`, `Listing Lifecycle and Gaps`, `Exposure Sources: Device Data`, `Numeraire and A(t) Loop`, `Factor Identification Experiment`, `Wiki Entry Points`, `Weight Procedure: Qwen`, `Information Quality and Texture (2)`, `Romance Ontology and Analysis`, `Pricing Model v2 Blocks`, `Artwork Brainstorm`, `Perpetual BEARER BOND`, `Security Families (2)`, `BLIND TRUST Decisions`, `Current State and Decisions`, `Prior Art`, `Attribution Ledger Decisions`, `Brainstorm v2 Decisions`, `Romance Ontology and Analysis (2)`, `Technology Waves and Simulation`, `Simulation Harness v1 Code`, `Price Formation Dialogue`, `Pricing v2 Review: Qwen`, `Identification Experiment Code`, `Secular Bear Market`, `Security Universe Selection`, `Identification Experiment v2 Code`, `Listing Lifecycle and Gaps (2)`, `Japanese Publisher Shortlist`, `Factor Architecture v2`, `Simulation Rebuild`, `State-securities`, `Failure Profile: Qwen`, `Academic Model Survey`, `Attribution Ledger Decisions (2)`, `Reflection (사유)`, `Failure Profile Review`, `Factor Identification Experiment (3)`, `Pricing v2 Three Layers`, `Failure Profile Prompt`, `Exposure Sources: DeepSeek v2`, `Pricing v2 Framework`, `Romance Abstraction Dialogue`, `DEC-016 Top-down Securities`, `Cross-domain Model Survey`, `Exposure Sources: Device Data (2)`, `Data Sources`, `Exposure Sources Review`, `Technology Waves and Simulation (2)`, `Romance Abstraction Dialogue (2)`, `Identification Gates Code`, `Factor Count and Resolution`, `Name, Form and Delivery`, `Data Sources (2)`, `Technology Waves and Simulation (3)`, `Failure Profile: GLM`, `Universe Round: ChatGPT`, `Weights Round: GLM and ChatGPT`, `Simulation Harness v3 Code`, `Factor Architecture Consensus`, `Failure Profile Sets`, `Pricing v2 Review: Grok`, `Pricing v2 Review: GLM`, `Failure Profile: ChatGPT`, `Failure Profile: Gemini and Grok`, `Technology Waves and Simulation (4)`, `Simulation Harness v3 Code (2)`, `Simulation Harness v4 Code`, `Security Universe Round`, `Universe Round: Claude and GLM`, `Real Data as Reference`, `Secular Bear Market (2)`, `Security Universe Round (2)`, `Universe Round: Claude and GLM (2)`, `Security Universe Round (3)`, `Wiki Schema`, `Academic Recovered Excerpts`, `Execution and Judgment Weights`, `Academic Model Continuation`, `Attribution Ledger Decisions (3)`, `Origin Rule and LETTER`, `Factor Round 4: Gemini`, `Academic Survey Scope`?**
-  _High betweenness centrality (0.357) - this node is a cross-community bridge._
+- **Why does `Raw Source Index` connect `Weights Round Review` to `Weight Procedure and Exposures`, `Korean Romance Study Notes`, `Romance Analysis Round`, `Proxy Sourcing Responses`, `Three Markets and Naming`, `Factor Identification Round 4`, `Naming: Grok and Gemini`, `Exposure Sources: Claude v2`, `Pricing Model Critiques`, `System Trust Study`, `Design and Typography`, `Modernization and Credit History`, `World Rules and LETTER`, `Weekly Cadence and Texture`, `Security Definitions`, `First Critic Reviews`, `Dataset Backtesting Research`, `Affective Polarization Study`, `Reserve Instruments`, `What Modernization Took`, `DEC-014 Restoration and Revision`, `Listing and Stopped Prices`, `Exposure Sources: Gemini`, `Numeraire and A(t) Loop`, `Identification Review and Gates`, `Wiki Entry Points`, `Weight Procedure: Qwen`, `Information Quality and Arbitrage`, `Romance Ontology and Uptake`, `Pricing Model v2 Blocks`, `Artwork Brainstorm`, `Perpetual BEARER BOND`, `Family Decisions and Legs`, `BLIND TRUST Decisions`, `Current State and Decisions`, `Prior Art`, `Attribution Order and Joint`, `Brainstorm v2 Decisions`, `Romance Analysis`, `Loop Simulation`, `Simulation Harness v1–v2 Code`, `Price Formation Dialogue`, `Pricing v2 Review: Qwen`, `Identification Experiment Code`, `Secular Bear Market`, `Security Universe Selection`, `Identification Experiment v2 Code`, `Concepts Above Securities`, `Japanese Publisher Shortlist`, `Factor Architecture v2`, `Simulation Rebuild`, `State-securities`, `Failure Profile: Qwen`, `Academic Model Survey`, `Hearts Cooling Receipt`, `Reflection (사유)`, `Failure Profile Review`, `Identification Findings and History`, `Pricing v2 Three Layers`, `Failure Profile Prompt`, `Exposure Sources: DeepSeek v2`, `Pricing v2 Framework`, `Circe and the Sense of Loss`, `DEC-016 Top-down Securities`, `Cross-domain Model Survey`, `Exposure Sources: ChatGPT`, `Data Sources and Korean Series`, `Exposure Existence Check`, `Technology Waves and Restoration`, `Romance Abstraction Dialogue`, `Identification Gates Code`, `Factor Count and Resolution`, `Name, Form and Delivery`, `AI Restoration Cases`, `Proxy Sourcing and WDI Spine`, `Failure Profile: GLM`, `Universe Round: ChatGPT`, `Weights Round: GLM and ChatGPT`, `Simulation Harness v4 Code`, `Pricing v2 Factor Families`, `Failure Profile Sets`, `Pricing v2 Review: Grok`, `Pricing v2 Review: GLM`, `Failure Profile: ChatGPT`, `Failure Profile: Gemini and Grok`, `Wave Calibration`, `Simulation Harness v3 Code`, `Simulation Harness v5 Code`, `Universe Round: Grok`, `Universe Round: GLM`, `Real Data as Reference`, `DEC-007 Loop Findings`, `Universe Round: DeepSeek`, `Universe Round: Claude`, `Universe Round: Gemini`, `Wiki Schema`, `Academic Recovered Excerpts`, `Execution and Judgment Weights`, `Academic Model Continuation`, `Joint Width Display`, `Origin Rule and LETTER`, `Factor Round 4: Gemini`, `Academic Survey Scope`?**
+  _High betweenness centrality (0.378) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `Current State` (e.g. with `Revision history as the spine` and `Items deferred on 2026-09-20`) actually correct?**
   _`Current State` has 2 INFERRED edges - model-reasoned connections that need verification._
 - **What connects `Time-use surveys (ATUS / STULA / KTUS)`, `AI-likelihood scores on letters to editors (Science 2026 preprint)`, `Counting-rule families: equal count, importance weighting, time weighting` to the rest of the system?**
   _273 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Weight Procedure and Exposures` be split into smaller, more focused modules?**
-  _Cohesion score 0.06238030095759234 - nodes in this community are weakly interconnected._
-- **Why does `Current State` connect `Listing Lifecycle and Gaps` to `Weight Procedure and Exposures`, `Romance Analysis Round`, `Proxy Sourcing Responses`, `Weights Round Review`, `Three Markets and Naming`, `Factor Identification Round 4`, `Naming: Grok and Gemini`, `Security Families`, `Pricing Model Critiques`, `Design and Typography`, `World Rules and LETTER`, `Information Quality and Texture`, `Security Definitions`, `First Critic Reviews`, `Index Architecture and Units`, `Dataset Backtesting Research`, `Reserve Instruments`, `DEC-014 Restoration and Revision`, `Analysts, Bias and Overview`, `Numeraire and A(t) Loop`, `Factor Identification Experiment`, `Wiki Entry Points`, `Information Quality and Texture (2)`, `Romance Ontology and Analysis`, `Pricing Model v2 Blocks`, `Artwork Brainstorm`, `Perpetual BEARER BOND`, `Security Families (2)`, `BLIND TRUST Decisions`, `Current State and Decisions`, `Prior Art`, `Attribution Ledger Decisions`, `Brainstorm v2 Decisions`, `Romance Ontology and Analysis (2)`, `Factor Identification Experiment (2)`, `Technology Waves and Simulation`, `Price Formation Dialogue`, `Pricing v2 Review: Qwen`, `Arbitrage and News Quality`, `Identification Experiment Code`, `Secular Bear Market`, `Security Universe Selection`, `Identification Experiment v2 Code`, `Listing Lifecycle and Gaps (2)`, `Japanese Publisher Shortlist`, `Factor Architecture v2`, `Simulation Rebuild`, `State-securities`, `Academic Model Survey`, `Attribution Ledger Decisions (2)`, `Reflection (사유)`, `Failure Profile Review`, `Factor Identification Experiment (3)`, `Pricing v2 Three Layers`, `Pricing v2 Framework`, `Romance Abstraction Dialogue`, `DEC-016 Top-down Securities`, `Cross-domain Model Survey`, `Data Sources`, `Exposure Sources Review`, `Exposure Sources Review (2)`, `Technology Waves and Simulation (2)`, `Romance Abstraction Dialogue (2)`, `Identification Gates Code`, `Factor Count and Resolution`, `Name, Form and Delivery`, `Data Sources (2)`, `Technology Waves and Simulation (3)`, `Failure Profile: GLM`, `Simulation Harness v3 Code`, `Factor Architecture Consensus`, `Pricing v2 Review: Grok`, `Pricing v2 Review: GLM`, `Failure Profile: ChatGPT`, `Technology Waves and Simulation (4)`, `Simulation Harness v4 Code`, `Factor Architecture Consensus (2)`, `Real Data as Reference`, `Secular Bear Market (2)`, `Academic Recovered Excerpts`, `Execution and Judgment Weights`, `Academic Model Continuation`, `Attribution Ledger Decisions (3)`, `Origin Rule and LETTER`, `Factor Round 4: Gemini`, `Backtesting Datasets Page`?**
-  _High betweenness centrality (0.143) - this node is a cross-community bridge._
+- **Should `Simulation Harness v1–v2 Code` be split into smaller, more focused modules?**
+  _Cohesion score 0.13 - nodes in this community are weakly interconnected._
+- **Why does `Current State` connect `Listing and Stopped Prices` to `Weight Procedure and Exposures`, `Romance Analysis Round`, `Proxy Sourcing Responses`, `Weights Round Review`, `Three Markets and Naming`, `Factor Identification Round 4`, `Naming: Grok and Gemini`, `Security Families and Rules`, `Pricing Model Critiques`, `Design and Typography`, `World Rules and LETTER`, `Weekly Cadence and Texture`, `Security Definitions`, `First Critic Reviews`, `Index Architecture and Units`, `Dataset Backtesting Research`, `Reserve Instruments`, `DEC-014 Restoration and Revision`, `Analysts, Bias and Overview`, `Numeraire and A(t) Loop`, `Identification Review and Gates`, `Wiki Entry Points`, `Information Quality and Arbitrage`, `Romance Ontology and Uptake`, `Pricing Model v2 Blocks`, `Artwork Brainstorm`, `Perpetual BEARER BOND`, `Family Decisions and Legs`, `BLIND TRUST Decisions`, `Current State and Decisions`, `Prior Art`, `Attribution Order and Joint`, `Brainstorm v2 Decisions`, `Romance Analysis`, `Ledger Resolution (DEC-005)`, `Loop Simulation`, `Price Formation Dialogue`, `Pricing v2 Review: Qwen`, `Arbitrage and News Quality`, `Identification Experiment Code`, `Secular Bear Market`, `Security Universe Selection`, `Identification Experiment v2 Code`, `Concepts Above Securities`, `Japanese Publisher Shortlist`, `Factor Architecture v2`, `Simulation Rebuild`, `State-securities`, `Academic Model Survey`, `Hearts Cooling Receipt`, `Reflection (사유)`, `Failure Profile Review`, `Identification Findings and History`, `Pricing v2 Three Layers`, `Pricing v2 Framework`, `Circe and the Sense of Loss`, `DEC-016 Top-down Securities`, `Cross-domain Model Survey`, `Data Sources and Korean Series`, `Exposure Existence Check`, `Exposure Gaps and Proposals`, `Technology Waves and Restoration`, `Romance Abstraction Dialogue`, `Identification Gates Code`, `Factor Count and Resolution`, `Name, Form and Delivery`, `AI Restoration Cases`, `Proxy Sourcing and WDI Spine`, `Failure Profile: GLM`, `Simulation Harness v4 Code`, `Pricing v2 Factor Families`, `Pricing v2 Review: Grok`, `Pricing v2 Review: GLM`, `Failure Profile: ChatGPT`, `Wave Calibration`, `Simulation Harness v5 Code`, `Factor Review Consensus`, `Real Data as Reference`, `DEC-007 Loop Findings`, `Academic Recovered Excerpts`, `Execution and Judgment Weights`, `Academic Model Continuation`, `Joint Width Display`, `Origin Rule and LETTER`, `Factor Round 4: Gemini`, `Backtesting Datasets Page`?**
+  _High betweenness centrality (0.147) - this node is a cross-community bridge._
 
 ### Low-confidence Hints
 _AMBIGUOUS edges — the extractor was unsure. Verify before acting on these._

@@ -37,14 +37,14 @@
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (4 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (4 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (3 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (3 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (3 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (3 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (3 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (2 shared connections)
-- [Data Sources](Data_Sources.md) (1 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (1 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (1 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (1 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (1 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
-- [Factor Architecture Consensus (2)](Factor_Architecture_Consensus_2.md) (1 shared connections)
+- [Factor Review Consensus](Factor_Review_Consensus.md) (1 shared connections)
 
 ## Source Files
 

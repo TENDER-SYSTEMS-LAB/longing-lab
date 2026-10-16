@@ -34,16 +34,16 @@
 ## Relationships
 
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (17 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (14 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (9 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (9 shared connections)
+- [Attribution Order and Joint](Attribution_Order_and_Joint.md) (14 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (9 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (9 shared connections)
 - [Artwork Brainstorm](Artwork_Brainstorm.md) (9 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (8 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (8 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (7 shared connections)
 - [Name, Form and Delivery](Name,_Form_and_Delivery.md) (6 shared connections)
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (6 shared connections)
-- [Data Sources](Data_Sources.md) (5 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (5 shared connections)
 - [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (5 shared connections)
 
 ## Source Files

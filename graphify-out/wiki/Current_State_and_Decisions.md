@@ -35,15 +35,15 @@
 
 - [Security Definitions](Security_Definitions.md) (12 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (7 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (6 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (6 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (6 shared connections)
-- [Security Families (2)](Security_Families_2.md) (5 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (4 shared connections)
+- [Family Decisions and Legs](Family_Decisions_and_Legs.md) (5 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (4 shared connections)
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (3 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (2 shared connections)
-- [Security Families](Security_Families.md) (2 shared connections)
+- [Security Families and Rules](Security_Families_and_Rules.md) (2 shared connections)
 - [Design and Typography](Design_and_Typography.md) (2 shared connections)
-- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (1 shared connections)
+- [Romance Analysis](Romance_Analysis.md) (1 shared connections)
 
 ## Source Files
 

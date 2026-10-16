@@ -39,11 +39,11 @@
 - [Prior Art](Prior_Art.md) (6 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (4 shared connections)
 - [Name, Form and Delivery](Name,_Form_and_Delivery.md) (3 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (2 shared connections)
+- [Weekly Cadence and Texture](Weekly_Cadence_and_Texture.md) (2 shared connections)
 - [Price Formation Dialogue](Price_Formation_Dialogue.md) (2 shared connections)
 - [Design and Typography](Design_and_Typography.md) (2 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (2 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (2 shared connections)
 - [Academic Model Continuation](Academic_Model_Continuation.md) (1 shared connections)
 
 ## Source Files

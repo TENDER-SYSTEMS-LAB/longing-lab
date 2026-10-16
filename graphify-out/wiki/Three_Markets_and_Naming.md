@@ -33,17 +33,17 @@
 
 ## Relationships
 
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (16 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (13 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (16 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (13 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (12 shared connections)
 - [Japanese Publisher Shortlist](Japanese_Publisher_Shortlist.md) (11 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (11 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (11 shared connections)
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (10 shared connections)
-- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (8 shared connections)
+- [Ledger Resolution (DEC-005)](Ledger_Resolution_DEC-005.md) (8 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (7 shared connections)
 - [Naming: Grok and Gemini](Naming-_Grok_and_Gemini.md) (7 shared connections)
 - [Name, Form and Delivery](Name,_Form_and_Delivery.md) (6 shared connections)
-- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (6 shared connections)
+- [Technology Waves and Restoration](Technology_Waves_and_Restoration.md) (6 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (6 shared connections)
 
 ## Source Files

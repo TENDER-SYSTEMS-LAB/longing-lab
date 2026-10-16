@@ -2,7 +2,7 @@
 
 > God node · 98 connections · `wiki/concepts/technology-waves.md`
 
-**Community:** [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md)
+**Community:** [Technology Waves and Restoration](Technology_Waves_and_Restoration.md)
 
 ## Connections by Relation
 
@@ -53,7 +53,7 @@
 - [DEC-009 — Three markets, and the convergence that erases them](DEC-009_—_Three_markets,_and_the_convergence_that_erases_them.md) `EXTRACTED`
 - [DEC-004 — LONGING is a secular bear market, inverted](DEC-004_—_LONGING_is_a_secular_bear_market,_inverted.md) `EXTRACTED`
 - Romance Ontology — the first draft of the layered graph `EXTRACTED`
-- [Data Sources](Data_Sources.md) `EXTRACTED`
+- Data Sources `EXTRACTED`
 - DEC-007 — STANDARD RETURN is the numeraire `EXTRACTED`
 - DEC-008 — A BEARER BOND is perpetual, and what it measures is attention `EXTRACTED`
 - Loop Simulation — the first thing in this project that runs `EXTRACTED`

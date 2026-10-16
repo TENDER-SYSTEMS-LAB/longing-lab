@@ -37,7 +37,7 @@
 - [Cross-domain Model Survey](Cross-domain_Model_Survey.md) (7 shared connections)
 - [Artwork Brainstorm](Artwork_Brainstorm.md) (6 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (4 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (3 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (3 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
 - [Academic Recovered Excerpts](Academic_Recovered_Excerpts.md) (2 shared connections)
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (2 shared connections)

@@ -39,7 +39,7 @@
 - [Backtesting Datasets Page](Backtesting_Datasets_Page.md) (2 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (2 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
-- [Information Quality and Texture (2)](Information_Quality_and_Texture_2.md) (1 shared connections)
+- [Information Quality and Arbitrage](Information_Quality_and_Arbitrage.md) (1 shared connections)
 
 ## Source Files
 

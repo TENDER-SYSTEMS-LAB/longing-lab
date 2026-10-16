@@ -29,16 +29,16 @@
 
 ## Relationships
 
-- [Security Families (2)](Security_Families_2.md) (6 shared connections)
+- [Family Decisions and Legs](Family_Decisions_and_Legs.md) (6 shared connections)
 - [Security Universe Selection](Security_Universe_Selection.md) (6 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (4 shared connections)
+- [Romance Ontology and Uptake](Romance_Ontology_and_Uptake.md) (4 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (3 shared connections)
 - [Weights Round Review](Weights_Round_Review.md) (3 shared connections)
-- [Security Universe Round (4)](Security_Universe_Round_4.md) (3 shared connections)
+- [Universe Round Review](Universe_Round_Review.md) (3 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
-- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (2 shared connections)
-- [Security Families](Security_Families.md) (2 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (2 shared connections)
+- [Identification Findings and History](Identification_Findings_and_History.md) (2 shared connections)
+- [Security Families and Rules](Security_Families_and_Rules.md) (2 shared connections)
 - [DEC-016 Top-down Securities](DEC-016_Top-down_Securities.md) (2 shared connections)
 - [Reflection (사유)](Reflection_사유.md) (1 shared connections)
 

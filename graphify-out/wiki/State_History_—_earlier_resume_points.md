@@ -2,7 +2,7 @@
 
 > God node · 140 connections · `wiki/state-history.md`
 
-**Community:** [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md)
+**Community:** [Identification Findings and History](Identification_Findings_and_History.md)
 
 ## Connections by Relation
 

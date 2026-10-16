@@ -17,7 +17,7 @@
 - [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Cross-domain Model Survey](Cross-domain_Model_Survey.md) (1 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)
+- [Identification Review and Gates](Identification_Review_and_Gates.md) (1 shared connections)
 
 ## Source Files
 

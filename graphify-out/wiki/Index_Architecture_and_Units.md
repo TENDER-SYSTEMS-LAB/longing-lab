@@ -35,15 +35,15 @@
 
 - [Pricing Model Critiques](Pricing_Model_Critiques.md) (18 shared connections)
 - [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (12 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (7 shared connections)
+- [Listing and Stopped Prices](Listing_and_Stopped_Prices.md) (7 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (5 shared connections)
-- [Factor Architecture Consensus (2)](Factor_Architecture_Consensus_2.md) (4 shared connections)
+- [Factor Review Consensus](Factor_Review_Consensus.md) (4 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (4 shared connections)
 - [First Critic Reviews](First_Critic_Reviews.md) (4 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (4 shared connections)
 - [Wiki Entry Points](Wiki_Entry_Points.md) (4 shared connections)
-- [Data Sources](Data_Sources.md) (3 shared connections)
-- [Security Families](Security_Families.md) (3 shared connections)
+- [Data Sources and Korean Series](Data_Sources_and_Korean_Series.md) (3 shared connections)
+- [Security Families and Rules](Security_Families_and_Rules.md) (3 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (2 shared connections)
 
 ## Source Files
