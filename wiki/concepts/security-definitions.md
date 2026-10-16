@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-10-10
+updated: 2026-10-16
 sources:
   - SRC-2026-10-10-security-weights-round-decisions
   - SRC-2026-10-10-security-weights-round-setup
@@ -416,6 +416,273 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 | 5 | Keep it or give it back | execution | the keeper's doing |
 
 Equal-count pair: execution 0.40 / judgment 0.60.
+
+## Revised steps after the round — proposed 2026-10-16
+
+`llm-proposed`, not adopted. The author decided on 2026-10-10 that multi-branch definitions are split into forms, that the assistant writes revised step lists for review, and that the assistant proposes a rule for "keeping" steps ([[SRC-2026-10-10-security-weights-round-decisions]]); the problems fixed are those in [[security-weights-round-review]] sections 3–5. The draft lists above stay current until the author decides.
+
+**Why this is needed.** A pair is only as precise as its steps. A step counted twice, a step belonging to the other person, or a missing choice moves the execution share by itself, and that share decides whether a practice's decline runs through devices or through AI judgment. Importance can be revisited only after the steps are fixed, as the author ordered.
+
+### Rule for keeping steps
+
+A keeping step continues over time what an earlier step began, and is listed only where the definition names it.
+
+- **Holding back** — refraining from an act that would change the bond's terms: checking, settling, calling in, telling others — is **judgment**. Each moment holds a live option, and a system can take it over: tracking, automatic settlement, sharing.
+- **Keeping up** — repeating or sustaining an act already chosen: coming back, staying, remembering, keeping in touch — is **execution**. What a device takes from it is the effort: reminders, calendars.
+
+The split follows [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]: a device hides the effort of keeping up; a system that checks or settles for a person substitutes the choice to hold back. It explains why CARE "check back" (keeping up) and ETRS "refrain from checking" (holding back) differ, and moves two steps: **LSTN "keep it to oneself"** and **LEND "wait for its return"** become judgment.
+
+**A companion rule for noticing.** Noticing a given occasion — a date, a calendar — is execution, which is what a reminder takes; noticing what is not given — a person, a need — is judgment. It keeps CHSE 1 as execution beside RECH 1 and CARE 1 as judgment, and classes the new RECH "remember their day" as execution.
+
+### How forms work
+
+A form is one branch of a security's definition with its own steps and pair. The security's pair is the equal-weighted mean of its forms' pairs, as GIFT and IOU weight their forms. Forms inside a security are not listed apart, unlike GIFT's and IOU's forms, which were already securities. Both are put to the author.
+
+### Revised lists
+
+*Importance:* a number is the author's 2026-10-10 value carried over; **new** marks a step the author has not weighted. A pair is shown only where every step has a value.
+
+**STRG** — added "choose what to ask" (three models).
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to address a stranger rather than look it up | judgment | 5 |
+| 2 | Choose whom to address | judgment | 1 |
+| 3 | Choose what to ask | judgment | new |
+| 4 | Say it | execution | 4 |
+| 5 | Hear the answer | execution | 3 |
+| 6 | Weigh the answer and act on it | judgment | 2 |
+
+**INTR** — two forms; steps 1 and 2 merged (counted twice); "follow up" dropped as outside the definition.
+
+*INTR·make — putting two people one knows in touch (member 11).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | See that two would suit each other | judgment | new (was 5 and 4) |
+| 2 | Stand behind the match in words | judgment | 3 |
+| 3 | Make the contact | execution | 2 |
+
+*INTR·ask — asking someone who knows for a person or a thing (member 2, recommendation).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to ask a person rather than search | judgment | new |
+| 2 | Choose whom to ask | judgment | new |
+| 3 | Ask | execution | new |
+| 4 | Decide whether to take up what is recommended | judgment | new |
+| 5 | Meet them or try it | execution | new |
+
+**RECH** — two forms; the choice to act on a thought added (three models); "choose the moment" absorbed into it.
+
+*RECH·unprompted — reaching out for no practical reason and keeping the thread (members 8, 29; N18 sending money home, least certain).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Think of the person unprompted | judgment | 5 |
+| 2 | Decide to reach out now | judgment | new (was "choose the moment", 4) |
+| 3 | Choose a means the other person will read | judgment | 3 |
+| 4 | Make contact or send | execution | 2 |
+| 5 | Keep the thread over time | execution | 3 |
+
+*RECH·day — marking their day (member 7).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Remember their day | execution | new |
+| 2 | Decide to mark it | judgment | new |
+| 3 | Choose a means the other person will read | judgment | 3 |
+| 4 | Make contact or send | execution | 2 |
+
+**TELL** — added "ask what they think", which the definition names (two models); definition extended: *…asking for their view and weighing it.*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to tell someone | judgment | 5 |
+| 2 | Choose whom to tell | judgment | 2 |
+| 3 | Choose what to disclose | judgment | 4 |
+| 4 | Say it | execution | 3 |
+| 5 | Ask what they think | execution | new |
+| 6 | Weigh the view received | judgment | 1 |
+
+**LSTN** — added "decide to listen" (one model; three read "make time" as holding a choice); step 6 judgment by the keeping rule; definition extended: *…answering it and keeping it to oneself.*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to listen | judgment | new |
+| 2 | Make time | execution | 5 |
+| 3 | Listen through | execution | 4 |
+| 4 | Understand what is meant | judgment | 2 |
+| 5 | Choose what to say back | judgment | 3 |
+| 6 | Keep it to oneself | judgment (was execution) | 1 |
+
+**MEND** — two forms, beyond the seven the author decided on: step 5 bundled offering and accepting forgiveness (four models) and the definition does not say whose side (two). Splitting it is the assistant's extension of the author's decision.
+
+*MEND·apologise — the one who did harm, by apology or talk (members 5, 15).* Pair 0.44 / 0.56.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Recognise the harm | judgment | 3 |
+| 2 | Decide to repair | judgment | 5 |
+| 3 | Choose what to say or concede | judgment | 2 |
+| 4 | Say it | execution | 5 |
+| 5 | Keep to the repair | execution | 3 |
+
+*MEND·forgive — the one who was harmed (member N5).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to forgive | judgment | new (was half of step 5, 4) |
+| 2 | Say so | execution | new |
+| 3 | Let it rest, not raising it again | judgment | new |
+
+**DEC** — steps unchanged; definition extended so that step 5 is inside it (models read it as outside): *Reaching one decision with another person and carrying it out.* Pair 0.33 / 0.67.
+
+**MAKE** — two forms; commissioning gains the choice of maker (two models). Claude's reading that "make it" is judgment is not taken: the choice of the hand is the form itself.
+
+*MAKE·hand — making it oneself (member 26).* Pair 0.19 / 0.81.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide what to make for them | judgment | 5 |
+| 2 | Shape its particular form | judgment | 4 |
+| 3 | Make it | execution | 3 |
+| 4 | Choose how to give it, as the recipient will read it | judgment | 4 |
+
+*MAKE·commission — having its maker make it for them (member N15, least certain).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide what to have made for them | judgment | new |
+| 2 | Choose the maker | judgment | new |
+| 3 | Settle its particular form with the maker | judgment | new |
+| 4 | Pay and collect it | execution | new |
+| 5 | Choose how to give it, as the recipient will read it | judgment | new |
+
+**LERN** — added "decide what to learn", mirroring TCHR's "decide what to pass on" (two models).
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide what to learn | judgment | new |
+| 2 | Choose whom to learn from | judgment | 3 |
+| 3 | Ask to be taught | execution | 1 |
+| 4 | Watch and copy | execution | 2 |
+| 5 | Practise under correction | execution | 4 |
+| 6 | Judge when one has it | judgment | 2 |
+
+**CARE** — three forms, following the definition's "body, days, voice" and the family's members; "voice" is read as lending one's voice (reading aloud, restoring conversation).
+
+*CARE·body — caring for someone ill (member 18): the current five steps unchanged.* Pair 0.24 / 0.76.
+
+*CARE·days — looking in on someone who lives alone (member N13).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to look in on them | judgment | new |
+| 2 | Look in, by visit or call, again and again | execution | new |
+| 3 | Notice what has changed | judgment | new |
+| 4 | Arrange what is needed | execution | new |
+
+*CARE·voice — reading to someone or keeping a conversation going with someone losing sight, speech or hearing (members 21, N14).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Notice what they can no longer read or say | judgment | new |
+| 2 | Choose what to read or how to talk with them | judgment | new |
+| 3 | Read or talk with them | execution | new |
+
+**VGIL** — step 4 reworded so it no longer repeats step 2 (three models): being there is one sitting; coming back is across the days. Definition extended: *…for as long as it lasts.* Pair 0.64 / 0.36.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 4 | Come back for as long as it lasts | execution | 4 |
+
+**VIST** — two forms; "see them back" moves to the second.
+
+*VIST·visit — going to them, or a meal arranged together (members 9, 25).* Pair 0.40 / 0.60.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to go | judgment | 5 |
+| 2 | Arrange the time | execution | 3 |
+| 3 | Travel | execution | 1 |
+| 4 | Choose what to do together | judgment | 4 |
+| 5 | Spend the time | execution | 2 |
+
+*VIST·accompany — walking someone home (member N12).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Offer to go with them | judgment | new |
+| 2 | Go with them | execution | new |
+| 3 | See them in | execution | new (was "see them back", 2) |
+
+**GTHR** — two forms; "go and join" and "take part" merged (four models: attendance counted at three time scales).
+
+*GTHR·group — joining a standing group and keeping a place in it (members 30, N3).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Choose the group | judgment | 3 |
+| 2 | Go and take part | execution | new (was 4 and 5) |
+| 3 | Keep coming | execution | 4 |
+| 4 | Take on a role | judgment | 1 |
+
+*GTHR·civic — a civic act done with others, under the gathering rule.*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Choose what to join | judgment | new |
+| 2 | Decide what one stands for there | judgment | new |
+| 3 | Turn up and take part | execution | new |
+
+**PLAY** — step 3 reworded so it no longer contains step 4 (two models). Pair 0.59 / 0.41.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 3 | Play one's part as practised | execution | 5 |
+
+**LEND** — step 4 judgment by the keeping rule. Pair 0.38 / 0.62 (was 0.46).
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 4 | Wait without calling it in | judgment (was execution) | 1 |
+
+**ETRS** — three forms by act, grouping the five objects; step 5, the keeper's act, removed (four models).
+
+*ETRS·keep — leaving a key or a secret in someone's keeping (members N7, N19).* Pair 0.21 / 0.79.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to entrust | judgment | 5 |
+| 2 | Choose the keeper | judgment | 4 |
+| 3 | Give it into their keeping | execution | 3 |
+| 4 | Refrain from checking | judgment | 2 |
+
+*ETRS·let-go — letting a child go out alone (member N11).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Judge that they are ready | judgment | new |
+| 2 | Let them go | execution | new |
+| 3 | Refrain from tracking | judgment | new |
+
+*ETRS·word — relying on someone's word: meeting at a time agreed without confirming, vouching with one's name (members 17, N8, least certain).*
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to rely on their word | judgment | new |
+| 2 | Act on it: turn up, or vouch | execution | new |
+
+**Unchanged:** WRIT, CHSE, TCHR, ASK, HELP, TRET. Their keeping steps already fit the rule — ASK 5 and TRET 4 keep up, TRET 3 holds back. Single-model points not taken: DEC 3/4, CHSE 2/3, STRG 1/2 as double counts; ASK 1, TRET 3 as execution; ASK 4 "accept the help" stays execution, since refusing help once asked lies outside the practice.
+
+### Questions for the author
+
+1. Accept, reword or reject each revised list.
+2. The keeping rule and the noticing rule.
+3. Forms combine with equal weights, and are not listed apart.
+4. MEND split into forms, beyond the seven.
+5. After this, importance for the new steps and for the steps six or seven models disputed, as decided.
 
 ## Questions for the author — answered 2026-10-10, except the LLM check
 
