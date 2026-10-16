@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-revised-steps-decisions
   - SRC-2026-10-10-security-weights-round-decisions
   - SRC-2026-10-10-security-weights-round-setup
   - SRC-2026-10-10-security-weights-round-prompt-part1
@@ -19,7 +20,7 @@ sources:
 
 The task the author set on 2026-10-01 and left until the securities were chosen: each security's steps are counted by importance, the importance is part of its definition, the author sets it, and each setting is checked against as many LLMs as possible ([[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]]). The securities were chosen on 2026-10-10 ([[security-families]]).
 
-**Status.** The definitions and steps are the assistant's draft, `llm-proposed`; the importance values are the author's, set on 2026-10-10 (next section). The equal-count pairs in the draft are a reference only.
+**Status.** The definitions and steps are the assistant's draft, `llm-proposed`; the importance values are the author's, set on 2026-10-10 (next section). The equal-count pairs in the draft are a reference only. *Since 2026-10-16 the revised lists below are decided and supersede the draft lists wherever they differ ([[SRC-2026-10-16-revised-steps-decisions]]); the 2026-10-10 pairs of the changed securities are stale until the new steps are weighted.*
 
 ## The author's settings (2026-10-10)
 
@@ -417,9 +418,11 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 
 Equal-count pair: execution 0.40 / judgment 0.60.
 
-## Revised steps after the round — proposed 2026-10-16
+## Revised steps after the round — decided 2026-10-16
 
-`llm-proposed`, not adopted. The author decided on 2026-10-10 that multi-branch definitions are split into forms, that the assistant writes revised step lists for review, and that the assistant proposes a rule for "keeping" steps ([[SRC-2026-10-10-security-weights-round-decisions]]); the problems fixed are those in [[security-weights-round-review]] sections 3–5. The draft lists above stay current until the author decides.
+**Decided** ([[SRC-2026-10-16-revised-steps-decisions]]), `user-confirmed`: the keeping rule and the noticing rule; forms combine with equal weights and are not listed apart; every revised list below accepted. Two answers differ from the proposal: **MEND is not split** — the author also accepted MEND's card, whose list was the split, so MEND keeps its draft list and the bundled step 5 is put back to the author; and **ETRS·let-go drops step 3**, "refrain from tracking", on the author's memo, worded tentatively ("좋은 듯"). The assistant notes that without it the let-go form carries no step that child tracking substitutes, though tracking is ETRS's main channel; ETRS·keep still holds "refrain from checking". Next: importance for the new steps and for the steps six or seven models disputed.
+
+The proposal as written follows, `llm-proposed`; the two differences are marked in place. The author decided on 2026-10-10 that multi-branch definitions are split into forms, that the assistant writes revised step lists for review, and that the assistant proposes a rule for "keeping" steps ([[SRC-2026-10-10-security-weights-round-decisions]]); the problems fixed are those in [[security-weights-round-review]] sections 3–5. The draft lists above stay current until the author decides.
 
 **Why this is needed.** A pair is only as precise as its steps. A step counted twice, a step belonging to the other person, or a missing choice moves the execution share by itself, and that share decides whether a practice's decline runs through devices or through AI judgment. Importance can be revisited only after the steps are fixed, as the author ordered.
 
@@ -516,7 +519,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 | 5 | Choose what to say back | judgment | 3 |
 | 6 | Keep it to oneself | judgment (was execution) | 1 |
 
-**MEND** — two forms, beyond the seven the author decided on: step 5 bundled offering and accepting forgiveness (four models) and the definition does not say whose side (two). Splitting it is the assistant's extension of the author's decision.
+**MEND** — *not split (decided 2026-10-16); the draft list stays and the two forms below are kept only as the proposal.* Two forms, beyond the seven the author decided on: step 5 bundled offering and accepting forgiveness (four models) and the definition does not say whose side (two). Splitting it is the assistant's extension of the author's decision.
 
 *MEND·apologise — the one who did harm, by apology or talk (members 5, 15).* Pair 0.44 / 0.56.
 
@@ -665,7 +668,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 |---|---|---|---|
 | 1 | Judge that they are ready | judgment | new |
 | 2 | Let them go | execution | new |
-| 3 | Refrain from tracking | judgment | new |
+| ~~3~~ | ~~Refrain from tracking~~ — removed 2026-10-16 on the author's memo | judgment | — |
 
 *ETRS·word — relying on someone's word: meeting at a time agreed without confirming, vouching with one's name (members 17, N8, least certain).*
 
@@ -676,12 +679,12 @@ A form is one branch of a security's definition with its own steps and pair. The
 
 **Unchanged:** WRIT, CHSE, TCHR, ASK, HELP, TRET. Their keeping steps already fit the rule — ASK 5 and TRET 4 keep up, TRET 3 holds back. Single-model points not taken: DEC 3/4, CHSE 2/3, STRG 1/2 as double counts; ASK 1, TRET 3 as execution; ASK 4 "accept the help" stays execution, since refusing help once asked lies outside the practice.
 
-### Questions for the author
+### Questions for the author — answered 2026-10-16, except MEND
 
-1. Accept, reword or reject each revised list.
-2. The keeping rule and the noticing rule.
-3. Forms combine with equal weights, and are not listed apart.
-4. MEND split into forms, beyond the seven.
+1. Accept, reword or reject each revised list — *all accepted; ETRS·let-go step 3 removed.*
+2. The keeping rule and the noticing rule — *both accepted.*
+3. Forms combine with equal weights, and are not listed apart — *both accepted.*
+4. MEND split into forms, beyond the seven — *not split; open: how step 5, which bundles offering and accepting forgiveness, is fixed without a split.*
 5. After this, importance for the new steps and for the steps six or seven models disputed, as decided.
 
 ## Questions for the author — answered 2026-10-10, except the LLM check
@@ -702,6 +705,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 
 ## Sources
 
+- [[SRC-2026-10-16-revised-steps-decisions]] — [raw/conversations/2026-10-16-revised-steps-decisions.md](../../raw/conversations/2026-10-16-revised-steps-decisions.md); revised lists, keeping and noticing rules and form weighting accepted; MEND not split; ETRS·let-go step 3 removed
 - [[SRC-2026-10-10-security-weights-round-decisions]] — [raw/conversations/2026-10-10-security-weights-round-decisions.md](../../raw/conversations/2026-10-10-security-weights-round-decisions.md); four narrow-rule steps rewritten, VIST 3 returned, forms to be split
 - [[SRC-2026-10-10-security-weights-round-setup]] — [raw/conversations/2026-10-10-security-weights-round-setup.md](../../raw/conversations/2026-10-10-security-weights-round-setup.md); the round set up
 - [[SRC-2026-10-10-security-weights-round-prompt-part1]] — [raw/documents/2026-10-10-security-weights-round-prompt-part1.md](../../raw/documents/2026-10-10-security-weights-round-prompt-part1.md); round prompt, Part 1
