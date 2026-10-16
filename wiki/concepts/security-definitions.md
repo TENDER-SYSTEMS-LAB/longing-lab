@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-mend-keeps-forgiveness
   - SRC-2026-10-16-revised-steps-decisions
   - SRC-2026-10-10-security-weights-round-decisions
   - SRC-2026-10-10-security-weights-round-setup
@@ -207,7 +208,7 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 | 2 | Decide to repair | judgment | repair or not |
 | 3 | Choose what to say or concede | judgment | the content |
 | 4 | Say it | execution | manner only |
-| 5 | Offer or accept forgiveness | judgment | forgive or not |
+| 5 | Forgive: regard them as if they had done no wrong (rewritten 2026-10-16; was "Offer or accept forgiveness") | judgment | an attitude toward the wrong, the author's reading (2026-10-16) |
 | 6 | Keep to the repair | execution | no new option |
 
 Equal-count pair: execution 0.33 / judgment 0.67.
@@ -420,7 +421,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 ## Revised steps after the round — decided 2026-10-16
 
-**Decided** ([[SRC-2026-10-16-revised-steps-decisions]]), `user-confirmed`: the keeping rule and the noticing rule; forms combine with equal weights and are not listed apart; every revised list below accepted. Two answers differ from the proposal: **MEND is not split** — the author also accepted MEND's card, whose list was the split, so MEND keeps its draft list and the bundled step 5 is put back to the author; and **ETRS·let-go drops step 3**, "refrain from tracking", on the author's memo, worded tentatively ("좋은 듯"). The assistant notes that without it the let-go form carries no step that child tracking substitutes, though tracking is ETRS's main channel; ETRS·keep still holds "refrain from checking". Next: importance for the new steps and for the steps six or seven models disputed.
+**Decided** ([[SRC-2026-10-16-revised-steps-decisions]]), `user-confirmed`: the keeping rule and the noticing rule; forms combine with equal weights and are not listed apart; every revised list below accepted. Two answers differ from the proposal: **MEND is not split** — the author also accepted MEND's card, whose list was the split, so MEND keeps its draft list and the bundled step 5 is put back to the author — *answered: forgiveness stays, as judgment, and step 5 becomes the forgiving act ([[SRC-2026-10-16-mend-keeps-forgiveness]])*; and **ETRS·let-go drops step 3**, "refrain from tracking", on the author's memo, worded tentatively ("좋은 듯"). The assistant notes that without it the let-go form carries no step that child tracking substitutes, though tracking is ETRS's main channel; ETRS·keep still holds "refrain from checking". Next: importance for the new steps and for the steps six or seven models disputed.
 
 The proposal as written follows, `llm-proposed`; the two differences are marked in place. The author decided on 2026-10-10 that multi-branch definitions are split into forms, that the assistant writes revised step lists for review, and that the assistant proposes a rule for "keeping" steps ([[SRC-2026-10-10-security-weights-round-decisions]]); the problems fixed are those in [[security-weights-round-review]] sections 3–5. The draft lists above stay current until the author decides.
 
@@ -684,7 +685,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 1. Accept, reword or reject each revised list — *all accepted; ETRS·let-go step 3 removed.*
 2. The keeping rule and the noticing rule — *both accepted.*
 3. Forms combine with equal weights, and are not listed apart — *both accepted.*
-4. MEND split into forms, beyond the seven — *not split; open: how step 5, which bundles offering and accepting forgiveness, is fixed without a split.*
+4. MEND split into forms, beyond the seven — *not split. Answered the same day ([[SRC-2026-10-16-mend-keeps-forgiveness]]): forgiveness belongs in MEND as judgment — the attitude of regarding the person as if they had done no wrong. Step 5 is reworded to the forgiving act alone, the assistant's reading; accepting forgiveness is dropped. MEND therefore spans both people: steps 1–4 are done by the one who repairs, step 5 by the one who was harmed. Importance 4 is carried until the author resets it, so the pair stays 0.36 / 0.64.*
 5. After this, importance for the new steps and for the steps six or seven models disputed, as decided.
 
 ## Questions for the author — answered 2026-10-10, except the LLM check
@@ -705,6 +706,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 
 ## Sources
 
+- [[SRC-2026-10-16-mend-keeps-forgiveness]] — [raw/conversations/2026-10-16-mend-keeps-forgiveness.md](../../raw/conversations/2026-10-16-mend-keeps-forgiveness.md); forgiveness stays in MEND as judgment; step 5 reworded
 - [[SRC-2026-10-16-revised-steps-decisions]] — [raw/conversations/2026-10-16-revised-steps-decisions.md](../../raw/conversations/2026-10-16-revised-steps-decisions.md); revised lists, keeping and noticing rules and form weighting accepted; MEND not split; ETRS·let-go step 3 removed
 - [[SRC-2026-10-10-security-weights-round-decisions]] — [raw/conversations/2026-10-10-security-weights-round-decisions.md](../../raw/conversations/2026-10-10-security-weights-round-decisions.md); four narrow-rule steps rewritten, VIST 3 returned, forms to be split
 - [[SRC-2026-10-10-security-weights-round-setup]] — [raw/conversations/2026-10-10-security-weights-round-setup.md](../../raw/conversations/2026-10-10-security-weights-round-setup.md); the round set up

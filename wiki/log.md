@@ -872,3 +872,7 @@ As the author decided on 2026-10-10 ([[SRC-2026-10-10-security-weights-round-dec
 ## [2026-10-16] decision | The revised steps decided
 
 The author decided on the revised step lists ([[SRC-2026-10-16-revised-steps-decisions]]): the keeping rule and the noticing rule accepted; forms combine with equal weights and are not listed apart; every revised list accepted. MEND is not split, although its card, whose list was the split, was also accepted; MEND keeps its draft list and its bundled forgiveness step goes back to the author. ETRS·let-go drops "refrain from tracking" on a tentatively worded memo; the assistant noted that the form then carries no step that child tracking substitutes. Recorded on [[security-definitions]]; [[current-state]] is updated. Next: importance for the new steps and the disputed steps.
+
+## [2026-10-16] decision | MEND keeps forgiveness
+
+The author answered the MEND question ([[SRC-2026-10-16-mend-keeps-forgiveness]]): forgiveness belongs in MEND as judgment — the attitude of regarding the person as if they had done no wrong. Step 5 on [[security-definitions]] is reworded from "offer or accept forgiveness" to the forgiving act alone, the assistant's reading; MEND thus spans both people, and its pair is unchanged at 0.36 until the author resets step 5's importance. [[current-state]] is updated. The ETRS question about tracking remains unanswered.
