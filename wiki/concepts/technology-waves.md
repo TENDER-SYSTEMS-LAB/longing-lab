@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: user-confirmed
-updated: 2026-10-03
+updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-uptake-and-tret-name-decisions
   - SRC-2026-10-03-three-markets-erased
   - SRC-2026-10-01-fictional-markets-and-a-reference-timeline
   - SRC-2026-09-20-bearer-bond-issuance
@@ -269,6 +270,10 @@ The offset *c* sets how much the last few years are stretched.
 - Whether the world's calendar shows real-looking dates.
 - How the weekly price and monthly research rhythm of [[DEC-003-weekly-market-monthly-research]] works when time is compressed. For example, whether a far-past week is a longer span of world time, or whether prices simply start later.
 
+## Evolution — each medium carries an uptake value (2026-10-16)
+
+The author adopted *uptake* ([[romance-ontology]], [[SRC-2026-10-16-uptake-and-tret-name-decisions]]), `user-confirmed`: how seriously a receiver takes an act depends on the medium it arrives through, and it scales the BEARER BOND principal at issuance. Each medium carries a numeric uptake value, so a wave changes not only how many acts occur but how much each one issues. No value is set. The assistant's note, `llm-proposed`: the one measured anchor is the gap between face-to-face and written communication in Balliet (2010), d = 1.21 against 0.46; every other medium's value is unmeasured.
+
 ## Related
 
 - [[DEC-008-bearer-bond-is-perpetual]]
@@ -282,6 +287,7 @@ The offset *c* sets how much the last few years are stretched.
 
 ## Sources
 
+- [[SRC-2026-10-16-uptake-and-tret-name-decisions]] — [raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md](../../raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md); each medium carries an uptake value
 - [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); real data as a reference, the world's own timeline, logarithmic time, the Luddites
 - [[SRC-2026-09-21-restoration-is-arrival-and-substitution-is-judgment]] — [raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md](../../raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md); the decision, DEC-014

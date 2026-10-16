@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-10-10
+updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-uptake-and-tret-name-decisions
   - SRC-2026-10-10-medium-changes-uptake
   - SRC-2026-10-10-security-universe-round-decisions-5-to-7
   - SRC-2026-10-05-ontology-draft-decisions
@@ -100,7 +101,10 @@ Exploitative relations are outside the graph ([[SRC-2026-10-04-romance-remaining
 | Restoration and arrival | event | A new or recovered way of reaching a person; raises issuance. Technology's gifts are events on the world's timeline. | [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], [[SRC-2026-10-04-romance-round-decisions]] (8) |
 | Non-technological rise | event | A rise in practice not caused by technology — longer lives, smaller families, shorter hours, love marriage; raises issuance through its own channel so that it is not credited to a technological one. Added 2026-10-10. | [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] |
 
-## The medium changes uptake — an idea, not adopted (2026-10-10)
+## The medium changes uptake — adopted 2026-10-16
+
+**Decided** ([[SRC-2026-10-16-uptake-and-tret-name-decisions]]), `user-confirmed`: uptake enters the world as an attribute of an issue. It acts on **issuance** — the BEARER BOND principal — not on coupons: the same act sent through a thinner medium issues a smaller bond. **Each medium carries a numeric uptake value**, against the assistant's recommendation of a few ordinal classes; the values are not set. The evidence check of the same day, the assistant's and read from search results: the note-versus-light experiment was not found; Lindskold & Finch (1981) compared the content of handwritten notes, not media; Balliet (2010, *Journal of Conflict Resolution* 54(1)) is confirmed — communication raises cooperation, face-to-face d = 1.21 against written messages d = 0.46; Sally (1995, *Rationality and Society* 7(1)) exists. The idea as first recorded follows.
+
 
 The author's idea, `user-originated` ([[SRC-2026-10-10-medium-changes-uptake]]): in a modified prisoner's dilemma the author heard of, a partner's position sent by a written note or by a light was taken with different seriousness; the medium of an opinion affects the choice, and the world should show this. The study is unidentified and unverified. Related work the assistant knows of, not checked in this session, `probable`: meta-analyses of communication in social dilemmas (Sally 1995; Balliet 2010) report that face-to-face communication raises cooperation more than written messages.
 
@@ -112,7 +116,7 @@ The author's idea, `user-originated` ([[SRC-2026-10-10-medium-changes-uptake]]):
 
 **What it would add to the world:** a decline that does not need fewer acts. When the media people use shift — letter, telephone, text, a drafted message — the same number of acts carries less weight. This answers the round's warning that a state can vanish while its carrying practices hold ([[security-universe-round-review]]), and gives WAIT and the other states a mechanism.
 
-**Open for the author:** whether to adopt uptake as an attribute; whether it acts on issuance (principal), on coupons, or on both; whether each medium in [[technology-waves]] carries an uptake level; and whether the experiment should be found and verified before the idea enters the world.
+**Open for the author** — *answered 2026-10-16: adopted, on issuance, a number per medium; the values remain open, and the experiment was not found but the direction is supported by Balliet (2010):* whether to adopt uptake as an attribute; whether it acts on issuance (principal), on coupons, or on both; whether each medium in [[technology-waves]] carries an uptake level; and whether the experiment should be found and verified before the idea enters the world.
 
 ## Named relations
 
@@ -185,6 +189,7 @@ Kept as asked; the answers are in the section above.
 
 ## Sources
 
+- [[SRC-2026-10-16-uptake-and-tret-name-decisions]] — [raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md](../../raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md); uptake adopted on issuance with a value per medium
 - [[SRC-2026-10-10-medium-changes-uptake]] — [raw/conversations/2026-10-10-medium-changes-uptake.md](../../raw/conversations/2026-10-10-medium-changes-uptake.md); the medium changes uptake, an idea
 - [[SRC-2026-10-10-security-universe-round-decisions-5-to-7]] — [raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md](../../raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md); a non-technological channel added; civic acts as gatherings
 - [[SRC-2026-10-05-ontology-draft-decisions]] — [raw/conversations/2026-10-05-ontology-draft-decisions.md](../../raw/conversations/2026-10-05-ontology-draft-decisions.md); the author's review: hostility an analyst indicator, trust and belief separate, reflection priced through practices, securities as practices with indices over balances and layers

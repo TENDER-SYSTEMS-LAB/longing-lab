@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-uptake-and-tret-name-decisions
   - SRC-2026-10-16-step-importance-decisions
   - SRC-2026-10-16-mend-keeps-forgiveness
   - SRC-2026-10-16-revised-steps-decisions
@@ -88,7 +89,7 @@ The author set every step's importance on a decision page ([[SRC-2026-10-10-secu
 
 - **CARE step 5** is rewritten as a change over time, at the author's choice, because it read the same as step 2: step 2 is the first choice of help, step 5 is "change the care as the need changes". Its importance, 4, was set against the earlier wording and is carried over until the author resets it.
 - **The classification rule is put to review**, `user-originated`. The author's memo on RECH asked whether choosing the means is judgment; asked whether to change RECH alone or the rule, the author chose to review the rule itself — that manner (medium, route, handwriting) is never judgment. Until the review ends, every class stays as drafted.
-- **TRET's Korean name** "한턱" does not land for the author; opinions are to be gathered before it is changed. The English name and code stay.
+- **TRET's Korean name** "한턱" does not land for the author; opinions are to be gathered before it is changed. The English name and code stay. *Decided 2026-10-16 ([[SRC-2026-10-16-uptake-and-tret-name-decisions]]): TRET has no Korean name, since no Korean expression fits; it is written with its ticker and English name only.*
 
 Pairs are not final until the rule review and the LLM check are done.
 
@@ -411,7 +412,7 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 
 Equal-count pair: execution 0.50 / judgment 0.50.
 
-### TRET — IOU · form (한턱) · IOU 형태
+### TRET — IOU · form (no Korean name since 2026-10-16; was 한턱) · IOU 형태
 
 *Paying for someone now and leaving the turn open.*
 
@@ -738,6 +739,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 
 ## Sources
 
+- [[SRC-2026-10-16-uptake-and-tret-name-decisions]] — [raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md](../../raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md); TRET's Korean name dropped
 - [[SRC-2026-10-16-step-importance-decisions]] — [raw/conversations/2026-10-16-step-importance-decisions.md](../../raw/conversations/2026-10-16-step-importance-decisions.md); importance for the new and disputed steps; the current pairs
 - [[SRC-2026-10-16-mend-keeps-forgiveness]] — [raw/conversations/2026-10-16-mend-keeps-forgiveness.md](../../raw/conversations/2026-10-16-mend-keeps-forgiveness.md); forgiveness stays in MEND as judgment; step 5 reworded
 - [[SRC-2026-10-16-revised-steps-decisions]] — [raw/conversations/2026-10-16-revised-steps-decisions.md](../../raw/conversations/2026-10-16-revised-steps-decisions.md); revised lists, keeping and noticing rules and form weighting accepted; MEND not split; ETRS·let-go step 3 removed
