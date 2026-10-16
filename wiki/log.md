@@ -876,3 +876,7 @@ The author decided on the revised step lists ([[SRC-2026-10-16-revised-steps-dec
 ## [2026-10-16] decision | MEND keeps forgiveness
 
 The author answered the MEND question ([[SRC-2026-10-16-mend-keeps-forgiveness]]): forgiveness belongs in MEND as judgment — the attitude of regarding the person as if they had done no wrong. Step 5 on [[security-definitions]] is reworded from "offer or accept forgiveness" to the forgiving act alone, the assistant's reading; MEND thus spans both people, and its pair is unchanged at 0.36 until the author resets step 5's importance. [[current-state]] is updated. The ETRS question about tracking remains unanswered.
+
+## [2026-10-16] decision | Importance for the new and disputed steps
+
+The author set importance on a decision page ([[SRC-2026-10-16-step-importance-decisions]]): values for the thirty-six new steps; of the twenty disputed steps, LSTN 4, LSTN 6 and MEND 3 raised toward the models and seventeen kept; the four reworded steps kept their carried values; ETRS·let-go step 3 stays removed. All twenty-two pairs are now complete on [[security-definitions]], from 0.11 (WRIT) to 0.64 (VGIL); the largest moves — LSTN 0.67 → 0.41, GTHR 0.76 → 0.51, TELL 0.20 → 0.37 — come from the revised steps. [[current-state]] is updated; the next task is not set.

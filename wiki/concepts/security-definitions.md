@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-step-importance-decisions
   - SRC-2026-10-16-mend-keeps-forgiveness
   - SRC-2026-10-16-revised-steps-decisions
   - SRC-2026-10-10-security-weights-round-decisions
@@ -21,7 +22,38 @@ sources:
 
 The task the author set on 2026-10-01 and left until the securities were chosen: each security's steps are counted by importance, the importance is part of its definition, the author sets it, and each setting is checked against as many LLMs as possible ([[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]]). The securities were chosen on 2026-10-10 ([[security-families]]).
 
-**Status.** The definitions and steps are the assistant's draft, `llm-proposed`; the importance values are the author's, set on 2026-10-10 (next section). The equal-count pairs in the draft are a reference only. *Since 2026-10-16 the revised lists below are decided and supersede the draft lists wherever they differ ([[SRC-2026-10-16-revised-steps-decisions]]); the 2026-10-10 pairs of the changed securities are stale until the new steps are weighted.*
+**Status.** The definitions and steps are the assistant's draft, `llm-proposed`; the importance values are the author's, set on 2026-10-10 (next section). The equal-count pairs in the draft are a reference only. *Since 2026-10-16 the revised lists below are decided and supersede the draft lists wherever they differ ([[SRC-2026-10-16-revised-steps-decisions]]); the 2026-10-10 pairs of the changed securities are stale until the new steps are weighted. Weighted the same day: the current pairs are in the next section.*
+
+## The pairs after the revision (2026-10-16)
+
+The author set importance for the thirty-six new steps and revisited the twenty disputed ones ([[SRC-2026-10-16-step-importance-decisions]]), `user-confirmed`. Three disputed values changed — LSTN 4 "understand what is meant" 2→4, LSTN 6 "keep it to oneself" 2 (was 1), MEND 3 "choose what to say or concede" 2→4 — and the other seventeen, with the four reworded steps, kept the author's values. ETRS·let-go step 3 stays removed. Steps follow the revised lists below, in their order; a security with forms takes the equal-weighted mean of its forms' pairs. These are the current pairs; the 2026-10-10 table is kept as history.
+
+| Code | Importance by step (form pair) | Execution | Judgment | 2026-10-10 |
+|---|---|---|---|---|
+| STRG | 5,1,3,4,3,2 | 0.39 | 0.61 | 0.47 |
+| INTR | make 5,3,2 (0.20); ask 3,5,5,4,2 (0.37) | 0.28 | 0.72 | 0.20 |
+| WRIT | 5,5,5,2,2 | 0.11 | 0.89 | 0.11 |
+| RECH | unprompted 5,3,3,2,3 (0.31); day 5,5,3,2 (0.47) | 0.39 | 0.61 | 0.29 |
+| TELL | 5,2,4,3,4,1 | 0.37 | 0.63 | 0.20 |
+| LSTN | 4,5,4,4,3,2 | 0.41 | 0.59 | 0.67 |
+| MEND | 3,5,4,5,4,3 | 0.33 | 0.67 | 0.36 |
+| DEC | 5,2,4,3,4 | 0.33 | 0.67 | 0.33 |
+| CHSE | 3,5,5,2,4 | 0.26 | 0.74 | 0.26 |
+| MAKE | hand 5,4,3,4 (0.19); commission 5,2,3,1,4 (0.07) | 0.13 | 0.87 | 0.19 |
+| LERN | 5,3,1,2,4,2 | 0.41 | 0.59 | 0.58 |
+| TCHR | 5,3,2,4,1 | 0.33 | 0.67 | 0.33 |
+| CARE | body 5,4,3,1,4 (0.24); days 4,2,3,4 (0.46); voice 3,4,4 (0.36) | 0.35 | 0.65 | 0.24 |
+| VGIL | 3,5,2,4 | 0.64 | 0.36 | 0.64 |
+| VIST | visit 5,3,1,4,2 (0.40); accompany 4,3,3 (0.60) | 0.50 | 0.50 | 0.47 |
+| GTHR | group 3,5,4,1 (0.69); civic 5,5,5 (0.33) | 0.51 | 0.49 | 0.76 |
+| PLAY | 3,2,5,4,3 | 0.59 | 0.41 | 0.59 |
+| ASK | 5,3,4,5,4 | 0.62 | 0.38 | 0.62 |
+| HELP | 5,1,4,2 | 0.42 | 0.58 | 0.42 |
+| TRET | 2,5,4,1 | 0.50 | 0.50 | 0.50 |
+| LEND | 3,5,4,1 | 0.38 | 0.62 | 0.46 |
+| ETRS | keep 5,4,3,2 (0.21); let-go 3,5 (0.63); word 3,3 (0.50) | 0.45 | 0.55 | 0.35 |
+
+**The assistant's reading**, `llm-proposed`. The author kept the weighting of the doing on seventeen of twenty disputed steps; the three changes all moved toward the models. The large moves come from the revised steps rather than from importance: LSTN (0.67 → 0.41) through the added decision to listen and the keeping rule, GTHR (0.76 → 0.51) through the merged attendance and the civic form, TELL (0.20 → 0.37) through the added question, ETRS (0.35 → 0.45) through the let-go form. The two pairs the models found least credible, GTHR and LSTN, now sit near the models' medians on the old steps (0.56 and 0.52). MAKE is the most judgment-heavy security (0.13), since its commissioning form is nearly all choice.
 
 ## The author's settings (2026-10-10)
 
@@ -686,7 +718,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 2. The keeping rule and the noticing rule — *both accepted.*
 3. Forms combine with equal weights, and are not listed apart — *both accepted.*
 4. MEND split into forms, beyond the seven — *not split. Answered the same day ([[SRC-2026-10-16-mend-keeps-forgiveness]]): forgiveness belongs in MEND as judgment — the attitude of regarding the person as if they had done no wrong. Step 5 is reworded to the forgiving act alone, the assistant's reading; accepting forgiveness is dropped. MEND therefore spans both people: steps 1–4 are done by the one who repairs, step 5 by the one who was harmed. Importance 4 is carried until the author resets it, so the pair stays 0.36 / 0.64.*
-5. After this, importance for the new steps and for the steps six or seven models disputed, as decided.
+5. After this, importance for the new steps and for the steps six or seven models disputed, as decided — *set 2026-10-16 ([[SRC-2026-10-16-step-importance-decisions]]); see "The pairs after the revision".*
 
 ## Questions for the author — answered 2026-10-10, except the LLM check
 
@@ -706,6 +738,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 
 ## Sources
 
+- [[SRC-2026-10-16-step-importance-decisions]] — [raw/conversations/2026-10-16-step-importance-decisions.md](../../raw/conversations/2026-10-16-step-importance-decisions.md); importance for the new and disputed steps; the current pairs
 - [[SRC-2026-10-16-mend-keeps-forgiveness]] — [raw/conversations/2026-10-16-mend-keeps-forgiveness.md](../../raw/conversations/2026-10-16-mend-keeps-forgiveness.md); forgiveness stays in MEND as judgment; step 5 reworded
 - [[SRC-2026-10-16-revised-steps-decisions]] — [raw/conversations/2026-10-16-revised-steps-decisions.md](../../raw/conversations/2026-10-16-revised-steps-decisions.md); revised lists, keeping and noticing rules and form weighting accepted; MEND not split; ETRS·let-go step 3 removed
 - [[SRC-2026-10-10-security-weights-round-decisions]] — [raw/conversations/2026-10-10-security-weights-round-decisions.md](../../raw/conversations/2026-10-10-security-weights-round-decisions.md); four narrow-rule steps rewritten, VIST 3 returned, forms to be split
