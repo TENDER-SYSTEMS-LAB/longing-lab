@@ -5,7 +5,7 @@ This is LONGING's long-term project memory. Shared conventions originate in [TEN
 ## Task-Sized Reading
 
 - Read these instructions once when entering this repository; reuse unchanged material already in context. Do not reread a whole file just to verify one fact.
-- Locate the editing destination in `wiki/index.md` with a focused search; read the full catalog only when the destination is unclear. Read the relevant page or section next.
+- Locate the editing destination in `wiki/index.md` with a focused search. When the destination is still unclear, or the question is how pages, decisions and sources relate, query the knowledge graph (see Knowledge Graph) before reading the full catalog. Read the relevant page or section next.
 - Consult the relevant `wiki/current-state.md` section for current decisions, priorities, conflicts, or a change to project state. It is not required reading for a link, formatting, or Git-only task.
 - `schema.md` is an on-demand reference: read the applicable section for unfamiliar structure, metadata, attribution, provenance, or promotion rules. Do not load it in full at every task.
 - Read only the needed source row, capture note, and original when evidence matters. For example: `rg -n -F 'SRC-YYYY-MM-DD-slug' raw/sources.md`. Do not load the registry table or scan raw originals for routine verification.
@@ -32,6 +32,16 @@ This is LONGING's long-term project memory. Shared conventions originate in [TEN
 When the user asks what to do or decide next (for example "다음 작업이 뭐야?", "what's next?", "what should I decide?"), answer from `wiki/current-state.md` alone. Read its `## Unknown`, `## Deferred`, and `## Next steps proposed in the sources` sections plus the resume point; skip the confirmed and source lists. Do not search the log, the index, or raw sources for this question.
 
 Reply with a short ranked list of open decisions, each as one line: what must be decided, why it blocks other work, and the page or `DEC-`/`Q-` ID that owns it. Put items the user deferred last and mark them deferred. Distinguish user decisions from LLM proposals; never present a proposal as the next task unless the user must accept or reject it. Do not edit any file for this question; if the user then decides something, follow the ingestion workflow.
+
+## Knowledge Graph
+
+`graphify-out/` holds a [Graphify](https://github.com/Graphify-Labs/graphify) knowledge graph of the wiki, the guides and the raw sources: `graph.json`, `graph.html` and `GRAPH_REPORT.md`. The project skill is `.claude/skills/graphify/`.
+
+- The graph is a derived navigation aid. It is never evidence, provenance or a substitute for a page, the index or `raw/sources.md`; cite source IDs and originals as before.
+- Order of lookup: `wiki/index.md` first; then `graphify query "<question>"`, `graphify path "<A>" "<B>"` or `graphify explain "<concept>"` for relationships, unclear destinations or broad review; then read only the located page or section. The read/search hook in `.claude/settings.json` nudges toward the graph; this order takes precedence.
+- If `graphify` is not installed, install it with `uv tool install graphifyy` (the PyPI name has two y's). Without it the hook stays silent and the index alone is used.
+- Refresh after a change that edits wiki pages or registers sources: `/graphify . --update`. It re-extracts only changed and new files, so registered originals are not re-read. Stage the refreshed `graphify-out/` with the change; a large `graph.json` diff is expected.
+- Never run `graphify add` (it writes into `raw/` outside the registry), `graphify uninstall --purge`, or any Graphify export into `wiki/` or `raw/`. Graph-derived restructuring of pages or the index is `llm-proposed` and goes through the ingestion workflow.
 
 ## Preservation and Scope
 

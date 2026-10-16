@@ -1,0 +1,8 @@
+# Data files are not prose; the graph covers the Markdown wiki and its sources.
+*.xlsx
+*.csv
+*.json
+*.webp
+*.png
+*.html
+.claude/
