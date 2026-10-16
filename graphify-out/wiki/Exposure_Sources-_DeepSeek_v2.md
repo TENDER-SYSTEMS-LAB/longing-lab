@@ -1,15 +1,15 @@
 # Exposure Sources: DeepSeek v2
 
-> 21 nodes · cohesion 0.10
+> 21 nodes
 
 ## Key Concepts
 
 - **Exposure sources survey — DeepSeek v2 (2026-09-22)** (34 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek-v2.md`
+- **Apple Live Speech and Personal Voice / voice banking** (8 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-chatgpt.md`
+- **Patent records (PATENTSCOPE / USPTO / JPO / KIPO)** (7 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-chatgpt.md`
 - **USPS Household Diary Study / Household Mail Survey** (5 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-chatgpt.md`
 - **State AT Act programme data / CATADA / NATADS** (3 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-chatgpt.md`
 - **ElevenLabs voice-cloning programmes (ALS)** (3 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek-v2.md`
-- **Japan Post letter-mail volume statistics** (3 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek-v2.md`
-- **Korea Post domestic mail volume statistics** (3 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek-v2.md`
 - **'Used directly' vs 'checked and corrected' as the restoration/substitution separator** (3 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek-v2.md`
 - **Voice clone restores the how, not the what** (3 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek-v2.md`
 - **Team Gleason device and technology grants / service requests** (2 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-claude.md`
@@ -28,11 +28,13 @@
 
 ## Relationships
 
-- [Exposure Sources: Claude v2](Exposure_Sources-_Claude_v2.md) (12 shared connections)
+- [Exposure Sources: Claude v2](Exposure_Sources-_Claude_v2.md) (15 shared connections)
 - [Exposure Sources: Device Data](Exposure_Sources-_Device_Data.md) (8 shared connections)
-- [Exposure Sources Review](Exposure_Sources_Review.md) (6 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (1 shared connections)
+- [Exposure Sources Review (2)](Exposure_Sources_Review_2.md) (5 shared connections)
+- [Exposure Sources: Device Data (2)](Exposure_Sources-_Device_Data_2.md) (4 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (1 shared connections)
+- [Exposure Sources Review](Exposure_Sources_Review.md) (1 shared connections)
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (1 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
 
@@ -44,8 +46,8 @@
 
 ## Audit Trail
 
-- EXTRACTED: 44 (85%)
-- INFERRED: 7 (13%)
+- EXTRACTED: 52 (87%)
+- INFERRED: 7 (12%)
 - AMBIGUOUS: 1 (2%)
 
 ---

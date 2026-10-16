@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-graphify-and-wiki-restructure
   - SRC-2026-10-16-uptake-and-tret-name-decisions
   - SRC-2026-10-16-step-importance-decisions
   - SRC-2026-10-16-mend-keeps-forgiveness
@@ -23,9 +24,407 @@ sources:
 
 The task the author set on 2026-10-01 and left until the securities were chosen: each security's steps are counted by importance, the importance is part of its definition, the author sets it, and each setting is checked against as many LLMs as possible ([[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], [[SRC-2026-10-01-importance-weighting-and-concepts-above-securities]]). The securities were chosen on 2026-10-10 ([[security-families]]).
 
-**Status.** The definitions and steps are the assistant's draft, `llm-proposed`; the importance values are the author's, set on 2026-10-10 (next section). The equal-count pairs in the draft are a reference only. *Since 2026-10-16 the revised lists below are decided and supersede the draft lists wherever they differ ([[SRC-2026-10-16-revised-steps-decisions]]); the 2026-10-10 pairs of the changed securities are stale until the new steps are weighted. Weighted the same day: the current pairs are in the next section.*
+**Status.** The current version below is decided, `user-confirmed`: definitions and steps drafted by the assistant and accepted by the author, importance set by the author. *Superseded wording, as first written:* The definitions and steps are the assistant's draft, `llm-proposed`; the importance values are the author's, set on 2026-10-10 (next section). The equal-count pairs in the draft are a reference only. *Since 2026-10-16 the revised lists below are decided and supersede the draft lists wherever they differ ([[SRC-2026-10-16-revised-steps-decisions]]); the 2026-10-10 pairs of the changed securities are stale until the new steps are weighted. Weighted the same day: the current pairs are in the next section.*
 
-## The pairs after the revision (2026-10-16)
+*Since 2026-10-16 the page opens with the current version — every rule, definition, step, class and importance in force, one entry per security — and keeps the way there under History, unchanged ([[SRC-2026-10-16-graphify-and-wiki-restructure]]). Where the two differ, the current version holds.*
+
+## Current version (2026-10-16)
+
+The rules, definitions and steps in force, all `user-confirmed`: the definitions and steps were drafted by the assistant and accepted by the author; the importance values are the author's.
+
+### Rules
+
+- **The unit** is a step of the practice, induced from the definition sentence; mixed steps are forbidden.
+- **Judgment** is a step with more than one live option that differs in the practice's product or meaning; otherwise **execution**. Manner — medium, route, handwriting — is execution, except a choice of means the other person reads as part of the message, which is judgment (the narrow rule, [[SRC-2026-10-10-classification-rule-decision]]).
+- **Keeping steps** continue over time what an earlier step began, and are listed only where the definition names them: holding back (not checking, settling, calling in or telling) is judgment; keeping up (coming back, staying, remembering) is execution ([[SRC-2026-10-16-revised-steps-decisions]]).
+- **Noticing** a given occasion is execution; noticing what is not given — a person, a need — is judgment.
+- **Importance** is set by the author per step and is part of the definition; the execution share is the importance of execution steps over the total.
+- **Forms** are branches of one security's definition with their own steps; the security's pair is the equal-weighted mean of its forms' pairs, and forms inside a security are not listed apart. GIFT and IOU weight their two listed forms equally; a leg family follows its smaller leg ([[security-families]]).
+
+### Pairs
+
+| Code | Execution | Judgment |
+|---|---|---|
+| STRG | 0.39 | 0.61 |
+| INTR | 0.28 | 0.72 |
+| WRIT | 0.11 | 0.89 |
+| RECH | 0.39 | 0.61 |
+| TELL | 0.37 | 0.63 |
+| LSTN | 0.41 | 0.59 |
+| MEND | 0.33 | 0.67 |
+| DEC | 0.33 | 0.67 |
+| CHSE | 0.26 | 0.74 |
+| MAKE | 0.13 | 0.87 |
+| LERN | 0.41 | 0.59 |
+| TCHR | 0.33 | 0.67 |
+| CARE | 0.35 | 0.65 |
+| VGIL | 0.64 | 0.36 |
+| VIST | 0.50 | 0.50 |
+| GTHR | 0.51 | 0.49 |
+| PLAY | 0.59 | 0.41 |
+| ASK | 0.62 | 0.38 |
+| HELP | 0.42 | 0.58 |
+| TRET | 0.50 | 0.50 |
+| LEND | 0.38 | 0.62 |
+| ETRS | 0.45 | 0.55 |
+
+### Definitions and steps
+
+#### STRG — STRANGER (낯선이)
+
+*Addressing someone one does not know and taking up what they answer.* Pair 0.39 / 0.61.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to address a stranger rather than look it up | judgment | 5 |
+| 2 | Choose whom to address | judgment | 1 |
+| 3 | Choose what to ask | judgment | 3 |
+| 4 | Say it | execution | 4 |
+| 5 | Hear the answer | execution | 3 |
+| 6 | Weigh the answer and act on it | judgment | 2 |
+
+#### INTR — INTRO (소개)
+
+Pair 0.28 / 0.72, the mean of its forms.
+
+*INTR·make* — Putting two people one knows in touch. Pair 0.20 / 0.80.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | See that two would suit each other | judgment | 5 |
+| 2 | Stand behind the match in words | judgment | 3 |
+| 3 | Make the contact | execution | 2 |
+
+*INTR·ask* — Asking someone who knows for a person or a thing (a recommendation). Pair 0.37 / 0.63.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to ask a person rather than search | judgment | 3 |
+| 2 | Choose whom to ask | judgment | 5 |
+| 3 | Ask | execution | 5 |
+| 4 | Decide whether to take up what is recommended | judgment | 4 |
+| 5 | Meet them or try it | execution | 2 |
+
+#### WRIT — WRITE (글)
+
+*Choosing words for one person, sending them and standing behind them; one's own words are words one stands behind.* Pair 0.11 / 0.89.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Choose the recipient | judgment | 5 |
+| 2 | Decide what to say | judgment | 5 |
+| 3 | Choose the words | judgment | 5 |
+| 4 | Choose the medium the recipient will read | judgment | 2 |
+| 5 | Send it | execution | 2 |
+
+#### RECH — REACH (안부)
+
+Pair 0.39 / 0.61, the mean of its forms.
+
+*RECH·unprompted* — Reaching out to someone at a distance for no practical reason, and keeping the thread. Pair 0.31 / 0.69.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Think of the person unprompted | judgment | 5 |
+| 2 | Decide to reach out now | judgment | 3 |
+| 3 | Choose a means the other person will read | judgment | 3 |
+| 4 | Make contact or send | execution | 2 |
+| 5 | Keep the thread over time | execution | 3 |
+
+*RECH·day* — Marking someone's day across distance. Pair 0.47 / 0.53.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Remember their day | execution | 5 |
+| 2 | Decide to mark it | judgment | 5 |
+| 3 | Choose a means the other person will read | judgment | 3 |
+| 4 | Make contact or send | execution | 2 |
+
+#### TELL — CONFIDE · leg (털어놓기) · CNFD leaning leg
+
+*Telling someone a personal matter, asking for their view and weighing it.* Pair 0.37 / 0.63.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to tell someone | judgment | 5 |
+| 2 | Choose whom to tell | judgment | 2 |
+| 3 | Choose what to disclose | judgment | 4 |
+| 4 | Say it | execution | 3 |
+| 5 | Ask what they think | execution | 4 |
+| 6 | Weigh the view received | judgment | 1 |
+
+#### LSTN — CONFIDE · leg (들어 주기) · CNFD giving leg
+
+*Listening to someone's trouble, answering it and keeping it to oneself.* Pair 0.41 / 0.59.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to listen | judgment | 4 |
+| 2 | Make time | execution | 5 |
+| 3 | Listen through | execution | 4 |
+| 4 | Understand what is meant | judgment | 4 |
+| 5 | Choose what to say back | judgment | 3 |
+| 6 | Keep it to oneself | judgment | 2 |
+
+#### MEND — MEND (화해)
+
+*Repairing a relation after harm, by apology, talk or forgiveness; steps 1–4 are done by the one who repairs, step 5 by the one who was harmed.* Pair 0.33 / 0.67.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Recognise the harm | judgment | 3 |
+| 2 | Decide to repair | judgment | 5 |
+| 3 | Choose what to say or concede | judgment | 4 |
+| 4 | Say it | execution | 5 |
+| 5 | Forgive: regard them as if they had done no wrong | judgment | 4 |
+| 6 | Keep to the repair | execution | 3 |
+
+#### DEC — DECIDE (결정)
+
+*Reaching one decision with another person and carrying it out.* Pair 0.33 / 0.67.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Frame the question together | judgment | 5 |
+| 2 | Gather the options | execution | 2 |
+| 3 | Weigh options against each other's wishes | judgment | 4 |
+| 4 | Settle on one | judgment | 3 |
+| 5 | Carry it out | execution | 4 |
+
+#### CHSE — GIFT · form (고른 선물)
+
+*Choosing a thing for one particular person and giving it.* Pair 0.26 / 0.74.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Notice the occasion | execution | 3 |
+| 2 | Consider what they would value | judgment | 5 |
+| 3 | Choose the thing | judgment | 5 |
+| 4 | Obtain it | execution | 2 |
+| 5 | Choose how to give it, as the recipient will read it | judgment | 4 |
+
+#### MAKE — GIFT · form (만든 선물)
+
+Pair 0.13 / 0.87, the mean of its forms.
+
+*MAKE·hand* — Making a thing oneself for one particular person and giving it. Pair 0.19 / 0.81.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide what to make for them | judgment | 5 |
+| 2 | Shape its particular form | judgment | 4 |
+| 3 | Make it | execution | 3 |
+| 4 | Choose how to give it, as the recipient will read it | judgment | 4 |
+
+*MAKE·commission* — Having its maker make a thing for one particular person, and giving it. Pair 0.07 / 0.93.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide what to have made for them | judgment | 5 |
+| 2 | Choose the maker | judgment | 2 |
+| 3 | Settle its particular form with the maker | judgment | 3 |
+| 4 | Pay and collect it | execution | 1 |
+| 5 | Choose how to give it, as the recipient will read it | judgment | 4 |
+
+#### LERN — TEACH · leg (배우기) · TCH leaning leg
+
+*Learning a skill or a story from a person who has it.* Pair 0.41 / 0.59.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide what to learn | judgment | 5 |
+| 2 | Choose whom to learn from | judgment | 3 |
+| 3 | Ask to be taught | execution | 1 |
+| 4 | Watch and copy | execution | 2 |
+| 5 | Practise under correction | execution | 4 |
+| 6 | Judge when one has it | judgment | 2 |
+
+#### TCHR — TEACH · leg (가르치기) · TCH giving leg
+
+*Showing someone a skill or passing on a story.* Pair 0.33 / 0.67.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide what to pass on | judgment | 5 |
+| 2 | Show it | execution | 3 |
+| 3 | Watch the learner | execution | 2 |
+| 4 | Correct | judgment | 4 |
+| 5 | Let go | judgment | 1 |
+
+#### CARE — CARE (돌봄)
+
+Pair 0.35 / 0.65, the mean of its forms.
+
+*CARE·body* — Caring for someone ill. Pair 0.24 / 0.76.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Notice the need | judgment | 5 |
+| 2 | Decide what help to give | judgment | 4 |
+| 3 | Give the help | execution | 3 |
+| 4 | Check back | execution | 1 |
+| 5 | Change the care as the need changes | judgment | 4 |
+
+*CARE·days* — Looking in on someone who lives alone. Pair 0.46 / 0.54.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to look in on them | judgment | 4 |
+| 2 | Look in, by visit or call, again and again | execution | 2 |
+| 3 | Notice what has changed | judgment | 3 |
+| 4 | Arrange what is needed | execution | 4 |
+
+*CARE·voice* — Reading to someone, or keeping a conversation going with someone losing sight, speech or hearing. Pair 0.36 / 0.64.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Notice what they can no longer read or say | judgment | 3 |
+| 2 | Choose what to read or how to talk with them | judgment | 4 |
+| 3 | Read or talk with them | execution | 4 |
+
+#### VGIL — VIGIL (곁)
+
+*Staying with someone in grief or at the end, when nothing can be fixed, for as long as it lasts.* Pair 0.64 / 0.36.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to come | judgment | 3 |
+| 2 | Be there | execution | 5 |
+| 3 | Choose whether and what to say | judgment | 2 |
+| 4 | Come back for as long as it lasts | execution | 4 |
+
+#### VIST — VISIT (방문)
+
+Pair 0.50 / 0.50, the mean of its forms.
+
+*VIST·visit* — Going to be with someone in body: a visit, or a meal arranged together. Pair 0.40 / 0.60.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to go | judgment | 5 |
+| 2 | Arrange the time | execution | 3 |
+| 3 | Travel | execution | 1 |
+| 4 | Choose what to do together | judgment | 4 |
+| 5 | Spend the time | execution | 2 |
+
+*VIST·accompany* — Walking someone home. Pair 0.60 / 0.40.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Offer to go with them | judgment | 4 |
+| 2 | Go with them | execution | 3 |
+| 3 | See them in | execution | 3 |
+
+#### GTHR — GATHER (모임)
+
+Pair 0.51 / 0.49, the mean of its forms.
+
+*GTHR·group* — Joining a standing group and keeping a place in it. Pair 0.69 / 0.31.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Choose the group | judgment | 3 |
+| 2 | Go and take part | execution | 5 |
+| 3 | Keep coming | execution | 4 |
+| 4 | Take on a role | judgment | 1 |
+
+*GTHR·civic* — A civic act done with others, under the gathering rule. Pair 0.33 / 0.67.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Choose what to join | judgment | 5 |
+| 2 | Decide what one stands for there | judgment | 5 |
+| 3 | Turn up and take part | execution | 5 |
+
+#### PLAY — PLAY (놀이)
+
+*Doing something for its own sake with others: a game, music.* Pair 0.59 / 0.41.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Choose what to play and with whom | judgment | 3 |
+| 2 | Set it up | execution | 2 |
+| 3 | Play one's part as practised | execution | 5 |
+| 4 | Respond to the others | judgment | 4 |
+| 5 | Finish or agree to play again | execution | 3 |
+
+#### ASK — FAVOR · leg (부탁하기) · FAVR leaning leg
+
+*Asking someone near for help with labour or time.* Pair 0.62 / 0.38.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide not to do it alone or buy it | judgment | 5 |
+| 2 | Choose whom to ask | judgment | 3 |
+| 3 | Ask | execution | 4 |
+| 4 | Accept the help | execution | 5 |
+| 5 | Keep the debt in mind | execution | 4 |
+
+#### HELP — FAVOR · leg (도와주기) · FAVR giving leg
+
+*Giving someone near labour or time they asked for.* Pair 0.42 / 0.58.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to help | judgment | 5 |
+| 2 | Arrange the time | execution | 1 |
+| 3 | Do the work | execution | 4 |
+| 4 | See what is needed beyond the ask | judgment | 2 |
+
+#### TRET — IOU · form (no Korean name)
+
+*Paying for someone now and leaving the turn open.* Pair 0.50 / 0.50.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to pay for them | judgment | 2 |
+| 2 | Pay | execution | 5 |
+| 3 | Leave the account unsettled | judgment | 4 |
+| 4 | Remember whose turn | execution | 1 |
+
+#### LEND — IOU · form (빌려주기)
+
+*Lending to someone without a contract.* Pair 0.38 / 0.62.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to lend and how much | judgment | 3 |
+| 2 | Hand it over | execution | 5 |
+| 3 | Set no terms | judgment | 4 |
+| 4 | Wait without calling it in | judgment | 1 |
+
+#### ETRS — ENTRUST (맡김)
+
+Pair 0.45 / 0.55, the mean of its forms.
+
+*ETRS·keep* — Leaving a key or a secret in someone's keeping. Pair 0.21 / 0.79.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to entrust | judgment | 5 |
+| 2 | Choose the keeper | judgment | 4 |
+| 3 | Give it into their keeping | execution | 3 |
+| 4 | Refrain from checking | judgment | 2 |
+
+*ETRS·let-go* — Letting a child go out alone. Pair 0.62 / 0.38.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Judge that they are ready | judgment | 3 |
+| 2 | Let them go | execution | 5 |
+
+*ETRS·word* — Relying on someone's word: meeting at a time agreed without confirming, or vouching with one's name. Pair 0.50 / 0.50.
+
+| # | Step | Class | Importance |
+|---|---|---|---|
+| 1 | Decide to rely on their word | judgment | 3 |
+| 2 | Act on it: turn up, or vouch | execution | 3 |
+
+## History
+
+How the current version was reached, kept as written.
+
+### The pairs after the revision (2026-10-16)
 
 The author set importance for the thirty-six new steps and revisited the twenty disputed ones ([[SRC-2026-10-16-step-importance-decisions]]), `user-confirmed`. Three disputed values changed — LSTN 4 "understand what is meant" 2→4, LSTN 6 "keep it to oneself" 2 (was 1), MEND 3 "choose what to say or concede" 2→4 — and the other seventeen, with the four reworded steps, kept the author's values. ETRS·let-go step 3 stays removed. Steps follow the revised lists below, in their order; a security with forms takes the equal-weighted mean of its forms' pairs. These are the current pairs; the 2026-10-10 table is kept as history.
 
@@ -56,7 +455,7 @@ The author set importance for the thirty-six new steps and revisited the twenty 
 
 **The assistant's reading**, `llm-proposed`. The author kept the weighting of the doing on seventeen of twenty disputed steps; the three changes all moved toward the models. The large moves come from the revised steps rather than from importance: LSTN (0.67 → 0.41) through the added decision to listen and the keeping rule, GTHR (0.76 → 0.51) through the merged attendance and the civic form, TELL (0.20 → 0.37) through the added question, ETRS (0.35 → 0.45) through the let-go form. The two pairs the models found least credible, GTHR and LSTN, now sit near the models' medians on the old steps (0.56 and 0.52). MAKE is the most judgment-heavy security (0.13), since its commissioning form is nearly all choice.
 
-## The author's settings (2026-10-10)
+### The author's settings (2026-10-10)
 
 The author set every step's importance on a decision page ([[SRC-2026-10-10-security-weights-decisions]]), `user-confirmed`. Values are in step order; no class was changed. *VIST returned to 0.47 when step 3 went back to execution ([[SRC-2026-10-10-security-weights-round-decisions]]).* *Pairs updated after the narrow rule was adopted later the same day ([[SRC-2026-10-10-classification-rule-decision]]); five securities moved.* Execution share = importance of execution steps ÷ total importance.
 
@@ -93,7 +492,7 @@ The author set every step's importance on a decision page ([[SRC-2026-10-10-secu
 
 Pairs are not final until the rule review and the LLM check are done.
 
-## Review of the classification rule — proposed, decided 2026-10-10
+### Review of the classification rule — proposed, decided 2026-10-10
 
 **Decided** ([[SRC-2026-10-10-classification-rule-decision]]), `user-confirmed`: **the narrow rule.** A choice of means is judgment when the other person reads the means as part of the message; other manner stays execution. Five steps change class — WRIT 4, RECH 3, CHSE 5, MAKE 4, VIST 3 — and no importance changed. The medium itself is still not the condition of romance; the choice of it, when read, is judgment, as with chosen friction. The analysis below is kept as the proposal it was.
 
@@ -127,13 +526,13 @@ The wide rule leaves TELL with no execution at all and moves eleven securities; 
 
 **The assistant's reading.** The narrow rule fits the decided ontology best: the medium is still not the condition of romance, but *the choice of it*, when the other person reads it, is judgment — the same reasoning as chosen friction. Which steps fall under it is the author's call.
 
-## Why this is needed
+### Why this is needed
 
 - **The price model needs the pair.** Under [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]], what raises calls is a system deciding what a person could have decided. A security's judgment share is how much of it AI can take by substitution; its execution share is what can be handed over with the choice kept. Without the pair, no security can be priced through the AI wave.
 - **The pair is only as precise as the definition.** The weight round found LETTER's execution share ran from 0.25 to 0.50 because the definition sentence left three choices open ([[weight-setting-procedure-review]]). So the definitions and steps come first, then importance.
 - **The author set the order.** Weights were to be set after the securities were chosen ([[SRC-2026-10-01-weights-first-securities-later]]).
 
-## The procedure, as decided
+### The procedure, as decided
 
 - The unit is a step of the practice, induced from the definition sentence.
 - A step is **judgment** when it contains more than one live option that differs in the practice's product or meaning; otherwise it is **execution**. Manner — medium, route, handwriting — is execution, **except a choice of means that the other person reads as part of the message, which is judgment** (narrow rule, decided 2026-10-10, [[SRC-2026-10-10-classification-rule-decision]]).
@@ -141,13 +540,13 @@ The wide rule leaves TELL with no execution at all and moves eleven securities; 
 - Each step gets an importance set by the author; the execution share is the importance of execution steps over the total.
 - Importance is part of the definition, so changing it is a revision under condition (a).
 
-## Which securities need a pair
+### Which securities need a pair
 
 Twenty-two: the twelve families without legs, the six legs and the four forms. The family funds follow their smaller leg; GIFT and IOU, whose forms are not legs, are open. The three states are priced through carriers and need no pair of their own.
 
-## Draft definitions and steps
+### Draft definitions and steps
 
-### STRG — STRANGER (낯선이)
+#### STRG — STRANGER (낯선이)
 
 *Addressing someone one does not know and taking up what they answer.*
 
@@ -161,7 +560,7 @@ Twenty-two: the twelve families without legs, the six legs and the four forms. T
 
 Equal-count pair: execution 0.40 / judgment 0.60.
 
-### INTR — INTRO (소개)
+#### INTR — INTRO (소개)
 
 *Putting two parties one knows in touch, or asking someone who knows both to do it.*
 
@@ -175,7 +574,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 Equal-count pair: execution 0.40 / judgment 0.60.
 
-### WRIT — WRITE (글)
+#### WRIT — WRITE (글)
 
 *Choosing words for one person, sending them and standing behind them; one's own words are words one stands behind.*
 
@@ -189,7 +588,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 Equal-count pair: execution 0.20 / judgment 0.80 (after the narrow rule).
 
-### RECH — REACH (안부)
+#### RECH — REACH (안부)
 
 *Making contact with someone at a distance with no practical reason, or on their day.*
 
@@ -203,7 +602,7 @@ Equal-count pair: execution 0.20 / judgment 0.80 (after the narrow rule).
 
 Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 
-### TELL — CONFIDE · leg (털어놓기) · CNFD 기대는 다리
+#### TELL — CONFIDE · leg (털어놓기) · CNFD 기대는 다리
 
 *Telling someone a personal matter and asking for their view.*
 
@@ -217,7 +616,7 @@ Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 
 Equal-count pair: execution 0.20 / judgment 0.80.
 
-### LSTN — CONFIDE · leg (들어 주기) · CNFD 주는 다리
+#### LSTN — CONFIDE · leg (들어 주기) · CNFD 주는 다리
 
 *Listening to someone's trouble and answering it.*
 
@@ -231,7 +630,7 @@ Equal-count pair: execution 0.20 / judgment 0.80.
 
 Equal-count pair: execution 0.60 / judgment 0.40.
 
-### MEND — MEND (화해)
+#### MEND — MEND (화해)
 
 *Repairing a relation after harm, by apology, talk or forgiveness.*
 
@@ -246,7 +645,7 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 
 Equal-count pair: execution 0.33 / judgment 0.67.
 
-### DEC — DECIDE (결정)
+#### DEC — DECIDE (결정)
 
 *Reaching one decision with another person.*
 
@@ -260,7 +659,7 @@ Equal-count pair: execution 0.33 / judgment 0.67.
 
 Equal-count pair: execution 0.40 / judgment 0.60.
 
-### CHSE — GIFT · form (고른 선물) · GIFT 형태
+#### CHSE — GIFT · form (고른 선물) · GIFT 형태
 
 *Choosing a thing for one particular person and giving it.*
 
@@ -274,7 +673,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 
-### MAKE — GIFT · form (만든 선물) · GIFT 형태
+#### MAKE — GIFT · form (만든 선물) · GIFT 형태
 
 *Making a thing for one particular person and giving it, or having its maker make it for them.*
 
@@ -287,7 +686,7 @@ Equal-count pair: execution 0.40 / judgment 0.60 (after the narrow rule).
 
 Equal-count pair: execution 0.25 / judgment 0.75 (after the narrow rule).
 
-### LERN — TEACH · leg (배우기) · TCH 기대는 다리
+#### LERN — TEACH · leg (배우기) · TCH 기대는 다리
 
 *Learning a skill or a story from a person who has it.*
 
@@ -301,7 +700,7 @@ Equal-count pair: execution 0.25 / judgment 0.75 (after the narrow rule).
 
 Equal-count pair: execution 0.60 / judgment 0.40.
 
-### TCHR — TEACH · leg (가르치기) · TCH 주는 다리
+#### TCHR — TEACH · leg (가르치기) · TCH 주는 다리
 
 *Showing someone a skill or passing on a story.*
 
@@ -315,7 +714,7 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 
 Equal-count pair: execution 0.40 / judgment 0.60.
 
-### CARE — CARE (돌봄)
+#### CARE — CARE (돌봄)
 
 *Looking after a person in need: their body, their days or their voice.*
 
@@ -329,7 +728,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 Equal-count pair: execution 0.40 / judgment 0.60.
 
-### VGIL — VIGIL (곁)
+#### VGIL — VIGIL (곁)
 
 *Staying with someone in grief or at the end, when nothing can be fixed.*
 
@@ -342,7 +741,7 @@ Equal-count pair: execution 0.40 / judgment 0.60.
 
 Equal-count pair: execution 0.50 / judgment 0.50.
 
-### VIST — VISIT (방문)
+#### VIST — VISIT (방문)
 
 *Going to be with someone in body: a visit, a meal arranged together, walking them home.*
 
@@ -357,7 +756,7 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 
 Equal-count pair: execution 0.67 / judgment 0.33 (VIST 3 returned to execution).
 
-### GTHR — GATHER (모임)
+#### GTHR — GATHER (모임)
 
 *Joining others who share a purpose and keeping a place among them; civic acts enter here.*
 
@@ -371,7 +770,7 @@ Equal-count pair: execution 0.67 / judgment 0.33 (VIST 3 returned to execution).
 
 Equal-count pair: execution 0.60 / judgment 0.40.
 
-### PLAY — PLAY (놀이)
+#### PLAY — PLAY (놀이)
 
 *Doing something for its own sake with others: a game, music.*
 
@@ -385,7 +784,7 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 
 Equal-count pair: execution 0.60 / judgment 0.40.
 
-### ASK — FAVOR · leg (부탁하기) · FAVR 기대는 다리
+#### ASK — FAVOR · leg (부탁하기) · FAVR 기대는 다리
 
 *Asking someone near for help with labour or time.*
 
@@ -399,7 +798,7 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 
 Equal-count pair: execution 0.60 / judgment 0.40.
 
-### HELP — FAVOR · leg (도와주기) · FAVR 주는 다리
+#### HELP — FAVOR · leg (도와주기) · FAVR 주는 다리
 
 *Giving someone near labour or time they asked for.*
 
@@ -412,7 +811,7 @@ Equal-count pair: execution 0.60 / judgment 0.40.
 
 Equal-count pair: execution 0.50 / judgment 0.50.
 
-### TRET — IOU · form (no Korean name since 2026-10-16; was 한턱) · IOU 형태
+#### TRET — IOU · form (no Korean name since 2026-10-16; was 한턱) · IOU 형태
 
 *Paying for someone now and leaving the turn open.*
 
@@ -425,7 +824,7 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 
 Equal-count pair: execution 0.50 / judgment 0.50.
 
-### LEND — IOU · form (빌려주기) · IOU 형태
+#### LEND — IOU · form (빌려주기) · IOU 형태
 
 *Lending to someone without a contract.*
 
@@ -438,7 +837,7 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 
 Equal-count pair: execution 0.50 / judgment 0.50.
 
-### ETRS — ENTRUST (맡김)
+#### ETRS — ENTRUST (맡김)
 
 *Trusting someone with something of one's own — a key, a secret, a child, one's name, a time — without proof.*
 
@@ -452,7 +851,7 @@ Equal-count pair: execution 0.50 / judgment 0.50.
 
 Equal-count pair: execution 0.40 / judgment 0.60.
 
-## Revised steps after the round — decided 2026-10-16
+### Revised steps after the round — decided 2026-10-16
 
 **Decided** ([[SRC-2026-10-16-revised-steps-decisions]]), `user-confirmed`: the keeping rule and the noticing rule; forms combine with equal weights and are not listed apart; every revised list below accepted. Two answers differ from the proposal: **MEND is not split** — the author also accepted MEND's card, whose list was the split, so MEND keeps its draft list and the bundled step 5 is put back to the author — *answered: forgiveness stays, as judgment, and step 5 becomes the forgiving act ([[SRC-2026-10-16-mend-keeps-forgiveness]])*; and **ETRS·let-go drops step 3**, "refrain from tracking", on the author's memo, worded tentatively ("좋은 듯"). The assistant notes that without it the let-go form carries no step that child tracking substitutes, though tracking is ETRS's main channel; ETRS·keep still holds "refrain from checking". Next: importance for the new steps and for the steps six or seven models disputed.
 
@@ -460,7 +859,7 @@ The proposal as written follows, `llm-proposed`; the two differences are marked 
 
 **Why this is needed.** A pair is only as precise as its steps. A step counted twice, a step belonging to the other person, or a missing choice moves the execution share by itself, and that share decides whether a practice's decline runs through devices or through AI judgment. Importance can be revisited only after the steps are fixed, as the author ordered.
 
-### Rule for keeping steps
+#### Rule for keeping steps
 
 A keeping step continues over time what an earlier step began, and is listed only where the definition names it.
 
@@ -471,11 +870,11 @@ The split follows [[DEC-014-restoration-is-arrival-and-substitution-is-judgment]
 
 **A companion rule for noticing.** Noticing a given occasion — a date, a calendar — is execution, which is what a reminder takes; noticing what is not given — a person, a need — is judgment. It keeps CHSE 1 as execution beside RECH 1 and CARE 1 as judgment, and classes the new RECH "remember their day" as execution.
 
-### How forms work
+#### How forms work
 
 A form is one branch of a security's definition with its own steps and pair. The security's pair is the equal-weighted mean of its forms' pairs, as GIFT and IOU weight their forms. Forms inside a security are not listed apart, unlike GIFT's and IOU's forms, which were already securities. Both are put to the author.
 
-### Revised lists
+#### Revised lists
 
 *Importance:* a number is the author's 2026-10-10 value carried over; **new** marks a step the author has not weighted. A pair is shown only where every step has a value.
 
@@ -713,7 +1112,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 
 **Unchanged:** WRIT, CHSE, TCHR, ASK, HELP, TRET. Their keeping steps already fit the rule — ASK 5 and TRET 4 keep up, TRET 3 holds back. Single-model points not taken: DEC 3/4, CHSE 2/3, STRG 1/2 as double counts; ASK 1, TRET 3 as execution; ASK 4 "accept the help" stays execution, since refusing help once asked lies outside the practice.
 
-### Questions for the author — answered 2026-10-16, except MEND
+#### Questions for the author — answered 2026-10-16, except MEND
 
 1. Accept, reword or reject each revised list — *all accepted; ETRS·let-go step 3 removed.*
 2. The keeping rule and the noticing rule — *both accepted.*
@@ -721,7 +1120,7 @@ A form is one branch of a security's definition with its own steps and pair. The
 4. MEND split into forms, beyond the seven — *not split. Answered the same day ([[SRC-2026-10-16-mend-keeps-forgiveness]]): forgiveness belongs in MEND as judgment — the attitude of regarding the person as if they had done no wrong. Step 5 is reworded to the forgiving act alone, the assistant's reading; accepting forgiveness is dropped. MEND therefore spans both people: steps 1–4 are done by the one who repairs, step 5 by the one who was harmed. Importance 4 is carried until the author resets it, so the pair stays 0.36 / 0.64.*
 5. After this, importance for the new steps and for the steps six or seven models disputed, as decided — *set 2026-10-16 ([[SRC-2026-10-16-step-importance-decisions]]); see "The pairs after the revision".*
 
-## Questions for the author — answered 2026-10-10, except the LLM check
+### Questions for the author — answered 2026-10-10, except the LLM check
 
 1. **GIFT and IOU funds** — *equal weights, decided.* Do they follow the smaller form, as the leg families follow the smaller leg, or weight their two forms equally?
 2. **Definitions and classes.** Accept, reword, or change the class of any step.

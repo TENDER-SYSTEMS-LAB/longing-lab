@@ -1,6 +1,6 @@
 # Failure Profile Sets
 
-> 15 nodes · cohesion 0.18
+> 15 nodes
 
 ## Key Concepts
 
@@ -22,13 +22,13 @@
 
 ## Relationships
 
-- [Failure Profile: Gemini and Grok](Failure_Profile-_Gemini_and_Grok.md) (12 shared connections)
+- [Failure Profile Prompt](Failure_Profile_Prompt.md) (9 shared connections)
+- [Failure Profile: Gemini and Grok](Failure_Profile-_Gemini_and_Grok.md) (7 shared connections)
+- [Failure Profile: GLM](Failure_Profile-_GLM.md) (6 shared connections)
 - [Failure Profile: ChatGPT](Failure_Profile-_ChatGPT.md) (5 shared connections)
-- [Failure Profile Prompt](Failure_Profile_Prompt.md) (5 shared connections)
-- [Failure Profile: GLM](Failure_Profile-_GLM.md) (5 shared connections)
 - [Failure Profile Review](Failure_Profile_Review.md) (2 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (1 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (1 shared connections)
 
 ## Source Files
 

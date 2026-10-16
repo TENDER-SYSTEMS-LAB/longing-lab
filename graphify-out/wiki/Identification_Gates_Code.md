@@ -1,10 +1,10 @@
 # Identification Gates Code
 
-> 17 nodes · cohesion 0.26
+> 17 nodes
 
 ## Key Concepts
 
-- **2026-09-20-identification-experiment-gates.py** (22 connections) — `raw/documents/2026-09-20-identification-experiment-gates.py`
+- **2026-09-20-identification-experiment-gates.py** (23 connections) — `raw/documents/2026-09-20-identification-experiment-gates.py`
 - **numpy** (21 connections)
 - **main()** (10 connections) — `raw/documents/2026-09-20-identification-experiment-gates.py`
 - **count_after()** (6 connections) — `raw/documents/2026-09-20-identification-experiment-gates.py`
@@ -27,11 +27,12 @@
 - [Identification Experiment Code](Identification_Experiment_Code.md) (7 shared connections)
 - [Identification Experiment v2 Code](Identification_Experiment_v2_Code.md) (7 shared connections)
 - [Simulation Harness v1 Code](Simulation_Harness_v1_Code.md) (2 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (2 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (2 shared connections)
 - [Simulation Harness v3 Code](Simulation_Harness_v3_Code.md) (1 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (1 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (1 shared connections)
-- [Activity Log](Activity_Log.md) (1 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
+- [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
 
 ## Source Files
 
@@ -39,7 +40,7 @@
 
 ## Audit Trail
 
-- EXTRACTED: 58 (100%)
+- EXTRACTED: 59 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

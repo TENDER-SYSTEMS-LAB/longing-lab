@@ -666,10 +666,10 @@
     "semantic_hash": "0fce870ab2ba5b69a29419de85805ca0"
   },
   "raw/sources.md": {
-    "mtime": 1792117457.7346272,
-    "seen": 1792118638.9719248,
-    "ast_hash": "9ffa56025292d0561d3b3c189a23c1a1",
-    "semantic_hash": "9ffa56025292d0561d3b3c189a23c1a1"
+    "mtime": 1792124630.2401738,
+    "seen": 1792125085.9263265,
+    "ast_hash": "21bd570796331ecfdb5cfc1514bc3e8f",
+    "semantic_hash": "21bd570796331ecfdb5cfc1514bc3e8f"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-claude-critic-of-model.md": {
     "mtime": 1792113602.1264892,
@@ -1260,10 +1260,10 @@
     "semantic_hash": "6661e25e89eb835d12d4dd7b8b1185dc"
   },
   "schema.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720602,
-    "ast_hash": "ae4803c015acba91aa5e1d3dba156ac9",
-    "semantic_hash": "ae4803c015acba91aa5e1d3dba156ac9"
+    "mtime": 1792124796.4196506,
+    "seen": 1792125085.9263284,
+    "ast_hash": "7acfb88f3aed0c5a2e38a437802981a4",
+    "semantic_hash": "7acfb88f3aed0c5a2e38a437802981a4"
   },
   "wiki/concepts/academic-model-survey.md": {
     "mtime": 1792113602.1445513,
@@ -1308,10 +1308,10 @@
     "semantic_hash": "343f667d2e1f78159f66eff836f9046b"
   },
   "wiki/concepts/design-application.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720702,
-    "ast_hash": "801f5c9574cd4a3b25a6bbddce07f428",
-    "semantic_hash": "801f5c9574cd4a3b25a6bbddce07f428"
+    "mtime": 1792124806.6493201,
+    "seen": 1792125085.9263308,
+    "ast_hash": "d99d3534564ccd451dc75f636ede738e",
+    "semantic_hash": "d99d3534564ccd451dc75f636ede738e"
   },
   "wiki/concepts/exposure-sources-review.md": {
     "mtime": 1792113602.1445513,
@@ -1338,10 +1338,10 @@
     "semantic_hash": "e9549b2d376671ca9ab508035f240bbb"
   },
   "wiki/concepts/identification-experiment.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720767,
-    "ast_hash": "44084cef1ff92bbf4872a6a9a879fd67",
-    "semantic_hash": "44084cef1ff92bbf4872a6a9a879fd67"
+    "mtime": 1792124753.4745753,
+    "seen": 1792125085.926333,
+    "ast_hash": "66181fdb368b7b679b1c1514b4df366c",
+    "semantic_hash": "66181fdb368b7b679b1c1514b4df366c"
   },
   "wiki/concepts/index-architecture.md": {
     "mtime": 1792113602.1445513,
@@ -1356,10 +1356,10 @@
     "semantic_hash": "40419f6a134ddc440a11bcd6fd444c38"
   },
   "wiki/concepts/institution-naming-review.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720798,
-    "ast_hash": "2e41e24a42d979c4581681737404cbc4",
-    "semantic_hash": "2e41e24a42d979c4581681737404cbc4"
+    "mtime": 1792124753.4753747,
+    "seen": 1792125085.9263346,
+    "ast_hash": "21685fd5c057ed0bdc2513e8f3f8c7b9",
+    "semantic_hash": "21685fd5c057ed0bdc2513e8f3f8c7b9"
   },
   "wiki/concepts/letter-practice-dynamics.md": {
     "mtime": 1792113602.1445513,
@@ -1368,10 +1368,10 @@
     "semantic_hash": "8494daf37aee4ee7a4ad761d885d15a0"
   },
   "wiki/concepts/loop-simulation.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720826,
-    "ast_hash": "c6c0ac1c12f627084dc6df90ff911f82",
-    "semantic_hash": "c6c0ac1c12f627084dc6df90ff911f82"
+    "mtime": 1792124753.473984,
+    "seen": 1792125085.926337,
+    "ast_hash": "306f80a491dd7ade24234da180939e77",
+    "semantic_hash": "306f80a491dd7ade24234da180939e77"
   },
   "wiki/concepts/model-review-consensus.md": {
     "mtime": 1792113602.1445513,
@@ -1416,28 +1416,28 @@
     "semantic_hash": "bd1a322fa98ee327994732bd63dec735"
   },
   "wiki/concepts/romance-analysis.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.972094,
-    "ast_hash": "c91884e9e5e739e26e18068ca278e48c",
-    "semantic_hash": "c91884e9e5e739e26e18068ca278e48c"
+    "mtime": 1792124806.646983,
+    "seen": 1792125085.926339,
+    "ast_hash": "77452479b9b30e5521eac01c99bd7462",
+    "semantic_hash": "77452479b9b30e5521eac01c99bd7462"
   },
   "wiki/concepts/romance-ontology.md": {
-    "mtime": 1792117457.736543,
-    "seen": 1792118638.972095,
-    "ast_hash": "f4769a715f1283b1c9f22088076129e9",
-    "semantic_hash": "f4769a715f1283b1c9f22088076129e9"
+    "mtime": 1792124806.6456058,
+    "seen": 1792125085.92634,
+    "ast_hash": "fed9feff7b18a630d16c91be39a5bfc4",
+    "semantic_hash": "fed9feff7b18a630d16c91be39a5bfc4"
   },
   "wiki/concepts/security-definitions.md": {
-    "mtime": 1792117457.7389069,
-    "seen": 1792118638.9720962,
-    "ast_hash": "e7c4102e57175af6d159a3b3ba28cc36",
-    "semantic_hash": "e7c4102e57175af6d159a3b3ba28cc36"
+    "mtime": 1792124741.6727173,
+    "seen": 1792125085.9263415,
+    "ast_hash": "b1fc5f1fb8f419db1ef8edcfec9eba6a",
+    "semantic_hash": "b1fc5f1fb8f419db1ef8edcfec9eba6a"
   },
   "wiki/concepts/security-families.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.9720974,
-    "ast_hash": "d79f3ba0f3cab60c83061de70da97c6e",
-    "semantic_hash": "d79f3ba0f3cab60c83061de70da97c6e"
+    "mtime": 1792124806.6435673,
+    "seen": 1792125085.9263437,
+    "ast_hash": "d55a67489160d2a91e8eaa0376d677e7",
+    "semantic_hash": "d55a67489160d2a91e8eaa0376d677e7"
   },
   "wiki/concepts/security-universe-round-review.md": {
     "mtime": 1792113602.14559,
@@ -1446,10 +1446,10 @@
     "semantic_hash": "ad86dbb27405685d42c7dc55824021f5"
   },
   "wiki/concepts/security-universe.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.9720995,
-    "ast_hash": "b5e76de962c6c3d7bb9a65872edbbdde",
-    "semantic_hash": "b5e76de962c6c3d7bb9a65872edbbdde"
+    "mtime": 1792124806.644505,
+    "seen": 1792125085.9263449,
+    "ast_hash": "3e1d995abc9fd9d0b45080e5b321bcad",
+    "semantic_hash": "3e1d995abc9fd9d0b45080e5b321bcad"
   },
   "wiki/concepts/security-weights-round-review.md": {
     "mtime": 1792113602.14559,
@@ -1476,10 +1476,10 @@
     "semantic_hash": "8eb424543ef773b2c5470d9755bb7fee"
   },
   "wiki/concepts/world-rules.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.972106,
-    "ast_hash": "cb4d927b2d4297f73f37deb8ea794fde",
-    "semantic_hash": "cb4d927b2d4297f73f37deb8ea794fde"
+    "mtime": 1792124814.6079302,
+    "seen": 1792125085.926348,
+    "ast_hash": "fa461317e88cd0e6d045825f8d170934",
+    "semantic_hash": "fa461317e88cd0e6d045825f8d170934"
   },
   "wiki/concepts/worldbuilding-roadmap.md": {
     "mtime": 1792113602.14559,
@@ -1488,10 +1488,10 @@
     "semantic_hash": "0bd04e0851f5b25ddf79354d74c196ac"
   },
   "wiki/current-state.md": {
-    "mtime": 1792117457.742815,
-    "seen": 1792118638.9721086,
-    "ast_hash": "846458576bf956170746d55c15a9bc0b",
-    "semantic_hash": "846458576bf956170746d55c15a9bc0b"
+    "mtime": 1792124653.6991026,
+    "seen": 1792125085.9263496,
+    "ast_hash": "fa7e705c26248ec9ea38c51c84a1d3ea",
+    "semantic_hash": "fa7e705c26248ec9ea38c51c84a1d3ea"
   },
   "wiki/decisions/DEC-001-project-name-longing.md": {
     "mtime": 1792113602.1507783,
@@ -1572,10 +1572,10 @@
     "semantic_hash": "68a4d4f5078b833ec455fdcc7974c92e"
   },
   "wiki/decisions/DEC-014-restoration-is-arrival-and-substitution-is-judgment.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721272,
-    "ast_hash": "6e7e176c2d35c5d8e0818462e50dd3a7",
-    "semantic_hash": "6e7e176c2d35c5d8e0818462e50dd3a7"
+    "mtime": 1792124806.6483803,
+    "seen": 1792125085.9263513,
+    "ast_hash": "49c95ead26cd103f0489833ce00a8af8",
+    "semantic_hash": "49c95ead26cd103f0489833ce00a8af8"
   },
   "wiki/decisions/DEC-015-no-listing-and-a-stopped-price-stays.md": {
     "mtime": 1792113602.1507783,
@@ -1584,28 +1584,28 @@
     "semantic_hash": "0a52c303cc2d8e4a1b2cbc70a2ec61f2"
   },
   "wiki/decisions/DEC-016-securities-chosen-top-down.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721303,
-    "ast_hash": "1e78c6309ba0d1450f3b52f23a736711",
-    "semantic_hash": "1e78c6309ba0d1450f3b52f23a736711"
+    "mtime": 1792124806.6509962,
+    "seen": 1792125085.9263532,
+    "ast_hash": "985637b2483ca5c7f299e8c9332bb6f3",
+    "semantic_hash": "985637b2483ca5c7f299e8c9332bb6f3"
   },
   "wiki/index.md": {
-    "mtime": 1792117457.7652466,
-    "seen": 1792118638.9721315,
-    "ast_hash": "f59c5535d15da77ea74409fa679ce064",
-    "semantic_hash": "f59c5535d15da77ea74409fa679ce064"
+    "mtime": 1792124791.1493933,
+    "seen": 1792125085.9263544,
+    "ast_hash": "50c2308dadfc052fea3879f87d5f44bb",
+    "semantic_hash": "50c2308dadfc052fea3879f87d5f44bb"
   },
   "wiki/log.md": {
-    "mtime": 1792117457.7696438,
-    "seen": 1792118638.972133,
-    "ast_hash": "f1e959565bb25684b6a12b44b122dcd3",
-    "semantic_hash": "f1e959565bb25684b6a12b44b122dcd3"
+    "mtime": 1792124829.2579536,
+    "seen": 1792125085.9263556,
+    "ast_hash": "4fceb6789b3aac5a07c6ee260ce7ab1e",
+    "semantic_hash": "4fceb6789b3aac5a07c6ee260ce7ab1e"
   },
   "wiki/overview.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.972134,
-    "ast_hash": "9e4c303ec6f80597f5cdf2bb71e3f99e",
-    "semantic_hash": "9e4c303ec6f80597f5cdf2bb71e3f99e"
+    "mtime": 1792124814.6073353,
+    "seen": 1792125085.9263575,
+    "ast_hash": "9bde04ede5200063cff721f6bef93e6d",
+    "semantic_hash": "9bde04ede5200063cff721f6bef93e6d"
   },
   "wiki/questions/Q-001-price-formation.md": {
     "mtime": 1792113602.1532578,
@@ -1636,5 +1636,17 @@
     "seen": 1792118638.9721413,
     "ast_hash": "5ec212f960e7724d4389767d8dc09d7a",
     "semantic_hash": "5ec212f960e7724d4389767d8dc09d7a"
+  },
+  "raw/conversations/2026-10-16-graphify-and-wiki-restructure.md": {
+    "mtime": 1792124625.5739417,
+    "seen": 1792125085.9263234,
+    "ast_hash": "88eb5e6ea93781c705b8bfc7e793a636",
+    "semantic_hash": "88eb5e6ea93781c705b8bfc7e793a636"
+  },
+  "wiki/state-history.md": {
+    "mtime": 1792124649.0864727,
+    "seen": 1792125085.9263585,
+    "ast_hash": "6afe84d1b79afa5b620767aeba9332e2",
+    "semantic_hash": "6afe84d1b79afa5b620767aeba9332e2"
   }
 }

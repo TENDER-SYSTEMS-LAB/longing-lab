@@ -77,6 +77,7 @@ After the LLM round, the author decided on [[security-universe]] ([[SRC-2026-10-
 - [[world-rules]]
 - [[index-architecture]]
 - [[current-state]]
+- [[security-definitions]]
 
 ## Sources
 

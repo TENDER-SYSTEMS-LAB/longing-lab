@@ -1,6 +1,6 @@
 # Weight Procedure: Qwen
 
-> 32 nodes · cohesion 0.12
+> 32 nodes
 
 ## Key Concepts
 
@@ -8,14 +8,14 @@
 - **Weight-setting procedure — Qwen response (Sections 1–7)** (14 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-qwen.md`
 - **Live-option test (judgment vs execution)** (7 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
 - **LETTER decomposition L1–L10 (Occasioning … Releasing)** (5 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
+- **LETTER (security)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
+- **LETTER (security)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-qwen.md`
 - **Classification packet signed by the user** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
 - **Definitional load counting rule (1/2/3 from frozen definition)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
 - **Hard case B — system-produced utterance is judgment** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
 - **Hard case C — narrowed judgment leaves the pair unchanged** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
-- **LETTER (security)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
 - **One pair for all three markets; consistency file** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
 - **Step of the canonical occasion (unit of classification)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
-- **LETTER (security)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-qwen.md`
 - **LETTER four steps (Conception, Composition, Physical Production, Dispatch)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-qwen.md`
 - **Sorting test with primary-bottleneck rule (no fractions)** (4 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-qwen.md`
 - **Undecided step shown as an interval** (3 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md`
@@ -35,11 +35,11 @@
 
 - [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (4 shared connections)
 - [Security Definitions](Security_Definitions.md) (3 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (2 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (2 shared connections)
 - [Weight Procedure and Exposures](Weight_Procedure_and_Exposures.md) (2 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (2 shared connections)
 - [Korean Romance Study Notes](Korean_Romance_Study_Notes.md) (1 shared connections)
-- [Exposure Sources Review](Exposure_Sources_Review.md) (1 shared connections)
+- [Exposure Sources Review (2)](Exposure_Sources_Review_2.md) (1 shared connections)
 
 ## Source Files
 

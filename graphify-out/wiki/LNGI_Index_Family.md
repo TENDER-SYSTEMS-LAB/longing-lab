@@ -1,6 +1,6 @@
 # LNGI Index Family
 
-> 11 nodes · cohesion 0.24
+> 11 nodes
 
 ## Key Concepts
 

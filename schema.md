@@ -23,7 +23,7 @@ Registered raw sources are evidence and retain their original language. The Engl
 Four documents that may appear similar serve different audiences and positions in time:
 
 - **`README.md`** — The repository's entry point. It explains what the project is, what is currently being researched, why the repository exists, and where to begin reading. Do not include a complete file tree or agent editing instructions.
-- **`wiki/index.md`** — A content-oriented catalog for agents and Wiki editors. Excluding the index itself, register every Wiki page exactly once under its type using `link + one-line summary + updated date`; include status when the page has one. It also routes new information to the proper page. Do not remove an entry unless the page is deleted.
+- **`wiki/index.md`** — A content-oriented catalog for agents and Wiki editors. Excluding the index itself, register every Wiki page exactly once under its topic section using `link + one-line summary + updated date`; include status when the page has one. A core-terms table names the one page that owns each key term. It also routes new information to the proper page. Do not remove an entry unless the page is deleted.
 - **`wiki/current-state.md`** — A snapshot of currently valid decisions, scope, priorities, and unresolved questions. It does not replace the full page catalog or work history.
 - **`wiki/log.md`** — An append-only history of ingestion, meaningful queries, decisions, linting, and maintenance in the order they occurred. Do not edit an existing entry except during an explicitly authorized repository-wide migration that preserves its meaning.
 

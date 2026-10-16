@@ -178,6 +178,7 @@ Practices 4, 8, 10, 28, 29 and 30 have strong arrival phases; 21 and 29 have a r
 - [[letter-practice-dynamics]]
 - [[index-architecture]]
 - [[current-state]]
+- [[security-definitions]]
 
 ## Sources
 

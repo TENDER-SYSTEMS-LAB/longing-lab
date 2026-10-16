@@ -1,6 +1,6 @@
 # Romance Analysis Round
 
-> 83 nodes · cohesion 0.03
+> 82 nodes
 
 ## Key Concepts
 
@@ -21,7 +21,6 @@
 - **Attention economy** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-glm.md`
 - **Aura / origin** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-glm.md`
 - **Interpersonal trust vs systemic confidence** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-glm.md`
-- **Resonance** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-qwen.md`
 - **Attention economy** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-deepseek.md`
 - **Filter bubble** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-deepseek.md`
 - **Social capital** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-deepseek.md`
@@ -29,22 +28,23 @@
 - **Calculative system trust** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-gemini.md`
 - **Conviviality** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-gemini.md`
 - **Focal practice** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-gemini.md`
-- *... and 58 more nodes in this community*
+- **Plurality** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-gemini.md`
+- *... and 57 more nodes in this community*
 
 ## Relationships
 
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (20 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (6 shared connections)
+- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (13 shared connections)
+- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (7 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (5 shared connections)
 - [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (2 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (2 shared connections)
 - [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (1 shared connections)
 - [Modernization and Credit History](Modernization_and_Credit_History.md) (1 shared connections)
 - [What Modernization Took](What_Modernization_Took.md) (1 shared connections)
 - [Index Architecture and Units](Index_Architecture_and_Units.md) (1 shared connections)
 - [Reserve Instruments](Reserve_Instruments.md) (1 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (1 shared connections)
+- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (1 shared connections)
 - [Secular Bear Market](Secular_Bear_Market.md) (1 shared connections)
-- [DEC-016 Top-down Securities](DEC-016_Top-down_Securities.md) (1 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (1 shared connections)
 
 ## Source Files
 
@@ -57,8 +57,8 @@
 
 ## Audit Trail
 
-- EXTRACTED: 108 (71%)
-- INFERRED: 45 (29%)
+- EXTRACTED: 108 (72%)
+- INFERRED: 43 (28%)
 - AMBIGUOUS: 0 (0%)
 
 ---

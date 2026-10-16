@@ -1,79 +1,66 @@
 # Technology Waves and Simulation
 
-> 72 nodes · cohesion 0.04
+> 26 nodes
 
 ## Key Concepts
 
-- **Technology Waves — arrival raises what substitution later takes** (91 connections) — `wiki/concepts/technology-waves.md`
-- **Loop Simulation — the first thing in this project that runs** (74 connections) — `wiki/concepts/loop-simulation.md`
-- **Proxy Sourcing Review** (40 connections) — `wiki/concepts/proxy-sourcing-review.md`
-- **2026-09-20-loop-simulation-harness-v4.py** (21 connections) — `raw/documents/2026-09-20-loop-simulation-harness-v4.py`
-- **2026-09-20-loop-simulation-harness-v5.py** (20 connections) — `raw/documents/2026-09-20-loop-simulation-harness-v5.py`
-- **Rebuild on DEC-008 / DEC-009 — third simulation round** (15 connections) — `raw/documents/2026-09-20-rebuild-findings.md`
-- **Wave calibration from the WDI spine — 2026-09-20** (14 connections) — `raw/documents/2026-09-20-wave-calibration-from-spine.md`
-- **Wave calibration from national series — smartphones and the social web, 2026-09-20** (12 connections) — `raw/documents/2026-09-20-wave-calibration-from-national-series.md`
-- **2026-09-19-loop-simulation-harness-v2.py** (11 connections) — `raw/documents/2026-09-19-loop-simulation-harness-v2.py`
-- **Identification experiment — findings v2, on the v4 world, 2026-09-20** (11 connections) — `raw/documents/2026-09-20-identification-experiment-findings-v2.md`
-- **WDI spine retrieval record — 2026-09-20** (11 connections) — `raw/documents/2026-09-20-wdi-spine-retrieval.md`
-- **Conversation — No Korean time series to add** (9 connections) — `raw/conversations/2026-09-20-no-korean-time-series.md`
-- **Identification experiment — findings v3, on the v5 world, 2026-09-20** (9 connections) — `raw/documents/2026-09-20-identification-experiment-findings-v3.md`
-- **National series retrieval record — smartphones and the social web, 2026-09-20** (9 connections) — `raw/documents/2026-09-20-national-series-retrieval.md`
-- **World Bank WDI spine (vintage 2026-07-13)** (6 connections) — `wiki/log.md`
-- **dataclasses** (5 connections)
-- **WDI spine (internet, mobile, fixed broadband)** (4 connections) — `wiki/concepts/data-sources.md`
-- **v4 working build (two waves fitted to WDI spine)** (4 connections) — `wiki/concepts/loop-simulation.md`
-- **Wire a wave only when all markets are measured** (4 connections) — `wiki/log.md`
-- **Real data as reference for event timing and strength** (4 connections) — `wiki/overview.md`
-- **No Korean yearly time series available** (3 connections) — `raw/conversations/2026-09-20-no-korean-time-series.md`
-- **Wave dating needs the midpoint inside observations** (3 connections) — `raw/conversations/2026-09-20-no-korean-time-series.md`
-- **Technology wave stack with arrival and substitution phases** (3 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
-- **Seven waves of interest (dial-up/BBS ... generative AI)** (3 connections) — `raw/documents/2026-09-20-proxy-sourcing-prompt.md`
-- **Arrival is visible: CALL rises before substitution takes it** (3 connections) — `raw/documents/2026-09-20-rebuild-findings.md`
-- *... and 47 more nodes in this community*
+- **Loop Simulation — the first thing in this project that runs** (78 connections) — `wiki/concepts/loop-simulation.md`
+- **Conversation — Simulating the DEC-007 loop** (21 connections) — `raw/conversations/2026-09-16-loop-simulation-session.md`
+- **Rebuild on DEC-008 / DEC-009 — third simulation round** (18 connections) — `raw/documents/2026-09-20-rebuild-findings.md`
+- **Conversation — No Korean time series to add** (12 connections) — `raw/conversations/2026-09-20-no-korean-time-series.md`
+- **longing-sim harness (sim.py)** (8 connections) — `raw/conversations/2026-09-16-loop-simulation-session.md`
+- **Anxiety redefined as trust that will not come back** (5 connections) — `wiki/log.md`
+- **Tipping point at ~35% AI share** (3 connections) — `raw/conversations/2026-09-16-loop-simulation-session.md`
+- **Default cluster of ~18% float per week** (3 connections) — `raw/conversations/2026-09-16-loop-simulation-session.md`
+- **High-β securities reach zero** (3 connections) — `raw/conversations/2026-09-16-loop-simulation-session.md`
+- **Requisition rate s(t) unspecified** (3 connections) — `raw/conversations/2026-09-16-loop-simulation-session.md`
+- **Per-wave `creates` coefficient (AI 0.12)** (3 connections) — `raw/documents/2026-09-20-rebuild-findings.md`
+- **The decline is redemption (calls outweigh defaults ~3:1)** (3 connections) — `raw/documents/2026-09-20-rebuild-findings.md`
+- **AI wave connection coefficient (to be reset)** (3 connections) — `wiki/decisions/DEC-014-restoration-is-arrival-and-substitution-is-judgment.md`
+- **BLIND TRUST (trust in a non-human responder; never refuses to respond)** (3 connections) — `wiki/log.md`
+- **Test passing for the wrong reason** (3 connections) — `wiki/concepts/loop-simulation.md`
+- **v4 is the working build** (3 connections) — `wiki/concepts/loop-simulation.md`
+- **Market convergence emerges from arrival dates, not a parameter** (2 connections) — `raw/documents/2026-09-20-rebuild-findings.md`
+- **Cross-market convergence (rejected premise)** (2 connections) — `wiki/concepts/loop-simulation.md`
+- **AI connection coefficient (a tenth of the social web)** (2 connections) — `wiki/concepts/technology-waves.md`
+- **Loop has no ignition source (exogenous a0)** (2 connections) — `raw/conversations/2026-09-16-loop-simulation-session.md`
+- **Simulate before selecting a factor set** (2 connections) — `wiki/concepts/loop-simulation.md`
+- **2025 single-point estimates from NIA microdata** (1 connections) — `raw/conversations/2026-09-20-no-korean-time-series.md`
+- **Log premium (fix for negative quotes)** (1 connections) — `wiki/concepts/loop-simulation.md`
+- **The month is the smallest honest candle** (1 connections) — `wiki/concepts/loop-simulation.md`
+- **One mass-participation bubble, left unbalanced on purpose** (1 connections) — `raw/documents/2026-09-20-rebuild-findings.md`
+- *... and 1 more nodes in this community*
 
 ## Relationships
 
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (22 shared connections)
-- [Activity Log](Activity_Log.md) (21 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (18 shared connections)
-- [Simulation Harness v3 Code](Simulation_Harness_v3_Code.md) (16 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (14 shared connections)
-- [Proxy Sourcing Responses](Proxy_Sourcing_Responses.md) (13 shared connections)
-- [Three Markets and Naming](Three_Markets_and_Naming.md) (13 shared connections)
-- [Data Sources](Data_Sources.md) (9 shared connections)
-- [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (9 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (9 shared connections)
-- [Simulation Harness v4 Code](Simulation_Harness_v4_Code.md) (8 shared connections)
-- [STANDARD RETURN Numeraire](STANDARD_RETURN_Numeraire.md) (7 shared connections)
+- [Information Quality and Texture](Information_Quality_and_Texture.md) (12 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (10 shared connections)
+- [Secular Bear Market](Secular_Bear_Market.md) (9 shared connections)
+- [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (7 shared connections)
+- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (7 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (7 shared connections)
+- [Simulation Harness v1 Code](Simulation_Harness_v1_Code.md) (6 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (6 shared connections)
+- [Factor Identification Experiment](Factor_Identification_Experiment.md) (6 shared connections)
+- [Three Markets and Naming](Three_Markets_and_Naming.md) (5 shared connections)
+- [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (5 shared connections)
+- [Reserve Instruments](Reserve_Instruments.md) (5 shared connections)
 
 ## Source Files
 
+- `raw/conversations/2026-09-16-loop-simulation-session.md`
 - `raw/conversations/2026-09-20-no-korean-time-series.md`
-- `raw/documents/2026-09-19-loop-simulation-harness-v2.py`
-- `raw/documents/2026-09-20-factor-identification-prompt.md`
-- `raw/documents/2026-09-20-identification-experiment-findings-v2.md`
-- `raw/documents/2026-09-20-identification-experiment-findings-v3.md`
-- `raw/documents/2026-09-20-loop-simulation-harness-v4.py`
-- `raw/documents/2026-09-20-loop-simulation-harness-v5.py`
-- `raw/documents/2026-09-20-national-series-retrieval.md`
-- `raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md`
-- `raw/documents/2026-09-20-proxy-sourcing-prompt.md`
 - `raw/documents/2026-09-20-rebuild-findings.md`
-- `raw/documents/2026-09-20-wave-calibration-from-national-series.md`
-- `raw/documents/2026-09-20-wave-calibration-from-spine.md`
-- `raw/documents/2026-09-20-wdi-spine-retrieval.md`
-- `wiki/concepts/data-sources.md`
-- `wiki/concepts/identification-experiment.md`
 - `wiki/concepts/loop-simulation.md`
-- `wiki/concepts/proxy-sourcing-review.md`
-- `wiki/concepts/romance-ontology.md`
 - `wiki/concepts/technology-waves.md`
+- `wiki/decisions/DEC-014-restoration-is-arrival-and-substitution-is-judgment.md`
+- `wiki/log.md`
 
 ## Audit Trail
 
-- EXTRACTED: 311 (88%)
-- INFERRED: 42 (12%)
-- AMBIGUOUS: 0 (0%)
+- EXTRACTED: 138 (91%)
+- INFERRED: 12 (8%)
+- AMBIGUOUS: 1 (1%)
 
 ---
 

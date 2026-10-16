@@ -1,10 +1,10 @@
 # Identification Experiment v2 Code
 
-> 24 nodes · cohesion 0.13
+> 24 nodes
 
 ## Key Concepts
 
-- **2026-09-20-identification-experiment-v2.py** (24 connections) — `raw/documents/2026-09-20-identification-experiment-v2.py`
+- **2026-09-20-identification-experiment-v2.py** (25 connections) — `raw/documents/2026-09-20-identification-experiment-v2.py`
 - **main()** (13 connections) — `raw/documents/2026-09-20-identification-experiment-v2.py`
 - **gate()** (6 connections) — `raw/documents/2026-09-20-identification-experiment-v2.py`
 - **order_sensitivity()** (6 connections) — `raw/documents/2026-09-20-identification-experiment-v2.py`
@@ -32,14 +32,15 @@
 ## Relationships
 
 - [Identification Gates Code](Identification_Gates_Code.md) (7 shared connections)
-- [Identification Experiment Code](Identification_Experiment_Code.md) (2 shared connections)
 - [Simulation Harness v3 Code](Simulation_Harness_v3_Code.md) (2 shared connections)
 - [Simulation Harness v1 Code](Simulation_Harness_v1_Code.md) (2 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (2 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (1 shared connections)
+- [Identification Experiment Code](Identification_Experiment_Code.md) (2 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (2 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (1 shared connections)
-- [Activity Log](Activity_Log.md) (1 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
+- [Technology Waves and Simulation (4)](Technology_Waves_and_Simulation_4.md) (1 shared connections)
 
 ## Source Files
 
@@ -47,7 +48,7 @@
 
 ## Audit Trail
 
-- EXTRACTED: 56 (100%)
+- EXTRACTED: 57 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

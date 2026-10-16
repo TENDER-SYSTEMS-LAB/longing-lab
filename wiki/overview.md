@@ -61,6 +61,13 @@ The user set two standards for how precise the model must be ([[SRC-2026-10-01-f
 
 In the same turn the user decided that the world is fictional and its markets are not real countries ([[DEC-009-three-markets-and-convergence]]). Real data is a reference for when events happen and how strong they are ([[technology-waves]]).
 
+## Related
+
+- [[current-state]]
+- [[security-definitions]]
+- [[delivery-architecture]]
+- [[worldbuilding-roadmap]]
+
 ## Sources
 
 - [[SRC-2026-10-01-fictional-markets-and-a-reference-timeline]] — [raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md](../raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md); precision for two readers; fictional markets; real data as reference

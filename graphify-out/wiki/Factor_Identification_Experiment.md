@@ -1,74 +1,67 @@
 # Factor Identification Experiment
 
-> 61 nodes · cohesion 0.05
+> 35 nodes
 
 ## Key Concepts
 
-- **Factor Identification Review** (55 connections) — `wiki/concepts/factor-identification-review.md`
-- **Identification Experiment** (44 connections) — `wiki/concepts/identification-experiment.md`
-- **DEC-005 — Ledger resolution scales with the security universe** (44 connections) — `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- **LONGING — Factor Identification Round** (25 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
-- **Identification experiment — findings, 2026-09-20** (17 connections) — `raw/documents/2026-09-20-identification-experiment-findings.md`
-- **Identification experiment — findings v4: the rest of the gate battery, on the v4 world, 2026-09-20** (15 connections) — `raw/documents/2026-09-20-identification-experiment-findings-v4.md`
-- **Korea Internet Usage Survey 2025 — microdata received, one point measured** (9 connections) — `raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md`
+- **Factor Identification Review** (54 connections) — `wiki/concepts/factor-identification-review.md`
+- **Identification Experiment** (45 connections) — `wiki/concepts/identification-experiment.md`
+- **LONGING — Factor Identification Round** (27 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
 - **Promotion schedule as a runnable test** (5 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
-- **Promotion schedule as a gate battery** (5 connections) — `wiki/concepts/factor-identification-review.md`
-- **Ledger resolution scales with the security universe** (5 connections) — `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- **External LLM review rounds (rounds 1-4 and later)** (5 connections) — `wiki/log.md`
 - **Promotion gate must be calibrated on a planted null** (4 connections) — `raw/documents/2026-09-20-identification-experiment-findings.md`
 - **Promotion rule rests on held-out gate plus support floor** (4 connections) — `raw/documents/2026-09-20-identification-experiment-findings-v4.md`
-- **Factors may outnumber securities** (4 connections) — `wiki/concepts/attribution-ledger.md`
-- **Section 7 simulation procedure** (4 connections) — `wiki/concepts/factor-identification-review.md`
-- **Opening ledger near nine factor lines** (3 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
-- **Orthogonalisation order moves the schedule line early** (3 connections) — `raw/documents/2026-09-20-identification-experiment-findings.md`
-- **Remaining gate battery on v4 (only held-out and support floor have power)** (3 connections) — `wiki/concepts/identification-experiment.md`
-- **Identification run on the v3 harness (five seeds)** (3 connections) — `wiki/concepts/identification-experiment.md`
-- **Loop simulation harness** (3 connections) — `wiki/concepts/loop-simulation.md`
-- **Factors may outnumber securities** (3 connections) — `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- **Working ratio K ≤ N/3** (3 connections) — `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- **Factor promotion criterion (separability test)** (3 connections) — `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- **Promotion gate battery** (3 connections) — `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- **Thirteen factor directions ceiling** (3 connections) — `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- *... and 36 more nodes in this community*
+- **Exact accounting vs causal recovery** (4 connections) — `wiki/concepts/attribution-ledger.md`
+- **Promotion schedule as a gate battery** (3 connections) — `wiki/concepts/factor-identification-review.md`
+- **Section 7 simulation procedure** (3 connections) — `wiki/concepts/factor-identification-review.md`
+- **Eleven-by-twelve exposure matrix rank clarification** (3 connections) — `wiki/concepts/factor-set-failure-profile-review.md`
+- **Section 7 identification procedure** (3 connections) — `wiki/concepts/identification-experiment.md`
+- **Float: total attention placed through a practice** (2 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
+- **STANDARD RETURN numeraire** (2 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
+- **Three markets (Japan, Korea, US), 33 securities, 1996-2026** (2 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
+- **Post-publication encompassing gate** (2 connections) — `wiki/concepts/factor-identification-review.md`
+- **Recursive orthogonalisation in a declared order** (2 connections) — `wiki/concepts/factor-identification-review.md`
+- **A shared driver is not itself a double count** (2 connections) — `wiki/concepts/factor-identification-review.md`
+- **Three-market premise rejected** (2 connections) — `wiki/concepts/factor-identification-review.md`
+- **Placebo on permuted arrival labels** (2 connections) — `wiki/concepts/identification-experiment.md`
+- **Handover through the interaction block** (2 connections) — `wiki/concepts/identification-experiment.md`
+- **What can a three-market universe identify?** (2 connections) — `raw/documents/2026-09-20-factor-identification-prompt.md`
+- **Temporal holdouts, baselines and stability checks** (2 connections) — `wiki/concepts/dataset-backtesting-survey.md`
+- **Rank is not identification** (2 connections) — `wiki/concepts/factor-identification-review.md`
+- **Held-out gate calibrated on a planted null** (2 connections) — `wiki/concepts/identification-experiment.md`
+- **Convergence destroys local identification, not common** (1 connections) — `wiki/concepts/factor-identification-review.md`
+- *... and 10 more nodes in this community*
 
 ## Relationships
 
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (29 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (22 shared connections)
-- [Three Markets and Naming](Three_Markets_and_Naming.md) (19 shared connections)
-- [Activity Log](Activity_Log.md) (12 shared connections)
+- [Three Markets and Naming](Three_Markets_and_Naming.md) (13 shared connections)
+- [Factor Identification Experiment (2)](Factor_Identification_Experiment_2.md) (12 shared connections)
 - [Factor Identification Round 4](Factor_Identification_Round_4.md) (12 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (7 shared connections)
-- [STANDARD RETURN Numeraire](STANDARD_RETURN_Numeraire.md) (5 shared connections)
-- [Factor Architecture Consensus](Factor_Architecture_Consensus.md) (5 shared connections)
-- [Failure Profile Review](Failure_Profile_Review.md) (4 shared connections)
-- [Factor Count and Resolution](Factor_Count_and_Resolution.md) (4 shared connections)
-- [Identification Experiment Code](Identification_Experiment_Code.md) (3 shared connections)
-- [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (9 shared connections)
+- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (7 shared connections)
+- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (6 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (6 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (4 shared connections)
+- [Technology Waves and Simulation (4)](Technology_Waves_and_Simulation_4.md) (4 shared connections)
+- [Failure Profile Review](Failure_Profile_Review.md) (3 shared connections)
+- [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (2 shared connections)
+- [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md) (2 shared connections)
 
 ## Source Files
 
-- `raw/conversations/2026-09-20-round-decisions-and-deferrals.md`
 - `raw/documents/2026-09-20-factor-identification-prompt.md`
-- `raw/documents/2026-09-20-identification-experiment-findings-v2.md`
 - `raw/documents/2026-09-20-identification-experiment-findings-v4.md`
 - `raw/documents/2026-09-20-identification-experiment-findings.md`
-- `raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md`
-- `raw/documents/2026-09-20-wdi-spine-retrieval.md`
 - `wiki/concepts/attribution-ledger.md`
-- `wiki/concepts/factor-architecture-review-consensus.md`
+- `wiki/concepts/dataset-backtesting-survey.md`
 - `wiki/concepts/factor-identification-review.md`
+- `wiki/concepts/factor-set-failure-profile-review.md`
 - `wiki/concepts/identification-experiment.md`
-- `wiki/concepts/loop-simulation.md`
-- `wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md`
-- `wiki/log.md`
-- `wiki/questions/Q-001-price-formation.md`
 
 ## Audit Trail
 
-- EXTRACTED: 203 (83%)
-- INFERRED: 43 (17%)
-- AMBIGUOUS: 0 (0%)
+- EXTRACTED: 118 (80%)
+- INFERRED: 29 (20%)
+- AMBIGUOUS: 1 (1%)
 
 ---
 

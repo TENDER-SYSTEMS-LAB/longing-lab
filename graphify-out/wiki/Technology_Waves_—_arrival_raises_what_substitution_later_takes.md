@@ -1,8 +1,8 @@
 # Technology Waves — arrival raises what substitution later takes
 
-> God node · 91 connections · `wiki/concepts/technology-waves.md`
+> God node · 98 connections · `wiki/concepts/technology-waves.md`
 
-**Community:** [Technology Waves and Simulation](Technology_Waves_and_Simulation.md)
+**Community:** [Technology Waves and Simulation (2)](Technology_Waves_and_Simulation_2.md)
 
 ## Connections by Relation
 
@@ -19,8 +19,8 @@
 - Wave calibration from national series — smartphones and the social web, 2026-09-20 `EXTRACTED`
 - WDI spine retrieval record — 2026-09-20 `EXTRACTED`
 - Conversation — uptake adopted; TRET's Korean name dropped `EXTRACTED`
-- National series retrieval record — smartphones and the social web, 2026-09-20 `EXTRACTED`
 - Conversation — No Korean time series to add `EXTRACTED`
+- National series retrieval record — smartphones and the social web, 2026-09-20 `EXTRACTED`
 
 ### conceptually_related_to
 - LONGING RESEARCH — What Modernization Took (Collection & Critique Round) `INFERRED`
@@ -32,7 +32,7 @@
 - Seven technology diffusion waves (dial-up/BBS to generative AI) `INFERRED`
 - Per-wave 'creates' connection coefficient `INFERRED`
 - A(t) measured then extrapolated; boundary t_data published `INFERRED`
-- AI wave connection coefficient (to be reset) `EXTRACTED`
+- Technology's gifts are events on the world's timeline `EXTRACTED`
 - No Korean yearly time series available `INFERRED`
 - Wave dating needs the midpoint inside observations `INFERRED`
 - The world may run its own timeline `INFERRED`
@@ -42,31 +42,31 @@
 - Technology arrives before it substitutes `INFERRED`
 - Technology wave stack with arrival and substitution phases `INFERRED`
 - Seven waves of interest (dial-up/BBS ... generative AI) `INFERRED`
-- Technology raises before it takes `EXTRACTED`
-- *…and 3 more `conceptually_related_to` connection(s) not listed (lowest-degree first to go)*
+- Blocks fitted jointly `EXTRACTED`
+- *…and 2 more `conceptually_related_to` connection(s) not listed (lowest-degree first to go)*
 
 ### references
 - [Raw Source Index](Raw_Source_Index.md) `EXTRACTED`
-- [Activity Log](Activity_Log.md) `EXTRACTED`
 - [Current State](Current_State.md) `EXTRACTED`
+- [Activity Log](Activity_Log.md) `EXTRACTED`
 - [DEC-014 — Restoration counts as arrival, and substitution counts judgment](DEC-014_—_Restoration_counts_as_arrival,_and_substitution_counts_judgment.md) `EXTRACTED`
-- [DEC-004 — LONGING is a secular bear market, inverted](DEC-004_—_LONGING_is_a_secular_bear_market,_inverted.md) `EXTRACTED`
 - [DEC-009 — Three markets, and the convergence that erases them](DEC-009_—_Three_markets,_and_the_convergence_that_erases_them.md) `EXTRACTED`
+- [DEC-004 — LONGING is a secular bear market, inverted](DEC-004_—_LONGING_is_a_secular_bear_market,_inverted.md) `EXTRACTED`
+- Romance Ontology — the first draft of the layered graph `EXTRACTED`
 - [Data Sources](Data_Sources.md) `EXTRACTED`
 - DEC-007 — STANDARD RETURN is the numeraire `EXTRACTED`
-- Reserve Instruments — what backs a romantic good `EXTRACTED`
 - DEC-008 — A BEARER BOND is perpetual, and what it measures is attention `EXTRACTED`
-- Romance Ontology — the first draft of the layered graph `EXTRACTED`
 - Loop Simulation — the first thing in this project that runs `EXTRACTED`
 - LONGING RESEARCH Wiki Index `EXTRACTED`
 - Romance Analysis — what romance is, what is human, and what is handed over `EXTRACTED`
-- Factor Identification Review `EXTRACTED`
+- Reserve Instruments — what backs a romantic good `EXTRACTED`
 - Security Universe — which practices become securities `EXTRACTED`
-- Exposure Sources Review — twelve collections of data that might measure execution restored and judgment substituted `EXTRACTED`
+- Factor Identification Review `EXTRACTED`
 - 사유 — Reflection `EXTRACTED`
+- Exposure Sources Review — twelve collections of data that might measure execution restored and judgment substituted `EXTRACTED`
 - DEC-003 — Weekly market, monthly research `EXTRACTED`
 - DEC-010 — The attribution's order is declared, measured lines first, and the overlap is published as its own line `EXTRACTED`
-- *…and 34 more `references` connection(s) not listed (lowest-degree first to go)*
+- *…and 42 more `references` connection(s) not listed (lowest-degree first to go)*
 
 ---
 

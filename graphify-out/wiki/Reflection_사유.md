@@ -1,54 +1,65 @@
 # Reflection (사유)
 
-> 13 nodes · cohesion 0.18
+> 21 nodes
 
 ## Key Concepts
 
-- **사유 — Reflection** (50 connections) — `wiki/concepts/reflection.md`
+- **사유 — Reflection** (54 connections) — `wiki/concepts/reflection.md`
+- **Conversation — the romance ontology's first draft and the author's answers** (15 connections) — `raw/conversations/2026-10-05-ontology-draft-decisions.md`
+- **Conversation — the abstraction method and the ontology's form** (13 connections) — `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
+- **Four layers: origin → exchange → balances → handed over** (8 connections) — `wiki/concepts/romance-analysis.md`
+- **Securities are practices defined by act** (6 connections) — `wiki/log.md`
+- **Belief shifts form into confidence in the system** (4 connections) — `raw/conversations/2026-10-04-romance-study-decisions.md`
+- **Layered graph as the ontology's form** (4 connections) — `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
 - **Directional exposure linked initially to 사유 market price** (4 connections) — `wiki/concepts/reflection.md`
-- **Forced covering and amplification reopened** (3 connections) — `wiki/concepts/pricing-model.md`
-- **Reflection priced through the practices it enables** (3 connections) — `wiki/concepts/romance-ontology.md`
-- **Abstract conditions may be listed (사유, room to form one's own judgment)** (3 connections) — `wiki/concepts/world-rules.md`
-- **ChatGPT: states priced through practices** (2 connections) — `raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-chatgpt.md`
-- **DeepSeek: sixteen states priced through practices** (2 connections) — `raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-deepseek.md`
-- **Melt-ups require order-of-magnitude larger collapses** (2 connections) — `wiki/concepts/loop-simulation.md`
+- **Hostility as an indicator beside the balances** (3 connections) — `wiki/log.md`
+- **Securities as abstract conditions with author-known definitions** (3 connections) — `wiki/overview.md`
+- **States without steps vs the weight procedure** (3 connections) — `wiki/decisions/DEC-016-securities-chosen-top-down.md`
+- **Belief between people is the origin; system trust replaced it** (2 connections) — `raw/conversations/2026-10-04-romance-round-decisions.md`
+- **Four-layer frame: origin → exchange → balances → handed over** (2 connections) — `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
+- **Securities are practices; balances and layers read as indices** (2 connections) — `raw/conversations/2026-10-05-ontology-draft-decisions.md`
+- **Trust and belief as two separate balances** (2 connections) — `raw/conversations/2026-10-05-ontology-draft-decisions.md`
 - **Reflection priced through the practices it makes possible** (2 connections) — `wiki/concepts/reflection.md`
 - **Separate state, market price and exposure reference** (2 connections) — `wiki/concepts/reflection.md`
-- **State-securities WAIT, SERENDIPITY (SRDP), THINK (THNK)** (2 connections) — `wiki/concepts/security-families.md`
+- **Reflection (사유)** (2 connections) — `wiki/concepts/romance-ontology.md`
+- **Solitary reflection is romantic; shared reflection is larger** (2 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
 - **사유 directional exposure linked to market price** (2 connections) — `wiki/questions/Q-004-unit-of-account.md`
 - **사유 = room to form one's own judgment** (1 connections) — `wiki/concepts/reflection.md`
 
 ## Relationships
 
-- [Index Architecture and Units](Index_Architecture_and_Units.md) (4 shared connections)
-- [World Rules and LETTER](World_Rules_and_LETTER.md) (4 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (4 shared connections)
-- [Security Universe Round](Security_Universe_Round.md) (3 shared connections)
-- [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (3 shared connections)
-- [Execution and Judgment Weights](Execution_and_Judgment_Weights.md) (3 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (2 shared connections)
-- [Pricing Model Critiques](Pricing_Model_Critiques.md) (2 shared connections)
-- [Activity Log](Activity_Log.md) (2 shared connections)
-- [Data Sources](Data_Sources.md) (2 shared connections)
-- [Prior Art](Prior_Art.md) (2 shared connections)
-- [Security Families](Security_Families.md) (2 shared connections)
+- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (9 shared connections)
+- [DEC-016 Top-down Securities](DEC-016_Top-down_Securities.md) (6 shared connections)
+- [Security Universe Selection](Security_Universe_Selection.md) (6 shared connections)
+- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (5 shared connections)
+- [Security Families](Security_Families.md) (5 shared connections)
+- [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (4 shared connections)
+- [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (4 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (4 shared connections)
+- [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (4 shared connections)
+- [Arbitrage and News Quality](Arbitrage_and_News_Quality.md) (3 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (3 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (3 shared connections)
 
 ## Source Files
 
-- `raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-chatgpt.md`
-- `raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-deepseek.md`
-- `wiki/concepts/loop-simulation.md`
-- `wiki/concepts/pricing-model.md`
+- `raw/conversations/2026-10-04-romance-analysis-author-view.md`
+- `raw/conversations/2026-10-04-romance-round-decisions.md`
+- `raw/conversations/2026-10-04-romance-study-decisions.md`
+- `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
+- `raw/conversations/2026-10-05-ontology-draft-decisions.md`
 - `wiki/concepts/reflection.md`
+- `wiki/concepts/romance-analysis.md`
 - `wiki/concepts/romance-ontology.md`
-- `wiki/concepts/security-families.md`
-- `wiki/concepts/world-rules.md`
+- `wiki/decisions/DEC-016-securities-chosen-top-down.md`
+- `wiki/log.md`
+- `wiki/overview.md`
 - `wiki/questions/Q-004-unit-of-account.md`
 
 ## Audit Trail
 
-- EXTRACTED: 48 (75%)
-- INFERRED: 16 (25%)
+- EXTRACTED: 96 (86%)
+- INFERRED: 15 (14%)
 - AMBIGUOUS: 0 (0%)
 
 ---

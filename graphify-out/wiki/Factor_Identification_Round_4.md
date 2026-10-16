@@ -1,15 +1,15 @@
 # Factor Identification Round 4
 
-> 59 nodes · cohesion 0.05
+> 59 nodes
 
 ## Key Concepts
 
-- **Factor Identification Round 4 (ChatGPT)** (16 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-chatgpt.md`
-- **LONGING: Factor Identification Round 4** (14 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md`
-- **Factor Identification Round 4 (GLM)** (14 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-glm.md`
-- **Factor Identification Round 4 (DeepSeek)** (11 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-deepseek.md`
-- **Factor Identification Round 4 (Qwen)** (11 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-qwen.md`
-- **Factor Identification Round 4 (Grok)** (10 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-grok.md`
+- **Factor Identification Round 4 (ChatGPT)** (17 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-chatgpt.md`
+- **LONGING: Factor Identification Round 4** (15 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md`
+- **Factor Identification Round 4 (GLM)** (15 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-glm.md`
+- **Factor Identification Round 4 (DeepSeek)** (12 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-deepseek.md`
+- **Factor Identification Round 4 (Qwen)** (12 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-qwen.md`
+- **Factor Identification Round 4 (Grok)** (11 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-grok.md`
 - **Single-driver principle** (4 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-glm.md`
 - **Equicorrelation eigenvalues 1+2rho, 1-rho** (3 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md`
 - **Cross-market variation as binding constraint** (3 connections) — `raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-deepseek.md`
@@ -34,8 +34,9 @@
 ## Relationships
 
 - [Factor Identification Experiment](Factor_Identification_Experiment.md) (12 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (6 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (6 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (6 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (6 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (6 shared connections)
 - [Factor Round 4: Gemini](Factor_Round_4-_Gemini.md) (1 shared connections)
 
 ## Source Files
@@ -50,8 +51,8 @@
 
 ## Audit Trail
 
-- EXTRACTED: 71 (68%)
-- INFERRED: 33 (32%)
+- EXTRACTED: 77 (70%)
+- INFERRED: 33 (30%)
 - AMBIGUOUS: 0 (0%)
 
 ---

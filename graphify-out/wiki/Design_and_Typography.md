@@ -1,63 +1,67 @@
 # Design and Typography
 
-> 29 nodes · cohesion 0.13
+> 48 nodes
 
 ## Key Concepts
 
-- **Design and Typographic Application** (44 connections) — `wiki/concepts/design-application.md`
-- **좋은 디자인 원칙** (16 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
+- **Design and Typographic Application** (40 connections) — `wiki/concepts/design-application.md`
+- **Delivery Architecture** (25 connections) — `wiki/concepts/delivery-architecture.md`
+- **좋은 디자인 원칙** (18 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
+- **글꼴 스타일 요청** (14 connections) — `raw/conversations/2026-09-14-typographic-voice.md`
 - **TENDER SYSTEMS Design Principles v0.1** (10 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
+- **Conversation — infrastructure for showing the work to the public** (7 connections) — `raw/conversations/2026-10-04-public-delivery-architecture-request.md`
+- **Conversation — Typeface as the speaker's persona** (7 connections) — `raw/conversations/2026-10-10-typeface-as-persona.md`
+- **Typeface identifies the speaker** (7 connections) — `wiki/concepts/design-application.md`
+- **Departure Mono — the machine voice** (6 connections) — `wiki/concepts/design-application.md`
+- **Typography identifies the speaker** (6 connections) — `raw/conversations/2026-09-14-typographic-voice.md`
 - **Self-hosted fonts** (5 connections) — `wiki/concepts/delivery-architecture.md`
-- **Typeface identifies the speaker** (5 connections) — `wiki/concepts/design-application.md`
+- **Speaker classification of LONGING surfaces** (5 connections) — `wiki/concepts/design-application.md`
 - **Dieter Rams' ten principles of good design** (4 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Form comes from role** (4 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Departure Mono — the machine voice** (4 connections) — `wiki/concepts/design-application.md`
 - **Inconsolata — the system voice** (4 connections) — `wiki/concepts/design-application.md`
+- **Source Serif — a person's voice** (4 connections) — `wiki/concepts/design-application.md`
+- **Form comes from role** (4 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
+- **Derivative import from TENDER SYSTEMS** (4 connections) — `raw/sources.md`
+- **Read-only publication that changes on a schedule** (4 connections) — `wiki/concepts/delivery-architecture.md`
+- **Form follows function (Louis Sullivan)** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
+- **Less, but better** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
+- **Inconsolata (system voice)** (3 connections) — `raw/conversations/2026-09-14-typographic-voice.md`
+- **Typeface as the speaker's persona** (3 connections) — `raw/conversations/2026-10-10-typeface-as-persona.md`
+- **Typeface identifies the speaker** (3 connections) — `wiki/log.md`
 - **Clear use, open interpretation** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
 - **Do not overclaim authority, guarantee or effect** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Form follows function (Louis Sullivan)** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Keep only necessary complexity** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Less, but better** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Monospace (Inconsolata) for system output vs human-written text** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Precise system without reducing the object to the system** (3 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Event-detector headline speaker (open)** (3 connections) — `wiki/concepts/design-application.md`
-- **Does a weekly market have a live surface?** (3 connections) — `wiki/concepts/design-application.md`
-- **Julian Hart's quantitative output stays in the system voice** (3 connections) — `wiki/concepts/design-application.md`
-- **Source Serif — a person** (3 connections) — `wiki/concepts/design-application.md`
-- **Consistency over uniformity across works** (2 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Three layers: shared principles / per-work principles / implementation guide** (2 connections) — `raw/conversations/2026-09-14-design-principles-draft.md`
-- **Julian Hart — Quantitative Strategy** (2 connections) — `wiki/concepts/analyst-system.md`
-- **Typeface as the speaker's persona** (2 connections) — `wiki/concepts/design-application.md`
-- **Typeface identifies the speaker** (2 connections) — `wiki/log.md`
-- *... and 4 more nodes in this community*
+- *... and 23 more nodes in this community*
 
 ## Relationships
 
-- [Current State and Decisions](Current_State_and_Decisions.md) (6 shared connections)
-- [Name, Form and Delivery](Name,_Form_and_Delivery.md) (5 shared connections)
+- [Information Quality and Texture](Information_Quality_and_Texture.md) (9 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (8 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (6 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (5 shared connections)
 - [Brainstorm v2 Decisions](Brainstorm_v2_Decisions.md) (4 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (4 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (3 shared connections)
-- [Activity Log](Activity_Log.md) (3 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (3 shared connections)
 - [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (3 shared connections)
-- [Typographic Voices](Typographic_Voices.md) (2 shared connections)
-- [Index Architecture and Units](Index_Architecture_and_Units.md) (2 shared connections)
-- [Price Formation Dialogue](Price_Formation_Dialogue.md) (1 shared connections)
-- [Artwork Brainstorm](Artwork_Brainstorm.md) (1 shared connections)
-- [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (1 shared connections)
+- [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (3 shared connections)
+- [Name, Form and Delivery](Name,_Form_and_Delivery.md) (2 shared connections)
+- [Current State and Decisions](Current_State_and_Decisions.md) (2 shared connections)
+- [Artwork Brainstorm](Artwork_Brainstorm.md) (2 shared connections)
+- [Data Sources](Data_Sources.md) (2 shared connections)
 
 ## Source Files
 
 - `raw/conversations/2026-09-14-design-principles-draft.md`
-- `wiki/concepts/analyst-system.md`
+- `raw/conversations/2026-09-14-typographic-voice.md`
+- `raw/conversations/2026-09-15-numeraire-and-standard-return.md`
+- `raw/conversations/2026-10-04-public-delivery-architecture-request.md`
+- `raw/conversations/2026-10-10-typeface-as-persona.md`
+- `raw/sources.md`
 - `wiki/concepts/delivery-architecture.md`
 - `wiki/concepts/design-application.md`
 - `wiki/log.md`
 
 ## Audit Trail
 
-- EXTRACTED: 82 (90%)
-- INFERRED: 9 (10%)
+- EXTRACTED: 137 (91%)
+- INFERRED: 14 (9%)
 - AMBIGUOUS: 0 (0%)
 
 ---

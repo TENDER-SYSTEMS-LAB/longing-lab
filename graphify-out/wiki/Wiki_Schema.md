@@ -1,28 +1,27 @@
 # Wiki Schema
 
-> 12 nodes · cohesion 0.23
+> 10 nodes
 
 ## Key Concepts
 
 - **LONGING Wiki Schema** (19 connections) — `schema.md`
-- **Promotion levels (strong / working / do not promote)** (3 connections) — `schema.md`
-- **raw/ layer — Source of Truth** (3 connections) — `schema.md`
+- **Five attribution values** (3 connections) — `schema.md`
+- **Eight status values** (2 connections) — `schema.md`
 - **Task-Sized Reading** (2 connections) — `AGENTS.md`
-- **Five attribution values** (2 connections) — `schema.md`
-- **Provenance via ## Sources section** (2 connections) — `schema.md`
-- **Eight page status values** (2 connections) — `schema.md`
-- **wiki/ LLM-maintained synthesis layer** (2 connections) — `schema.md`
-- **English as canonical documentation language** (1 connections) — `schema.md`
-- **Deprecation and rejection instead of deletion** (1 connections) — `schema.md`
-- **Update classification and Evolution sections** (1 connections) — `schema.md`
-- **Wiki lint checklist** (1 connections) — `schema.md`
+- **Discarded ideas are marked, never deleted** (2 connections) — `schema.md`
+- **Never transform an LLM proposal into a user decision** (2 connections) — `schema.md`
+- **Promotion: strong, working, do not promote** (2 connections) — `schema.md`
+- **Provenance through a Sources section of SRC wikilinks** (2 connections) — `schema.md`
+- **Three layers: raw, wiki, schema** (1 connections) — `schema.md`
+- **Updates: correction, evolution, alternative, unresolved contradiction** (1 connections) — `schema.md`
 
 ## Relationships
 
-- [Wiki Entry Points](Wiki_Entry_Points.md) (5 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (7 shared connections)
 - [Three Markets and Naming](Three_Markets_and_Naming.md) (2 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
 - [Dataset Backtesting Research](Dataset_Backtesting_Research.md) (1 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 
 ## Source Files
 
@@ -31,8 +30,8 @@
 
 ## Audit Trail
 
-- EXTRACTED: 24 (100%)
-- INFERRED: 0 (0%)
+- EXTRACTED: 23 (96%)
+- INFERRED: 1 (4%)
 - AMBIGUOUS: 0 (0%)
 
 ---

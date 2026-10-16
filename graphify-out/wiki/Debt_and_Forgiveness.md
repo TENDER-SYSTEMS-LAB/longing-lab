@@ -1,13 +1,13 @@
 # Debt and Forgiveness
 
-> 7 nodes · cohesion 0.29
+> 7 nodes
 
 ## Key Concepts
 
 - **Debt vs never-settled bond** (4 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-claude.md`
-- **Continuing obligation vs collectible debt** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-chatgpt.md`
 - **Forgiveness and write-off** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-claude.md`
 - **Promise** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-claude.md`
+- **Continuing obligation vs collectible debt** (3 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-chatgpt.md`
 - **Graeber 2011 — Debt** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-chatgpt.md`
 - **Arendt 1958** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-claude.md`
 - **Graeber 2011 — Debt** (2 connections) — `raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-claude.md`

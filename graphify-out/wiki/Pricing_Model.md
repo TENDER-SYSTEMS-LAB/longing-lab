@@ -1,6 +1,6 @@
 # Pricing Model
 
-> God node · 115 connections · `wiki/concepts/pricing-model.md`
+> God node · 119 connections · `wiki/concepts/pricing-model.md`
 
 **Community:** [Pricing Model Critiques](Pricing_Model_Critiques.md)
 
@@ -15,18 +15,18 @@
 - Factor Set Failure Profile — ChatGPT response `EXTRACTED`
 - LONGING — Factor Architecture Review v2 `EXTRACTED`
 - LONGING — Pricing Model v2: Factor Framework `EXTRACTED`
-- LONGING — Pricing Model v2 Factor Architecture Review `EXTRACTED`
 - 2026-09-06 — Arbitrage, News Quality, and Next Work Items `EXTRACTED`
+- LONGING — Pricing Model v2 Factor Architecture Review `EXTRACTED`
 - LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology `EXTRACTED`
 - Working session — attribution resolution and universe scaling `EXTRACTED`
 - World rules and LETTER practice-change specification request `EXTRACTED`
-- Pricing Model v2 Factor Architecture Review (Gemini) `EXTRACTED`
 - LONGING — Factor Set Failure Profile Review `EXTRACTED`
-- LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology `EXTRACTED`
+- Pricing Model v2 Factor Architecture Review (Gemini) `EXTRACTED`
 - Pricing Model v2 Factor Architecture Review (Grok) `EXTRACTED`
-- LONGING: Critical Review of Market Structure, Pricing Model, and Index Methodology `EXTRACTED`
-- LONGING — First-Pass Review `EXTRACTED`
+- LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology `EXTRACTED`
 - Pricing model v2 factor review (Qwen) `EXTRACTED`
+- LONGING: Critical Review of Market Structure, Pricing Model, and Index Methodology `EXTRACTED`
+- Academic-model discussion: compiled continuation and summary `EXTRACTED`
 - *…and 4 more `cites` connection(s) not listed (lowest-degree first to go)*
 
 ### conceptually_related_to
@@ -53,27 +53,27 @@
 - *…and 23 more `conceptually_related_to` connection(s) not listed (lowest-degree first to go)*
 
 ### references
-- [Activity Log](Activity_Log.md) `EXTRACTED`
 - [Current State](Current_State.md) `EXTRACTED`
+- [Activity Log](Activity_Log.md) `EXTRACTED`
+- [State History — earlier resume points](State_History_—_earlier_resume_points.md) `EXTRACTED`
 - [DEC-004 — LONGING is a secular bear market, inverted](DEC-004_—_LONGING_is_a_secular_bear_market,_inverted.md) `EXTRACTED`
-- [Attribution Ledger](Attribution_Ledger.md) `EXTRACTED`
+- Attribution Ledger `EXTRACTED`
 - [Data Sources](Data_Sources.md) `EXTRACTED`
-- Reserve Instruments — what backs a romantic good `EXTRACTED`
-- Analyst System `EXTRACTED`
 - Index Architecture `EXTRACTED`
-- Q-004 — What is one unit of a LONGING security? `EXTRACTED`
 - LETTER Practice Dynamics `EXTRACTED`
 - LONGING RESEARCH Wiki Index `EXTRACTED`
+- Analyst System `EXTRACTED`
+- Reserve Instruments — what backs a romantic good `EXTRACTED`
+- Q-004 — What is one unit of a LONGING security? `EXTRACTED`
 - Q-001 — How is a price determined? `EXTRACTED`
 - World Rules — Provisional Design `EXTRACTED`
-- Academic Models and Cross-domain Designed Systems `EXTRACTED`
 - 사유 — Reflection `EXTRACTED`
-- World-building Scope and Roadmap `EXTRACTED`
-- Prior Art and Differentiation `EXTRACTED`
-- Q-003 — How far can the bias go before the work argues? `EXTRACTED`
+- Academic Models and Cross-domain Designed Systems `EXTRACTED`
 - Information Quality `EXTRACTED`
+- World-building Scope and Roadmap `EXTRACTED`
+- Q-003 — How far can the bias go before the work argues? `EXTRACTED`
 - DEC-003 — Weekly market, monthly research `EXTRACTED`
-- *…and 28 more `references` connection(s) not listed (lowest-degree first to go)*
+- *…and 32 more `references` connection(s) not listed (lowest-degree first to go)*
 
 ---
 

@@ -141,6 +141,8 @@ In the romance analysis the author said technology also gives romance — the ex
 - [[DEC-008-bearer-bond-is-perpetual]]
 - [[DEC-007-standard-return-numeraire]]
 - [[loop-simulation]]
+- [[security-definitions]]
+- [[security-weights-round-review]]
 
 ## Sources
 

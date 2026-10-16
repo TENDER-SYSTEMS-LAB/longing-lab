@@ -110,6 +110,7 @@ A theoretical limit is never a licence for a broken screen. Draft principle 3 di
 - [[system-grammar]]
 - [[Q-004-unit-of-account]]
 - [[current-state]]
+- [[delivery-architecture]]
 
 ## Sources
 

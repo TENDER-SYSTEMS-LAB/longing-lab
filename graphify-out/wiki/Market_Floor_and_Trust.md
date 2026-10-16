@@ -1,6 +1,6 @@
 # Market Floor and Trust
 
-> 15 nodes · cohesion 0.13
+> 15 nodes
 
 ## Key Concepts
 

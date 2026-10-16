@@ -1,8 +1,9 @@
 ---
-status: working
+status: deprecated
 attribution: llm-proposed
-updated: 2026-10-03
+updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-graphify-and-wiki-restructure
   - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-identification-experiment
   - SRC-2026-09-20-identification-experiment-findings
@@ -19,6 +20,8 @@ sources:
 ---
 
 # Identification Experiment
+
+**Deprecated (2026-10-16).** This page rests on the three-market world that [[DEC-009-three-markets-and-convergence]] rejected on 2026-10-03: its harness and readings run on three converging markets, so its findings about markets do not carry over to the one market. It is kept as history, unchanged below, and filed under the three-market period in [[index]] ([[SRC-2026-10-16-graphify-and-wiki-restructure]]).
 
 > **2026-10-03.** The experiment runs three markets and asks what convergence lets a factor model identify. That premise is rejected: the three-market world is erased and the project returns to one market ([[DEC-009-three-markets-and-convergence]]). The market contrasts, the practice × market block and the placebo on market labels have no object in the one market. The page stays as the record of the run.
 
@@ -76,6 +79,7 @@ The five gates the first run left untested were run on the working build, each c
 
 ## Sources
 
+- [[SRC-2026-10-16-graphify-and-wiki-restructure]] — [raw/conversations/2026-10-16-graphify-and-wiki-restructure.md](../../raw/conversations/2026-10-16-graphify-and-wiki-restructure.md); marked deprecated
 - [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-identification-experiment]] — [raw/documents/2026-09-20-identification-experiment.py](../../raw/documents/2026-09-20-identification-experiment.py); the script
 - [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the tables and their reading

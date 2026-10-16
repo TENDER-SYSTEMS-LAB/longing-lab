@@ -1,71 +1,63 @@
 # Security Families
 
-> 35 nodes · cohesion 0.08
+> 56 nodes
 
 ## Key Concepts
 
-- **Security Families — fifty candidates merged into seventeen** (50 connections) — `wiki/concepts/security-families.md`
-- **Conversation — the author's answers on the security families** (13 connections) — `raw/conversations/2026-10-10-security-families-decisions.md`
-- **TRET (IOU · treating)** (5 connections) — `raw/conversations/2026-10-10-security-weights-decisions.md`
-- **ENTRUST · 맡김 (ETRS)** (4 connections) — `raw/conversations/2026-10-10-security-families-decisions.md`
-- **Seventeen security families** (4 connections) — `raw/conversations/2026-10-10-security-families-decisions.md`
-- **Two legs of one contract in a bundle fund** (4 connections) — `raw/conversations/2026-10-10-security-legs-and-tickers.md`
-- **Mirror pairs: both sides kept (decision 3)** (4 connections) — `raw/conversations/2026-10-10-security-universe-round-decisions.md`
-- **Issue (bond issuance event)** (4 connections) — `wiki/concepts/romance-ontology.md`
-- **Seventeen security families** (4 connections) — `wiki/log.md`
-- **Grouping by what one person leans on the other for** (3 connections) — `raw/conversations/2026-10-10-security-families-decisions.md`
-- **IOU (I Owe You)** (3 connections) — `raw/conversations/2026-10-10-security-families-decisions.md`
-- **Long/short positions and ETFs for mirror pairs** (3 connections) — `raw/conversations/2026-10-10-security-families-decisions.md`
-- **Naming rule: ticker + one English word in capitals + Korean name** (3 connections) — `raw/conversations/2026-10-10-security-families-decisions.md`
-- **GIFT and IOU forms listed separately (CHSE/MAKE, TRET/LEND)** (3 connections) — `raw/conversations/2026-10-10-security-legs-and-tickers.md`
-- **Ticker codes (DCDE→DEC, ENTR→ETRS; SRDP)** (3 connections) — `raw/conversations/2026-10-10-security-legs-and-tickers.md`
-- **Two legs of one contract (TELL/LSTN, LERN/TCHR, ASK/HELP)** (3 connections) — `wiki/concepts/security-families.md`
-- **State priced by a carrier fund plus a measure of the state** (3 connections) — `wiki/concepts/security-universe.md`
-- **ETRS (ENTRUST, formerly KEY)** (3 connections) — `wiki/log.md`
-- **Mirror-pair legs (TELL/LSTN, LERN/TCHR, ASK/HELP)** (3 connections) — `wiki/log.md`
-- **Group fund follows the smaller leg** (2 connections) — `raw/conversations/2026-10-10-fund-construction-decisions.md`
-- **Tickers written with full names in parentheses** (2 connections) — `raw/conversations/2026-10-16-revised-steps-decisions.md`
-- **TRET's Korean name dropped** (2 connections) — `raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md`
-- **MEND keeps forgiveness as judgment** (2 connections) — `wiki/concepts/security-definitions.md`
-- **Axis: practices grouped by what one person leans on the other for** (2 connections) — `wiki/concepts/security-families.md`
-- **Long/short idea for mirror pairs** (2 connections) — `wiki/concepts/security-families.md`
-- *... and 10 more nodes in this community*
+- **Security Families — fifty candidates merged into seventeen** (80 connections) — `wiki/concepts/security-families.md`
+- **Core terms table (one owner page per term)** (15 connections) — `wiki/index.md`
+- **Narrow rule: a choice of means the other person reads is judgment** (12 connections) — `wiki/concepts/security-definitions.md`
+- **Execution/judgment pair (execution share = importance of execution steps over total)** (10 connections) — `wiki/concepts/security-definitions.md`
+- **THNK — THINK state (사유)** (9 connections) — `wiki/concepts/security-families.md`
+- **Keeping rule: holding back is judgment, keeping up is execution** (8 connections) — `wiki/concepts/security-definitions.md`
+- **BLIND TRUST: trust in a non-human counterpart; never refuses but is shaken; scope by period** (7 connections) — `wiki/concepts/romance-analysis.md`
+- **SRDP — SERENDIPITY state (우연한 만남)** (7 connections) — `wiki/concepts/security-families.md`
+- **WRIT — WRITE (글)** (7 connections) — `wiki/concepts/security-families.md`
+- **CNFD — CONFIDE (털어놓기)** (6 connections) — `wiki/concepts/security-families.md`
+- **WAIT — waiting state (기다림)** (6 connections) — `wiki/concepts/security-families.md`
+- **Two legs of one contract inside a family fund** (6 connections) — `wiki/concepts/security-families.md`
+- **CHSE — GIFT form (chosen gift form)** (5 connections) — `wiki/concepts/security-families.md`
+- **ETRS — ENTRUST (맡김)** (5 connections) — `wiki/concepts/security-families.md`
+- **FAVR — FAVOR (품앗이)** (5 connections) — `wiki/concepts/security-families.md`
+- **GIFT — GIFT (선물)** (5 connections) — `wiki/concepts/security-families.md`
+- **IOU — IOU (I Owe You) (외상)** (5 connections) — `wiki/concepts/security-families.md`
+- **RECH — REACH (안부)** (5 connections) — `wiki/concepts/security-families.md`
+- **TCH — TEACH (가르침)** (5 connections) — `wiki/concepts/security-families.md`
+- **Borrowed grounds: attention as a gift, unsettled debt and promise, device paradigm and deskilling** (5 connections) — `wiki/concepts/romance-analysis.md`
+- **Noticing rule: a given occasion is execution, what is not given is judgment** (5 connections) — `wiki/concepts/security-definitions.md`
+- **Naming: ticker + one English word in capitals + Korean name** (5 connections) — `wiki/concepts/security-families.md`
+- **A family fund follows its smaller leg** (5 connections) — `wiki/concepts/security-families.md`
+- **CARE — CARE (돌봄)** (4 connections) — `wiki/concepts/security-families.md`
+- **DEC — DECIDE (결정)** (4 connections) — `wiki/concepts/security-families.md`
+- *... and 31 more nodes in this community*
 
 ## Relationships
 
-- [Current State and Decisions](Current_State_and_Decisions.md) (14 shared connections)
-- [Activity Log](Activity_Log.md) (6 shared connections)
-- [Origin Rule and LETTER](Origin_Rule_and_LETTER.md) (4 shared connections)
-- [Security Definitions](Security_Definitions.md) (4 shared connections)
+- [Security Definitions](Security_Definitions.md) (35 shared connections)
+- [Security Families (2)](Security_Families_2.md) (12 shared connections)
+- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (7 shared connections)
+- [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (6 shared connections)
+- [Reflection (사유)](Reflection_사유.md) (5 shared connections)
+- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (4 shared connections)
+- [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (4 shared connections)
 - [Security Universe Selection](Security_Universe_Selection.md) (4 shared connections)
-- [State-securities](State-securities.md) (3 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (3 shared connections)
-- [Security Universe Round](Security_Universe_Round.md) (3 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (2 shared connections)
-- [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (2 shared connections)
-- [Prior Art](Prior_Art.md) (2 shared connections)
-- [Reflection (사유)](Reflection_사유.md) (2 shared connections)
+- [Weight Procedure and Exposures](Weight_Procedure_and_Exposures.md) (3 shared connections)
+- [Index Architecture and Units](Index_Architecture_and_Units.md) (3 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
+- [Reserve Instruments](Reserve_Instruments.md) (2 shared connections)
 
 ## Source Files
 
-- `raw/conversations/2026-10-10-fund-construction-decisions.md`
-- `raw/conversations/2026-10-10-security-families-decisions.md`
-- `raw/conversations/2026-10-10-security-legs-and-tickers.md`
-- `raw/conversations/2026-10-10-security-universe-round-decisions.md`
-- `raw/conversations/2026-10-10-security-weights-decisions.md`
-- `raw/conversations/2026-10-16-revised-steps-decisions.md`
-- `raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md`
-- `wiki/concepts/romance-ontology.md`
+- `wiki/concepts/romance-analysis.md`
 - `wiki/concepts/security-definitions.md`
 - `wiki/concepts/security-families.md`
-- `wiki/concepts/security-universe-round-review.md`
-- `wiki/concepts/security-universe.md`
-- `wiki/log.md`
+- `wiki/concepts/weight-setting-procedure-review.md`
+- `wiki/index.md`
 
 ## Audit Trail
 
-- EXTRACTED: 93 (90%)
-- INFERRED: 10 (10%)
+- EXTRACTED: 200 (92%)
+- INFERRED: 18 (8%)
 - AMBIGUOUS: 0 (0%)
 
 ---

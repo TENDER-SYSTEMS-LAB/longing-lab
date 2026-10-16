@@ -1,6 +1,6 @@
 # Weight Procedure and Exposures
 
-> 88 nodes · cohesion 0.06
+> 86 nodes
 
 ## Key Concepts
 
@@ -25,29 +25,30 @@
 - **Revision condition (b): weights disagree across markets** (8 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md`
 - **Predictive text / IME acceptance telemetry** (7 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-glm.md`
 - **Hard case: voicing a chosen sentence (ALS decoder)** (7 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md`
-- **No source separates who wrote from who sent** (6 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-glm.md`
 - **Hard case: system interpretation read before the original** (6 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md`
 - **Hard case: system-translated "how are you"** (6 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md`
+- **No source separates who wrote from who sent** (6 connections) — `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-glm.md`
 - **One pair across Japan, Korea and the US** (6 connections) — `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md`
-- *... and 63 more nodes in this community*
+- *... and 61 more nodes in this community*
 
 ## Relationships
 
-- [Exposure Sources Review](Exposure_Sources_Review.md) (14 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (12 shared connections)
-- [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (9 shared connections)
-- [Security Definitions](Security_Definitions.md) (8 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (12 shared connections)
+- [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (10 shared connections)
+- [Exposure Sources Review](Exposure_Sources_Review.md) (8 shared connections)
+- [Exposure Sources Review (2)](Exposure_Sources_Review_2.md) (6 shared connections)
+- [Security Definitions](Security_Definitions.md) (5 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (3 shared connections)
-- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (3 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (2 shared connections)
-- [Activity Log](Activity_Log.md) (2 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (3 shared connections)
+- [Listing Lifecycle and Gaps (2)](Listing_Lifecycle_and_Gaps_2.md) (3 shared connections)
+- [Security Families](Security_Families.md) (3 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (2 shared connections)
 - [Weight Procedure: Qwen](Weight_Procedure-_Qwen.md) (2 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (1 shared connections)
 - [Security Universe Selection](Security_Universe_Selection.md) (1 shared connections)
-- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 
 ## Source Files
 
+- `raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md`
 - `raw/documents/2026-09-22-weight-setting-procedure-prompt.md`
 - `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-glm.md`
 - `raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-grok-v2.md`
@@ -59,13 +60,12 @@
 - `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-deepseek.md`
 - `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-gemini.md`
 - `raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-glm.md`
-- `wiki/concepts/security-definitions.md`
 - `wiki/concepts/weight-setting-procedure-review.md`
 
 ## Audit Trail
 
-- EXTRACTED: 254 (86%)
-- INFERRED: 38 (13%)
+- EXTRACTED: 252 (87%)
+- INFERRED: 36 (12%)
 - AMBIGUOUS: 2 (1%)
 
 ---

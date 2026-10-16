@@ -1,6 +1,6 @@
 # Failure Profile: Qwen
 
-> 22 nodes · cohesion 0.11
+> 22 nodes
 
 ## Key Concepts
 
@@ -30,7 +30,7 @@
 ## Relationships
 
 - [Failure Profile Review](Failure_Profile_Review.md) (6 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (2 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (2 shared connections)
 - [Factor Round 4: Gemini](Factor_Round_4-_Gemini.md) (1 shared connections)
 
 ## Source Files

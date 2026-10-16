@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-10-05
+updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-graphify-and-wiki-restructure
   - SRC-2026-10-05-state-securities-after-the-round
   - SRC-2026-10-05-security-universe-method
   - SRC-2026-10-05-ontology-draft-decisions
@@ -205,101 +206,9 @@ The 2026-09-15 numeraire decision is the largest structural change since the bac
 
 ## Resume point — the round's decisions 5 to 7 (2026-10-10, later)
 
-This is the latest checkpoint. The sections after it are earlier checkpoints, kept as history.
+This is the latest checkpoint. Earlier checkpoints moved to [[state-history]] on 2026-10-16 ([[SRC-2026-10-16-graphify-and-wiki-restructure]]).
 
 The author answered decisions 5 to 7 and the origin tension ([[SRC-2026-10-10-security-universe-round-decisions-5-to-7]]); recorded on [[security-universe]]. Twenty new candidates are added and five held, **provisionally**. Next, set by the author, `user-originated`: analyse the candidates' ontology to abstract them further and merge them, and give the securities simple names fit for tickers — this may reopen the decision to keep both sides of the mirror pairs. The assistant's first analysis is on [[security-families]]: fifty candidates merged into seventeen families by what one person leans on the other for, with one-word names, `llm-proposed`, five questions to the author. *Answered the same day ([[SRC-2026-10-10-security-families-decisions]]): the axis and all seventeen families accepted, mirror pairs not merged, KEY renamed ENTRUST, states named WAIT, SERENDIPITY and THINK, names as ticker + English word + Korean name. Next: the author's long/short idea for the mirror pairs and the proposed ticker codes, on [[security-families]].* *Later the same day ([[SRC-2026-10-10-security-legs-and-tickers]]): the three true mirror pairs become two legs issued together and listed apart, each family a fund of its legs, with a lean/give ratio for analysts; GIFT and IOU forms listed apart; ticker codes accepted with DEC and ETRS. Next, as the assistant proposes and the author has not set: how the family funds and legs are weighted, and how the lean/give ratio is computed.* *The assistant's proposal for fund construction — leg weights, the lean/give ratio and its publication, families without legs, and how a state's measure combines with its carriers — is on [[security-families]], six questions to the author.* *Decided the same day ([[SRC-2026-10-10-fund-construction-decisions]]): a family fund follows its smaller leg; the lean/give ratio is leaning acts over human giving acts, published monthly in research; families without legs are securities of their own; a state's measure multiplies its equally weighted carrier fund. Open: how GIFT and IOU combine their two forms.* *Next, set by the author on 2026-10-01: each security's steps weighted by importance, then checked by LLMs. The assistant's draft definitions and steps for the twenty-two weighted securities are on [[security-definitions]], `llm-proposed`.* *The author set every step's importance the same day ([[SRC-2026-10-10-security-weights-decisions]]); GIFT and IOU weight their forms equally. Open before the LLM check: a review of the rule that manner is never judgment, raised by RECH; opinions on TRET's Korean name.* *The assistant's comparison of three rules — current, narrow, wide — with their effect on the pairs is on [[security-definitions]], `llm-proposed`.* *Decided the same day ([[SRC-2026-10-10-classification-rule-decision]]): the narrow rule — a choice of means the other person reads is judgment; WRIT, RECH, CHSE, MAKE and VIST move toward judgment. Next: the LLM check, with TRET's Korean name added to the same round.* *The round is set up and its two-part prompt registered before dispatch ([[SRC-2026-10-10-security-weights-round-setup]]): seven services, sections A–D. TRET's Korean name was left out of the round and stays open. Next: the author sends both parts to each service and returns the answers.* *Seven answers were registered and synthesised in [[security-weights-round-review]]: the author weights the doing above the models in 15 of 22 securities, which routes decline through devices rather than AI judgment; GTHR and LSTN are the least credible splits; double-counted, side-switching and missing steps; the narrow rule contested on VIST 3; five decisions put to the author.* *Decided ([[SRC-2026-10-10-security-weights-round-decisions]]): multi-branch definitions split into forms; the assistant drafts revised steps and a rule for keeping steps; four narrow-rule steps reworded, VIST 3 back to execution; importance revisited only on the disputed steps, after the steps are revised.* *The author raised an idea the same day, `user-originated`, not adopted ([[SRC-2026-10-10-medium-changes-uptake]]): the medium changes how seriously a position is taken, so the world should show it. The assistant's reading on [[romance-ontology]] places it as an uptake attribute scaling the attention a bond carries; decision open.* *2026-10-16: the assistant's revised step lists are on [[security-definitions]], `llm-proposed`: the seven multi-branch securities split into sixteen forms, MEND split as well, double-counted steps merged, missing choices added, ETRS's keeper step removed, and a keeping rule — holding back is judgment, keeping up is execution — that moves LSTN 6 and LEND 4 to judgment. Next: the author reviews the lists; then importance for the new and disputed steps.* *Decided the same day ([[SRC-2026-10-16-revised-steps-decisions]]): both rules and every revised list accepted; forms weighted equally and not listed apart; MEND not split, though its card was accepted — *answered ([[SRC-2026-10-16-mend-keeps-forgiveness]]): forgiveness stays in MEND as judgment, the attitude of regarding the person as if they had done no wrong, and step 5 becomes the forgiving act alone*; ETRS·let-go drops "refrain from tracking". Next: importance for the new steps and the disputed steps.* *Set the same day ([[SRC-2026-10-16-step-importance-decisions]]): all twenty-two pairs are now complete on [[security-definitions]], execution shares from 0.11 (WRIT) to 0.64 (VGIL); three disputed values moved toward the models, seventeen kept; the let-go step stays removed. The next task is not yet set by the author; still open nearby: TRET's Korean name and the medium-and-uptake idea.* *Decided the same day ([[SRC-2026-10-16-uptake-and-tret-name-decisions]]): uptake is adopted — it scales the BEARER BOND principal at issuance, with a numeric value per medium, none set ([[romance-ontology]], [[technology-waves]]); TRET has no Korean name. The next task is not set.* Also decided: a non-technological channel in [[romance-ontology]]; the nineteenth century left thin; civic acts through the gathering rule; waiting and serendipity priced by a carrier fund plus a measure of the state; "one's own words" read as words one stands behind.
-
-## Resume point — the round's first decisions (2026-10-10)
-
-An earlier checkpoint of the same day, kept as history.
-
-The author answered decisions 1 to 4 of [[security-universe-round-review]] ([[SRC-2026-10-10-security-universe-round-decisions]]): "in one's own words" in candidates 4 and 5 is kept, in tension with the 2026-10-04 origin rule — the tension is put back to the author; 26, 22, 28 and 8 are recast by act; 17, 10 and 7 are kept, 7 read as the verb "to remember"; mirror pairs keep both sides; 29 is kept for arrival coverage. Recorded on [[security-universe]]. Next: decisions 5 to 7 — which new candidates enter, the coverage gaps, and the states with the ETF question.
-
-## Resume point — how the securities are chosen (2026-10-05, last)
-
-An earlier checkpoint, kept as history.
-
-The author accepted the selection method on [[security-universe]]: four tests and three coverage rules; practices defined by act; no fixed count, each security easy for the audience to understand and meaningful in the work; and an LLM round to widen the thirty candidates before the author chooses ([[SRC-2026-10-05-security-universe-method]]). The round's prompt is registered, not dispatched ([[SRC-2026-10-05-security-universe-round-prompt]]). Whether waiting and serendipity become state-securities is decided after the round; the author's idea of making state-securities somewhat like an ETF is recorded, `user-originated`, not adopted ([[SRC-2026-10-05-state-securities-after-the-round]]). The round was run with six services and is synthesised in [[security-universe-round-review]], which puts seven decisions to the author. Next: the author chooses.
-
-## Resume point — the ontology reviewed; securities are practices (2026-10-05, latest)
-
-This was the latest checkpoint until the one above. The section after it is the earlier checkpoint of the same day and is kept as history.
-
-The author accepted the placement of [[romance-ontology]] and decided: securities are practices, with balances and layers read through indices over them; reflection is a security priced through the practices it makes possible; trust and belief are separate balances; hostility is an indicator analysts consult, outside the bond ledger ([[SRC-2026-10-05-ontology-draft-decisions]]). Next: which practices are securities and how many, then the indices over balances and layers, which is where the one market's index question now sits. The assistant's first proposal for the selection is [[security-universe]], `llm-proposed`, with five questions for the author.
-
-## Resume point — the abstraction method and the ontology's form chosen (2026-10-05, later)
-
-This was the latest checkpoint until the one above. The section after it is the earlier checkpoint of 2026-10-05 and is kept as history.
-
-The author adopted the four layers origin → exchange → balances → handed over as the official frame, chose to place concepts by layer and test them against the five loss layers, and chose a layered graph with named relations as the ontology's form, only the balances and BLIND TRUST marked as quantities ([[romance-analysis]] section 10, [[SRC-2026-10-05-abstraction-method-and-ontology-form]]). Next: build the ontology in that form, then decide what a security is in it — a node, a relation or a quantity. The assistant's first draft is [[romance-ontology]], `llm-proposed`, with five questions for the author. The one market's structure is still open behind it.
-
-## Resume point — BLIND TRUST settled; the analysis stage closes (2026-10-05)
-
-This was the latest checkpoint until the one above. The section after it is the checkpoint of 2026-10-04 and is kept as history.
-
-The author settled BLIND TRUST's shakes and its scope by period and borrowed the remaining concepts ([[romance-analysis]] section 9). The analysis of [[DEC-016-securities-chosen-top-down]] has its decisions; what remains before securities is the abstraction method and the ontology's form. The one market's structure is still open behind it.
-
-## Resume point — the remaining judgments decided (2026-10-04)
-
-This was the latest checkpoint until 2026-10-05 and is kept as history.
-
-The author decided the five remaining judgments ([[romance-analysis]] section 8). Next: discuss how BLIND TRUST's never-default property changes and how its scope varies by period, and explain three concepts again; then the ontology.
-
-## Resume point — the studied items decided (2026-10-04, later)
-
-This was the latest checkpoint until later on 2026-10-04 and is kept as history.
-
-The author decided the four studied items ([[romance-analysis]] section 7). Next: the assistant explains the BLIND TRUST scope question and lists the judgments the borrowing of core candidate concepts needs; the author decides; then the ontology.
-
-## Resume point — the author's decisions on the round (2026-10-04, later)
-
-This was the latest checkpoint until later on 2026-10-04 and is kept as history.
-
-The author answered the round's nine decisions ([[romance-analysis]] section 6): five decided, one provisional, three deferred to study. Next: the assistant prepares study material on the four items the author asked to review — the research on rising hostility, the objection to the market's floor, what "loss" can mean, and the candidate ontology concepts — for the author to decide.
-
-## Resume point — the romance analysis, the author's view (2026-10-04)
-
-This was the latest checkpoint until later on 2026-10-04 and is kept as history. The section after it is the checkpoint of 2026-10-03.
-
-The analysis of [[DEC-016-securities-chosen-top-down]] has begun ([[romance-analysis]]). The author answered what romance is, what is human, and how things are handed over; the market's floor is belief and credit. Next: the assistant researches the literature and the history of modernization before AI, and a prompt for a round of LLM opinions is registered for the user to dispatch. The one market's structure remains open behind it.
-
-## Resume point — the three-market world erased (2026-10-03)
-
-This was the latest checkpoint until 2026-10-04 and is kept as history. The section after it is the checkpoint of 2026-10-02.
-
-The user took up the second open item, what the one market keeps, and erased the three-market world: the project returns to one market, as at its beginning ([[DEC-009-three-markets-and-convergence]], now `rejected`). Revision condition (b) is dropped ([[DEC-014-restoration-is-arrival-and-substitution-is-judgment]]). Real data already collected stays as a reference without countries. The one market's structure — its name, how many indices it has, who publishes them — is to be decided again; the user did not choose to restore the early index family on [[index-architecture]].
-
-In the seven-layer reading below, layer 2 loses its stale three-market material and keeps its empty places; layer 7's engine detail now rests on a rejected premise rather than a moved one.
-
-Later the same day the user reviewed a summary of the decided world and set the order for layer 3: analysis → abstraction → ontology → securities, top-down, with LETTER no longer the starting point ([[DEC-016-securities-chosen-top-down]]). In layer 5, melt-ups are no longer required, and the author's position is that liquidity between people is drying up ([[DEC-004-secular-decline-with-rallies]]). The open items are the analysis itself and the one market's structure; the user had named the market's structure as the next decision before this review.
-
-## Resume point — the frame after one market and no listing (2026-10-02)
-
-This was the latest checkpoint until 2026-10-03 and is kept as history. The section after it is the earlier one of 2026-09-07.
-
-The day's decisions changed the frame above securities: there is one market, nothing is listed, and nobody agrees a market price. The assistant then read the whole frame in seven layers at the user's request. The reading is `llm-proposed`; it restates recorded decisions and decides nothing:
-
-1. **Subject and form — standing.** The conditions of human experience that modernization removes; a research house that publishes and never argues; a decline that falls out of structure.
-2. **The world — changed, mostly empty.** Fictional, on its own timeline reaching the Luddites, one market, no listing. Empty: where the present sits, the time scale, the market's name, its index and publisher. Stale: the 1996–2026 span, three markets and convergence, the publisher name candidates.
-3. **Securities — almost empty.** Practices and states can both be securities, and the execution and judgment weights sit in each definition. Only LETTER is defined. Which securities exist and how a state without steps is handled are open.
-4. **What sits under the price — standing, the firmest layer.** BEARER BOND and BLIND TRUST, calls as the material of the decline, STANDARD RETURN, the loop, technology that raises before it takes.
-5. **How the market moves — standing, with two loose points.** Weekly prices, monthly research, events between, melt-ups, a stopped price that is not zero. Loose: what trading volume counts, and how the "agreed method" of 2026-10-01 fits a price nobody agrees.
-6. **What the audience sees — mostly standing.** The five-line receipt, the width beside each line, a stopped security's graph and volume. Empty: screens, medium, wording.
-7. **Engine detail — built, on a premise that moved.** Factor counts, attribution order, the simulations and the identification experiment largely assume three markets compared with each other.
-
-The assistant's recommendation, `llm-proposed`, not accepted or rejected: fill layer 2 first, since the timeline and the market's shape come before choosing securities and before refitting the engine. No layer has been chosen. The open questions are listed in plain words at the head of the gap list under Unknown.
-
-## Resume point — fictional history, market, and research records
-
-The 2026-09-07 user turns choose authored fictional historical data, clear internal definitions with an unexplained artwork surface, and aggregate market behavior. [[world-rules]] records these scope decisions. [[reflection]] owns the definition of 사유 and its initial market-price exposure, with flexibility for later direct state linkage. The data's historical span, world scope, generation method, and continuation beyond its present remain open.
-
-The next design problem is how defined subjects acquire historical data, contemporaneous information, institutional estimates, market prices, and a record of differing analyst forecasts. [[worldbuilding-roadmap]] proposes a revised sequence. It is not necessary to finish a securities trading system first. Quote/index meaning still needs design; any selected financial amplification needs a convincing world-specific explanation.
-
-The user wants large moves and reopens forced short covering for consideration. The assistant's aggregate bearish exposure → losses → maintenance limits → forced reduction → upward pressure sketch remains unadopted. The assistant's proposed prohibition on report terminology before implementation was explicitly not finalized. Neither a squeeze nor a report-vocabulary rule is implemented or confirmed. See [[pricing-model]].
-
-The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial remain preserved: city, 10,000 adults, 500-person panel, qualifying dispatches, episodes, response feedback, coefficients, and 52-week claims are unselected. LETTER's arithmetic demonstrates local consistency, not a generated history or full-factor validation. Practice feedback, market-to-subject feedback, and audience effects remain separate choices.
-
-[[analyst-system]] distinguishes the desired HOLD/SHORT performance advantage from unselected scoring and coverage rules. Weekly prices and monthly formal research remain current; the final turn's weekly/monthly outlook records do not confirm the assistant's detailed weekly publication scheme. Information-vintage and forecast-scoring controls remain proposals in [[information-quality]].
 
 ## Unknown
 
@@ -339,7 +248,7 @@ The earlier [[letter-practice-dynamics]] and numbered [[world-rules]] trial rema
 
 ## Proposed world-building scope and roadmap
 
-The originating assessment and assistant-authored handoff prompt are now preserved in [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]]. They document how the later user-issued world-rules/LETTER task was prepared, not a new adoption of mechanisms or a return to the earlier resume point. The earlier drafts remain preserved; the fictional-history resume point above is now the latest checkpoint.
+The originating assessment and assistant-authored handoff prompt are now preserved in [[SRC-2026-09-06-worldbuilding-roadmap-and-handoff]]. They document how the later user-issued world-rules/LETTER task was prepared, not a new adoption of mechanisms or a return to the earlier resume point. The earlier drafts remain preserved; the fictional-history resume point is now in [[state-history]].
 
 The user has asked to assess design progress and set the depth of the world before making a work roadmap. [[worldbuilding-roadmap]] provides that assessment and a proposed boundary: specify the operating rules behind the first release's visible claims and actions, then demonstrate a connected publication cycle and its exceptions. The premise and market architecture are developed; the unit, actor roles, practice dynamics, information failures, lifecycle, and executable specification still need to be connected.
 
@@ -392,6 +301,7 @@ Seven sibling formats built on the same grammar — an abolished-jobs recruitmen
 
 ## Sources
 
+- [[SRC-2026-10-16-graphify-and-wiki-restructure]] — [raw/conversations/2026-10-16-graphify-and-wiki-restructure.md](../raw/conversations/2026-10-16-graphify-and-wiki-restructure.md); earlier resume points moved to [[state-history]]
 - [[SRC-2026-10-02-no-listing-and-a-stopped-price]] — [raw/conversations/2026-10-02-no-listing-and-a-stopped-price.md](../raw/conversations/2026-10-02-no-listing-and-a-stopped-price.md); no listing, coverage, a stopped price that is not zero, volume beneath the price
 - [[SRC-2026-10-05-state-securities-after-the-round]] — [raw/conversations/2026-10-05-state-securities-after-the-round.md](../raw/conversations/2026-10-05-state-securities-after-the-round.md); state-securities decided after the round; the ETF idea
 - [[SRC-2026-10-05-security-universe-method]] — [raw/conversations/2026-10-05-security-universe-method.md](../raw/conversations/2026-10-05-security-universe-method.md); the selection method, definition by act, no fixed count

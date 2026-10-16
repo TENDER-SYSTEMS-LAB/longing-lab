@@ -147,6 +147,12 @@ At the next visit, the visitor's previous position, the original report, the new
 
 Next-stage gates are the observation and revision process; choice of a value/contract outcome and its mapping; a finite participant and weekly quotation rule if U2/U3 is selected; forecast scoring; and index roll/membership treatment. These gates do not select a factor set. Completing LETTER tests connected operation, not whether the entire factor architecture is sufficient or identifiable. Factors may outnumber securities.
 
+## Related
+
+- [[worldbuilding-roadmap]]
+- [[letter-practice-dynamics]]
+- [[reserve-instruments]]
+
 ## Sources
 
 - [[SRC-2026-09-07-artwork-brainstorm-v2]] — [raw/conversations/2026-09-07-artwork-brainstorm-v2.md](../../raw/conversations/2026-09-07-artwork-brainstorm-v2.md); ChatGPT export, 2026-09-06–07; user turns support decisions, assistant synthesis and mechanisms retain proposal status

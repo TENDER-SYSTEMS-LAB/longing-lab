@@ -1,8 +1,9 @@
 ---
-status: working
+status: deprecated
 attribution: llm-proposed
-updated: 2026-10-03
+updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-graphify-and-wiki-restructure
   - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-requisition-cap-decision
   - SRC-2026-09-20-simulation-rebuild
@@ -24,6 +25,8 @@ sources:
 ---
 
 # Loop Simulation — the first thing in this project that runs
+
+**Deprecated (2026-10-16).** This page rests on the three-market world that [[DEC-009-three-markets-and-convergence]] rejected on 2026-10-03: its simulations run three converging markets, so its findings about markets do not carry over to the one market. It is kept as history, unchanged below, and filed under the three-market period in [[index]] ([[SRC-2026-10-16-graphify-and-wiki-restructure]]).
 
 > **2026-10-03.** The v3 to v5 builds run three converging markets. That premise is rejected: the three-market world is erased and the project returns to one market ([[DEC-009-three-markets-and-convergence]]). The builds stay as the record of what they found; their market-level readings — convergence, dispersion, stagger between markets — do not carry over, and the harness is not redrawn.
 
@@ -272,6 +275,7 @@ The v3 harness was used unmodified as the generator for [[identification-experim
 
 ## Sources
 
+- [[SRC-2026-10-16-graphify-and-wiki-restructure]] — [raw/conversations/2026-10-16-graphify-and-wiki-restructure.md](../../raw/conversations/2026-10-16-graphify-and-wiki-restructure.md); marked deprecated
 - [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-identification-experiment-findings]] — [raw/documents/2026-09-20-identification-experiment-findings.md](../../raw/documents/2026-09-20-identification-experiment-findings.md); the v3 world as generator for the identification test
 - [[SRC-2026-09-20-loop-simulation-harness-v4]] — [raw/documents/2026-09-20-loop-simulation-harness-v4.py](../../raw/documents/2026-09-20-loop-simulation-harness-v4.py); the fourth build

@@ -1,57 +1,64 @@
 # Wiki Entry Points
 
-> 20 nodes · cohesion 0.14
+> 32 nodes
 
 ## Key Concepts
 
-- **LONGING RESEARCH Wiki Index** (74 connections) — `wiki/index.md`
-- **LONGING Wiki — Agent Instructions** (15 connections) — `AGENTS.md`
-- **Raw** (8 connections) — `raw/README.md`
-- **LONGING RESEARCH** (6 connections) — `README.md`
+- **Activity Log** (174 connections) — `wiki/log.md`
+- **LONGING RESEARCH Wiki Index** (78 connections) — `wiki/index.md`
+- **Conversation — Graphify applied, and the wiki restructured from its graph** (22 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **LONGING Wiki — Agent Instructions** (20 connections) — `AGENTS.md`
+- **Raw** (10 connections) — `raw/README.md`
+- **Wiki restructure decisions (2026-10-16)** (9 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **LONGING RESEARCH** (5 connections) — `README.md`
 - **Conversation Ingestion Workflow** (5 connections) — `AGENTS.md`
-- **README / index / current-state / log roles** (5 connections) — `schema.md`
+- **Core terms table in the index** (4 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **Earlier resume points moved to state-history** (4 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **Three-market pages marked deprecated in section 7** (4 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **Wiki and index restructured by topic with a core-terms table** (4 connections) — `wiki/log.md`
+- **Graphify applied to the repository** (3 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **security-definitions: current version plus evolution section** (3 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **Index reorganised into seven topical sections** (3 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **Graphify knowledge graph (navigation aid, never evidence)** (3 connections) — `wiki/log.md`
 - **Preservation and Scope rules** (3 connections) — `AGENTS.md`
 - **Verification policy** (3 connections) — `AGENTS.md`
+- **TENDER SYSTEMS (institutional repository)** (2 connections) — `AGENTS.md`
+- **Fill missing links to weakly linked hub pages** (2 connections) — `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
+- **LN-001 — TENDER SYSTEMS** (2 connections) — `README.md`
 - **Answering 'What Is Next?' protocol** (2 connections) — `AGENTS.md`
 - **Git Identity and Push Policy** (2 connections) — `AGENTS.md`
-- **TENDER SYSTEMS (institutional repository)** (2 connections) — `AGENTS.md`
 - **Adding a Source procedure (git hash-object + sources.md row)** (2 connections) — `raw/README.md`
 - **Corrections registered as separate sources** (2 connections) — `raw/README.md`
-- **raw/ as Source of Truth** (2 connections) — `raw/README.md`
-- **LN-001 — TENDER SYSTEMS** (2 connections) — `README.md`
-- **Standing push authorization (2026-09-05)** (1 connections) — `AGENTS.md`
-- **Multi-model survey directory convention** (1 connections) — `raw/README.md`
-- **Research on changing values (public tagline)** (1 connections) — `README.md`
-- **Page creation gates** (1 connections) — `wiki/index.md`
-- **Routing table** (1 connections) — `wiki/index.md`
+- *... and 7 more nodes in this community*
 
 ## Relationships
 
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (11 shared connections)
-- [Wiki Schema](Wiki_Schema.md) (5 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (5 shared connections)
-- [World Rules and LETTER](World_Rules_and_LETTER.md) (5 shared connections)
-- [Activity Log](Activity_Log.md) (4 shared connections)
-- [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (4 shared connections)
-- [Name, Form and Delivery](Name,_Form_and_Delivery.md) (3 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (3 shared connections)
-- [Index Architecture and Units](Index_Architecture_and_Units.md) (3 shared connections)
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (3 shared connections)
-- [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (2 shared connections)
-- [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (2 shared connections)
+- [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (12 shared connections)
+- [Three Markets and Naming](Three_Markets_and_Naming.md) (12 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (10 shared connections)
+- [World Rules and LETTER](World_Rules_and_LETTER.md) (10 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (8 shared connections)
+- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (8 shared connections)
+- [Analysts, Bias and Overview](Analysts,_Bias_and_Overview.md) (8 shared connections)
+- [Design and Typography](Design_and_Typography.md) (8 shared connections)
+- [Security Definitions](Security_Definitions.md) (7 shared connections)
+- [Wiki Schema](Wiki_Schema.md) (7 shared connections)
+- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (7 shared connections)
+- [Factor Identification Experiment](Factor_Identification_Experiment.md) (6 shared connections)
 
 ## Source Files
 
 - `AGENTS.md`
 - `README.md`
 - `raw/README.md`
-- `schema.md`
+- `raw/conversations/2026-10-16-graphify-and-wiki-restructure.md`
 - `wiki/index.md`
+- `wiki/log.md`
 
 ## Audit Trail
 
-- EXTRACTED: 107 (96%)
-- INFERRED: 4 (4%)
+- EXTRACTED: 318 (98%)
+- INFERRED: 6 (2%)
 - AMBIGUOUS: 0 (0%)
 
 ---

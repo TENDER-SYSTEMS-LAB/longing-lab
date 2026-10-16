@@ -1,25 +1,15 @@
 # Romance Abstraction Dialogue
 
-> 39 nodes · cohesion 0.07
+> 20 nodes
 
 ## Key Concepts
 
-- **Conversation — what romance is, what is human, and what is handed over: the author's view** (32 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
-- **작품 메시지 구상** (25 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
+- **작품 메시지 구상** (27 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
 - **Each thinks better, yet thinking together may shrink** (5 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
-- **Thought check against Weber, Heidegger, Borgmann, Illich, Rosa** (4 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
-- **Three layers of romance: origin, exchange, relation** (4 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
 - **Two layers of loss: the things, then the sense of losing them** (4 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
 - **Circe's island (Odyssey book 10)** (3 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
 - **Giving up even the sense of what one is losing** (3 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
-- **Liquidity between people drying up** (3 connections) — `raw/conversations/2026-10-03-top-down-securities-and-liquidity.md`
-- **AI criteria: gathers or scatters people; grows or replaces reflection** (3 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
-- **BLIND TRUST cannot be the foundation** (3 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
 - **Neither taken nor given: drift in comfort (Circe)** (3 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
-- **The financial market rests on mutual belief and credit** (3 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
-- **Early indices: Latency, Human Friction, Unstructured Time** (3 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
-- **Giving and receiving as mutually issuing bonds** (3 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
-- **Condition of romance is its origin in human judgment, not the medium** (3 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
 - **Aristotle, Politics book 1** (2 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
 - **Chatbot psychosocial studies (arXiv 2503.17473, 2509.19515)** (2 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
 - **Gathering, deliberating, coming and going (ancient Greeks)** (2 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
@@ -29,33 +19,34 @@
 - **STANDARD RETURN counts time returned, not what it was wanted for** (2 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
 - **The system works normally to the end** (2 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
 - **Thinking, feeling, expressing and exchanging as most human** (2 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
-- *... and 14 more nodes in this community*
+- **What is human: who does it and with whom** (2 connections) — `raw/conversations/2026-10-04-romance-analysis-author-view.md`
+- **Archive notice: regular estimate discontinued for small samples** (1 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
+- **Internal production sentence for LONGING RESEARCH** (1 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
+- **Repetition is not the opposite of romance** (1 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
+- **Loss as becoming unnecessary rather than being taken** (1 connections) — `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
 
 ## Relationships
 
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (5 shared connections)
-- [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (5 shared connections)
-- [Secular Bear Market](Secular_Bear_Market.md) (4 shared connections)
-- [STANDARD RETURN Numeraire](STANDARD_RETURN_Numeraire.md) (3 shared connections)
-- [DEC-016 Top-down Securities](DEC-016_Top-down_Securities.md) (3 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (2 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (2 shared connections)
-- [Activity Log](Activity_Log.md) (2 shared connections)
-- [Reflection (사유)](Reflection_사유.md) (2 shared connections)
-- [Perpetual BEARER BOND](Perpetual_BEARER_BOND.md) (2 shared connections)
-- [Information Quality and Texture](Information_Quality_and_Texture.md) (2 shared connections)
+- [Romance Abstraction Dialogue (2)](Romance_Abstraction_Dialogue_2.md) (5 shared connections)
+- [Secular Bear Market](Secular_Bear_Market.md) (3 shared connections)
+- [Numeraire and A(t) Loop](Numeraire_and_At_Loop.md) (3 shared connections)
+- [DEC-014 Restoration and Revision](DEC-014_Restoration_and_Revision.md) (3 shared connections)
+- [Romance Ontology and Analysis (2)](Romance_Ontology_and_Analysis_2.md) (2 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Listing Lifecycle and Gaps](Listing_Lifecycle_and_Gaps.md) (1 shared connections)
+- [Wiki Entry Points](Wiki_Entry_Points.md) (1 shared connections)
+- [Factor Identification Experiment (3)](Factor_Identification_Experiment_3.md) (1 shared connections)
+- [Reflection (사유)](Reflection_사유.md) (1 shared connections)
 
 ## Source Files
 
 - `raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md`
-- `raw/conversations/2026-10-03-top-down-securities-and-liquidity.md`
 - `raw/conversations/2026-10-04-romance-analysis-author-view.md`
 
 ## Audit Trail
 
-- EXTRACTED: 77 (85%)
-- INFERRED: 14 (15%)
+- EXTRACTED: 41 (91%)
+- INFERRED: 4 (9%)
 - AMBIGUOUS: 0 (0%)
 
 ---

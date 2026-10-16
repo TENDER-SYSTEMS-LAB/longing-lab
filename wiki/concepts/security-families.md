@@ -189,6 +189,7 @@ The proposal follows the names the work already uses — LETTER, BLIND TRUST —
 - [[reflection]]
 - [[index-architecture]]
 - [[current-state]]
+- [[security-weights-round-review]]
 
 ## Sources
 

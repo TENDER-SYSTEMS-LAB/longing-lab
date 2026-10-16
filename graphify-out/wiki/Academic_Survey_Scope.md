@@ -1,6 +1,6 @@
 # Academic Survey Scope
 
-> 6 nodes · cohesion 0.33
+> 6 nodes
 
 ## Key Concepts
 
@@ -14,7 +14,7 @@
 ## Relationships
 
 - [Academic Model Survey](Academic_Model_Survey.md) (2 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (1 shared connections)
+- [Weights Round Review](Weights_Round_Review.md) (1 shared connections)
 - [Cross-domain Model Survey](Cross-domain_Model_Survey.md) (1 shared connections)
 - [World Rules and LETTER](World_Rules_and_LETTER.md) (1 shared connections)
 - [Factor Identification Experiment](Factor_Identification_Experiment.md) (1 shared connections)

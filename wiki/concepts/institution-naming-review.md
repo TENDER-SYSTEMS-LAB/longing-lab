@@ -1,8 +1,9 @@
 ---
-status: working
+status: deprecated
 attribution: llm-synthesis
-updated: 2026-10-03
+updated: 2026-10-16
 sources:
+  - SRC-2026-10-16-graphify-and-wiki-restructure
   - SRC-2026-10-03-three-markets-erased
   - SRC-2026-09-20-institution-naming-prompt
   - SRC-2026-09-20-institution-naming-chatgpt
@@ -20,6 +21,8 @@ sources:
 ---
 
 # Institution Naming Review
+
+**Deprecated (2026-10-16).** This page rests on the three-market world that [[DEC-009-three-markets-and-convergence]] rejected on 2026-10-03: it names publishers and indices for three national markets, so its findings about markets do not carry over to the one market. It is kept as history, unchanged below, and filed under the three-market period in [[index]] ([[SRC-2026-10-16-graphify-and-wiki-restructure]]).
 
 > **2026-10-03.** The two institutions this round named — a Japanese evening economic paper and a US ratings house — and the per-market index names, `KOCPI` among them, belong to the three-market world, which is erased ([[DEC-009-three-markets-and-convergence]], now `rejected`). They are not current. What still bears on the one market is the occupied ground for the name LONGING RESEARCH, the flagship index and the tickers.
 
@@ -122,6 +125,7 @@ With the publisher decided national, the eight surviving forms were put side by 
 
 ## Sources
 
+- [[SRC-2026-10-16-graphify-and-wiki-restructure]] — [raw/conversations/2026-10-16-graphify-and-wiki-restructure.md](../../raw/conversations/2026-10-16-graphify-and-wiki-restructure.md); marked deprecated
 - [[SRC-2026-10-03-three-markets-erased]] — [raw/conversations/2026-10-03-three-markets-erased.md](../../raw/conversations/2026-10-03-three-markets-erased.md); the three-market world is erased
 - [[SRC-2026-09-20-institution-naming-prompt]] — [raw/documents/2026-09-20-institution-naming-prompt.md](../../raw/documents/2026-09-20-institution-naming-prompt.md)
 - [[SRC-2026-09-20-institution-naming-chatgpt]] — [raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-chatgpt.md](../../raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-chatgpt.md)

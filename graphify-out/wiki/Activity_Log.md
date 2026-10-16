@@ -1,62 +1,56 @@
 # Activity Log
 
-> 25 nodes · cohesion 0.12
+> God node · 174 connections · `wiki/log.md`
 
-## Key Concepts
+**Community:** [Wiki Entry Points](Wiki_Entry_Points.md)
 
-- **Activity Log** (224 connections) — `wiki/log.md`
-- **Conversation — the romance ontology's first draft and the author's answers** (12 connections) — `raw/conversations/2026-10-05-ontology-draft-decisions.md`
-- **Conversation — the abstraction method and the ontology's form** (10 connections) — `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
-- **LONGING RESEARCH — Checking the Execution/Judgment Split of 22 Securities (Part 2 of 2)** (8 connections) — `raw/documents/2026-10-10-security-weights-round-prompt-part2.md`
-- **AI reinforcing loop (endogenous capability and adoption)** (5 connections) — `wiki/log.md`
-- **Joint line (range over admissible orders)** (5 connections) — `wiki/log.md`
-- **Layered graph as the ontology's form** (4 connections) — `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
-- **Order constraint for analysts' attribution orders** (4 connections) — `wiki/log.md`
-- **Anxiety as trust that will not come back** (4 connections) — `wiki/log.md`
-- **Promotion gate battery (held-out gate and support floor)** (4 connections) — `wiki/log.md`
-- **No advocate of the decline inside the fiction** (4 connections) — `wiki/log.md`
-- **STANDARD RETURN numeraire** (4 connections) — `wiki/log.md`
-- **Factors may outnumber securities** (3 connections) — `wiki/log.md`
-- **Hearts cooling (audience reading of positioning)** (3 connections) — `wiki/log.md`
-- **Invisible peak** (3 connections) — `wiki/log.md`
-- **Qwen second-round hash mismatch and re-capture** (3 connections) — `wiki/log.md`
-- **Source file settles contradictions with an extraction** (3 connections) — `wiki/log.md`
-- **Technology raises before it takes (arrival then substitution)** (3 connections) — `wiki/log.md`
-- **Write a test against the quantity the claim is about** (3 connections) — `wiki/log.md`
-- **Four-layer frame: origin → exchange → balances → handed over** (2 connections) — `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
-- **Securities are practices; balances and layers read as indices** (2 connections) — `raw/conversations/2026-10-05-ontology-draft-decisions.md`
-- **Append-only log rule** (2 connections) — `wiki/log.md`
-- **Withdrawn parallel capture of the order-constraint turn** (2 connections) — `wiki/log.md`
-- **Review asks: definitions, steps, classes, importance gaps of 2 or more** (1 connections) — `raw/documents/2026-10-10-security-weights-round-prompt-part2.md`
-- **Institutional TENDER SYSTEMS Git identity policy** (1 connections) — `wiki/log.md`
+## Connections by Relation
 
-## Relationships
+### cites
+- 작품 브레인스토밍 `EXTRACTED`
+- 브레인스토밍 v2 `EXTRACTED`
+- 시장의 바닥: 사람 사이의 믿음인가, 체계에 대한 신뢰인가 `EXTRACTED`
+- 가격 결정 방식 논의 `EXTRACTED`
+- 정서적 양극화 연구 검토: 잔액은 0 아래로 내려가는가 `EXTRACTED`
+- Conversation — Who issues a BEARER BOND, and how many markets are there `EXTRACTED`
+- LONGING — Critical Review of Market Structure, Pricing Model, and Index Methodology `EXTRACTED`
+- Conversation — The numeraire, and STANDARD RETURN `EXTRACTED`
+- Conversation — why each piece of work was done; fictional markets, a reference timeline, and a rigorous engine `EXTRACTED`
+- Conversation — what romance is, what is human, and what is handed over: the author's view `EXTRACTED`
+- Conversation — Reserve absorption, trust instruments, and the naming of the holding institution `EXTRACTED`
+- LONGING RESEARCH — Checking the Execution/Judgment Split of 22 Securities (Part 1 of 2) `EXTRACTED`
+- 2026-09-06 — Arbitrage, News Quality, and Next Work Items `EXTRACTED`
+- LONGING — Pricing Model v2 Factor Architecture Review Prompt `EXTRACTED`
+- Japanese publisher — clearance shortlist, 2026-09-20 `EXTRACTED`
+- 작품 메시지 구상 `EXTRACTED`
+- Conversation — the three markets are erased `EXTRACTED`
+- LONGING — Factor Identification Round `EXTRACTED`
+- Working session — attribution resolution and universe scaling `EXTRACTED`
+- Conversation — Making the simulation read as a market `EXTRACTED`
+- *…and 88 more `cites` connection(s) not listed (lowest-degree first to go)*
 
-- [Technology Waves and Simulation](Technology_Waves_and_Simulation.md) (21 shared connections)
-- [Attribution Ledger Decisions](Attribution_Ledger_Decisions.md) (20 shared connections)
-- [Current State and Decisions](Current_State_and_Decisions.md) (16 shared connections)
-- [Factor Identification Experiment](Factor_Identification_Experiment.md) (12 shared connections)
-- [Three Markets and Naming](Three_Markets_and_Naming.md) (11 shared connections)
-- [Romance Ontology and Analysis](Romance_Ontology_and_Analysis.md) (10 shared connections)
-- [Security Definitions](Security_Definitions.md) (9 shared connections)
-- [Reserve Instruments](Reserve_Instruments.md) (9 shared connections)
-- [BLIND TRUST Decisions](BLIND_TRUST_Decisions.md) (7 shared connections)
-- [STANDARD RETURN Numeraire](STANDARD_RETURN_Numeraire.md) (7 shared connections)
-- [DEC-016 Top-down Securities](DEC-016_Top-down_Securities.md) (6 shared connections)
-- [Security Families](Security_Families.md) (6 shared connections)
-
-## Source Files
-
-- `raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md`
-- `raw/conversations/2026-10-05-ontology-draft-decisions.md`
-- `raw/documents/2026-10-10-security-weights-round-prompt-part2.md`
-- `wiki/log.md`
-
-## Audit Trail
-
-- EXTRACTED: 279 (98%)
-- INFERRED: 5 (2%)
-- AMBIGUOUS: 0 (0%)
+### references
+- [Raw Source Index](Raw_Source_Index.md) `EXTRACTED`
+- [Current State](Current_State.md) `EXTRACTED`
+- [Security Definitions — steps for the execution and judgment weights](Security_Definitions_—_steps_for_the_execution_and_judgment_weights.md) `EXTRACTED`
+- [State History — earlier resume points](State_History_—_earlier_resume_points.md) `EXTRACTED`
+- [DEC-014 — Restoration counts as arrival, and substitution counts judgment](DEC-014_—_Restoration_counts_as_arrival,_and_substitution_counts_judgment.md) `EXTRACTED`
+- [Pricing Model](Pricing_Model.md) `EXTRACTED`
+- [Technology Waves — arrival raises what substitution later takes](Technology_Waves_—_arrival_raises_what_substitution_later_takes.md) `EXTRACTED`
+- [DEC-009 — Three markets, and the convergence that erases them](DEC-009_—_Three_markets,_and_the_convergence_that_erases_them.md) `EXTRACTED`
+- [DEC-004 — LONGING is a secular bear market, inverted](DEC-004_—_LONGING_is_a_secular_bear_market,_inverted.md) `EXTRACTED`
+- Romance Ontology — the first draft of the layered graph `EXTRACTED`
+- Attribution Ledger `EXTRACTED`
+- [Data Sources](Data_Sources.md) `EXTRACTED`
+- DEC-007 — STANDARD RETURN is the numeraire `EXTRACTED`
+- Index Architecture `EXTRACTED`
+- Security Families — fifty candidates merged into seventeen `EXTRACTED`
+- DEC-008 — A BEARER BOND is perpetual, and what it measures is attention `EXTRACTED`
+- LONGING RESEARCH Wiki Index `EXTRACTED`
+- LETTER Practice Dynamics `EXTRACTED`
+- Loop Simulation — the first thing in this project that runs `EXTRACTED`
+- Romance Analysis — what romance is, what is human, and what is handed over `EXTRACTED`
+- *…and 46 more `references` connection(s) not listed (lowest-degree first to go)*
 
 ---
 
