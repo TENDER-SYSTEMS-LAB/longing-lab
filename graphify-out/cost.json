@@ -13,8 +13,14 @@
       "output_tokens": 0,
       "files": 20,
       "note": "incremental update; subagent total tokens"
+    },
+    {
+      "date": "2026-10-18T06:14:29.734816+00:00",
+      "input_tokens": 1983433,
+      "output_tokens": 0,
+      "files": 275
     }
   ],
-  "total_input_tokens": 5130484,
+  "total_input_tokens": 7113917,
   "total_output_tokens": 0
 }

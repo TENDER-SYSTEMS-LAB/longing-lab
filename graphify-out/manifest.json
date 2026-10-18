@@ -1,1651 +1,1651 @@
 {
   "raw/documents/2026-09-16-loop-simulation-harness.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9717956,
+    "mtime": 1789485236.3327124,
+    "seen": 1792304069.72896,
     "ast_hash": "030d3d652f19c7f99c32a22c53afcbc3",
     "semantic_hash": "030d3d652f19c7f99c32a22c53afcbc3"
   },
   "raw/documents/2026-09-19-loop-simulation-harness-v2.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718037,
+    "mtime": 1789818374.3732312,
+    "seen": 1792304069.7289631,
     "ast_hash": "7cc0b70d47337156927d6b833a0a5968",
     "semantic_hash": "7cc0b70d47337156927d6b833a0a5968"
   },
   "raw/documents/2026-09-20-identification-experiment-gates.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718065,
+    "mtime": 1789906462.6123636,
+    "seen": 1792304069.728965,
     "ast_hash": "1b89b2adcc16a36b845a6041007bb7c6",
     "semantic_hash": "1b89b2adcc16a36b845a6041007bb7c6"
   },
   "raw/documents/2026-09-20-identification-experiment-v2.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718077,
+    "mtime": 1789894238.6492105,
+    "seen": 1792304069.728966,
     "ast_hash": "fe30b08b04403868a96c339e5f4a1716",
     "semantic_hash": "fe30b08b04403868a96c339e5f4a1716"
   },
   "raw/documents/2026-09-20-identification-experiment.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.971809,
+    "mtime": 1789893780.3065393,
+    "seen": 1792304069.728967,
     "ast_hash": "a3e604f1d0542cd382e20948e65e4b09",
     "semantic_hash": "a3e604f1d0542cd382e20948e65e4b09"
   },
   "raw/documents/2026-09-20-loop-simulation-harness-v3.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.97181,
+    "mtime": 1789876747.2065115,
+    "seen": 1792304069.728967,
     "ast_hash": "c2560d2321a1a9855b90f0e8e4f526d3",
     "semantic_hash": "c2560d2321a1a9855b90f0e8e4f526d3"
   },
   "raw/documents/2026-09-20-loop-simulation-harness-v4.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718113,
+    "mtime": 1789894238.6488905,
+    "seen": 1792304069.728968,
     "ast_hash": "6b9b7ffae9d55a7a0863ef35d2c6aa0e",
     "semantic_hash": "6b9b7ffae9d55a7a0863ef35d2c6aa0e"
   },
   "raw/documents/2026-09-20-loop-simulation-harness-v5.py": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718122,
+    "mtime": 1789894995.5217519,
+    "seen": 1792304069.728968,
     "ast_hash": "9aa522fb1afb423c2431479b6a09ccf8",
     "semantic_hash": "9aa522fb1afb423c2431479b6a09ccf8"
   },
   "AGENTS.md": {
-    "mtime": 1792118188.6515098,
-    "seen": 1792118638.9718132,
+    "mtime": 1792301623.1099045,
+    "seen": 1792304069.7289689,
     "ast_hash": "673cadf1188e9ae9e2c016c8f714b4da",
     "semantic_hash": "673cadf1188e9ae9e2c016c8f714b4da"
   },
   "README.md": {
-    "mtime": 1792113601.76959,
-    "seen": 1792118638.9718142,
+    "mtime": 1789450707.2398834,
+    "seen": 1792304069.7289689,
     "ast_hash": "581887572d0c7d34a8731b86a2daa5e3",
     "semantic_hash": "581887572d0c7d34a8731b86a2daa5e3"
   },
   "raw/README.md": {
-    "mtime": 1792113601.76959,
-    "seen": 1792118638.9718149,
+    "mtime": 1790003626.5295973,
+    "seen": 1792304069.72897,
     "ast_hash": "0e4d644d303f27d961fa64b00cc03843",
     "semantic_hash": "0e4d644d303f27d961fa64b00cc03843"
   },
   "raw/conversations/2026-09-04-longing-concept-brainstorm.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718165,
+    "mtime": 1788529813.7710679,
+    "seen": 1792304069.728971,
     "ast_hash": "4628d859764846edb2c29b76c3368b15",
     "semantic_hash": "4628d859764846edb2c29b76c3368b15"
   },
   "raw/conversations/2026-09-05-price-formation-market-model.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718173,
+    "mtime": 1788543873.1092846,
+    "seen": 1792304069.728971,
     "ast_hash": "f923dde3c41abeab5eac68e31f9aa695",
     "semantic_hash": "f923dde3c41abeab5eac68e31f9aa695"
   },
   "raw/conversations/2026-09-05-pricing-model-v2-factor-framework.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718182,
+    "mtime": 1788663228.5970457,
+    "seen": 1792304069.728972,
     "ast_hash": "d7558db1ff5fd501dcc7b94d8f27e511",
     "semantic_hash": "d7558db1ff5fd501dcc7b94d8f27e511"
   },
   "raw/conversations/2026-09-06-academic-model-continuation.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718192,
+    "mtime": 1788697024.3954654,
+    "seen": 1792304069.7289732,
     "ast_hash": "4da675e7b7ad6157ccbfc6ca209105cc",
     "semantic_hash": "4da675e7b7ad6157ccbfc6ca209105cc"
   },
   "raw/conversations/2026-09-06-academic-model-dialogue.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718206,
+    "mtime": 1788697024.3952181,
+    "seen": 1792304069.7289732,
     "ast_hash": "ce3f5db0cffad6e0d426304886a3033c",
     "semantic_hash": "ce3f5db0cffad6e0d426304886a3033c"
   },
   "raw/conversations/2026-09-06-academic-model-recovered-excerpts.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718213,
+    "mtime": 1788697171.3520951,
+    "seen": 1792304069.728974,
     "ast_hash": "500167615d8820caa3d4bf2cdec663de",
     "semantic_hash": "500167615d8820caa3d4bf2cdec663de"
   },
   "raw/conversations/2026-09-06-arbitrage-news-quality-and-next-work-items.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718223,
+    "mtime": 1788671397.9545388,
+    "seen": 1792304069.728974,
     "ast_hash": "90c3dc9b7c1fc24d21874dfd5e5be43b",
     "semantic_hash": "90c3dc9b7c1fc24d21874dfd5e5be43b"
   },
   "raw/conversations/2026-09-06-attribution-resolution-and-universe-scaling.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718232,
+    "mtime": 1788663228.5971854,
+    "seen": 1792304069.728975,
     "ast_hash": "0c69b0d4f5bf451e381d1890a7ef40c5",
     "semantic_hash": "0c69b0d4f5bf451e381d1890a7ef40c5"
   },
   "raw/conversations/2026-09-06-worldbuilding-roadmap-and-handoff.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718242,
+    "mtime": 1789003467.4161336,
+    "seen": 1792304069.7289758,
     "ast_hash": "cacce8a4f99257641ba03e02e5133f6b",
     "semantic_hash": "cacce8a4f99257641ba03e02e5133f6b"
   },
   "raw/conversations/2026-09-07-artwork-brainstorm-v2.md": {
-    "mtime": 1792113601.7759197,
-    "seen": 1792118638.9718251,
+    "mtime": 1789003467.4167302,
+    "seen": 1792304069.7289758,
     "ast_hash": "47f119ee1fc34ae067c34d570a4b06a7",
     "semantic_hash": "47f119ee1fc34ae067c34d570a4b06a7"
   },
   "raw/conversations/2026-09-14-design-principles-draft.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718258,
+    "mtime": 1789442580.0034156,
+    "seen": 1792304069.728977,
     "ast_hash": "24cc8dfd826085a2845f9d6507e99749",
     "semantic_hash": "24cc8dfd826085a2845f9d6507e99749"
   },
   "raw/conversations/2026-09-14-typographic-voice.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718275,
+    "mtime": 1789442577.466396,
+    "seen": 1792304069.728977,
     "ast_hash": "3ff463e478282aee27c408f2448aac53",
     "semantic_hash": "3ff463e478282aee27c408f2448aac53"
   },
   "raw/conversations/2026-09-15-longing-research-rename.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718285,
+    "mtime": 1789450684.7858796,
+    "seen": 1792304069.728978,
     "ast_hash": "3397a31fa53dd1801a40ee2fd9ab9f4e",
     "semantic_hash": "3397a31fa53dd1801a40ee2fd9ab9f4e"
   },
   "raw/conversations/2026-09-15-numeraire-and-standard-return.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718292,
+    "mtime": 1789476556.335288,
+    "seen": 1792304069.728978,
     "ast_hash": "ba1a5ea740c434d2ef06c4ca63c87c74",
     "semantic_hash": "ba1a5ea740c434d2ef06c4ca63c87c74"
   },
   "raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718304,
+    "mtime": 1789445891.7621872,
+    "seen": 1792304069.7289789,
     "ast_hash": "e16da4c13082a946aebb19311c507768",
     "semantic_hash": "e16da4c13082a946aebb19311c507768"
   },
   "raw/conversations/2026-09-16-loop-simulation-session.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718313,
+    "mtime": 1789485236.3264503,
+    "seen": 1792304069.7289789,
     "ast_hash": "6bc9f399e263474c5c764ee300a252d0",
     "semantic_hash": "6bc9f399e263474c5c764ee300a252d0"
   },
   "raw/conversations/2026-09-19-market-texture-session.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718323,
+    "mtime": 1789818374.3680406,
+    "seen": 1792304069.72898,
     "ast_hash": "c44bb267da83637f1265bd980983d2d3",
     "semantic_hash": "c44bb267da83637f1265bd980983d2d3"
   },
   "raw/conversations/2026-09-20-analyst-orders-are-a-proposal.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718332,
+    "mtime": 1789916270.4887094,
+    "seen": 1792304069.72898,
     "ast_hash": "791229d90565229985d9e66b93eb4c06",
     "semantic_hash": "791229d90565229985d9e66b93eb4c06"
   },
   "raw/conversations/2026-09-20-bearer-bond-issuance.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718344,
+    "mtime": 1789876747.2005289,
+    "seen": 1792304069.728981,
     "ast_hash": "b45c38d07b5c6f0923dc7884eec1cf5b",
     "semantic_hash": "b45c38d07b5c6f0923dc7884eec1cf5b"
   },
   "raw/conversations/2026-09-20-hearts-cooling-line.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718351,
+    "mtime": 1789913711.400129,
+    "seen": 1792304069.728981,
     "ast_hash": "7628a3b34411d12186d4a8cd4cc60253",
     "semantic_hash": "7628a3b34411d12186d4a8cd4cc60253"
   },
   "raw/conversations/2026-09-20-japanese-publisher-is-an-evening-paper.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.971836,
+    "mtime": 1789907893.2062163,
+    "seen": 1792304069.728982,
     "ast_hash": "549d9a50d9b5a59d563ad8b8dc353ade",
     "semantic_hash": "549d9a50d9b5a59d563ad8b8dc353ade"
   },
   "raw/conversations/2026-09-20-japanese-publisher-is-national.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.971837,
+    "mtime": 1789891354.4689543,
+    "seen": 1792304069.728983,
     "ast_hash": "86d3d36c78e78c596efa5896a4727c32",
     "semantic_hash": "86d3d36c78e78c596efa5896a4727c32"
   },
   "raw/conversations/2026-09-20-joint-line-as-a-range.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718378,
+    "mtime": 1789914452.8080924,
+    "seen": 1792304069.728983,
     "ast_hash": "5e4b87180a50c662ac7984fba39c9771",
     "semantic_hash": "5e4b87180a50c662ac7984fba39c9771"
   },
   "raw/conversations/2026-09-20-masthead-need-not-say-evening.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718385,
+    "mtime": 1789908048.2602432,
+    "seen": 1792304069.728984,
     "ast_hash": "d625507beee1fac7cbf5324dfaabb461",
     "semantic_hash": "d625507beee1fac7cbf5324dfaabb461"
   },
   "raw/conversations/2026-09-20-no-korean-time-series.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718394,
+    "mtime": 1789906049.5754678,
+    "seen": 1792304069.728984,
     "ast_hash": "a8354ee2adcf95dd36b5af0249ab5895",
     "semantic_hash": "a8354ee2adcf95dd36b5af0249ab5895"
   },
   "raw/conversations/2026-09-20-order-constraint-retained.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718401,
+    "mtime": 1789916039.8758345,
+    "seen": 1792304069.728985,
     "ast_hash": "6432136e995c48ec7927d939cb459c9d",
     "semantic_hash": "6432136e995c48ec7927d939cb459c9d"
   },
   "raw/conversations/2026-09-20-orthogonalisation-order.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718413,
+    "mtime": 1789909466.5482585,
+    "seen": 1792304069.728985,
     "ast_hash": "475d202e72e262116109a46089a8931c",
     "semantic_hash": "475d202e72e262116109a46089a8931c"
   },
   "raw/conversations/2026-09-20-requisition-cap-decision.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718423,
+    "mtime": 1789879398.2855425,
+    "seen": 1792304069.728986,
     "ast_hash": "f276e38496c2c1df1fb4af66cf2c0dd9",
     "semantic_hash": "f276e38496c2c1df1fb4af66cf2c0dd9"
   },
   "raw/conversations/2026-09-20-round-decisions-and-deferrals.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718432,
+    "mtime": 1789891004.3338883,
+    "seen": 1792304069.728986,
     "ast_hash": "887a59b2c617670d6b1db3e117723af7",
     "semantic_hash": "887a59b2c617670d6b1db3e117723af7"
   },
   "raw/conversations/2026-09-20-simulation-rebuild.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718442,
+    "mtime": 1789876747.2036622,
+    "seen": 1792304069.728987,
     "ast_hash": "06e16a85c370bc89d2417c3febc03305",
     "semantic_hash": "06e16a85c370bc89d2417c3febc03305"
   },
   "raw/conversations/2026-09-21-ai-enablement-and-substitution.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718451,
+    "mtime": 1789998769.9179356,
+    "seen": 1792304069.728987,
     "ast_hash": "d4afd983c51e2f4cd1354c238ccedbd7",
     "semantic_hash": "d4afd983c51e2f4cd1354c238ccedbd7"
   },
   "raw/conversations/2026-09-21-joint-shown-and-blocks-fitted-jointly.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.971846,
+    "mtime": 1789916784.1020937,
+    "seen": 1792304069.728988,
     "ast_hash": "1f9002e85805d90eb554878a4c404223",
     "semantic_hash": "1f9002e85805d90eb554878a4c404223"
   },
   "raw/conversations/2026-09-21-restoration-is-arrival-and-substitution-is-judgment.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718506,
+    "mtime": 1790001222.5061963,
+    "seen": 1792304069.728988,
     "ast_hash": "3cca35da2de82f446feec8d5b017da4b",
     "semantic_hash": "3cca35da2de82f446feec8d5b017da4b"
   },
   "raw/conversations/2026-09-21-weights-in-the-definition-exposures-measured.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.971852,
+    "mtime": 1790002399.7161314,
+    "seen": 1792304069.728989,
     "ast_hash": "abaa2fdf8905ddaec2f63fe6df58030a",
     "semantic_hash": "abaa2fdf8905ddaec2f63fe6df58030a"
   },
   "raw/conversations/2026-09-21-weights-sum-to-one-and-conditional-revision.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.971853,
+    "mtime": 1790002673.5079656,
+    "seen": 1792304069.7289898,
     "ast_hash": "d6b3239873b6a7ee93fa7b32a1e41950",
     "semantic_hash": "d6b3239873b6a7ee93fa7b32a1e41950"
   },
   "raw/conversations/2026-09-22-revision-conditions-a-and-b.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.971854,
+    "mtime": 1790002964.6303618,
+    "seen": 1792304069.7289898,
     "ast_hash": "7c80c2c19175a86bb5fce5e4668e1f89",
     "semantic_hash": "7c80c2c19175a86bb5fce5e4668e1f89"
   },
   "raw/conversations/2026-09-23-circe-and-the-sense-of-loss.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718552,
+    "mtime": 1791086852.823727,
+    "seen": 1792304069.728991,
     "ast_hash": "a817fbf8a66f9bd840d16d077b4edb0e",
     "semantic_hash": "a817fbf8a66f9bd840d16d077b4edb0e"
   },
   "raw/conversations/2026-10-01-fictional-markets-and-a-reference-timeline.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718559,
+    "mtime": 1791010361.1039512,
+    "seen": 1792304069.728992,
     "ast_hash": "f315ee97500bc696d364d73d877f3829",
     "semantic_hash": "f315ee97500bc696d364d73d877f3829"
   },
   "raw/conversations/2026-10-01-importance-weighting-and-concepts-above-securities.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718566,
+    "mtime": 1791010361.104122,
+    "seen": 1792304069.728992,
     "ast_hash": "441ac57004b1c31b4b5dfff69742fe1f",
     "semantic_hash": "441ac57004b1c31b4b5dfff69742fe1f"
   },
   "raw/conversations/2026-10-01-weights-first-securities-later.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718573,
+    "mtime": 1791010361.104263,
+    "seen": 1792304069.728993,
     "ast_hash": "00e449f32a5285a000b03d3ad277eec5",
     "semantic_hash": "00e449f32a5285a000b03d3ad277eec5"
   },
   "raw/conversations/2026-10-02-no-listing-and-a-stopped-price.md": {
-    "mtime": 1792113601.77759,
-    "seen": 1792118638.9718585,
+    "mtime": 1791010361.1043732,
+    "seen": 1792304069.728993,
     "ast_hash": "f6b53837b7ad20d137691878eda8114d",
     "semantic_hash": "f6b53837b7ad20d137691878eda8114d"
   },
   "raw/conversations/2026-10-02-one-market-and-a-price-nobody-agrees.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718595,
+    "mtime": 1791010361.104554,
+    "seen": 1792304069.7289941,
     "ast_hash": "5dd52a56fb0792c0b20a6c417d34ee8f",
     "semantic_hash": "5dd52a56fb0792c0b20a6c417d34ee8f"
   },
   "raw/conversations/2026-10-03-three-markets-erased.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718602,
+    "mtime": 1791012625.0894916,
+    "seen": 1792304069.7289941,
     "ast_hash": "e9c2d6a546b7c0f30fdb9036506d4856",
     "semantic_hash": "e9c2d6a546b7c0f30fdb9036506d4856"
   },
   "raw/conversations/2026-10-03-top-down-securities-and-liquidity.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718614,
+    "mtime": 1791013805.9786472,
+    "seen": 1792304069.728995,
     "ast_hash": "ce0a83ac239dcb97da5d2e71edc201bb",
     "semantic_hash": "ce0a83ac239dcb97da5d2e71edc201bb"
   },
   "raw/conversations/2026-10-04-public-delivery-architecture-request.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718623,
+    "mtime": 1791087207.9339345,
+    "seen": 1792304069.728995,
     "ast_hash": "8367cea6beccd98514f4b93d1905bacf",
     "semantic_hash": "8367cea6beccd98514f4b93d1905bacf"
   },
   "raw/conversations/2026-10-04-romance-analysis-author-view.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971863,
+    "mtime": 1791086951.1664119,
+    "seen": 1792304069.728996,
     "ast_hash": "b25495e70933b310bf28e0f4f495ed13",
     "semantic_hash": "b25495e70933b310bf28e0f4f495ed13"
   },
   "raw/conversations/2026-10-04-romance-remaining-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971864,
+    "mtime": 1791125087.9990122,
+    "seen": 1792304069.728996,
     "ast_hash": "da04be039af345dc17990b1abe3c5faf",
     "semantic_hash": "da04be039af345dc17990b1abe3c5faf"
   },
   "raw/conversations/2026-10-04-romance-round-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971865,
+    "mtime": 1791118813.871005,
+    "seen": 1792304069.7289972,
     "ast_hash": "61e59ba61f7a83c2446c0e4dc3b93788",
     "semantic_hash": "61e59ba61f7a83c2446c0e4dc3b93788"
   },
   "raw/conversations/2026-10-04-romance-study-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971866,
+    "mtime": 1791123437.4262145,
+    "seen": 1792304069.7289972,
     "ast_hash": "73f5c1cfe4e56be5b75221c76326e798",
     "semantic_hash": "73f5c1cfe4e56be5b75221c76326e798"
   },
   "raw/conversations/2026-10-05-abstraction-method-and-ontology-form.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718668,
+    "mtime": 1791176044.822198,
+    "seen": 1792304069.728998,
     "ast_hash": "20ead8242fb9e822232ef9010662394d",
     "semantic_hash": "20ead8242fb9e822232ef9010662394d"
   },
   "raw/conversations/2026-10-05-blind-trust-shakes-and-scope.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718678,
+    "mtime": 1791126942.1474142,
+    "seen": 1792304069.728999,
     "ast_hash": "46eef318c23a423454774c18f3d8d7a9",
     "semantic_hash": "46eef318c23a423454774c18f3d8d7a9"
   },
   "raw/conversations/2026-10-05-ontology-draft-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971869,
+    "mtime": 1791178684.1499536,
+    "seen": 1792304069.728999,
     "ast_hash": "6648b95540c742ed97b1acea9df21913",
     "semantic_hash": "6648b95540c742ed97b1acea9df21913"
   },
   "raw/conversations/2026-10-05-security-universe-method.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.97187,
+    "mtime": 1791180277.7443492,
+    "seen": 1792304069.7289999,
     "ast_hash": "464ed39f7fef78b1b0d97fd3ae35665e",
     "semantic_hash": "464ed39f7fef78b1b0d97fd3ae35665e"
   },
   "raw/conversations/2026-10-05-state-securities-after-the-round.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971871,
+    "mtime": 1791180507.846022,
+    "seen": 1792304069.7289999,
     "ast_hash": "d1471160b6b32ffa0356b573e53ba66d",
     "semantic_hash": "d1471160b6b32ffa0356b573e53ba66d"
   },
   "raw/conversations/2026-10-10-classification-rule-decision.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971872,
+    "mtime": 1791614741.6983793,
+    "seen": 1792304069.729001,
     "ast_hash": "549fe70f4df03b239847ce794f8d5fe1",
     "semantic_hash": "549fe70f4df03b239847ce794f8d5fe1"
   },
   "raw/conversations/2026-10-10-fund-construction-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971873,
+    "mtime": 1791612128.8520205,
+    "seen": 1792304069.729001,
     "ast_hash": "fbe769446cb8448afdbb028a2dc6579f",
     "semantic_hash": "fbe769446cb8448afdbb028a2dc6579f"
   },
   "raw/conversations/2026-10-10-medium-changes-uptake.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718738,
+    "mtime": 1791618424.90036,
+    "seen": 1792304069.729002,
     "ast_hash": "f5d13ce92c77f037b64bbcddba2f1184",
     "semantic_hash": "f5d13ce92c77f037b64bbcddba2f1184"
   },
   "raw/conversations/2026-10-10-security-families-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718747,
+    "mtime": 1791611031.0264137,
+    "seen": 1792304069.729002,
     "ast_hash": "a97133534339f3d3a9c3027e2ceaeea8",
     "semantic_hash": "a97133534339f3d3a9c3027e2ceaeea8"
   },
   "raw/conversations/2026-10-10-security-legs-and-tickers.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.971876,
+    "mtime": 1791611435.9848359,
+    "seen": 1792304069.729003,
     "ast_hash": "bac9638b5d92e4548911c91ee9d65efd",
     "semantic_hash": "bac9638b5d92e4548911c91ee9d65efd"
   },
   "raw/conversations/2026-10-10-security-universe-round-decisions-5-to-7.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718769,
+    "mtime": 1791609754.5413108,
+    "seen": 1792304069.729003,
     "ast_hash": "aaff7d4d91b6352913df9f0fbedbbcfb",
     "semantic_hash": "aaff7d4d91b6352913df9f0fbedbbcfb"
   },
   "raw/conversations/2026-10-10-security-universe-round-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718778,
+    "mtime": 1791607438.1173239,
+    "seen": 1792304069.7290041,
     "ast_hash": "906cc7e023f10d9b6cd668111e58ae77",
     "semantic_hash": "906cc7e023f10d9b6cd668111e58ae77"
   },
   "raw/conversations/2026-10-10-security-weights-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718792,
+    "mtime": 1791614236.935106,
+    "seen": 1792304069.7290041,
     "ast_hash": "b259f0829ada739b4429dcfb7c90b446",
     "semantic_hash": "b259f0829ada739b4429dcfb7c90b446"
   },
   "raw/conversations/2026-10-10-security-weights-round-decisions.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718802,
+    "mtime": 1791616855.2627218,
+    "seen": 1792304069.729005,
     "ast_hash": "81c7292173420f9ff55633371b60452a",
     "semantic_hash": "81c7292173420f9ff55633371b60452a"
   },
   "raw/conversations/2026-10-10-security-weights-round-setup.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718812,
+    "mtime": 1791615099.477184,
+    "seen": 1792304069.729006,
     "ast_hash": "bacb2b20eaae5444f1de600df9c69d3d",
     "semantic_hash": "bacb2b20eaae5444f1de600df9c69d3d"
   },
   "raw/conversations/2026-10-10-typeface-as-persona.md": {
-    "mtime": 1792113601.78159,
-    "seen": 1792118638.9718823,
+    "mtime": 1791615180.489445,
+    "seen": 1792304069.729006,
     "ast_hash": "4f099c61fc6212c8e44feb58008405da",
     "semantic_hash": "4f099c61fc6212c8e44feb58008405da"
   },
   "raw/conversations/2026-10-16-mend-keeps-forgiveness.md": {
-    "mtime": 1792114851.3176641,
-    "seen": 1792118638.971883,
+    "mtime": 1792301623.1383615,
+    "seen": 1792304069.729007,
     "ast_hash": "b1f532ad87610739f5746c5bdde086fc",
     "semantic_hash": "b1f532ad87610739f5746c5bdde086fc"
   },
   "raw/conversations/2026-10-16-revised-steps-decisions.md": {
-    "mtime": 1792114715.4656563,
-    "seen": 1792118638.9718838,
+    "mtime": 1792301623.1384654,
+    "seen": 1792304069.7290082,
     "ast_hash": "89bf7ea6e4a6324e6dd0314dd67d11f1",
     "semantic_hash": "89bf7ea6e4a6324e6dd0314dd67d11f1"
   },
   "raw/conversations/2026-10-16-step-importance-decisions.md": {
-    "mtime": 1792116979.2856154,
-    "seen": 1792118638.971885,
+    "mtime": 1792301623.138564,
+    "seen": 1792304069.7290082,
     "ast_hash": "9613ab8b2661fc68b6cb29703ee1adf3",
     "semantic_hash": "9613ab8b2661fc68b6cb29703ee1adf3"
   },
   "raw/conversations/2026-10-16-uptake-and-tret-name-decisions.md": {
-    "mtime": 1792117431.4936423,
-    "seen": 1792118638.971886,
+    "mtime": 1792301623.1386645,
+    "seen": 1792304069.729009,
     "ast_hash": "0eec8ca2d0bc029fcf9ef4c121409f82",
     "semantic_hash": "0eec8ca2d0bc029fcf9ef4c121409f82"
   },
   "raw/documents/2026-09-05-pricing-model-v2-factor-review-prompt.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718869,
+    "mtime": 1788663228.5973077,
+    "seen": 1792304069.729009,
     "ast_hash": "c09c1429c4bbea24aebaf72eb9a6b344",
     "semantic_hash": "c09c1429c4bbea24aebaf72eb9a6b344"
   },
   "raw/documents/2026-09-06-academic-model-research-brief.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718878,
+    "mtime": 1788685416.622613,
+    "seen": 1792304069.7290099,
     "ast_hash": "43d985a01cb10aa85b59fc9bab434695",
     "semantic_hash": "43d985a01cb10aa85b59fc9bab434695"
   },
   "raw/documents/2026-09-06-cross-domain-model-survey-request.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718885,
+    "mtime": 1788694473.9158914,
+    "seen": 1792304069.7290099,
     "ast_hash": "aa4b8c00a96aa9d44525c521f30848e2",
     "semantic_hash": "aa4b8c00a96aa9d44525c521f30848e2"
   },
   "raw/documents/2026-09-06-factor-set-failure-profile-completion-requests.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718897,
+    "mtime": 1788680407.1647272,
+    "seen": 1792304069.729011,
     "ast_hash": "6bd2baca5816e18fce63fd1de3231c1d",
     "semantic_hash": "6bd2baca5816e18fce63fd1de3231c1d"
   },
   "raw/documents/2026-09-06-factor-set-failure-profile-prompt-v1.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718904,
+    "mtime": 1788663228.597455,
+    "seen": 1792304069.729012,
     "ast_hash": "9a7c605bfc45869b2373411f08ee55ff",
     "semantic_hash": "9a7c605bfc45869b2373411f08ee55ff"
   },
   "raw/documents/2026-09-06-factor-set-failure-profile-prompt-v2.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718912,
+    "mtime": 1788663228.597561,
+    "seen": 1792304069.729012,
     "ast_hash": "a56bffa62645ab002b56ce1364fe6eb7",
     "semantic_hash": "a56bffa62645ab002b56ce1364fe6eb7"
   },
   "raw/documents/2026-09-06-world-rules-letter-spec-request.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.971894,
+    "mtime": 1789003467.4170628,
+    "seen": 1792304069.729013,
     "ast_hash": "5963325f3bb8c3fc89ca088373fed580",
     "semantic_hash": "5963325f3bb8c3fc89ca088373fed580"
   },
   "raw/documents/2026-09-06-worldbuilding-roadmap-request.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718952,
+    "mtime": 1789003467.417261,
+    "seen": 1792304069.729013,
     "ast_hash": "d672b3743505a49da968504b6f3c22fd",
     "semantic_hash": "d672b3743505a49da968504b6f3c22fd"
   },
   "raw/documents/2026-09-16-loop-simulation-findings.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718966,
+    "mtime": 1789485236.3296916,
+    "seen": 1792304069.729014,
     "ast_hash": "afbcf43876737ef583cfd3a3b510b704",
     "semantic_hash": "afbcf43876737ef583cfd3a3b510b704"
   },
   "raw/documents/2026-09-19-market-texture-findings.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718978,
+    "mtime": 1789818374.3769917,
+    "seen": 1792304069.729014,
     "ast_hash": "081f1a3495f96b64942dd34fe5a7eae2",
     "semantic_hash": "081f1a3495f96b64942dd34fe5a7eae2"
   },
   "raw/documents/2026-09-20-factor-identification-prompt.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9718988,
+    "mtime": 1789876998.0776434,
+    "seen": 1792304069.729015,
     "ast_hash": "86e0367bab24b7cdb554952d460f242c",
     "semantic_hash": "86e0367bab24b7cdb554952d460f242c"
   },
   "raw/documents/2026-09-20-identification-experiment-findings-v2.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9719002,
+    "mtime": 1789894385.5332367,
+    "seen": 1792304069.729016,
     "ast_hash": "6b9beffb843ddc40ed1a5516fc3cbce4",
     "semantic_hash": "6b9beffb843ddc40ed1a5516fc3cbce4"
   },
   "raw/documents/2026-09-20-identification-experiment-findings-v3.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9719012,
+    "mtime": 1789895092.3861663,
+    "seen": 1792304069.729016,
     "ast_hash": "f537a1cb6e202925e78d83e52e78f328",
     "semantic_hash": "f537a1cb6e202925e78d83e52e78f328"
   },
   "raw/documents/2026-09-20-identification-experiment-findings-v4.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9719024,
+    "mtime": 1789906507.278974,
+    "seen": 1792304069.729017,
     "ast_hash": "e86f8b99461a79b428004e2d2d38d85e",
     "semantic_hash": "e86f8b99461a79b428004e2d2d38d85e"
   },
   "raw/documents/2026-09-20-identification-experiment-findings.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9719038,
+    "mtime": 1789893829.7630672,
+    "seen": 1792304069.729017,
     "ast_hash": "9f5d5cb909abc3aa5ab00d7b03c461b4",
     "semantic_hash": "9f5d5cb909abc3aa5ab00d7b03c461b4"
   },
   "raw/documents/2026-09-20-institution-naming-prompt.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.971905,
+    "mtime": 1789877021.283125,
+    "seen": 1792304069.7290182,
     "ast_hash": "e6e06600af731537d70280d54d246291",
     "semantic_hash": "e6e06600af731537d70280d54d246291"
   },
   "raw/documents/2026-09-20-japanese-publisher-clearance-shortlist.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9719062,
+    "mtime": 1789907370.7585676,
+    "seen": 1792304069.729019,
     "ast_hash": "a12154ebce8a62ce40f8040604cac092",
     "semantic_hash": "a12154ebce8a62ce40f8040604cac092"
   },
   "raw/documents/2026-09-20-national-series-retrieval.md": {
-    "mtime": 1792113601.7856808,
-    "seen": 1792118638.9719076,
+    "mtime": 1789895050.4357882,
+    "seen": 1792304069.729019,
     "ast_hash": "7b944a2fc98fca46954d7dd8eb318013",
     "semantic_hash": "7b944a2fc98fca46954d7dd8eb318013"
   },
   "raw/documents/2026-09-20-nia-internet-usage-survey-2025-record.md": {
-    "mtime": 1792113602.11759,
-    "seen": 1792118638.9719086,
+    "mtime": 1789905673.6854274,
+    "seen": 1792304069.7290199,
     "ast_hash": "aed53fe2b8db305235050288b1c991d3",
     "semantic_hash": "aed53fe2b8db305235050288b1c991d3"
   },
   "raw/documents/2026-09-20-proxy-sourcing-prompt.md": {
-    "mtime": 1792113602.11759,
-    "seen": 1792118638.97191,
+    "mtime": 1789877021.280808,
+    "seen": 1792304069.7290199,
     "ast_hash": "f4ec0e85e4859a911e0bb88d6e545077",
     "semantic_hash": "f4ec0e85e4859a911e0bb88d6e545077"
   },
   "raw/documents/2026-09-20-rebuild-findings.md": {
-    "mtime": 1792113602.11759,
-    "seen": 1792118638.9719112,
+    "mtime": 1789876747.20904,
+    "seen": 1792304069.7290208,
     "ast_hash": "bde3f056a517cb414304fb4263623941",
     "semantic_hash": "bde3f056a517cb414304fb4263623941"
   },
   "raw/documents/2026-09-20-wave-calibration-from-national-series.md": {
-    "mtime": 1792113602.11759,
-    "seen": 1792118638.9719124,
+    "mtime": 1789895074.1921983,
+    "seen": 1792304069.7290208,
     "ast_hash": "3be2c1208f8c7f4ffc61357c88d8daba",
     "semantic_hash": "3be2c1208f8c7f4ffc61357c88d8daba"
   },
   "raw/documents/2026-09-20-wave-calibration-from-spine.md": {
-    "mtime": 1792113602.11759,
-    "seen": 1792118638.9719136,
+    "mtime": 1789894284.9531631,
+    "seen": 1792304069.729022,
     "ast_hash": "562904546be7af8b668ac715104d5b85",
     "semantic_hash": "562904546be7af8b668ac715104d5b85"
   },
   "raw/documents/2026-09-20-wdi-spine-retrieval.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.9719148,
+    "mtime": 1789891792.2839608,
+    "seen": 1792304069.729022,
     "ast_hash": "37f4e22ccc5b8476e498d4ad2802b31e",
     "semantic_hash": "37f4e22ccc5b8476e498d4ad2802b31e"
   },
   "raw/documents/2026-09-22-exposure-sources-brainstorm-prompt.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.971916,
+    "mtime": 1790002964.6443245,
+    "seen": 1792304069.729023,
     "ast_hash": "9ef5ba8fc98b7172a3ba641034cbf3c4",
     "semantic_hash": "9ef5ba8fc98b7172a3ba641034cbf3c4"
   },
   "raw/documents/2026-09-22-weight-setting-procedure-prompt.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.9719174,
+    "mtime": 1790002964.6393526,
+    "seen": 1792304069.729023,
     "ast_hash": "4bbe43b597ad6431e6b16f4b929266e9",
     "semantic_hash": "4bbe43b597ad6431e6b16f4b929266e9"
   },
   "raw/documents/2026-10-01-exposure-sources-existence-check.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.9719186,
+    "mtime": 1791010361.1047072,
+    "seen": 1792304069.729024,
     "ast_hash": "19b601f80cec292e6059d169e6c10232",
     "semantic_hash": "19b601f80cec292e6059d169e6c10232"
   },
   "raw/documents/2026-10-04-romance-analysis-round-prompt.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.9719198,
+    "mtime": 1791087102.2690272,
+    "seen": 1792304069.729024,
     "ast_hash": "1b1af621c02b66fdb510aef5a35ef0f4",
     "semantic_hash": "1b1af621c02b66fdb510aef5a35ef0f4"
   },
   "raw/documents/2026-10-05-security-universe-round-prompt.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.971921,
+    "mtime": 1791180336.849451,
+    "seen": 1792304069.7290251,
     "ast_hash": "30ed94039838041e94626acec7c0d0d5",
     "semantic_hash": "30ed94039838041e94626acec7c0d0d5"
   },
   "raw/documents/2026-10-10-security-weights-round-prompt-part1.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.9719222,
+    "mtime": 1791615071.5115175,
+    "seen": 1792304069.7290251,
     "ast_hash": "e59cb6c3e99fdc6ef295fdd75a2b704e",
     "semantic_hash": "e59cb6c3e99fdc6ef295fdd75a2b704e"
   },
   "raw/documents/2026-10-10-security-weights-round-prompt-part2.md": {
-    "mtime": 1792113602.12159,
-    "seen": 1792118638.9719234,
+    "mtime": 1791615071.511619,
+    "seen": 1792304069.729026,
     "ast_hash": "0fce870ab2ba5b69a29419de85805ca0",
     "semantic_hash": "0fce870ab2ba5b69a29419de85805ca0"
   },
   "raw/sources.md": {
-    "mtime": 1792124630.2401738,
-    "seen": 1792125085.9263265,
+    "mtime": 1792301623.1390145,
+    "seen": 1792304069.729027,
     "ast_hash": "21bd570796331ecfdb5cfc1514bc3e8f",
     "semantic_hash": "21bd570796331ecfdb5cfc1514bc3e8f"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-claude-critic-of-model.md": {
-    "mtime": 1792113602.1264892,
-    "seen": 1792118638.971926,
+    "mtime": 1788543976.8179626,
+    "seen": 1792304069.729027,
     "ast_hash": "91750c76266c3f6ab93778b6e48c9642",
     "semantic_hash": "91750c76266c3f6ab93778b6e48c9642"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-deepseek-critic-of-model.md": {
-    "mtime": 1792113602.126901,
-    "seen": 1792118638.971927,
+    "mtime": 1788544077.4220812,
+    "seen": 1792304069.729028,
     "ast_hash": "b9390b19a603213f82f9097bb5d88a21",
     "semantic_hash": "b9390b19a603213f82f9097bb5d88a21"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-gemini-critic-of-model.md": {
-    "mtime": 1792113602.126901,
-    "seen": 1792118638.9719281,
+    "mtime": 1788544103.3897202,
+    "seen": 1792304069.729028,
     "ast_hash": "2f4ed831bf8012d2b35cb8b25e39a159",
     "semantic_hash": "2f4ed831bf8012d2b35cb8b25e39a159"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-glm-critic-of-model.md": {
-    "mtime": 1792113602.126901,
-    "seen": 1792118638.9719296,
+    "mtime": 1788544112.244982,
+    "seen": 1792304069.7290292,
     "ast_hash": "cbbd386097c59b0bc8b9b68997ce96b1",
     "semantic_hash": "cbbd386097c59b0bc8b9b68997ce96b1"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-grok-critic-of-model.md": {
-    "mtime": 1792113602.126901,
-    "seen": 1792118638.971931,
+    "mtime": 1788544121.1854234,
+    "seen": 1792304069.7290292,
     "ast_hash": "de52997a394dd0dbf31900a3718444f3",
     "semantic_hash": "de52997a394dd0dbf31900a3718444f3"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-kimi-critic-of-model.md": {
-    "mtime": 1792113602.126901,
-    "seen": 1792118638.9719322,
+    "mtime": 1788544162.1613543,
+    "seen": 1792304069.72903,
     "ast_hash": "13c0bfd79e806253021bcce716d3f2eb",
     "semantic_hash": "13c0bfd79e806253021bcce716d3f2eb"
   },
   "raw/surveys/2026-09-05-critic-of-model/2026-09-05-qwen-critic-of-model.md": {
-    "mtime": 1792113602.126901,
-    "seen": 1792118638.9719334,
+    "mtime": 1788544967.3355365,
+    "seen": 1792304069.7290308,
     "ast_hash": "ab540b97131fdb27eb8596d3442c8070",
     "semantic_hash": "ab540b97131fdb27eb8596d3442c8070"
   },
   "raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-claude.md": {
-    "mtime": 1792113602.126901,
-    "seen": 1792118638.9719348,
+    "mtime": 1788663228.5980992,
+    "seen": 1792304069.7290308,
     "ast_hash": "6eec675843de883015d814beb8496f84",
     "semantic_hash": "6eec675843de883015d814beb8496f84"
   },
   "raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-deepseek.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719365,
+    "mtime": 1788663228.5982714,
+    "seen": 1792304069.729032,
     "ast_hash": "040cac9a786ed867672eece4be327987",
     "semantic_hash": "040cac9a786ed867672eece4be327987"
   },
   "raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-gemini.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719381,
+    "mtime": 1788663228.5983956,
+    "seen": 1792304069.729032,
     "ast_hash": "607cf2c9a4b3ff82f162e9bb280b839b",
     "semantic_hash": "607cf2c9a4b3ff82f162e9bb280b839b"
   },
   "raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-glm.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719393,
+    "mtime": 1788663228.5985422,
+    "seen": 1792304069.729033,
     "ast_hash": "c313c895c07c6f09f3c03bc50c98a179",
     "semantic_hash": "c313c895c07c6f09f3c03bc50c98a179"
   },
   "raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-grok.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719405,
+    "mtime": 1788663228.5986838,
+    "seen": 1792304069.729033,
     "ast_hash": "279740c0fcdc49e115c3a1db7a2cd56e",
     "semantic_hash": "279740c0fcdc49e115c3a1db7a2cd56e"
   },
   "raw/surveys/2026-09-05-pricing-model-v2-factor-review/2026-09-05-pricing-model-v2-factor-review-qwen.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.971942,
+    "mtime": 1788663228.5988247,
+    "seen": 1792304069.729034,
     "ast_hash": "682d42e3c2c81795b938a827cb6deadf",
     "semantic_hash": "682d42e3c2c81795b938a827cb6deadf"
   },
   "raw/surveys/2026-09-06-academic-model-research-notes.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719431,
+    "mtime": 1788685416.622769,
+    "seen": 1792304069.729034,
     "ast_hash": "9e96cd461acca7af852047e09be0eb34",
     "semantic_hash": "9e96cd461acca7af852047e09be0eb34"
   },
   "raw/surveys/2026-09-06-cross-domain-model-survey-korean.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719448,
+    "mtime": 1788696320.849327,
+    "seen": 1792304069.729035,
     "ast_hash": "c0c2df5433237fc37a740a1aeabf75d3",
     "semantic_hash": "c0c2df5433237fc37a740a1aeabf75d3"
   },
   "raw/surveys/2026-09-06-cross-domain-model-survey.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.971946,
+    "mtime": 1788694473.916137,
+    "seen": 1792304069.729035,
     "ast_hash": "053f7f47de9b172359f1f541124aa5bc",
     "semantic_hash": "053f7f47de9b172359f1f541124aa5bc"
   },
   "raw/surveys/2026-09-06-dataset-backtesting-research.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719472,
+    "mtime": 1788694358.7572668,
+    "seen": 1792304069.729036,
     "ast_hash": "db74bdefcecda76590689eb8a8cdfaf9",
     "semantic_hash": "db74bdefcecda76590689eb8a8cdfaf9"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-chatgpt.md": {
-    "mtime": 1792113602.1283016,
-    "seen": 1792118638.9719486,
+    "mtime": 1788663228.5990565,
+    "seen": 1792304069.729037,
     "ast_hash": "70a7c0734e57811050cde696540b4738",
     "semantic_hash": "70a7c0734e57811050cde696540b4738"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-claude.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.9719496,
+    "mtime": 1788679936.1674218,
+    "seen": 1792304069.729037,
     "ast_hash": "70cc9a4b289a3b36bc19bdd5ea50d654",
     "semantic_hash": "70cc9a4b289a3b36bc19bdd5ea50d654"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-deepseek.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.9719505,
+    "mtime": 1788680009.6862922,
+    "seen": 1792304069.729038,
     "ast_hash": "4f51932a36f63adec42fc75c5d28ffae",
     "semantic_hash": "4f51932a36f63adec42fc75c5d28ffae"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-gemini-complete.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.9719517,
+    "mtime": 1788680260.1533117,
+    "seen": 1792304069.7290392,
     "ast_hash": "fd955ff7d148d371b3ee69e65d1d9f0a",
     "semantic_hash": "fd955ff7d148d371b3ee69e65d1d9f0a"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-gemini.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.971953,
+    "mtime": 1788679832.0516481,
+    "seen": 1792304069.7290392,
     "ast_hash": "ca2a93c5ca559f6d4c06c1501495492b",
     "semantic_hash": "ca2a93c5ca559f6d4c06c1501495492b"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-glm.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.971954,
+    "mtime": 1788680475.215718,
+    "seen": 1792304069.72904,
     "ast_hash": "1f407a58a7fc29fb984b967c9ea4de33",
     "semantic_hash": "1f407a58a7fc29fb984b967c9ea4de33"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-grok.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.9719555,
+    "mtime": 1788679882.452389,
+    "seen": 1792304069.72904,
     "ast_hash": "75c2437d959b803481cc929b25710fee",
     "semantic_hash": "75c2437d959b803481cc929b25710fee"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-kimi.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.9719567,
+    "mtime": 1788680278.4904127,
+    "seen": 1792304069.7290409,
     "ast_hash": "f5139e575550cdcd8f5ea3de599aa7b5",
     "semantic_hash": "f5139e575550cdcd8f5ea3de599aa7b5"
   },
   "raw/surveys/2026-09-06-factor-set-failure-profile/2026-09-06-factor-set-failure-profile-qwen.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.971958,
+    "mtime": 1788680319.1663826,
+    "seen": 1792304069.7290409,
     "ast_hash": "cab5ce218c5f4f433a37b6558488f0e3",
     "semantic_hash": "cab5ce218c5f4f433a37b6558488f0e3"
   },
   "raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-chatgpt.md": {
-    "mtime": 1792113602.1301348,
-    "seen": 1792118638.9719594,
+    "mtime": 1789878874.6088617,
+    "seen": 1792304069.7290418,
     "ast_hash": "f76b405cb373dd6575866a58ad9c9072",
     "semantic_hash": "f76b405cb373dd6575866a58ad9c9072"
   },
   "raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-claude.md": {
-    "mtime": 1792113602.1323178,
-    "seen": 1792118638.971964,
+    "mtime": 1789879271.7426012,
+    "seen": 1792304069.729043,
     "ast_hash": "e32f69b140c7b0e78111d98427bea8be",
     "semantic_hash": "e32f69b140c7b0e78111d98427bea8be"
   },
   "raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-deepseek.md": {
-    "mtime": 1792113602.1323178,
-    "seen": 1792118638.9719698,
+    "mtime": 1789877841.4372885,
+    "seen": 1792304069.729043,
     "ast_hash": "52c68acc8b87b91c2582000a50891fbc",
     "semantic_hash": "52c68acc8b87b91c2582000a50891fbc"
   },
   "raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-gemini.md": {
-    "mtime": 1792113602.1323178,
-    "seen": 1792118638.971971,
+    "mtime": 1789877820.3720565,
+    "seen": 1792304069.729044,
     "ast_hash": "010c73fa2720f18376103d9434fa65e4",
     "semantic_hash": "010c73fa2720f18376103d9434fa65e4"
   },
   "raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-glm.md": {
-    "mtime": 1792113602.1323178,
-    "seen": 1792118638.9719725,
+    "mtime": 1789878516.842464,
+    "seen": 1792304069.729044,
     "ast_hash": "1cd245611f3ea3f9a5498ff484b2a3ad",
     "semantic_hash": "1cd245611f3ea3f9a5498ff484b2a3ad"
   },
   "raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-grok.md": {
-    "mtime": 1792113602.1323178,
-    "seen": 1792118638.9719737,
+    "mtime": 1789877806.1146615,
+    "seen": 1792304069.729045,
     "ast_hash": "c122a6305ede3591ee9c9600f1acd622",
     "semantic_hash": "c122a6305ede3591ee9c9600f1acd622"
   },
   "raw/surveys/2026-09-20-factor-identification/2026-09-20-factor-identification-qwen.md": {
-    "mtime": 1792113602.1323178,
-    "seen": 1792118638.9719746,
+    "mtime": 1789879402.4239442,
+    "seen": 1792304069.729045,
     "ast_hash": "76185f1928a46ddb6f50544f41bb98d0",
     "semantic_hash": "76185f1928a46ddb6f50544f41bb98d0"
   },
   "raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-chatgpt.md": {
-    "mtime": 1792113602.1323178,
-    "seen": 1792118638.9719756,
+    "mtime": 1789879340.8966708,
+    "seen": 1792304069.729046,
     "ast_hash": "70028fd9d7a61924c6d335585805458d",
     "semantic_hash": "70028fd9d7a61924c6d335585805458d"
   },
   "raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-claude.md": {
-    "mtime": 1792113602.1334975,
-    "seen": 1792118638.9719768,
+    "mtime": 1789879290.343103,
+    "seen": 1792304069.729047,
     "ast_hash": "c031381d1a5f980cf75a5f4ec946f9db",
     "semantic_hash": "c031381d1a5f980cf75a5f4ec946f9db"
   },
   "raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-deepseek.md": {
-    "mtime": 1792113602.1334975,
-    "seen": 1792118638.971978,
+    "mtime": 1789878045.3519464,
+    "seen": 1792304069.729047,
     "ast_hash": "eec538625dcdadc3d75a0312ecc3a469",
     "semantic_hash": "eec538625dcdadc3d75a0312ecc3a469"
   },
   "raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-gemini.md": {
-    "mtime": 1792113602.1334975,
-    "seen": 1792118638.9719794,
+    "mtime": 1789878016.352268,
+    "seen": 1792304069.729048,
     "ast_hash": "0cbd8c4f6e9e994d286cbad467c2ec87",
     "semantic_hash": "0cbd8c4f6e9e994d286cbad467c2ec87"
   },
   "raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-glm.md": {
-    "mtime": 1792113602.1334975,
-    "seen": 1792118638.9719806,
+    "mtime": 1789878637.0589492,
+    "seen": 1792304069.729048,
     "ast_hash": "a6dd214b41337ea28ca173786cf5decd",
     "semantic_hash": "a6dd214b41337ea28ca173786cf5decd"
   },
   "raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-grok.md": {
-    "mtime": 1792113602.1334975,
-    "seen": 1792118638.971982,
+    "mtime": 1789878066.7670262,
+    "seen": 1792304069.7290492,
     "ast_hash": "586eef901d0203272a097bc36bec70bb",
     "semantic_hash": "586eef901d0203272a097bc36bec70bb"
   },
   "raw/surveys/2026-09-20-institution-naming/2026-09-20-institution-naming-qwen.md": {
-    "mtime": 1792113602.1334975,
-    "seen": 1792118638.9719832,
+    "mtime": 1789878229.885103,
+    "seen": 1792304069.7290502,
     "ast_hash": "2fa5a4168c41c588c636fd8ecaea94fb",
     "semantic_hash": "2fa5a4168c41c588c636fd8ecaea94fb"
   },
   "raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-chatgpt.md": {
-    "mtime": 1792113602.1334975,
-    "seen": 1792118638.9719841,
+    "mtime": 1789879358.820907,
+    "seen": 1792304069.7290502,
     "ast_hash": "5b489f6ec07361ca27fd60e88f6dcdde",
     "semantic_hash": "5b489f6ec07361ca27fd60e88f6dcdde"
   },
   "raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-claude.md": {
-    "mtime": 1792113602.1344907,
-    "seen": 1792118638.9719856,
+    "mtime": 1789879307.5707822,
+    "seen": 1792304069.7290509,
     "ast_hash": "9cefd5a2cb0f122fe35979a3be6a31eb",
     "semantic_hash": "9cefd5a2cb0f122fe35979a3be6a31eb"
   },
   "raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-deepseek.md": {
-    "mtime": 1792113602.1344907,
-    "seen": 1792118638.971987,
+    "mtime": 1789879622.2596252,
+    "seen": 1792304069.7290509,
     "ast_hash": "6582166967cb1b5bfc4893d0f1b7c3e6",
     "semantic_hash": "6582166967cb1b5bfc4893d0f1b7c3e6"
   },
   "raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-gemini.md": {
-    "mtime": 1792113602.1344907,
-    "seen": 1792118638.9719884,
+    "mtime": 1789879690.3416853,
+    "seen": 1792304069.7290518,
     "ast_hash": "fa621d45873d417f18557622cc037972",
     "semantic_hash": "fa621d45873d417f18557622cc037972"
   },
   "raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-glm.md": {
-    "mtime": 1792113602.1344907,
-    "seen": 1792118638.9719894,
+    "mtime": 1789878655.8288689,
+    "seen": 1792304069.7290518,
     "ast_hash": "c8154d1d780d036885f4b43633427e87",
     "semantic_hash": "c8154d1d780d036885f4b43633427e87"
   },
   "raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-grok.md": {
-    "mtime": 1792113602.1344907,
-    "seen": 1792118638.9719908,
+    "mtime": 1789878379.070803,
+    "seen": 1792304069.729053,
     "ast_hash": "3a64187e8a1ee5025cd6408ef6f983c6",
     "semantic_hash": "3a64187e8a1ee5025cd6408ef6f983c6"
   },
   "raw/surveys/2026-09-20-proxy-sourcing/2026-09-20-proxy-sourcing-qwen.md": {
-    "mtime": 1792113602.1344907,
-    "seen": 1792118638.9719923,
+    "mtime": 1789878544.6052344,
+    "seen": 1792304069.729054,
     "ast_hash": "fd5e4b92116549c68224ef3023cc445e",
     "semantic_hash": "fd5e4b92116549c68224ef3023cc445e"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-chatgpt.md": {
-    "mtime": 1792113602.1344907,
-    "seen": 1792118638.971994,
+    "mtime": 1790005514.1114814,
+    "seen": 1792304069.729054,
     "ast_hash": "8efdb906368ca8ce82820e3e7d744b83",
     "semantic_hash": "8efdb906368ca8ce82820e3e7d744b83"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-claude-v2.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.9719949,
+    "mtime": 1790004434.8726428,
+    "seen": 1792304069.729055,
     "ast_hash": "72ef21692a2caf14a9647503be053d1f",
     "semantic_hash": "72ef21692a2caf14a9647503be053d1f"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-claude.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.971996,
+    "mtime": 1790004422.5216768,
+    "seen": 1792304069.729055,
     "ast_hash": "8cdfa2cea934850d87ad6f5896f317b6",
     "semantic_hash": "8cdfa2cea934850d87ad6f5896f317b6"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek-v2.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.971998,
+    "mtime": 1790004150.7411704,
+    "seen": 1792304069.729056,
     "ast_hash": "71fecd98dad35c7bd13d5d45ce715b08",
     "semantic_hash": "71fecd98dad35c7bd13d5d45ce715b08"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-deepseek.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.9719996,
+    "mtime": 1790003860.548066,
+    "seen": 1792304069.729057,
     "ast_hash": "dce4850a33cc4e0e09559ebe6c7e42d5",
     "semantic_hash": "dce4850a33cc4e0e09559ebe6c7e42d5"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-gemini-v2.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.972001,
+    "mtime": 1790005946.4695024,
+    "seen": 1792304069.729057,
     "ast_hash": "944e5def4d425c9b7a0d8b9bb6409403",
     "semantic_hash": "944e5def4d425c9b7a0d8b9bb6409403"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-gemini.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.9720023,
+    "mtime": 1790005960.471481,
+    "seen": 1792304069.729058,
     "ast_hash": "c3917e99fc2cf21aa381a3b746bd5853",
     "semantic_hash": "c3917e99fc2cf21aa381a3b746bd5853"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-glm.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.972004,
+    "mtime": 1790004524.47188,
+    "seen": 1792304069.729058,
     "ast_hash": "d363786e7db323f22b1edf850baf7d66",
     "semantic_hash": "d363786e7db323f22b1edf850baf7d66"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-grok-v2.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.9720051,
+    "mtime": 1790004206.8448608,
+    "seen": 1792304069.729059,
     "ast_hash": "712ecb1d3227a03771549f26529bc199",
     "semantic_hash": "712ecb1d3227a03771549f26529bc199"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-grok.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.9720063,
+    "mtime": 1790004222.0099537,
+    "seen": 1792304069.729059,
     "ast_hash": "df4a46f9c87ca706cb06cfa8e4a503a7",
     "semantic_hash": "df4a46f9c87ca706cb06cfa8e4a503a7"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-qwen-v2.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.9720075,
+    "mtime": 1790004154.310269,
+    "seen": 1792304069.7290602,
     "ast_hash": "1caeeffcefd276b03b91a8e01459e6ba",
     "semantic_hash": "1caeeffcefd276b03b91a8e01459e6ba"
   },
   "raw/surveys/2026-09-22-exposure-sources/2026-09-22-exposure-sources-qwen.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.9720087,
+    "mtime": 1790003916.6032488,
+    "seen": 1792304069.7290602,
     "ast_hash": "412ee33bbdb7f62b1799ed3ba0feaab6",
     "semantic_hash": "412ee33bbdb7f62b1799ed3ba0feaab6"
   },
   "raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-chatgpt.md": {
-    "mtime": 1792113602.1361153,
-    "seen": 1792118638.972012,
+    "mtime": 1790005020.8331428,
+    "seen": 1792304069.7290611,
     "ast_hash": "8c75d1f7c5b48ef143bdb2e3d90595d5",
     "semantic_hash": "8c75d1f7c5b48ef143bdb2e3d90595d5"
   },
   "raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-claude.md": {
-    "mtime": 1792113602.1376204,
-    "seen": 1792118638.9720132,
+    "mtime": 1790004402.445607,
+    "seen": 1792304069.7290611,
     "ast_hash": "79b107dc09a97205af4ffd354f263806",
     "semantic_hash": "79b107dc09a97205af4ffd354f263806"
   },
   "raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-deepseek.md": {
-    "mtime": 1792113602.1376204,
-    "seen": 1792118638.9720144,
+    "mtime": 1790004297.6409883,
+    "seen": 1792304069.7290618,
     "ast_hash": "f399ac97bb84d3d4e160c9332971ba52",
     "semantic_hash": "f399ac97bb84d3d4e160c9332971ba52"
   },
   "raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-gemini.md": {
-    "mtime": 1792113602.1376204,
-    "seen": 1792118638.9720156,
+    "mtime": 1790004281.779226,
+    "seen": 1792304069.7290628,
     "ast_hash": "83ce26ec6cb882e5bc28712141cd4226",
     "semantic_hash": "83ce26ec6cb882e5bc28712141cd4226"
   },
   "raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-glm.md": {
-    "mtime": 1792113602.1376204,
-    "seen": 1792118638.9720166,
+    "mtime": 1790005528.0972621,
+    "seen": 1792304069.7290628,
     "ast_hash": "fa831ee5a55cfba3a1ef1dfa8799118c",
     "semantic_hash": "fa831ee5a55cfba3a1ef1dfa8799118c"
   },
   "raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-grok.md": {
-    "mtime": 1792113602.1376204,
-    "seen": 1792118638.9720178,
+    "mtime": 1790004376.183327,
+    "seen": 1792304069.729064,
     "ast_hash": "46f096bdd643f5621822dba0f31ca450",
     "semantic_hash": "46f096bdd643f5621822dba0f31ca450"
   },
   "raw/surveys/2026-09-22-weight-setting-procedure/2026-09-22-weight-setting-procedure-qwen.md": {
-    "mtime": 1792113602.1376204,
-    "seen": 1792118638.972019,
+    "mtime": 1790004339.6793542,
+    "seen": 1792304069.729064,
     "ast_hash": "08d5a5b0e8cab3c3ceb95c1053739458",
     "semantic_hash": "08d5a5b0e8cab3c3ceb95c1053739458"
   },
   "raw/surveys/2026-10-04-romance-analysis-assistant/2026-10-04-romance-analysis-modernization-history.md": {
-    "mtime": 1792113602.1376204,
-    "seen": 1792118638.97202,
+    "mtime": 1791087543.270724,
+    "seen": 1792304069.729065,
     "ast_hash": "68006a07afdb30d6f88ff1dbba8e827a",
     "semantic_hash": "68006a07afdb30d6f88ff1dbba8e827a"
   },
   "raw/surveys/2026-10-04-romance-analysis-assistant/2026-10-04-romance-analysis-thought-check.md": {
-    "mtime": 1792113602.138425,
-    "seen": 1792118638.972021,
+    "mtime": 1791087543.2687254,
+    "seen": 1792304069.729065,
     "ast_hash": "d9ff675886724240328ac7695f926e20",
     "semantic_hash": "d9ff675886724240328ac7695f926e20"
   },
   "raw/surveys/2026-10-04-romance-analysis-assistant/2026-10-04-romance-study-loss.md": {
-    "mtime": 1792113602.138425,
-    "seen": 1792118638.972022,
+    "mtime": 1791119179.7988985,
+    "seen": 1792304069.729066,
     "ast_hash": "c09fda1fba3a301563ba2d9e398ead11",
     "semantic_hash": "c09fda1fba3a301563ba2d9e398ead11"
   },
   "raw/surveys/2026-10-04-romance-analysis-assistant/2026-10-04-romance-study-ontology-concepts.md": {
-    "mtime": 1792113602.138425,
-    "seen": 1792118638.972023,
+    "mtime": 1791119179.8011477,
+    "seen": 1792304069.729066,
     "ast_hash": "26418e4327d371465f473bd4133caebe",
     "semantic_hash": "26418e4327d371465f473bd4133caebe"
   },
   "raw/surveys/2026-10-04-romance-analysis-assistant/2026-10-04-romance-study-polarization.md": {
-    "mtime": 1792113602.138425,
-    "seen": 1792118638.9720247,
+    "mtime": 1791119179.794688,
+    "seen": 1792304069.729067,
     "ast_hash": "9237e18e04679b15797234495b87f697",
     "semantic_hash": "9237e18e04679b15797234495b87f697"
   },
   "raw/surveys/2026-10-04-romance-analysis-assistant/2026-10-04-romance-study-system-trust.md": {
-    "mtime": 1792113602.138425,
-    "seen": 1792118638.9720263,
+    "mtime": 1791119179.7968159,
+    "seen": 1792304069.729067,
     "ast_hash": "9a7c012f931d1ee9f33ea9d058013ddf",
     "semantic_hash": "9a7c012f931d1ee9f33ea9d058013ddf"
   },
   "raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-claude.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.9720275,
+    "mtime": 1791087896.9002323,
+    "seen": 1792304069.729068,
     "ast_hash": "953118352ec7c500ffd38eb69121b566",
     "semantic_hash": "953118352ec7c500ffd38eb69121b566"
   },
   "raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-deepseek.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.972029,
+    "mtime": 1791087490.5601165,
+    "seen": 1792304069.729069,
     "ast_hash": "3f449e1e22531d0acc78ba134c5d8b10",
     "semantic_hash": "3f449e1e22531d0acc78ba134c5d8b10"
   },
   "raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-gemini.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.9720302,
+    "mtime": 1791087455.0682878,
+    "seen": 1792304069.729069,
     "ast_hash": "e5ca4548eb1e439550a013a301c47353",
     "semantic_hash": "e5ca4548eb1e439550a013a301c47353"
   },
   "raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-glm.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.9720316,
+    "mtime": 1791088550.9146302,
+    "seen": 1792304069.7290702,
     "ast_hash": "e44d2dc7b7012d08efb78d10b846f6ae",
     "semantic_hash": "e44d2dc7b7012d08efb78d10b846f6ae"
   },
   "raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-grok.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.9720328,
+    "mtime": 1791087471.9472148,
+    "seen": 1792304069.7290702,
     "ast_hash": "968729ec95f147bd834ed6f846dda847",
     "semantic_hash": "968729ec95f147bd834ed6f846dda847"
   },
   "raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-qwen.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.9720337,
+    "mtime": 1791087507.0011506,
+    "seen": 1792304069.7290711,
     "ast_hash": "91c33d9c9026ed40e06fdda8fa98c3f7",
     "semantic_hash": "91c33d9c9026ed40e06fdda8fa98c3f7"
   },
   "raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-chatgpt.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.9720352,
+    "mtime": 1791181693.6320882,
+    "seen": 1792304069.7290711,
     "ast_hash": "cc46162e36953318ac51ebec86203e19",
     "semantic_hash": "cc46162e36953318ac51ebec86203e19"
   },
   "raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-claude.md": {
-    "mtime": 1792113602.1431768,
-    "seen": 1792118638.9720361,
+    "mtime": 1791181585.0641696,
+    "seen": 1792304069.729072,
     "ast_hash": "156a5ab3c94e9556b624b0995e126754",
     "semantic_hash": "156a5ab3c94e9556b624b0995e126754"
   },
   "raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-deepseek.md": {
-    "mtime": 1792113602.1431768,
-    "seen": 1792118638.9720376,
+    "mtime": 1791181538.6774056,
+    "seen": 1792304069.729072,
     "ast_hash": "ed2e83376c239d284e994d4e40cb3ef8",
     "semantic_hash": "ed2e83376c239d284e994d4e40cb3ef8"
   },
   "raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-gemini.md": {
-    "mtime": 1792113602.1431768,
-    "seen": 1792118638.9720392,
+    "mtime": 1791181506.9074852,
+    "seen": 1792304069.7290728,
     "ast_hash": "e42e69a2b81a1e8bbd661cc0015ec51a",
     "semantic_hash": "e42e69a2b81a1e8bbd661cc0015ec51a"
   },
   "raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-glm.md": {
-    "mtime": 1792113602.1431768,
-    "seen": 1792118638.9720404,
+    "mtime": 1791181563.1911705,
+    "seen": 1792304069.729074,
     "ast_hash": "855dda86708693daa569d8b86ec054b9",
     "semantic_hash": "855dda86708693daa569d8b86ec054b9"
   },
   "raw/surveys/2026-10-05-security-universe-round/2026-10-05-security-universe-round-grok.md": {
-    "mtime": 1792113602.1431768,
-    "seen": 1792118638.9720414,
+    "mtime": 1791181462.944905,
+    "seen": 1792304069.729074,
     "ast_hash": "9440a5d28135ddad7e171a1871476342",
     "semantic_hash": "9440a5d28135ddad7e171a1871476342"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-chatgpt-part1.md": {
-    "mtime": 1792113602.1431768,
-    "seen": 1792118638.9720426,
+    "mtime": 1791615454.3040378,
+    "seen": 1792304069.729075,
     "ast_hash": "e16b02052b7f4fefb59af76a8e4bdb0a",
     "semantic_hash": "e16b02052b7f4fefb59af76a8e4bdb0a"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-chatgpt-part2.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720438,
+    "mtime": 1791615563.8262675,
+    "seen": 1792304069.729075,
     "ast_hash": "ba44d62c4020f81d54389f295736e9c4",
     "semantic_hash": "ba44d62c4020f81d54389f295736e9c4"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-claude-part1.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720454,
+    "mtime": 1791615470.1755724,
+    "seen": 1792304069.729076,
     "ast_hash": "cfe7f6500c367d15a35efc24c8a86e65",
     "semantic_hash": "cfe7f6500c367d15a35efc24c8a86e65"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-claude-part2.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720466,
+    "mtime": 1791615584.0999057,
+    "seen": 1792304069.729076,
     "ast_hash": "74e5ca6fc91947cf60bcf24b4d076dfb",
     "semantic_hash": "74e5ca6fc91947cf60bcf24b4d076dfb"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-deepseek-part1.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720478,
+    "mtime": 1791615487.4343472,
+    "seen": 1792304069.729077,
     "ast_hash": "a00b9bfb7644c32652217de11a5a732a",
     "semantic_hash": "a00b9bfb7644c32652217de11a5a732a"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-deepseek-part2.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720492,
+    "mtime": 1791615603.3077307,
+    "seen": 1792304069.729078,
     "ast_hash": "a18a8c1061c8b95dd729cd695b2751e3",
     "semantic_hash": "a18a8c1061c8b95dd729cd695b2751e3"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-gemini-part1.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720504,
+    "mtime": 1791615513.7251322,
+    "seen": 1792304069.729078,
     "ast_hash": "6c001d74d80b5e81af0f068ed96c37f6",
     "semantic_hash": "6c001d74d80b5e81af0f068ed96c37f6"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-gemini-part2.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720514,
+    "mtime": 1791615623.102997,
+    "seen": 1792304069.729079,
     "ast_hash": "042574aa2d9faea2e04d0c9d1f54f634",
     "semantic_hash": "042574aa2d9faea2e04d0c9d1f54f634"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-glm-part1.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720528,
+    "mtime": 1791615443.6550639,
+    "seen": 1792304069.729079,
     "ast_hash": "5160118659ba378bf1f825bac1031d11",
     "semantic_hash": "5160118659ba378bf1f825bac1031d11"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-glm-part2.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720545,
+    "mtime": 1791616058.4881043,
+    "seen": 1792304069.72908,
     "ast_hash": "386ffb701c171a3e841c30c23ac86c5a",
     "semantic_hash": "386ffb701c171a3e841c30c23ac86c5a"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-grok-part1.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720554,
+    "mtime": 1791615530.1617682,
+    "seen": 1792304069.72908,
     "ast_hash": "806f18327b991e39462b4bee3413d7e6",
     "semantic_hash": "806f18327b991e39462b4bee3413d7e6"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-grok-part2.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720569,
+    "mtime": 1791615635.7258193,
+    "seen": 1792304069.7290812,
     "ast_hash": "9d3f440a867f6d60c6c588e7720803cc",
     "semantic_hash": "9d3f440a867f6d60c6c588e7720803cc"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-qwen-part1.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.972058,
+    "mtime": 1791615406.6613052,
+    "seen": 1792304069.729082,
     "ast_hash": "2de30ce89df204ed6fbe669876aec292",
     "semantic_hash": "2de30ce89df204ed6fbe669876aec292"
   },
   "raw/surveys/2026-10-10-security-weights-round/2026-10-10-security-weights-round-qwen-part2.md": {
-    "mtime": 1792113602.1435828,
-    "seen": 1792118638.9720592,
+    "mtime": 1791615648.739111,
+    "seen": 1792304069.729082,
     "ast_hash": "6661e25e89eb835d12d4dd7b8b1185dc",
     "semantic_hash": "6661e25e89eb835d12d4dd7b8b1185dc"
   },
   "schema.md": {
-    "mtime": 1792124796.4196506,
-    "seen": 1792125085.9263284,
+    "mtime": 1792301623.139391,
+    "seen": 1792304069.7290828,
     "ast_hash": "7acfb88f3aed0c5a2e38a437802981a4",
     "semantic_hash": "7acfb88f3aed0c5a2e38a437802981a4"
   },
   "wiki/concepts/academic-model-survey.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720616,
+    "mtime": 1789003467.4190435,
+    "seen": 1792304069.7290828,
     "ast_hash": "49cdc6b9b7dcf44911f235cff51be293",
     "semantic_hash": "49cdc6b9b7dcf44911f235cff51be293"
   },
   "wiki/concepts/analyst-system.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972063,
+    "mtime": 1790003613.573812,
+    "seen": 1792304069.729084,
     "ast_hash": "ab2bcb57f8ad9e99f7936967b919f4eb",
     "semantic_hash": "ab2bcb57f8ad9e99f7936967b919f4eb"
   },
   "wiki/concepts/arbitrage.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972064,
+    "mtime": 1790003613.4880414,
+    "seen": 1792304069.729084,
     "ast_hash": "bbec55634702a0d2bc071e99620917ab",
     "semantic_hash": "bbec55634702a0d2bc071e99620917ab"
   },
   "wiki/concepts/attribution-ledger.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972065,
+    "mtime": 1790003613.7378597,
+    "seen": 1792304069.729085,
     "ast_hash": "5a78beb3cbbcfb793f7e797fc23f9721",
     "semantic_hash": "5a78beb3cbbcfb793f7e797fc23f9721"
   },
   "wiki/concepts/data-sources.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720666,
+    "mtime": 1791012712.3421977,
+    "seen": 1792304069.729085,
     "ast_hash": "7efb4822757e853d99ecccef62f714a9",
     "semantic_hash": "7efb4822757e853d99ecccef62f714a9"
   },
   "wiki/concepts/dataset-backtesting-survey.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720678,
+    "mtime": 1789003467.4218576,
+    "seen": 1792304069.729086,
     "ast_hash": "aee70f50eda0212ccd1e3d1d9482244a",
     "semantic_hash": "aee70f50eda0212ccd1e3d1d9482244a"
   },
   "wiki/concepts/delivery-architecture.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972069,
+    "mtime": 1791087893.357638,
+    "seen": 1792304069.7290869,
     "ast_hash": "343f667d2e1f78159f66eff836f9046b",
     "semantic_hash": "343f667d2e1f78159f66eff836f9046b"
   },
   "wiki/concepts/design-application.md": {
-    "mtime": 1792124806.6493201,
-    "seen": 1792125085.9263308,
+    "mtime": 1792301623.1397934,
+    "seen": 1792304069.7290869,
     "ast_hash": "d99d3534564ccd451dc75f636ede738e",
     "semantic_hash": "d99d3534564ccd451dc75f636ede738e"
   },
   "wiki/concepts/exposure-sources-review.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972072,
+    "mtime": 1791010361.1056373,
+    "seen": 1792304069.729088,
     "ast_hash": "f0f191853c194ae70c3b700f24b9c156",
     "semantic_hash": "f0f191853c194ae70c3b700f24b9c156"
   },
   "wiki/concepts/factor-architecture-review-consensus.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972073,
+    "mtime": 1790003613.7383254,
+    "seen": 1792304069.729088,
     "ast_hash": "f3d437a6f77ba9cac5faf8db88966f1d",
     "semantic_hash": "f3d437a6f77ba9cac5faf8db88966f1d"
   },
   "wiki/concepts/factor-identification-review.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720743,
+    "mtime": 1791012712.3412833,
+    "seen": 1792304069.729089,
     "ast_hash": "9d60c52a1296c2c1db5aa90c08d72863",
     "semantic_hash": "9d60c52a1296c2c1db5aa90c08d72863"
   },
   "wiki/concepts/factor-set-failure-profile-review.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720755,
+    "mtime": 1790003613.778526,
+    "seen": 1792304069.729089,
     "ast_hash": "e9549b2d376671ca9ab508035f240bbb",
     "semantic_hash": "e9549b2d376671ca9ab508035f240bbb"
   },
   "wiki/concepts/identification-experiment.md": {
-    "mtime": 1792124753.4745753,
-    "seen": 1792125085.926333,
+    "mtime": 1792301623.1402128,
+    "seen": 1792304069.72909,
     "ast_hash": "66181fdb368b7b679b1c1514b4df366c",
     "semantic_hash": "66181fdb368b7b679b1c1514b4df366c"
   },
   "wiki/concepts/index-architecture.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720776,
+    "mtime": 1790003613.6549067,
+    "seen": 1792304069.7290912,
     "ast_hash": "5983c409b51cbe2c3445803b69be6b42",
     "semantic_hash": "5983c409b51cbe2c3445803b69be6b42"
   },
   "wiki/concepts/information-quality.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720788,
+    "mtime": 1790003613.5309618,
+    "seen": 1792304069.7290912,
     "ast_hash": "40419f6a134ddc440a11bcd6fd444c38",
     "semantic_hash": "40419f6a134ddc440a11bcd6fd444c38"
   },
   "wiki/concepts/institution-naming-review.md": {
-    "mtime": 1792124753.4753747,
-    "seen": 1792125085.9263346,
+    "mtime": 1792301623.1406505,
+    "seen": 1792304069.7290921,
     "ast_hash": "21685fd5c057ed0bdc2513e8f3f8c7b9",
     "semantic_hash": "21685fd5c057ed0bdc2513e8f3f8c7b9"
   },
   "wiki/concepts/letter-practice-dynamics.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720814,
+    "mtime": 1789003467.423863,
+    "seen": 1792304069.7290921,
     "ast_hash": "8494daf37aee4ee7a4ad761d885d15a0",
     "semantic_hash": "8494daf37aee4ee7a4ad761d885d15a0"
   },
   "wiki/concepts/loop-simulation.md": {
-    "mtime": 1792124753.473984,
-    "seen": 1792125085.926337,
+    "mtime": 1792301623.1411018,
+    "seen": 1792304069.729093,
     "ast_hash": "306f80a491dd7ade24234da180939e77",
     "semantic_hash": "306f80a491dd7ade24234da180939e77"
   },
   "wiki/concepts/model-review-consensus.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972084,
+    "mtime": 1790003613.5735939,
+    "seen": 1792304069.729093,
     "ast_hash": "c773da3d094066813af3a55b46d5c990",
     "semantic_hash": "c773da3d094066813af3a55b46d5c990"
   },
   "wiki/concepts/pricing-model.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720857,
+    "mtime": 1790003613.7381005,
+    "seen": 1792304069.7290938,
     "ast_hash": "e4f942b43a0e2b9b81508762f3d5d157",
     "semantic_hash": "e4f942b43a0e2b9b81508762f3d5d157"
   },
   "wiki/concepts/prior-art.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720867,
+    "mtime": 1789003467.424925,
+    "seen": 1792304069.729095,
     "ast_hash": "22b0c0b4ed3cfbccc73fbb9979b7f0e1",
     "semantic_hash": "22b0c0b4ed3cfbccc73fbb9979b7f0e1"
   },
   "wiki/concepts/proxy-sourcing-review.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.972088,
+    "mtime": 1791012712.3415675,
+    "seen": 1792304069.729095,
     "ast_hash": "44cc391400ec32c6b67c2b2a306bdb7b",
     "semantic_hash": "44cc391400ec32c6b67c2b2a306bdb7b"
   },
   "wiki/concepts/reflection.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720898,
+    "mtime": 1791178714.090677,
+    "seen": 1792304069.729096,
     "ast_hash": "a146d1ec5011f0dedb88193c4a974db8",
     "semantic_hash": "a146d1ec5011f0dedb88193c4a974db8"
   },
   "wiki/concepts/reserve-instruments.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720912,
+    "mtime": 1791126942.1978147,
+    "seen": 1792304069.729096,
     "ast_hash": "4133ea5893a474279b04546f8e493d20",
     "semantic_hash": "4133ea5893a474279b04546f8e493d20"
   },
   "wiki/concepts/romance-analysis-round-review.md": {
-    "mtime": 1792113602.1445513,
-    "seen": 1792118638.9720926,
+    "mtime": 1791118894.1081436,
+    "seen": 1792304069.729097,
     "ast_hash": "bd1a322fa98ee327994732bd63dec735",
     "semantic_hash": "bd1a322fa98ee327994732bd63dec735"
   },
   "wiki/concepts/romance-analysis.md": {
-    "mtime": 1792124806.646983,
-    "seen": 1792125085.926339,
+    "mtime": 1792301623.1412914,
+    "seen": 1792304069.729098,
     "ast_hash": "77452479b9b30e5521eac01c99bd7462",
     "semantic_hash": "77452479b9b30e5521eac01c99bd7462"
   },
   "wiki/concepts/romance-ontology.md": {
-    "mtime": 1792124806.6456058,
-    "seen": 1792125085.92634,
+    "mtime": 1792301623.1435053,
+    "seen": 1792304069.729098,
     "ast_hash": "fed9feff7b18a630d16c91be39a5bfc4",
     "semantic_hash": "fed9feff7b18a630d16c91be39a5bfc4"
   },
   "wiki/concepts/security-definitions.md": {
-    "mtime": 1792124741.6727173,
-    "seen": 1792125085.9263415,
+    "mtime": 1792301623.1440103,
+    "seen": 1792304069.729099,
     "ast_hash": "b1fc5f1fb8f419db1ef8edcfec9eba6a",
     "semantic_hash": "b1fc5f1fb8f419db1ef8edcfec9eba6a"
   },
   "wiki/concepts/security-families.md": {
-    "mtime": 1792124806.6435673,
-    "seen": 1792125085.9263437,
+    "mtime": 1792301623.144398,
+    "seen": 1792304069.7291,
     "ast_hash": "d55a67489160d2a91e8eaa0376d677e7",
     "semantic_hash": "d55a67489160d2a91e8eaa0376d677e7"
   },
   "wiki/concepts/security-universe-round-review.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.9720984,
+    "mtime": 1791609789.8070216,
+    "seen": 1792304069.7291,
     "ast_hash": "ad86dbb27405685d42c7dc55824021f5",
     "semantic_hash": "ad86dbb27405685d42c7dc55824021f5"
   },
   "wiki/concepts/security-universe.md": {
-    "mtime": 1792124806.644505,
-    "seen": 1792125085.9263449,
+    "mtime": 1792301623.1446278,
+    "seen": 1792304069.729101,
     "ast_hash": "3e1d995abc9fd9d0b45080e5b321bcad",
     "semantic_hash": "3e1d995abc9fd9d0b45080e5b321bcad"
   },
   "wiki/concepts/security-weights-round-review.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.972101,
+    "mtime": 1791616876.6122475,
+    "seen": 1792304069.729101,
     "ast_hash": "ad50a6bff5b39232090d482ba72d257d",
     "semantic_hash": "ad50a6bff5b39232090d482ba72d257d"
   },
   "wiki/concepts/system-grammar.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.9721022,
+    "mtime": 1789003467.4255824,
+    "seen": 1792304069.7291021,
     "ast_hash": "4cf4ff6215db1b2463e8a78939d1985c",
     "semantic_hash": "4cf4ff6215db1b2463e8a78939d1985c"
   },
   "wiki/concepts/technology-waves.md": {
-    "mtime": 1792117467.1837518,
-    "seen": 1792118638.9721034,
+    "mtime": 1792301623.1448536,
+    "seen": 1792304069.7291021,
     "ast_hash": "57c23fbdd28a227582abadacad96abfe",
     "semantic_hash": "57c23fbdd28a227582abadacad96abfe"
   },
   "wiki/concepts/weight-setting-procedure-review.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.9721045,
+    "mtime": 1791010361.1063282,
+    "seen": 1792304069.729103,
     "ast_hash": "8eb424543ef773b2c5470d9755bb7fee",
     "semantic_hash": "8eb424543ef773b2c5470d9755bb7fee"
   },
   "wiki/concepts/world-rules.md": {
-    "mtime": 1792124814.6079302,
-    "seen": 1792125085.926348,
+    "mtime": 1792301623.1450832,
+    "seen": 1792304069.7291038,
     "ast_hash": "fa461317e88cd0e6d045825f8d170934",
     "semantic_hash": "fa461317e88cd0e6d045825f8d170934"
   },
   "wiki/concepts/worldbuilding-roadmap.md": {
-    "mtime": 1792113602.14559,
-    "seen": 1792118638.9721072,
+    "mtime": 1790003613.7393239,
+    "seen": 1792304069.7291038,
     "ast_hash": "0bd04e0851f5b25ddf79354d74c196ac",
     "semantic_hash": "0bd04e0851f5b25ddf79354d74c196ac"
   },
   "wiki/current-state.md": {
-    "mtime": 1792124653.6991026,
-    "seen": 1792125085.9263496,
+    "mtime": 1792301623.1454253,
+    "seen": 1792304069.729105,
     "ast_hash": "fa7e705c26248ec9ea38c51c84a1d3ea",
     "semantic_hash": "fa7e705c26248ec9ea38c51c84a1d3ea"
   },
   "wiki/decisions/DEC-001-project-name-longing.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721098,
+    "mtime": 1789885500.8236947,
+    "seen": 1792304069.729105,
     "ast_hash": "0fd19e395b59128021d86b5ba71c9ab5",
     "semantic_hash": "0fd19e395b59128021d86b5ba71c9ab5"
   },
   "wiki/decisions/DEC-002-research-house-form.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721115,
+    "mtime": 1789442751.8936822,
+    "seen": 1792304069.729106,
     "ast_hash": "ea67157f12c55a350fa292c06549a03f",
     "semantic_hash": "ea67157f12c55a350fa292c06549a03f"
   },
   "wiki/decisions/DEC-003-weekly-market-monthly-research.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.972113,
+    "mtime": 1789818571.1110797,
+    "seen": 1792304069.729106,
     "ast_hash": "142967d2c001ba6911cdbf11c7a648af",
     "semantic_hash": "142967d2c001ba6911cdbf11c7a648af"
   },
   "wiki/decisions/DEC-004-secular-decline-with-rallies.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.972114,
+    "mtime": 1791118861.9091673,
+    "seen": 1792304069.729107,
     "ast_hash": "1377532babf8eee0375f80caeec6f616",
     "semantic_hash": "1377532babf8eee0375f80caeec6f616"
   },
   "wiki/decisions/DEC-005-ledger-resolution-scales-with-universe.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721153,
+    "mtime": 1789891085.5984492,
+    "seen": 1792304069.7291079,
     "ast_hash": "c19c0519c827c699be1cb77a529fd339",
     "semantic_hash": "c19c0519c827c699be1cb77a529fd339"
   },
   "wiki/decisions/DEC-006-reserve-function-absorbed.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721165,
+    "mtime": 1789450715.360309,
+    "seen": 1792304069.7291079,
     "ast_hash": "fa0deba3ce2654d0939d6432b8bc0efe",
     "semantic_hash": "fa0deba3ce2654d0939d6432b8bc0efe"
   },
   "wiki/decisions/DEC-007-standard-return-numeraire.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721177,
+    "mtime": 1789879523.2331896,
+    "seen": 1792304069.729109,
     "ast_hash": "82046115e265373611c05cc3a202eeb3",
     "semantic_hash": "82046115e265373611c05cc3a202eeb3"
   },
   "wiki/decisions/DEC-008-bearer-bond-is-perpetual.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.972119,
+    "mtime": 1791125088.1573012,
+    "seen": 1792304069.729109,
     "ast_hash": "7925ba7db18708f418b93491a2578d2a",
     "semantic_hash": "7925ba7db18708f418b93491a2578d2a"
   },
   "wiki/decisions/DEC-009-three-markets-and-convergence.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.97212,
+    "mtime": 1791012648.540636,
+    "seen": 1792304069.72911,
     "ast_hash": "d41511f21b104ec3b8e5ea983412c4a5",
     "semantic_hash": "d41511f21b104ec3b8e5ea983412c4a5"
   },
   "wiki/decisions/DEC-010-declared-order-with-a-joint-line.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721222,
+    "mtime": 1789916853.4292583,
+    "seen": 1792304069.72911,
     "ast_hash": "a0ddcabf7cd260c4b7a0ad0c283a908a",
     "semantic_hash": "a0ddcabf7cd260c4b7a0ad0c283a908a"
   },
   "wiki/decisions/DEC-011-the-audience-ledger-reads-hearts-cooling.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721234,
+    "mtime": 1789916853.4295907,
+    "seen": 1792304069.729111,
     "ast_hash": "52391daba580ed848435e4bdd257f511",
     "semantic_hash": "52391daba580ed848435e4bdd257f511"
   },
   "wiki/decisions/DEC-012-analyst-orders-inside-the-house-constraint.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721243,
+    "mtime": 1789916270.5423837,
+    "seen": 1792304069.7291121,
     "ast_hash": "c0c93854c185e3429e67d0b9eccc4760",
     "semantic_hash": "c0c93854c185e3429e67d0b9eccc4760"
   },
   "wiki/decisions/DEC-013-joint-shown-as-a-width-and-blocks-fitted-jointly.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.972126,
+    "mtime": 1789916853.4289362,
+    "seen": 1792304069.7291121,
     "ast_hash": "68a4d4f5078b833ec455fdcc7974c92e",
     "semantic_hash": "68a4d4f5078b833ec455fdcc7974c92e"
   },
   "wiki/decisions/DEC-014-restoration-is-arrival-and-substitution-is-judgment.md": {
-    "mtime": 1792124806.6483803,
-    "seen": 1792125085.9263513,
+    "mtime": 1792301623.1457107,
+    "seen": 1792304069.729113,
     "ast_hash": "49c95ead26cd103f0489833ce00a8af8",
     "semantic_hash": "49c95ead26cd103f0489833ce00a8af8"
   },
   "wiki/decisions/DEC-015-no-listing-and-a-stopped-price-stays.md": {
-    "mtime": 1792113602.1507783,
-    "seen": 1792118638.9721289,
+    "mtime": 1791010361.1073747,
+    "seen": 1792304069.729114,
     "ast_hash": "0a52c303cc2d8e4a1b2cbc70a2ec61f2",
     "semantic_hash": "0a52c303cc2d8e4a1b2cbc70a2ec61f2"
   },
   "wiki/decisions/DEC-016-securities-chosen-top-down.md": {
-    "mtime": 1792124806.6509962,
-    "seen": 1792125085.9263532,
+    "mtime": 1792301623.1463363,
+    "seen": 1792304069.729114,
     "ast_hash": "985637b2483ca5c7f299e8c9332bb6f3",
     "semantic_hash": "985637b2483ca5c7f299e8c9332bb6f3"
   },
   "wiki/index.md": {
-    "mtime": 1792124791.1493933,
-    "seen": 1792125085.9263544,
+    "mtime": 1792301623.1466804,
+    "seen": 1792304069.7291148,
     "ast_hash": "50c2308dadfc052fea3879f87d5f44bb",
     "semantic_hash": "50c2308dadfc052fea3879f87d5f44bb"
   },
   "wiki/log.md": {
-    "mtime": 1792124829.2579536,
-    "seen": 1792125085.9263556,
+    "mtime": 1792301623.1474805,
+    "seen": 1792304069.7291148,
     "ast_hash": "4fceb6789b3aac5a07c6ee260ce7ab1e",
     "semantic_hash": "4fceb6789b3aac5a07c6ee260ce7ab1e"
   },
   "wiki/overview.md": {
-    "mtime": 1792124814.6073353,
-    "seen": 1792125085.9263575,
+    "mtime": 1792301623.1480706,
+    "seen": 1792304069.729116,
     "ast_hash": "9bde04ede5200063cff721f6bef93e6d",
     "semantic_hash": "9bde04ede5200063cff721f6bef93e6d"
   },
   "wiki/questions/Q-001-price-formation.md": {
-    "mtime": 1792113602.1532578,
-    "seen": 1792118638.9721358,
+    "mtime": 1790003613.7385507,
+    "seen": 1792304069.729116,
     "ast_hash": "bff87c487ef261a05307a1816ebd4ce1",
     "semantic_hash": "bff87c487ef261a05307a1816ebd4ce1"
   },
   "wiki/questions/Q-002-listing-lifecycle.md": {
-    "mtime": 1792113602.1532578,
-    "seen": 1792118638.9721375,
+    "mtime": 1791010361.108973,
+    "seen": 1792304069.729117,
     "ast_hash": "bd764ef6c8a97bd952101ac01033c9ec",
     "semantic_hash": "bd764ef6c8a97bd952101ac01033c9ec"
   },
   "wiki/questions/Q-003-calibrating-the-bias.md": {
-    "mtime": 1792113602.1532578,
-    "seen": 1792118638.9721391,
+    "mtime": 1790003613.5318797,
+    "seen": 1792304069.7291179,
     "ast_hash": "252bf4a672107080b444d067b74e4058",
     "semantic_hash": "252bf4a672107080b444d067b74e4058"
   },
   "wiki/questions/Q-004-unit-of-account.md": {
-    "mtime": 1792113602.1532578,
-    "seen": 1792118638.9721403,
+    "mtime": 1790003613.5728788,
+    "seen": 1792304069.7291179,
     "ast_hash": "c02e15b9dc89f8986212be8d05ded1cc",
     "semantic_hash": "c02e15b9dc89f8986212be8d05ded1cc"
   },
   "raw/surveys/2026-10-04-romance-analysis-round/2026-10-04-romance-analysis-round-chatgpt.md": {
-    "mtime": 1792113602.1399443,
-    "seen": 1792118638.9721413,
+    "mtime": 1791090163.9685385,
+    "seen": 1792304069.72912,
     "ast_hash": "5ec212f960e7724d4389767d8dc09d7a",
     "semantic_hash": "5ec212f960e7724d4389767d8dc09d7a"
   },
   "raw/conversations/2026-10-16-graphify-and-wiki-restructure.md": {
-    "mtime": 1792124625.5739417,
-    "seen": 1792125085.9263234,
+    "mtime": 1792301623.1382987,
+    "seen": 1792304069.729007,
     "ast_hash": "88eb5e6ea93781c705b8bfc7e793a636",
     "semantic_hash": "88eb5e6ea93781c705b8bfc7e793a636"
   },
   "wiki/state-history.md": {
-    "mtime": 1792124649.0864727,
-    "seen": 1792125085.9263585,
+    "mtime": 1792301623.1488323,
+    "seen": 1792304069.729119,
     "ast_hash": "6afe84d1b79afa5b620767aeba9332e2",
     "semantic_hash": "6afe84d1b79afa5b620767aeba9332e2"
   }
